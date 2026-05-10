@@ -7,6 +7,9 @@ on:
     # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
@@ -15,9 +18,11 @@ jobs:
       # this action name
       - uses: athul/waka-readme@master # do NOT replace with anything else
         with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} # required to push README changes
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           ### meta
           API_BASE_URL: https://wakatime.com/api # optional
+          REPOSITORY: ${{ github.repository }} # optional
           ### content
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
@@ -36,6 +41,6 @@ jobs:
           TARGET_PATH: README.md # optional
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: YOUR_NAME # optional
-          AUTHOR_EMAIL: YOUR@EMAIL.com # optional
+          AUTHOR_NAME: github-actions[bot] # optional
+          AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com # optional
           # you can populate email-id with secrets instead
