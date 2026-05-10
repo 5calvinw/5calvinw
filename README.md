@@ -1,4 +1,30 @@
-## Hi there 👋
+# Hi, I'm Calvin
+
+Computer Science student at Bina Nusantara University, focused on full-stack development, backend systems, and applied AI.
+
+I build practical software projects using React, TypeScript, FastAPI, Express, PostgreSQL, Supabase, and Python.
+
+## Current Focus
+
+- Backend API design
+- Database architecture
+- Applied AI / ML systems
+- Clean project structure and maintainable code
+
+## Projects
+
+- **PermaFit** - Computer Vision solution to fight against sarcopenia in elderly (2nd Place Winner 🏆 Study 2 Challenge 2025: “Bridging Global Problems: Tech for a Better Tomorrow”.)
+- **Upkeep** — maintenance accountability system for property managers
+- **Bebas** — computer vision app for plastic waste classification
+
+## Tech Stack
+
+React, TypeScript, Vite, Tailwind CSS , FastAPI, Express.js, Node.js, PostgreSQL, Supabase, SQLAlchemy, Python, scikit-learn, computer vision workflows  
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/calvin-wu-a9aa0b270/
+Email: calvinthewu@gmail.com
 
 <!--START_SECTION:waka-->
 
