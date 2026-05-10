@@ -14,8 +14,9 @@ I build practical software projects using React, TypeScript, FastAPI, Express, P
 ## Projects
 
 - **PermaFit** - Computer Vision solution to fight against sarcopenia in elderly (2nd Place Winner 🏆 Study 2 Challenge 2025: “Bridging Global Problems: Tech for a Better Tomorrow”.)
-- **Upkeep** — maintenance accountability system for property managers
-- **Bebas** — computer vision app for plastic waste classification
+- **domohalla** - simple pomodoro timer that has vision on your brawlhalla game session built using electron
+- **Upkeep** - maintenance accountability system for property managers
+- **Bebas** - computer vision app for plastic waste classification
 
 ## Tech Stack
 
