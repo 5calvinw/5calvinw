@@ -43,25 +43,25 @@ Other        37 mins               >>>>>>-------------------   22.08 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `54 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `22 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `44 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `21 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
+> `19 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `13 ▶️` ∙ **[yanaginagi](https://www.last.fm/music/yanaginagi)**<br/>
-> `9 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `10 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `9 ▶️` ∙ **[美波](https://www.last.fm/music/%E7%BE%8E%E6%B3%A2)**<br/>
-> `8 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `8 ▶️` ∙ **[Sayuri](https://www.last.fm/music/Sayuri)**<br/>
+> `8 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Always](https://www.last.fm/music/Daniel+Caesar/_/Always)** - Daniel Caesar<br/>
-> ∙ **[Blessed](https://www.last.fm/music/Daniel+Caesar/_/Blessed)** - Daniel Caesar<br/>
-> ∙ **[Loose](https://www.last.fm/music/Daniel+Caesar/_/Loose)** - Daniel Caesar<br/>
-> ∙ **[Best Part (feat. H.E.R.)](https://www.last.fm/music/Daniel+Caesar/_/Best+Part+(feat.+H.E.R.))** - Daniel Caesar<br/>
-> ∙ **[Do You Like Me?](https://www.last.fm/music/Daniel+Caesar/_/Do+You+Like+Me%3F)** - Daniel Caesar<br/>
-> ∙ **[Moon (Feat. Bon Iver)](https://www.last.fm/music/Daniel+Caesar/_/Moon+(Feat.+Bon+Iver))** - Daniel Caesar<br/>
-> ∙ **[Who Knows](https://www.last.fm/music/Daniel+Caesar/_/Who+Knows)** - Daniel Caesar<br/>
-> ∙ **[Streetcar](https://www.last.fm/music/Daniel+Caesar/_/Streetcar)** - Daniel Caesar<br/>
+> ∙ **[Last Song](https://www.last.fm/music/ryo+(supercell)/_/Last+Song)** - ryo (supercell)<br/>
+> ∙ **[Daidai Genome](https://www.last.fm/music/Tsuna+Maru+(Mezame-P)/_/Daidai+Genome)** - Tsuna Maru (Mezame-P)<br/>
+> ∙ **[冬のはなし](https://www.last.fm/music/given/_/%E5%86%AC%E3%81%AE%E3%81%AF%E3%81%AA%E3%81%97)** - given<br/>
+> ∙ **[太陽と暮らしてきた](https://www.last.fm/music/JYOCHO/_/%E5%A4%AA%E9%99%BD%E3%81%A8%E6%9A%AE%E3%82%89%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F)** - JYOCHO<br/>
+> ∙ **[glass beach](https://www.last.fm/music/Glass+Beach/_/glass+beach)** - Glass Beach<br/>
+> ∙ **[Yugure One Room (feat. Shano)](https://www.last.fm/music/40mP/_/Yugure+One+Room+(feat.+Shano))** - 40mP<br/>
+> ∙ **[思想犯](https://www.last.fm/music/Yorushika/_/%E6%80%9D%E6%83%B3%E7%8A%AF)** - Yorushika<br/>
+> ∙ **[Spring (Wild Horseradish Jam)](https://www.last.fm/music/ConcernedApe/_/Spring+(Wild+Horseradish+Jam))** - ConcernedApe<br/>
 <!--END_LASTFM_RECENT-->
