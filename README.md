@@ -48,20 +48,20 @@ Other        37 mins               >>>>>>-------------------   22.08 %
 > `21 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
 > `13 ▶️` ∙ **[yanaginagi](https://www.last.fm/music/yanaginagi)**<br/>
 > `9 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `9 ▶️` ∙ **[美波](https://www.last.fm/music/%E7%BE%8E%E6%B3%A2)**<br/>
+> `8 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `8 ▶️` ∙ **[Sayuri](https://www.last.fm/music/Sayuri)**<br/>
-> `8 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
-> `8 ▶️` ∙ **[美波](https://www.last.fm/music/%E7%BE%8E%E6%B3%A2)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[intro (end of the world)](https://www.last.fm/music/Ariana+Grande/_/intro+(end+of+the+world))** - Ariana Grande<br/>
-> ∙ **[Scene I, Kyoto](https://www.last.fm/music/Umitaro+Abe/_/Scene+I,+Kyoto)** - Umitaro Abe<br/>
-> ∙ **[Trees...](https://www.last.fm/music/Omori/_/Trees...)** - Omori<br/>
-> ∙ **[ゆめにっき](https://www.last.fm/music/KIKIYAMA/_/%E3%82%86%E3%82%81%E3%81%AB%E3%81%A3%E3%81%8D)** - KIKIYAMA<br/>
-> ∙ **[Rosalina's Observatory](https://www.last.fm/music/AJ+DiSpirito/_/Rosalina%27s+Observatory)** - AJ DiSpirito<br/>
-> ∙ **[August/Water](https://www.last.fm/music/Omori/_/August%2FWater)** - Omori<br/>
-> ∙ **[Lullaby](https://www.last.fm/music/Snail%27s+house/_/Lullaby)** - Snail's house<br/>
-> ∙ **[My Heart Aches](https://www.last.fm/music/Sweet+Dove/_/My+Heart+Aches)** - Sweet Dove<br/>
+> ∙ **[Always](https://www.last.fm/music/Daniel+Caesar/_/Always)** - Daniel Caesar<br/>
+> ∙ **[Blessed](https://www.last.fm/music/Daniel+Caesar/_/Blessed)** - Daniel Caesar<br/>
+> ∙ **[Loose](https://www.last.fm/music/Daniel+Caesar/_/Loose)** - Daniel Caesar<br/>
+> ∙ **[Best Part (feat. H.E.R.)](https://www.last.fm/music/Daniel+Caesar/_/Best+Part+(feat.+H.E.R.))** - Daniel Caesar<br/>
+> ∙ **[Do You Like Me?](https://www.last.fm/music/Daniel+Caesar/_/Do+You+Like+Me%3F)** - Daniel Caesar<br/>
+> ∙ **[Moon (Feat. Bon Iver)](https://www.last.fm/music/Daniel+Caesar/_/Moon+(Feat.+Bon+Iver))** - Daniel Caesar<br/>
+> ∙ **[Who Knows](https://www.last.fm/music/Daniel+Caesar/_/Who+Knows)** - Daniel Caesar<br/>
+> ∙ **[Streetcar](https://www.last.fm/music/Daniel+Caesar/_/Streetcar)** - Daniel Caesar<br/>
 <!--END_LASTFM_RECENT-->
