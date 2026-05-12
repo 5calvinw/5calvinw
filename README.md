@@ -50,18 +50,18 @@ Other        37 mins               >>>>>>-------------------   22.08 %
 > `11 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `9 ▶️` ∙ **[美波](https://www.last.fm/music/%E7%BE%8E%E6%B3%A2)**<br/>
 > `8 ▶️` ∙ **[Sayuri](https://www.last.fm/music/Sayuri)**<br/>
-> `7 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `7 ▶️` ∙ **[平田 博信](https://www.last.fm/music/%E5%B9%B3%E7%94%B0+%E5%8D%9A%E4%BF%A1)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[perfect slumbers](https://www.last.fm/music/%E7%89%A9%E8%AA%9E%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/_/perfect+slumbers)** - 物語シリーズ<br/>
-> ∙ **[ただ美しい呪い](https://www.last.fm/music/Nakamura+Hak/_/%E3%81%9F%E3%81%A0%E7%BE%8E%E3%81%97%E3%81%84%E5%91%AA%E3%81%84)** - Nakamura Hak<br/>
-> ∙ **[little secret magic](https://www.last.fm/music/fh%C3%A1na/_/little+secret+magic)** - fhána<br/>
-> ∙ **[Kabutomushi](https://www.last.fm/music/aiko/_/Kabutomushi)** - aiko<br/>
-> ∙ **[WHITE ALBUM Live at Campus Fes](https://www.last.fm/music/%E5%B0%8F%E6%9C%A8%E6%9B%BD%E9%9B%AA%E8%8F%9C/_/WHITE+ALBUM+Live+at+Campus+Fes)** - 小木曽雪菜<br/>
-> ∙ **[Date](https://www.last.fm/music/RADWIMPS/_/Date)** - RADWIMPS<br/>
-> ∙ **[Fallen Down on Old Piano](https://www.last.fm/music/BaileyPiano/_/Fallen+Down+on+Old+Piano)** - BaileyPiano<br/>
-> ∙ **[Spaces Inbetween.](https://www.last.fm/music/Omori/_/Spaces+Inbetween.)** - Omori<br/>
+> ∙ **[666 Flags](https://www.last.fm/music/Origami+Angel/_/666+Flags)** - Origami Angel<br/>
+> ∙ **[Take A Chance With Me](https://www.last.fm/music/Niki/_/Take+A+Chance+With+Me)** - Niki<br/>
+> ∙ **[love.](https://www.last.fm/music/wave+to+earth/_/love.)** - wave to earth<br/>
+> ∙ **[Lamp](https://www.last.fm/music/C%C3%B6+shu+Nie/_/Lamp)** - Cö shu Nie<br/>
+> ∙ **[Kokoroyohou](https://www.last.fm/music/Eve/_/Kokoroyohou)** - Eve<br/>
+> ∙ **[人生は夢だらけ](https://www.last.fm/music/Sheena+Ringo/_/%E4%BA%BA%E7%94%9F%E3%81%AF%E5%A4%A2%E3%81%A0%E3%82%89%E3%81%91)** - Sheena Ringo<br/>
+> ∙ **[I Wish You Love](https://www.last.fm/music/Laufey/_/I+Wish+You+Love)** - Laufey<br/>
+> ∙ **[Sweet Boy](https://www.last.fm/music/Malcolm+Todd/_/Sweet+Boy)** - Malcolm Todd<br/>
 <!--END_LASTFM_RECENT-->
