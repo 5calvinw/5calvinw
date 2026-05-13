@@ -44,11 +44,11 @@ Other        33 mins               >>>>---------------------   17.98 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `39 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `40 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `18 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `18 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
-> `16 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `17 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `13 ▶️` ∙ **[yanaginagi](https://www.last.fm/music/yanaginagi)**<br/>
-> `11 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `7 ▶️` ∙ **[Sayuri](https://www.last.fm/music/Sayuri)**<br/>
 > `7 ▶️` ∙ **[平田 博信](https://www.last.fm/music/%E5%B9%B3%E7%94%B0+%E5%8D%9A%E4%BF%A1)**<br/>
 > `7 ▶️` ∙ **[物語シリーズ](https://www.last.fm/music/%E7%89%A9%E8%AA%9E%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA)**<br/>
@@ -57,12 +57,12 @@ Other        33 mins               >>>>---------------------   17.98 %
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[666 Flags](https://www.last.fm/music/Origami+Angel/_/666+Flags)** - Origami Angel<br/>
-> ∙ **[Take A Chance With Me](https://www.last.fm/music/Niki/_/Take+A+Chance+With+Me)** - Niki<br/>
-> ∙ **[love.](https://www.last.fm/music/wave+to+earth/_/love.)** - wave to earth<br/>
-> ∙ **[Lamp](https://www.last.fm/music/C%C3%B6+shu+Nie/_/Lamp)** - Cö shu Nie<br/>
-> ∙ **[Kokoroyohou](https://www.last.fm/music/Eve/_/Kokoroyohou)** - Eve<br/>
-> ∙ **[人生は夢だらけ](https://www.last.fm/music/Sheena+Ringo/_/%E4%BA%BA%E7%94%9F%E3%81%AF%E5%A4%A2%E3%81%A0%E3%82%89%E3%81%91)** - Sheena Ringo<br/>
-> ∙ **[I Wish You Love](https://www.last.fm/music/Laufey/_/I+Wish+You+Love)** - Laufey<br/>
-> ∙ **[Sweet Boy](https://www.last.fm/music/Malcolm+Todd/_/Sweet+Boy)** - Malcolm Todd<br/>
+> 🎶 **[I Don't Love You](https://www.last.fm/music/My+Chemical+Romance/_/I+Don%27t+Love+You)** - My Chemical Romance<br/>
+> ∙ **[海中都市](https://www.last.fm/music/Fuminori+Matsumoto/_/%E6%B5%B7%E4%B8%AD%E9%83%BD%E5%B8%82)** - Fuminori Matsumoto<br/>
+> ∙ **[Who Knows](https://www.last.fm/music/Daniel+Caesar/_/Who+Knows)** - Daniel Caesar<br/>
+> ∙ **[Valentine](https://www.last.fm/music/Laufey/_/Valentine)** - Laufey<br/>
+> ∙ **[Lullaby](https://www.last.fm/music/Snail%27s+house/_/Lullaby)** - Snail's house<br/>
+> ∙ **[Gymnopédie No. 1](https://www.last.fm/music/Erik+Satie/_/Gymnop%C3%A9die+No.+1)** - Erik Satie<br/>
+> ∙ **[lit(var)](https://www.last.fm/music/Kensuke+Ushio/_/lit(var))** - Kensuke Ushio<br/>
+> ∙ **[DUET](https://www.last.fm/music/Omori/_/DUET)** - Omori<br/>
 <!--END_LASTFM_RECENT-->
