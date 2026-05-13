@@ -49,9 +49,9 @@ Other        33 mins               >>>>---------------------   17.98 %
 > `16 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `13 ▶️` ∙ **[yanaginagi](https://www.last.fm/music/yanaginagi)**<br/>
 > `11 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `8 ▶️` ∙ **[美波](https://www.last.fm/music/%E7%BE%8E%E6%B3%A2)**<br/>
 > `7 ▶️` ∙ **[Sayuri](https://www.last.fm/music/Sayuri)**<br/>
 > `7 ▶️` ∙ **[平田 博信](https://www.last.fm/music/%E5%B9%B3%E7%94%B0+%E5%8D%9A%E4%BF%A1)**<br/>
+> `7 ▶️` ∙ **[物語シリーズ](https://www.last.fm/music/%E7%89%A9%E8%AA%9E%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
