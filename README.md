@@ -44,12 +44,12 @@ Other        37 mins               >>>>>>-------------------   22.08 %
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `39 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `21 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
+> `18 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
 > `16 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `13 ▶️` ∙ **[yanaginagi](https://www.last.fm/music/yanaginagi)**<br/>
 > `11 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `9 ▶️` ∙ **[美波](https://www.last.fm/music/%E7%BE%8E%E6%B3%A2)**<br/>
-> `8 ▶️` ∙ **[Sayuri](https://www.last.fm/music/Sayuri)**<br/>
+> `8 ▶️` ∙ **[美波](https://www.last.fm/music/%E7%BE%8E%E6%B3%A2)**<br/>
+> `7 ▶️` ∙ **[Sayuri](https://www.last.fm/music/Sayuri)**<br/>
 > `7 ▶️` ∙ **[平田 博信](https://www.last.fm/music/%E5%B9%B3%E7%94%B0+%E5%8D%9A%E4%BF%A1)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
