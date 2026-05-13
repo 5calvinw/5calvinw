@@ -44,10 +44,10 @@ Other        33 mins               >>>>---------------------   17.98 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `40 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `18 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `42 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `19 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `18 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `18 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
-> `17 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `13 ▶️` ∙ **[yanaginagi](https://www.last.fm/music/yanaginagi)**<br/>
 > `7 ▶️` ∙ **[Sayuri](https://www.last.fm/music/Sayuri)**<br/>
 > `7 ▶️` ∙ **[平田 博信](https://www.last.fm/music/%E5%B9%B3%E7%94%B0+%E5%8D%9A%E4%BF%A1)**<br/>
@@ -57,12 +57,12 @@ Other        33 mins               >>>>---------------------   17.98 %
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[I Don't Love You](https://www.last.fm/music/My+Chemical+Romance/_/I+Don%27t+Love+You)** - My Chemical Romance<br/>
-> ∙ **[海中都市](https://www.last.fm/music/Fuminori+Matsumoto/_/%E6%B5%B7%E4%B8%AD%E9%83%BD%E5%B8%82)** - Fuminori Matsumoto<br/>
-> ∙ **[Who Knows](https://www.last.fm/music/Daniel+Caesar/_/Who+Knows)** - Daniel Caesar<br/>
-> ∙ **[Valentine](https://www.last.fm/music/Laufey/_/Valentine)** - Laufey<br/>
-> ∙ **[Lullaby](https://www.last.fm/music/Snail%27s+house/_/Lullaby)** - Snail's house<br/>
-> ∙ **[Gymnopédie No. 1](https://www.last.fm/music/Erik+Satie/_/Gymnop%C3%A9die+No.+1)** - Erik Satie<br/>
-> ∙ **[lit(var)](https://www.last.fm/music/Kensuke+Ushio/_/lit(var))** - Kensuke Ushio<br/>
-> ∙ **[DUET](https://www.last.fm/music/Omori/_/DUET)** - Omori<br/>
+> ∙ **[1000 Tahun Lamanya](https://www.last.fm/music/Tulus/_/1000+Tahun+Lamanya)** - Tulus<br/>
+> ∙ **[Cancer](https://www.last.fm/music/My+Chemical+Romance/_/Cancer)** - My Chemical Romance<br/>
+> ∙ **[tsuki](https://www.last.fm/music/Morimoto+Naoki/_/tsuki)** - Morimoto Naoki<br/>
+> ∙ **[Moon (Feat. Bon Iver)](https://www.last.fm/music/Daniel+Caesar/_/Moon+(Feat.+Bon+Iver))** - Daniel Caesar<br/>
+> ∙ **[Lost Library](https://www.last.fm/music/Omori/_/Lost+Library)** - Omori<br/>
+> ∙ **[Sialan](https://www.last.fm/music/Adrian+Khalif/_/Sialan)** - Adrian Khalif<br/>
+> ∙ **[Lantas](https://www.last.fm/music/Juicy+luicy/_/Lantas)** - Juicy luicy<br/>
+> ∙ **[SABBATH](https://www.last.fm/music/%E5%B7%9D%E8%B6%8A%E5%A5%BD%E5%8D%9A/_/SABBATH)** - 川越好博<br/>
 <!--END_LASTFM_RECENT-->
