@@ -30,12 +30,13 @@ Email: calvinthewu@gmail.com
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 May 2026 - To: 10 May 2026
+From: 09 May 2026 - To: 11 May 2026
 
-Total Time: 2 hrs 11 mins
+Total Time: 2 hrs 34 mins
 
-HTML         1 hr 35 mins          >>>>>>>>>>>>>>-----------   56.52 %
-Other        37 mins               >>>>>>-------------------   22.08 %
+HTML         1 hr 34 mins          >>>>>>>>>>>>>------------   50.31 %
+Markdown     39 mins               >>>>>--------------------   20.98 %
+Other        33 mins               >>>>---------------------   17.98 %
 ```
 
 <!--END_SECTION:waka-->
