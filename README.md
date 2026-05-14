@@ -45,11 +45,11 @@ Other        37 mins               >>>----------------------   12.12 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `60 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `63 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `19 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `19 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
 > `18 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
-> `12 ▶️` ∙ **[yanaginagi](https://www.last.fm/music/yanaginagi)**<br/>
+> `17 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
+> `9 ▶️` ∙ **[yanaginagi](https://www.last.fm/music/yanaginagi)**<br/>
 > `8 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `8 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `7 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
@@ -58,12 +58,12 @@ Other        37 mins               >>>----------------------   12.12 %
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Pasilyo](https://www.last.fm/music/SunKissed+Lola/_/Pasilyo)** - SunKissed Lola<br/>
-> ∙ **[Akad](https://www.last.fm/music/Payung+Teduh/_/Akad)** - Payung Teduh<br/>
-> ∙ **[冬のはなし](https://www.last.fm/music/given/_/%E5%86%AC%E3%81%AE%E3%81%AF%E3%81%AA%E3%81%97)** - given<br/>
-> ∙ **[SABBATH](https://www.last.fm/music/%E5%B7%9D%E8%B6%8A%E5%A5%BD%E5%8D%9A/_/SABBATH)** - 川越好博<br/>
-> ∙ **[seasons](https://www.last.fm/music/wave+to+earth/_/seasons)** - wave to earth<br/>
-> ∙ **[the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)** - beabadoobee<br/>
-> ∙ **[恥ずかしいか青春は](https://www.last.fm/music/Ryokuoushoku+Shakai/_/%E6%81%A5%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84%E3%81%8B%E9%9D%92%E6%98%A5%E3%81%AF)** - Ryokuoushoku Shakai<br/>
-> ∙ **[終わりへ向かう始まりの歌](https://www.last.fm/music/Supercell/_/%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%B8%E5%90%91%E3%81%8B%E3%81%86%E5%A7%8B%E3%81%BE%E3%82%8A%E3%81%AE%E6%AD%8C)** - Supercell<br/>
+> ∙ **[My Dearest](https://www.last.fm/music/Supercell/_/My+Dearest)** - Supercell<br/>
+> ∙ **[Calm](https://www.last.fm/music/Omori/_/Calm)** - Omori<br/>
+> ∙ **[夏を生きる](https://www.last.fm/music/Ryokuoushoku+Shakai/_/%E5%A4%8F%E3%82%92%E7%94%9F%E3%81%8D%E3%82%8B)** - Ryokuoushoku Shakai<br/>
+> ∙ **[LIMBO](https://www.last.fm/music/keshi/_/LIMBO)** - keshi<br/>
+> ∙ **[変わらない空](https://www.last.fm/music/Lucklife/_/%E5%A4%89%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E7%A9%BA)** - Lucklife<br/>
+> ∙ **[Pyrefly Forest - Cat's Cradle](https://www.last.fm/music/Omori/_/Pyrefly+Forest+-+Cat%27s+Cradle)** - Omori<br/>
+> ∙ **[Trees...](https://www.last.fm/music/Omori/_/Trees...)** - Omori<br/>
+> ∙ **[intro (end of the world)](https://www.last.fm/music/Ariana+Grande/_/intro+(end+of+the+world))** - Ariana Grande<br/>
 <!--END_LASTFM_RECENT-->
