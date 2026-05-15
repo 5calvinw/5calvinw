@@ -50,22 +50,22 @@ Other         2 hrs 18 mins         >>-----------------------   06.66 %
 > `63 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `19 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `18 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
-> `17 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
-> `9 ▶️` ∙ **[yanaginagi](https://www.last.fm/music/yanaginagi)**<br/>
-> `8 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `10 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `8 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
 > `8 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `7 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
+> `7 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[My Dearest](https://www.last.fm/music/Supercell/_/My+Dearest)** - Supercell<br/>
-> ∙ **[Calm](https://www.last.fm/music/Omori/_/Calm)** - Omori<br/>
-> ∙ **[夏を生きる](https://www.last.fm/music/Ryokuoushoku+Shakai/_/%E5%A4%8F%E3%82%92%E7%94%9F%E3%81%8D%E3%82%8B)** - Ryokuoushoku Shakai<br/>
-> ∙ **[LIMBO](https://www.last.fm/music/keshi/_/LIMBO)** - keshi<br/>
-> ∙ **[変わらない空](https://www.last.fm/music/Lucklife/_/%E5%A4%89%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E7%A9%BA)** - Lucklife<br/>
-> ∙ **[Pyrefly Forest - Cat's Cradle](https://www.last.fm/music/Omori/_/Pyrefly+Forest+-+Cat%27s+Cradle)** - Omori<br/>
-> ∙ **[Trees...](https://www.last.fm/music/Omori/_/Trees...)** - Omori<br/>
-> ∙ **[intro (end of the world)](https://www.last.fm/music/Ariana+Grande/_/intro+(end+of+the+world))** - Ariana Grande<br/>
+> 🎶 **[星が瞬くこんな夜に](https://www.last.fm/music/Supercell/_/%E6%98%9F%E3%81%8C%E7%9E%AC%E3%81%8F%E3%81%93%E3%82%93%E3%81%AA%E5%A4%9C%E3%81%AB)** - Supercell<br/>
+> ∙ **[Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)** - beabadoobee<br/>
+> ∙ **[Pasilyo](https://www.last.fm/music/SunKissed+Lola/_/Pasilyo)** - SunKissed Lola<br/>
+> ∙ **[love.](https://www.last.fm/music/wave+to+earth/_/love.)** - wave to earth<br/>
+> ∙ **[Lost Girl](https://www.last.fm/music/Toby+Fox/_/Lost+Girl)** - Toby Fox<br/>
+> ∙ **[AIR](https://www.last.fm/music/my+sound+life/_/AIR)** - my sound life<br/>
+> ∙ **[Buktikan](https://www.last.fm/music/Tiara+Andini/_/Buktikan)** - Tiara Andini<br/>
+> ∙ **[a plant managed to startle me somehow](https://www.last.fm/music/AZALI/_/a+plant+managed+to+startle+me+somehow)** - AZALI<br/>
 <!--END_LASTFM_RECENT-->
