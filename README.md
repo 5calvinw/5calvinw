@@ -49,23 +49,23 @@ Other         2 hrs 18 mins         >>-----------------------   06.66 %
 
 > `63 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `19 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `18 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `19 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `10 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
-> `8 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
-> `8 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `9 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `7 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
 > `7 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
+> `7 ▶️` ∙ **[Fuminori Matsumoto](https://www.last.fm/music/Fuminori+Matsumoto)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[星が瞬くこんな夜に](https://www.last.fm/music/Supercell/_/%E6%98%9F%E3%81%8C%E7%9E%AC%E3%81%8F%E3%81%93%E3%82%93%E3%81%AA%E5%A4%9C%E3%81%AB)** - Supercell<br/>
-> ∙ **[Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)** - beabadoobee<br/>
-> ∙ **[Pasilyo](https://www.last.fm/music/SunKissed+Lola/_/Pasilyo)** - SunKissed Lola<br/>
-> ∙ **[love.](https://www.last.fm/music/wave+to+earth/_/love.)** - wave to earth<br/>
-> ∙ **[Lost Girl](https://www.last.fm/music/Toby+Fox/_/Lost+Girl)** - Toby Fox<br/>
-> ∙ **[AIR](https://www.last.fm/music/my+sound+life/_/AIR)** - my sound life<br/>
-> ∙ **[Buktikan](https://www.last.fm/music/Tiara+Andini/_/Buktikan)** - Tiara Andini<br/>
-> ∙ **[a plant managed to startle me somehow](https://www.last.fm/music/AZALI/_/a+plant+managed+to+startle+me+somehow)** - AZALI<br/>
+> ∙ **[the dangers in my heart](https://www.last.fm/music/Kensuke+Ushio/_/the+dangers+in+my+heart)** - Kensuke Ushio<br/>
+> ∙ **[This Side of Paradise](https://www.last.fm/music/Coyote+Theory/_/This+Side+of+Paradise)** - Coyote Theory<br/>
+> ∙ **[星座になれたら](https://www.last.fm/music/kessoku+band/_/%E6%98%9F%E5%BA%A7%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%9F%E3%82%89)** - kessoku band<br/>
+> ∙ **[The Title Track](https://www.last.fm/music/Origami+Angel/_/The+Title+Track)** - Origami Angel<br/>
+> ∙ **[Gentle Jena](https://www.last.fm/music/VISUAL+ARTS+%2F+Key/_/Gentle+Jena)** - VISUAL ARTS / Key<br/>
+> ∙ **[rain](https://www.last.fm/music/zts/_/rain)** - zts<br/>
+> ∙ **[Every Summertime](https://www.last.fm/music/Niki/_/Every+Summertime)** - Niki<br/>
+> ∙ **[ラブレター](https://www.last.fm/music/YOASOBI/_/%E3%83%A9%E3%83%96%E3%83%AC%E3%82%BF%E3%83%BC)** - YOASOBI<br/>
 <!--END_LASTFM_RECENT-->
