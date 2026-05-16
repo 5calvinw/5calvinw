@@ -47,25 +47,25 @@ Other         2 hrs 18 mins         >>-----------------------   06.66 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `63 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `20 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `20 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `64 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `21 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `21 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `10 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `9 ▶️` ∙ **[Fuminori Matsumoto](https://www.last.fm/music/Fuminori+Matsumoto)**<br/>
 > `9 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `7 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
 > `7 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
-> `7 ▶️` ∙ **[Fuminori Matsumoto](https://www.last.fm/music/Fuminori+Matsumoto)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[光るなら](https://www.last.fm/music/Goose+house/_/%E5%85%89%E3%82%8B%E3%81%AA%E3%82%89)** - Goose house<br/>
-> ∙ **[115 Million Kilometer Film](https://www.last.fm/music/Official+HIGE+DANdism/_/115+Million+Kilometer+Film)** - Official HIGE DANdism<br/>
-> ∙ **[Anything You Want](https://www.last.fm/music/Reality+Club/_/Anything+You+Want)** - Reality Club<br/>
-> ∙ **[Lover](https://www.last.fm/music/Taylor+Swift/_/Lover)** - Taylor Swift<br/>
-> ∙ **[Until I Found You](https://www.last.fm/music/Stephen+Sanchez/_/Until+I+Found+You)** - Stephen Sanchez<br/>
-> ∙ **[EVERBLUE](https://www.last.fm/music/Omoinotake/_/EVERBLUE)** - Omoinotake<br/>
-> ∙ **[Plastic Smile](https://www.last.fm/music/Kaori+Ishihara/_/Plastic+Smile)** - Kaori Ishihara<br/>
-> ∙ **[reflexion,allegretto,you](https://www.last.fm/music/Kensuke+Ushio/_/reflexion,allegretto,you)** - Kensuke Ushio<br/>
+> 🎶 **[親愛なるあの日々へ](https://www.last.fm/music/Fuminori+Matsumoto/_/%E8%A6%AA%E6%84%9B%E3%81%AA%E3%82%8B%E3%81%82%E3%81%AE%E6%97%A5%E3%80%85%E3%81%B8)** - Fuminori Matsumoto<br/>
+> ∙ **[暖かな時間](https://www.last.fm/music/Fuminori+Matsumoto/_/%E6%9A%96%E3%81%8B%E3%81%AA%E6%99%82%E9%96%93)** - Fuminori Matsumoto<br/>
+> ∙ **[I Don't Love You](https://www.last.fm/music/My+Chemical+Romance/_/I+Don%27t+Love+You)** - My Chemical Romance<br/>
+> ∙ **[海中都市](https://www.last.fm/music/Fuminori+Matsumoto/_/%E6%B5%B7%E4%B8%AD%E9%83%BD%E5%B8%82)** - Fuminori Matsumoto<br/>
+> ∙ **[Who Knows](https://www.last.fm/music/Daniel+Caesar/_/Who+Knows)** - Daniel Caesar<br/>
+> ∙ **[Valentine](https://www.last.fm/music/Laufey/_/Valentine)** - Laufey<br/>
+> ∙ **[Lullaby](https://www.last.fm/music/Snail%27s+house/_/Lullaby)** - Snail's house<br/>
+> ∙ **[Gymnopédie No. 1](https://www.last.fm/music/Erik+Satie/_/Gymnop%C3%A9die+No.+1)** - Erik Satie<br/>
 <!--END_LASTFM_RECENT-->
