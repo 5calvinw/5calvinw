@@ -47,10 +47,10 @@ Other         2 hrs 18 mins         >>-----------------------   06.66 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `64 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `37 ▶️` ∙ **[a picture of her](https://www.last.fm/music/a+picture+of+her)**<br/>
+> `62 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `38 ▶️` ∙ **[a picture of her](https://www.last.fm/music/a+picture+of+her)**<br/>
 > `21 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `21 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `20 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `10 ▶️` ∙ **[Fuminori Matsumoto](https://www.last.fm/music/Fuminori+Matsumoto)**<br/>
 > `10 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `9 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
@@ -60,12 +60,12 @@ Other         2 hrs 18 mins         >>-----------------------   06.66 %
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[The Bell Tolls](https://www.last.fm/music/a+picture+of+her/_/The+Bell+Tolls)** - a picture of her<br/>
-> ∙ **[relatively still life](https://www.last.fm/music/a+picture+of+her/_/relatively+still+life)** - a picture of her<br/>
-> ∙ **[now i'm weaving hundred words](https://www.last.fm/music/a+picture+of+her/_/now+i%27m+weaving+hundred+words)** - a picture of her<br/>
-> ∙ **[No Exit](https://www.last.fm/music/a+picture+of+her/_/No+Exit)** - a picture of her<br/>
-> ∙ **[Summer Retreat](https://www.last.fm/music/a+picture+of+her/_/Summer+Retreat)** - a picture of her<br/>
-> ∙ **[owesome](https://www.last.fm/music/a+picture+of+her/_/owesome)** - a picture of her<br/>
-> ∙ **[snap awake!](https://www.last.fm/music/a+picture+of+her/_/snap+awake!)** - a picture of her<br/>
-> ∙ **[relatively still life](https://www.last.fm/music/a+picture+of+her/_/relatively+still+life)** - a picture of her<br/>
+> 🎶 **[憂、燦々](https://www.last.fm/music/Yorushika/_/%E6%86%82%E3%80%81%E7%87%A6%E3%80%85)** - Yorushika<br/>
+> ∙ **[Tired](https://www.last.fm/music/beabadoobee/_/Tired)** - beabadoobee<br/>
+> ∙ **[群青](https://www.last.fm/music/YOASOBI/_/%E7%BE%A4%E9%9D%92)** - YOASOBI<br/>
+> ∙ **[For a Pessimist, I'm Pretty Optimistic](https://www.last.fm/music/Paramore/_/For+a+Pessimist,+I%27m+Pretty+Optimistic)** - Paramore<br/>
+> ∙ **[キリトリセン (feat.GUMI)](https://www.last.fm/music/40mP/_/%E3%82%AD%E3%83%AA%E3%83%88%E3%83%AA%E3%82%BB%E3%83%B3+(feat.GUMI))** - 40mP<br/>
+> ∙ **[Side to Side](https://www.last.fm/music/Ariana+Grande/_/Side+to+Side)** - Ariana Grande<br/>
+> ∙ **[like i need u](https://www.last.fm/music/keshi/_/like+i+need+u)** - keshi<br/>
+> ∙ **[Fragment of Stars](https://www.last.fm/music/fh%C3%A1na/_/Fragment+of+Stars)** - fhána<br/>
 <!--END_LASTFM_RECENT-->
