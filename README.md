@@ -47,25 +47,25 @@ Other         2 hrs 54 mins         >>-----------------------   07.18 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `44 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `37 ▶️` ∙ **[a picture of her](https://www.last.fm/music/a+picture+of+her)**<br/>
+> `32 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `21 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `13 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
-> `10 ▶️` ∙ **[Yorushika](https://www.last.fm/music/Yorushika)**<br/>
-> `8 ▶️` ∙ **[Fuminori Matsumoto](https://www.last.fm/music/Fuminori+Matsumoto)**<br/>
-> `8 ▶️` ∙ **[RADWIMPS](https://www.last.fm/music/RADWIMPS)**<br/>
+> `11 ▶️` ∙ **[Yorushika](https://www.last.fm/music/Yorushika)**<br/>
+> `10 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `8 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
+> `7 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
+> `7 ▶️` ∙ **[Fuminori Matsumoto](https://www.last.fm/music/Fuminori+Matsumoto)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Jatuh Suka](https://www.last.fm/music/Tulus/_/Jatuh+Suka)** - Tulus<br/>
+> ∙ **[No Surprises](https://www.last.fm/music/Radiohead/_/No+Surprises)** - Radiohead<br/>
+> ∙ **[Tanpa Pesan Terakhir](https://www.last.fm/music/Seventeen/_/Tanpa+Pesan+Terakhir)** - Seventeen<br/>
+> ∙ **[The Lazy Song](https://www.last.fm/music/Bruno+Mars/_/The+Lazy+Song)** - Bruno Mars<br/>
+> ∙ **[Anklebiters](https://www.last.fm/music/Paramore/_/Anklebiters)** - Paramore<br/>
+> ∙ **[アシンメトリー](https://www.last.fm/music/Reol/_/%E3%82%A2%E3%82%B7%E3%83%B3%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC)** - Reol<br/>
+> ∙ **[詩書きとコーヒー](https://www.last.fm/music/Yorushika/_/%E8%A9%A9%E6%9B%B8%E3%81%8D%E3%81%A8%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC)** - Yorushika<br/>
+> ∙ **[Jatuh Suka](https://www.last.fm/music/Tulus/_/Jatuh+Suka)** - Tulus<br/>
 > ∙ **[Stuck on You](https://www.last.fm/music/Giv%C4%93on/_/Stuck+on+You)** - Givēon<br/>
-> ∙ **[Byoushinwo Kamu](https://www.last.fm/music/ZUTOMAYO/_/Byoushinwo+Kamu)** - ZUTOMAYO<br/>
-> ∙ **[honey](https://www.last.fm/music/boy+pablo/_/honey)** - boy pablo<br/>
-> ∙ **[Eastbound & Down](https://www.last.fm/music/WSTR/_/Eastbound+&+Down)** - WSTR<br/>
-> ∙ **[ハルジオン](https://www.last.fm/music/YOASOBI/_/%E3%83%8F%E3%83%AB%E3%82%B8%E3%82%AA%E3%83%B3)** - YOASOBI<br/>
-> ∙ **[When I Was Your Man](https://www.last.fm/music/Bruno+Mars/_/When+I+Was+Your+Man)** - Bruno Mars<br/>
-> ∙ **[HEKIREKI - 2010](https://www.last.fm/music/LAST+ALLIANCE/_/HEKIREKI+-+2010)** - LAST ALLIANCE<br/>
 <!--END_LASTFM_RECENT-->
