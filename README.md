@@ -47,25 +47,25 @@ Other         2 hrs 54 mins         >>-----------------------   07.18 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `45 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `44 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `37 ▶️` ∙ **[a picture of her](https://www.last.fm/music/a+picture+of+her)**<br/>
 > `21 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `13 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
-> `9 ▶️` ∙ **[Yorushika](https://www.last.fm/music/Yorushika)**<br/>
+> `10 ▶️` ∙ **[Yorushika](https://www.last.fm/music/Yorushika)**<br/>
 > `8 ▶️` ∙ **[Fuminori Matsumoto](https://www.last.fm/music/Fuminori+Matsumoto)**<br/>
 > `8 ▶️` ∙ **[RADWIMPS](https://www.last.fm/music/RADWIMPS)**<br/>
-> `7 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
+> `8 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Locked Out of Heaven](https://www.last.fm/music/Bruno+Mars/_/Locked+Out+of+Heaven)** - Bruno Mars<br/>
-> ∙ **[UP NO MORE](https://www.last.fm/music/TWICE/_/UP+NO+MORE)** - TWICE<br/>
-> ∙ **[Dark Red](https://www.last.fm/music/Steve+Lacy/_/Dark+Red)** - Steve Lacy<br/>
-> ∙ **[Celebration (feat. Toko Miura)](https://www.last.fm/music/RADWIMPS/_/Celebration+(feat.+Toko+Miura))** - RADWIMPS<br/>
-> ∙ **[Yeah (Fantasizing)](https://www.last.fm/music/boy+pablo/_/Yeah+(Fantasizing))** - boy pablo<br/>
-> ∙ **[러시안 룰렛 Russian Roulette](https://www.last.fm/music/Red+Velvet/_/%EB%9F%AC%EC%8B%9C%EC%95%88+%EB%A3%B0%EB%A0%9B+Russian+Roulette)** - Red Velvet<br/>
-> ∙ **[心に穴が空いた](https://www.last.fm/music/Yorushika/_/%E5%BF%83%E3%81%AB%E7%A9%B4%E3%81%8C%E7%A9%BA%E3%81%84%E3%81%9F)** - Yorushika<br/>
-> ∙ **[Earrings](https://www.last.fm/music/Malcolm+Todd/_/Earrings)** - Malcolm Todd<br/>
+> 🎶 **[Jatuh Suka](https://www.last.fm/music/Tulus/_/Jatuh+Suka)** - Tulus<br/>
+> ∙ **[Stuck on You](https://www.last.fm/music/Giv%C4%93on/_/Stuck+on+You)** - Givēon<br/>
+> ∙ **[Byoushinwo Kamu](https://www.last.fm/music/ZUTOMAYO/_/Byoushinwo+Kamu)** - ZUTOMAYO<br/>
+> ∙ **[honey](https://www.last.fm/music/boy+pablo/_/honey)** - boy pablo<br/>
+> ∙ **[Eastbound & Down](https://www.last.fm/music/WSTR/_/Eastbound+&+Down)** - WSTR<br/>
+> ∙ **[ハルジオン](https://www.last.fm/music/YOASOBI/_/%E3%83%8F%E3%83%AB%E3%82%B8%E3%82%AA%E3%83%B3)** - YOASOBI<br/>
+> ∙ **[When I Was Your Man](https://www.last.fm/music/Bruno+Mars/_/When+I+Was+Your+Man)** - Bruno Mars<br/>
+> ∙ **[HEKIREKI - 2010](https://www.last.fm/music/LAST+ALLIANCE/_/HEKIREKI+-+2010)** - LAST ALLIANCE<br/>
 <!--END_LASTFM_RECENT-->
