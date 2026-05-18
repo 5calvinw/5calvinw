@@ -49,7 +49,7 @@ Other         3 hrs 8 mins          >>-----------------------   07.44 %
 
 > `37 ▶️` ∙ **[a picture of her](https://www.last.fm/music/a+picture+of+her)**<br/>
 > `32 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `21 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `13 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `11 ▶️` ∙ **[Yorushika](https://www.last.fm/music/Yorushika)**<br/>
 > `10 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `8 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
@@ -60,12 +60,12 @@ Other         3 hrs 8 mins          >>-----------------------   07.44 %
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Buktikan](https://www.last.fm/music/Tiara+Andini/_/Buktikan)** - Tiara Andini<br/>
+> ∙ **[Who Knows](https://www.last.fm/music/Daniel+Caesar/_/Who+Knows)** - Daniel Caesar<br/>
 > ∙ **[Wonderful Everyday](https://www.last.fm/music/Subarashiki+Hibi+ED/_/Wonderful+Everyday)** - Subarashiki Hibi ED<br/>
 > ∙ **[夏影](https://www.last.fm/music/VISUAL+ARTS+%2F+Key+-+Topic/_/%E5%A4%8F%E5%BD%B1)** - VISUAL ARTS / Key - Topic<br/>
 > ∙ **[ガラスのくつ](https://www.last.fm/music/Kanako+Ito+-+Topic/_/%E3%82%AC%E3%83%A9%E3%82%B9%E3%81%AE%E3%81%8F%E3%81%A4)** - Kanako Ito - Topic<br/>
 > ∙ **[Sayaka Sasaki – Twinkle Starlight](https://www.last.fm/music/Planetarian:+Chiisana+Hoshi+no+Yume+ED+(full)/_/Sayaka+Sasaki+%E2%80%93+Twinkle+Starlight)** - Planetarian: Chiisana Hoshi no Yume ED (full)<br/>
 > ∙ **[tomorrow](https://www.last.fm/music/Monet/_/tomorrow)** - Monet<br/>
 > ∙ **[ちょうちょ「Authentic symphony」MV](https://www.last.fm/music/ChouCho/_/%E3%81%A1%E3%82%87%E3%81%86%E3%81%A1%E3%82%87%E3%80%8CAuthentic+symphony%E3%80%8DMV)** - ChouCho<br/>
-> ∙ **[Lasting Moment](https://www.last.fm/music/Konomi+Suzuki+Official/_/Lasting+Moment)** - Konomi Suzuki Official<br/>
-> ∙ **[「 ナグルファルの船上にて 」素晴らしき日々ＥＤ](https://www.last.fm/music/Jamez+Bender/_/%E3%80%8C+%E3%83%8A%E3%82%B0%E3%83%AB%E3%83%95%E3%82%A1%E3%83%AB%E3%81%AE%E8%88%B9%E4%B8%8A%E3%81%AB%E3%81%A6+%E3%80%8D%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%8D%E6%97%A5%E3%80%85%EF%BC%A5%EF%BC%A4)** - Jamez Bender<br/>
 <!--END_LASTFM_RECENT-->
