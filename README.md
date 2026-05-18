@@ -53,19 +53,19 @@ Other         2 hrs 54 mins         >>-----------------------   07.18 %
 > `11 ▶️` ∙ **[Yorushika](https://www.last.fm/music/Yorushika)**<br/>
 > `10 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `8 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
-> `7 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
 > `7 ▶️` ∙ **[Fuminori Matsumoto](https://www.last.fm/music/Fuminori+Matsumoto)**<br/>
+> `7 ▶️` ∙ **[wave to earth](https://www.last.fm/music/wave+to+earth)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[No Surprises](https://www.last.fm/music/Radiohead/_/No+Surprises)** - Radiohead<br/>
-> ∙ **[Tanpa Pesan Terakhir](https://www.last.fm/music/Seventeen/_/Tanpa+Pesan+Terakhir)** - Seventeen<br/>
-> ∙ **[The Lazy Song](https://www.last.fm/music/Bruno+Mars/_/The+Lazy+Song)** - Bruno Mars<br/>
-> ∙ **[Anklebiters](https://www.last.fm/music/Paramore/_/Anklebiters)** - Paramore<br/>
-> ∙ **[アシンメトリー](https://www.last.fm/music/Reol/_/%E3%82%A2%E3%82%B7%E3%83%B3%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC)** - Reol<br/>
-> ∙ **[詩書きとコーヒー](https://www.last.fm/music/Yorushika/_/%E8%A9%A9%E6%9B%B8%E3%81%8D%E3%81%A8%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC)** - Yorushika<br/>
-> ∙ **[Jatuh Suka](https://www.last.fm/music/Tulus/_/Jatuh+Suka)** - Tulus<br/>
-> ∙ **[Stuck on You](https://www.last.fm/music/Giv%C4%93on/_/Stuck+on+You)** - Givēon<br/>
+> ∙ **[Wonderful Everyday](https://www.last.fm/music/Subarashiki+Hibi+ED/_/Wonderful+Everyday)** - Subarashiki Hibi ED<br/>
+> ∙ **[夏影](https://www.last.fm/music/VISUAL+ARTS+%2F+Key+-+Topic/_/%E5%A4%8F%E5%BD%B1)** - VISUAL ARTS / Key - Topic<br/>
+> ∙ **[ガラスのくつ](https://www.last.fm/music/Kanako+Ito+-+Topic/_/%E3%82%AC%E3%83%A9%E3%82%B9%E3%81%AE%E3%81%8F%E3%81%A4)** - Kanako Ito - Topic<br/>
+> ∙ **[Sayaka Sasaki – Twinkle Starlight](https://www.last.fm/music/Planetarian:+Chiisana+Hoshi+no+Yume+ED+(full)/_/Sayaka+Sasaki+%E2%80%93+Twinkle+Starlight)** - Planetarian: Chiisana Hoshi no Yume ED (full)<br/>
+> ∙ **[tomorrow](https://www.last.fm/music/Monet/_/tomorrow)** - Monet<br/>
+> ∙ **[ちょうちょ「Authentic symphony」MV](https://www.last.fm/music/ChouCho/_/%E3%81%A1%E3%82%87%E3%81%86%E3%81%A1%E3%82%87%E3%80%8CAuthentic+symphony%E3%80%8DMV)** - ChouCho<br/>
+> ∙ **[Lasting Moment](https://www.last.fm/music/Konomi+Suzuki+Official/_/Lasting+Moment)** - Konomi Suzuki Official<br/>
+> ∙ **[「 ナグルファルの船上にて 」素晴らしき日々ＥＤ](https://www.last.fm/music/Jamez+Bender/_/%E3%80%8C+%E3%83%8A%E3%82%B0%E3%83%AB%E3%83%95%E3%82%A1%E3%83%AB%E3%81%AE%E8%88%B9%E4%B8%8A%E3%81%AB%E3%81%A6+%E3%80%8D%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%8D%E6%97%A5%E3%80%85%EF%BC%A5%EF%BC%A4)** - Jamez Bender<br/>
 <!--END_LASTFM_RECENT-->
