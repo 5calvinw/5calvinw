@@ -47,10 +47,10 @@ Other         3 hrs 8 mins          >>-----------------------   07.44 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `38 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `37 ▶️` ∙ **[a picture of her](https://www.last.fm/music/a+picture+of+her)**<br/>
-> `12 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `12 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `36 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `11 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `11 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `10 ▶️` ∙ **[Yorushika](https://www.last.fm/music/Yorushika)**<br/>
 > `8 ▶️` ∙ **[Fuminori Matsumoto](https://www.last.fm/music/Fuminori+Matsumoto)**<br/>
 > `8 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
