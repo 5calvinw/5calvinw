@@ -60,12 +60,12 @@ Other         3 hrs 8 mins          >>-----------------------   07.44 %
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[double take](https://www.last.fm/music/dhruv/_/double+take)** - dhruv<br/>
-> ∙ **[Piknik '72](https://www.last.fm/music/Naif/_/Piknik+%2772)** - Naif<br/>
-> ∙ **[Do It For Her (feat. Zach Callison & Grace Rolek)](https://www.last.fm/music/Steven+Universe/_/Do+It+For+Her+(feat.+Zach+Callison+&+Grace+Rolek))** - Steven Universe<br/>
-> ∙ **[No Reason](https://www.last.fm/music/Sum+41/_/No+Reason)** - Sum 41<br/>
-> ∙ **[Do Re Mi](https://www.last.fm/music/CITROBAL/_/Do+Re+Mi)** - CITROBAL<br/>
-> ∙ **[Staying](https://www.last.fm/music/Lizzy+McAlpine/_/Staying)** - Lizzy McAlpine<br/>
-> ∙ **[august](https://www.last.fm/music/Taylor+Swift/_/august)** - Taylor Swift<br/>
-> ∙ **[The Feels](https://www.last.fm/music/TWICE/_/The+Feels)** - TWICE<br/>
+> 🎶 **[瞬き](https://www.last.fm/music/back+number/_/%E7%9E%AC%E3%81%8D)** - back number<br/>
+> ∙ **[Risalah Hati](https://www.last.fm/music/Dewa/_/Risalah+Hati)** - Dewa<br/>
+> ∙ **[Be There For You](https://www.last.fm/music/NCT+DREAM/_/Be+There+For+You)** - NCT DREAM<br/>
+> ∙ **[Gong](https://www.last.fm/music/WANIMA/_/Gong)** - WANIMA<br/>
+> ∙ **[King for a Day](https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day)** - Pierce the Veil<br/>
+> ∙ **[夢疾風](https://www.last.fm/music/%E3%83%9F%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%93%E3%83%BC+(CV.+%E5%A4%A9%E6%B5%B7%E7%94%B1%E6%A2%A8%E5%A5%88)/_/%E5%A4%A2%E7%96%BE%E9%A2%A8)** - ミスターシービー (CV. 天海由梨奈)<br/>
+> ∙ **[Measure the Dawn](https://www.last.fm/music/JYOCHO/_/Measure+the+Dawn)** - JYOCHO<br/>
+> ∙ **[中庭の少女たち](https://www.last.fm/music/SHISHAMO/_/%E4%B8%AD%E5%BA%AD%E3%81%AE%E5%B0%91%E5%A5%B3%E3%81%9F%E3%81%A1)** - SHISHAMO<br/>
 <!--END_LASTFM_RECENT-->
