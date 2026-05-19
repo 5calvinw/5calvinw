@@ -49,7 +49,7 @@ Other         3 hrs 8 mins          >>-----------------------   07.44 %
 
 > `37 ▶️` ∙ **[a picture of her](https://www.last.fm/music/a+picture+of+her)**<br/>
 > `36 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `11 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `12 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `11 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `10 ▶️` ∙ **[Yorushika](https://www.last.fm/music/Yorushika)**<br/>
 > `8 ▶️` ∙ **[Fuminori Matsumoto](https://www.last.fm/music/Fuminori+Matsumoto)**<br/>
@@ -60,12 +60,12 @@ Other         3 hrs 8 mins          >>-----------------------   07.44 %
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[瞬き](https://www.last.fm/music/back+number/_/%E7%9E%AC%E3%81%8D)** - back number<br/>
-> ∙ **[Risalah Hati](https://www.last.fm/music/Dewa/_/Risalah+Hati)** - Dewa<br/>
-> ∙ **[Be There For You](https://www.last.fm/music/NCT+DREAM/_/Be+There+For+You)** - NCT DREAM<br/>
-> ∙ **[Gong](https://www.last.fm/music/WANIMA/_/Gong)** - WANIMA<br/>
-> ∙ **[King for a Day](https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day)** - Pierce the Veil<br/>
-> ∙ **[夢疾風](https://www.last.fm/music/%E3%83%9F%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%93%E3%83%BC+(CV.+%E5%A4%A9%E6%B5%B7%E7%94%B1%E6%A2%A8%E5%A5%88)/_/%E5%A4%A2%E7%96%BE%E9%A2%A8)** - ミスターシービー (CV. 天海由梨奈)<br/>
-> ∙ **[Measure the Dawn](https://www.last.fm/music/JYOCHO/_/Measure+the+Dawn)** - JYOCHO<br/>
-> ∙ **[中庭の少女たち](https://www.last.fm/music/SHISHAMO/_/%E4%B8%AD%E5%BA%AD%E3%81%AE%E5%B0%91%E5%A5%B3%E3%81%9F%E3%81%A1)** - SHISHAMO<br/>
+> ∙ **[WHITE ALBUM Live at Campus Fes](https://www.last.fm/music/%E5%B0%8F%E6%9C%A8%E6%9B%BD%E9%9B%AA%E8%8F%9C/_/WHITE+ALBUM+Live+at+Campus+Fes)** - 小木曽雪菜<br/>
+> ∙ **[Penjaga Hati](https://www.last.fm/music/Ari+Lasso/_/Penjaga+Hati)** - Ari Lasso<br/>
+> ∙ **[Rafflesia Dance](https://www.last.fm/music/Redraw/_/Rafflesia+Dance)** - Redraw<br/>
+> ∙ **[Hebat](https://www.last.fm/music/Tangga/_/Hebat)** - Tangga<br/>
+> ∙ **[Kyoumen no Nami](https://www.last.fm/music/YURiKA/_/Kyoumen+no+Nami)** - YURiKA<br/>
+> ∙ **[Niscaya](https://www.last.fm/music/Bilal+Indrajaya/_/Niscaya)** - Bilal Indrajaya<br/>
+> ∙ **[Puzzle](https://www.last.fm/music/ROUND+TABLE+featuring+Nino/_/Puzzle)** - ROUND TABLE featuring Nino<br/>
+> ∙ **[Fragment of Stars](https://www.last.fm/music/fh%C3%A1na/_/Fragment+of+Stars)** - fhána<br/>
 <!--END_LASTFM_RECENT-->
