@@ -48,24 +48,24 @@ Other         3 hrs 8 mins          >>-----------------------   06.59 %
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `37 ▶️` ∙ **[a picture of her](https://www.last.fm/music/a+picture+of+her)**<br/>
-> `36 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `12 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `11 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `37 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `20 ▶️` ∙ **[Lizzy McAlpine](https://www.last.fm/music/Lizzy+McAlpine)**<br/>
+> `13 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `12 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `10 ▶️` ∙ **[Yorushika](https://www.last.fm/music/Yorushika)**<br/>
-> `8 ▶️` ∙ **[Fuminori Matsumoto](https://www.last.fm/music/Fuminori+Matsumoto)**<br/>
+> `9 ▶️` ∙ **[Fuminori Matsumoto](https://www.last.fm/music/Fuminori+Matsumoto)**<br/>
 > `8 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
-> `7 ▶️` ∙ **[TWICE](https://www.last.fm/music/TWICE)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Staying](https://www.last.fm/music/Lizzy+McAlpine/_/Staying)** - Lizzy McAlpine<br/>
-> ∙ **[明日も](https://www.last.fm/music/SHISHAMO/_/%E6%98%8E%E6%97%A5%E3%82%82)** - SHISHAMO<br/>
-> ∙ **[Too Little, Too Late](https://www.last.fm/music/Laufey/_/Too+Little,+Too+Late)** - Laufey<br/>
-> ∙ **[三月がずっと続けばいい](https://www.last.fm/music/Sangatsu+no+Phantasia/_/%E4%B8%89%E6%9C%88%E3%81%8C%E3%81%9A%E3%81%A3%E3%81%A8%E7%B6%9A%E3%81%91%E3%81%B0%E3%81%84%E3%81%84)** - Sangatsu no Phantasia<br/>
-> ∙ **[WHITE ALBUM Live at Campus Fes](https://www.last.fm/music/%E5%B0%8F%E6%9C%A8%E6%9B%BD%E9%9B%AA%E8%8F%9C/_/WHITE+ALBUM+Live+at+Campus+Fes)** - 小木曽雪菜<br/>
-> ∙ **[Penjaga Hati](https://www.last.fm/music/Ari+Lasso/_/Penjaga+Hati)** - Ari Lasso<br/>
-> ∙ **[Rafflesia Dance](https://www.last.fm/music/Redraw/_/Rafflesia+Dance)** - Redraw<br/>
-> ∙ **[Hebat](https://www.last.fm/music/Tangga/_/Hebat)** - Tangga<br/>
+> ∙ **[Staying](https://www.last.fm/music/Lizzy+McAlpine/_/Staying)** - Lizzy McAlpine<br/>
+> ∙ **[Staying](https://www.last.fm/music/Lizzy+McAlpine/_/Staying)** - Lizzy McAlpine<br/>
+> ∙ **[Staying](https://www.last.fm/music/Lizzy+McAlpine/_/Staying)** - Lizzy McAlpine<br/>
+> ∙ **[Staying](https://www.last.fm/music/Lizzy+McAlpine/_/Staying)** - Lizzy McAlpine<br/>
+> ∙ **[Staying](https://www.last.fm/music/Lizzy+McAlpine/_/Staying)** - Lizzy McAlpine<br/>
+> ∙ **[Staying](https://www.last.fm/music/Lizzy+McAlpine/_/Staying)** - Lizzy McAlpine<br/>
+> ∙ **[Staying](https://www.last.fm/music/Lizzy+McAlpine/_/Staying)** - Lizzy McAlpine<br/>
+> ∙ **[Staying](https://www.last.fm/music/Lizzy+McAlpine/_/Staying)** - Lizzy McAlpine<br/>
 <!--END_LASTFM_RECENT-->
