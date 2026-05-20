@@ -60,12 +60,12 @@ Other         3 hrs 8 mins          >>-----------------------   07.44 %
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> 🎶 **[Staying](https://www.last.fm/music/Lizzy+McAlpine/_/Staying)** - Lizzy McAlpine<br/>
+> ∙ **[明日も](https://www.last.fm/music/SHISHAMO/_/%E6%98%8E%E6%97%A5%E3%82%82)** - SHISHAMO<br/>
+> ∙ **[Too Little, Too Late](https://www.last.fm/music/Laufey/_/Too+Little,+Too+Late)** - Laufey<br/>
+> ∙ **[三月がずっと続けばいい](https://www.last.fm/music/Sangatsu+no+Phantasia/_/%E4%B8%89%E6%9C%88%E3%81%8C%E3%81%9A%E3%81%A3%E3%81%A8%E7%B6%9A%E3%81%91%E3%81%B0%E3%81%84%E3%81%84)** - Sangatsu no Phantasia<br/>
 > ∙ **[WHITE ALBUM Live at Campus Fes](https://www.last.fm/music/%E5%B0%8F%E6%9C%A8%E6%9B%BD%E9%9B%AA%E8%8F%9C/_/WHITE+ALBUM+Live+at+Campus+Fes)** - 小木曽雪菜<br/>
 > ∙ **[Penjaga Hati](https://www.last.fm/music/Ari+Lasso/_/Penjaga+Hati)** - Ari Lasso<br/>
 > ∙ **[Rafflesia Dance](https://www.last.fm/music/Redraw/_/Rafflesia+Dance)** - Redraw<br/>
 > ∙ **[Hebat](https://www.last.fm/music/Tangga/_/Hebat)** - Tangga<br/>
-> ∙ **[Kyoumen no Nami](https://www.last.fm/music/YURiKA/_/Kyoumen+no+Nami)** - YURiKA<br/>
-> ∙ **[Niscaya](https://www.last.fm/music/Bilal+Indrajaya/_/Niscaya)** - Bilal Indrajaya<br/>
-> ∙ **[Puzzle](https://www.last.fm/music/ROUND+TABLE+featuring+Nino/_/Puzzle)** - ROUND TABLE featuring Nino<br/>
-> ∙ **[Fragment of Stars](https://www.last.fm/music/fh%C3%A1na/_/Fragment+of+Stars)** - fhána<br/>
 <!--END_LASTFM_RECENT-->
