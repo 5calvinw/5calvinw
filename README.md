@@ -49,23 +49,23 @@ Other         3 hrs 8 mins          >------------------------   05.95 %
 
 > `37 ▶️` ∙ **[a picture of her](https://www.last.fm/music/a+picture+of+her)**<br/>
 > `23 ▶️` ∙ **[panoir](https://www.last.fm/music/panoir)**<br/>
+> `22 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `19 ▶️` ∙ **[Lizzy McAlpine](https://www.last.fm/music/Lizzy+McAlpine)**<br/>
-> `17 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `11 ▶️` ∙ **[Yorushika](https://www.last.fm/music/Yorushika)**<br/>
-> `9 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `9 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `8 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `7 ▶️` ∙ **[Fuminori Matsumoto](https://www.last.fm/music/Fuminori+Matsumoto)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[you](https://www.last.fm/music/Dai/_/you)** - Dai<br/>
-> ∙ **[Crossroads](https://www.last.fm/music/Omori/_/Crossroads)** - Omori<br/>
-> ∙ **[Bach / Arr. Hess: Herz und Mund und Tat und Leben, BWV 147: Chorale. "Jesus bleibet meine Freude"](https://www.last.fm/music/Johann+Sebastian+Bach/_/Bach+%2F+Arr.+Hess:+Herz+und+Mund+und+Tat+und+Leben,+BWV+147:+Chorale.+%22Jesus+bleibet+meine+Freude%22)** - Johann Sebastian Bach<br/>
-> ∙ **[Respite](https://www.last.fm/music/Omori/_/Respite)** - Omori<br/>
-> ∙ **[Fallen Down](https://www.last.fm/music/Toby+Fox/_/Fallen+Down)** - Toby Fox<br/>
-> ∙ **[See You Tomorrow](https://www.last.fm/music/Omori/_/See+You+Tomorrow)** - Omori<br/>
-> ∙ **[Remember to Be Patient](https://www.last.fm/music/Omori/_/Remember+to+Be+Patient)** - Omori<br/>
-> ∙ **[WHITE SPACE](https://www.last.fm/music/Omori/_/WHITE+SPACE)** - Omori<br/>
+> ∙ **[Fanfare](https://www.last.fm/music/TWICE/_/Fanfare)** - TWICE<br/>
+> ∙ **[A Home For Flowers (Daisy)](https://www.last.fm/music/Omori/_/A+Home+For+Flowers+(Daisy))** - Omori<br/>
+> ∙ **[H20:HCL](https://www.last.fm/music/Omori/_/H20:HCL)** - Omori<br/>
+> ∙ **[Do You Remember?](https://www.last.fm/music/Omori/_/Do+You+Remember%3F)** - Omori<br/>
+> ∙ **[fall](https://www.last.fm/music/zts/_/fall)** - zts<br/>
+> ∙ **[lost at a sleepover](https://www.last.fm/music/Omori/_/lost+at+a+sleepover)** - Omori<br/>
+> ∙ **[cage](https://www.last.fm/music/zts/_/cage)** - zts<br/>
+> ∙ **[Sugar Star Planetarium](https://www.last.fm/music/Omori/_/Sugar+Star+Planetarium)** - Omori<br/>
 <!--END_LASTFM_RECENT-->
