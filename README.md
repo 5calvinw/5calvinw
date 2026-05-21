@@ -47,25 +47,25 @@ Other         3 hrs 8 mins          >>-----------------------   06.59 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `36 ▶️` ∙ **[a picture of her](https://www.last.fm/music/a+picture+of+her)**<br/>
-> `34 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `19 ▶️` ∙ **[Lizzy McAlpine](https://www.last.fm/music/Lizzy+McAlpine)**<br/>
-> `15 ▶️` ∙ **[panoir](https://www.last.fm/music/panoir)**<br/>
-> `10 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `37 ▶️` ∙ **[a picture of her](https://www.last.fm/music/a+picture+of+her)**<br/>
+> `36 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `21 ▶️` ∙ **[panoir](https://www.last.fm/music/panoir)**<br/>
+> `20 ▶️` ∙ **[Lizzy McAlpine](https://www.last.fm/music/Lizzy+McAlpine)**<br/>
+> `11 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `10 ▶️` ∙ **[Yorushika](https://www.last.fm/music/Yorushika)**<br/>
+> `8 ▶️` ∙ **[Fuminori Matsumoto](https://www.last.fm/music/Fuminori+Matsumoto)**<br/>
 > `8 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
-> `7 ▶️` ∙ **[TWICE](https://www.last.fm/music/TWICE)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Studying alone at home late at night.](https://www.last.fm/music/NMH+2/_/Studying+alone+at+home+late+at+night.)** - NMH 2<br/>
-> ∙ **[seven](https://www.last.fm/music/panoir/_/seven)** - panoir<br/>
+> 🎶 **[six](https://www.last.fm/music/panoir/_/six)** - panoir<br/>
 > ∙ **[six](https://www.last.fm/music/panoir/_/six)** - panoir<br/>
 > ∙ **[five](https://www.last.fm/music/panoir/_/five)** - panoir<br/>
 > ∙ **[four](https://www.last.fm/music/panoir/_/four)** - panoir<br/>
 > ∙ **[three](https://www.last.fm/music/panoir/_/three)** - panoir<br/>
 > ∙ **[two](https://www.last.fm/music/panoir/_/two)** - panoir<br/>
 > ∙ **[one](https://www.last.fm/music/panoir/_/one)** - panoir<br/>
+> ∙ **[tsuki](https://www.last.fm/music/Morimoto+Naoki/_/tsuki)** - Morimoto Naoki<br/>
 <!--END_LASTFM_RECENT-->
