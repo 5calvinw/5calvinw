@@ -49,23 +49,23 @@ Other         3 hrs 8 mins          >------------------------   05.95 %
 
 > `37 ▶️` ∙ **[a picture of her](https://www.last.fm/music/a+picture+of+her)**<br/>
 > `23 ▶️` ∙ **[panoir](https://www.last.fm/music/panoir)**<br/>
-> `20 ▶️` ∙ **[Lizzy McAlpine](https://www.last.fm/music/Lizzy+McAlpine)**<br/>
-> `13 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `10 ▶️` ∙ **[Yorushika](https://www.last.fm/music/Yorushika)**<br/>
-> `7 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `19 ▶️` ∙ **[Lizzy McAlpine](https://www.last.fm/music/Lizzy+McAlpine)**<br/>
+> `17 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `11 ▶️` ∙ **[Yorushika](https://www.last.fm/music/Yorushika)**<br/>
+> `9 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `9 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `7 ▶️` ∙ **[Fuminori Matsumoto](https://www.last.fm/music/Fuminori+Matsumoto)**<br/>
-> `7 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Earrings](https://www.last.fm/music/Malcolm+Todd/_/Earrings)** - Malcolm Todd<br/>
-> ∙ **[風のたより](https://www.last.fm/music/Tayori/_/%E9%A2%A8%E3%81%AE%E3%81%9F%E3%82%88%E3%82%8A)** - Tayori<br/>
-> ∙ **[Toronto 2014 (with Mustafa)](https://www.last.fm/music/Daniel+Caesar/_/Toronto+2014+(with+Mustafa))** - Daniel Caesar<br/>
-> ∙ **[Too Little, Too Late](https://www.last.fm/music/Laufey/_/Too+Little,+Too+Late)** - Laufey<br/>
-> ∙ **[Studying alone at home late at night.](https://www.last.fm/music/NMH+2/_/Studying+alone+at+home+late+at+night.)** - NMH 2<br/>
-> ∙ **[eight](https://www.last.fm/music/panoir/_/eight)** - panoir<br/>
-> ∙ **[seven](https://www.last.fm/music/panoir/_/seven)** - panoir<br/>
-> ∙ **[six](https://www.last.fm/music/panoir/_/six)** - panoir<br/>
+> 🎶 **[you](https://www.last.fm/music/Dai/_/you)** - Dai<br/>
+> ∙ **[Crossroads](https://www.last.fm/music/Omori/_/Crossroads)** - Omori<br/>
+> ∙ **[Bach / Arr. Hess: Herz und Mund und Tat und Leben, BWV 147: Chorale. "Jesus bleibet meine Freude"](https://www.last.fm/music/Johann+Sebastian+Bach/_/Bach+%2F+Arr.+Hess:+Herz+und+Mund+und+Tat+und+Leben,+BWV+147:+Chorale.+%22Jesus+bleibet+meine+Freude%22)** - Johann Sebastian Bach<br/>
+> ∙ **[Respite](https://www.last.fm/music/Omori/_/Respite)** - Omori<br/>
+> ∙ **[Fallen Down](https://www.last.fm/music/Toby+Fox/_/Fallen+Down)** - Toby Fox<br/>
+> ∙ **[See You Tomorrow](https://www.last.fm/music/Omori/_/See+You+Tomorrow)** - Omori<br/>
+> ∙ **[Remember to Be Patient](https://www.last.fm/music/Omori/_/Remember+to+Be+Patient)** - Omori<br/>
+> ∙ **[WHITE SPACE](https://www.last.fm/music/Omori/_/WHITE+SPACE)** - Omori<br/>
 <!--END_LASTFM_RECENT-->
