@@ -48,24 +48,24 @@ Other         3 hrs 8 mins          >------------------------   05.95 %
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `37 ▶️` ∙ **[a picture of her](https://www.last.fm/music/a+picture+of+her)**<br/>
-> `36 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `21 ▶️` ∙ **[panoir](https://www.last.fm/music/panoir)**<br/>
+> `23 ▶️` ∙ **[panoir](https://www.last.fm/music/panoir)**<br/>
 > `20 ▶️` ∙ **[Lizzy McAlpine](https://www.last.fm/music/Lizzy+McAlpine)**<br/>
-> `11 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `13 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `10 ▶️` ∙ **[Yorushika](https://www.last.fm/music/Yorushika)**<br/>
-> `8 ▶️` ∙ **[Fuminori Matsumoto](https://www.last.fm/music/Fuminori+Matsumoto)**<br/>
-> `8 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
+> `7 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `7 ▶️` ∙ **[Fuminori Matsumoto](https://www.last.fm/music/Fuminori+Matsumoto)**<br/>
+> `7 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[six](https://www.last.fm/music/panoir/_/six)** - panoir<br/>
+> ∙ **[Earrings](https://www.last.fm/music/Malcolm+Todd/_/Earrings)** - Malcolm Todd<br/>
+> ∙ **[風のたより](https://www.last.fm/music/Tayori/_/%E9%A2%A8%E3%81%AE%E3%81%9F%E3%82%88%E3%82%8A)** - Tayori<br/>
+> ∙ **[Toronto 2014 (with Mustafa)](https://www.last.fm/music/Daniel+Caesar/_/Toronto+2014+(with+Mustafa))** - Daniel Caesar<br/>
+> ∙ **[Too Little, Too Late](https://www.last.fm/music/Laufey/_/Too+Little,+Too+Late)** - Laufey<br/>
+> ∙ **[Studying alone at home late at night.](https://www.last.fm/music/NMH+2/_/Studying+alone+at+home+late+at+night.)** - NMH 2<br/>
+> ∙ **[eight](https://www.last.fm/music/panoir/_/eight)** - panoir<br/>
+> ∙ **[seven](https://www.last.fm/music/panoir/_/seven)** - panoir<br/>
 > ∙ **[six](https://www.last.fm/music/panoir/_/six)** - panoir<br/>
-> ∙ **[five](https://www.last.fm/music/panoir/_/five)** - panoir<br/>
-> ∙ **[four](https://www.last.fm/music/panoir/_/four)** - panoir<br/>
-> ∙ **[three](https://www.last.fm/music/panoir/_/three)** - panoir<br/>
-> ∙ **[two](https://www.last.fm/music/panoir/_/two)** - panoir<br/>
-> ∙ **[one](https://www.last.fm/music/panoir/_/one)** - panoir<br/>
-> ∙ **[tsuki](https://www.last.fm/music/Morimoto+Naoki/_/tsuki)** - Morimoto Naoki<br/>
 <!--END_LASTFM_RECENT-->
