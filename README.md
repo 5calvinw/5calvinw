@@ -62,12 +62,12 @@ Other         1 hr 35 mins          >------------------------   02.73 %
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[The Man Who Can't Be Moved](https://www.last.fm/music/The+Script/_/The+Man+Who+Can%27t+Be+Moved)** - The Script<br/>
+> ∙ **[cream](https://www.last.fm/music/%E7%95%B0%E6%AC%A1%E5%85%83+%2F+youkiss/_/cream)** - 異次元 / youkiss<br/>
+> ∙ **[カミイロアワセ](https://www.last.fm/music/binaria/_/%E3%82%AB%E3%83%9F%E3%82%A4%E3%83%AD%E3%82%A2%E3%83%AF%E3%82%BB)** - binaria<br/>
+> ∙ **[The Disaster of Passion](https://www.last.fm/music/Aisha/_/The+Disaster+of+Passion)** - Aisha<br/>
+> ∙ **[The Man Who Can't Be Moved](https://www.last.fm/music/The+Script/_/The+Man+Who+Can%27t+Be+Moved)** - The Script<br/>
 > ∙ **[ヒャダインのカカカタ☆カタオモイ-C](https://www.last.fm/music/Hyadain/_/%E3%83%92%E3%83%A3%E3%83%80%E3%82%A4%E3%83%B3%E3%81%AE%E3%82%AB%E3%82%AB%E3%82%AB%E3%82%BF%E2%98%86%E3%82%AB%E3%82%BF%E3%82%AA%E3%83%A2%E3%82%A4-C)** - Hyadain<br/>
 > ∙ **[Lebih Indah](https://www.last.fm/music/Adera/_/Lebih+Indah)** - Adera<br/>
 > ∙ **[Rain](https://www.last.fm/music/%E7%A7%A6%E5%9F%BA%E5%8D%9A/_/Rain)** - 秦基博<br/>
 > ∙ **[Seventh Heaven](https://www.last.fm/music/INOHA/_/Seventh+Heaven)** - INOHA<br/>
-> ∙ **[ヒッチコック - Re-Recording](https://www.last.fm/music/Yorushika/_/%E3%83%92%E3%83%83%E3%83%81%E3%82%B3%E3%83%83%E3%82%AF+-+Re-Recording)** - Yorushika<br/>
-> ∙ **[サンキュー！！](https://www.last.fm/music/HOME+MADE+%E5%AE%B6%E6%97%8F/_/%E3%82%B5%E3%83%B3%E3%82%AD%E3%83%A5%E3%83%BC%EF%BC%81%EF%BC%81)** - HOME MADE 家族<br/>
-> ∙ **[Door](https://www.last.fm/music/%E3%82%A8%E3%83%9F%E3%83%AA%E3%82%A2(CV:%E9%AB%98%E6%A9%8B%E6%9D%8E%E4%BE%9D)/_/Door)** - エミリア(CV:高橋李依)<br/>
 <!--END_LASTFM_RECENT-->
