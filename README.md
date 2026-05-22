@@ -50,11 +50,11 @@ Other         1 hr 35 mins          >------------------------   02.73 %
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `37 ▶️` ∙ **[a picture of her](https://www.last.fm/music/a+picture+of+her)**<br/>
+> `23 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `23 ▶️` ∙ **[panoir](https://www.last.fm/music/panoir)**<br/>
-> `22 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `19 ▶️` ∙ **[Lizzy McAlpine](https://www.last.fm/music/Lizzy+McAlpine)**<br/>
+> `20 ▶️` ∙ **[Lizzy McAlpine](https://www.last.fm/music/Lizzy+McAlpine)**<br/>
 > `11 ▶️` ∙ **[Yorushika](https://www.last.fm/music/Yorushika)**<br/>
-> `9 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `10 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `8 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `7 ▶️` ∙ **[Fuminori Matsumoto](https://www.last.fm/music/Fuminori+Matsumoto)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -62,12 +62,12 @@ Other         1 hr 35 mins          >------------------------   02.73 %
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Gymnopédie No. 1](https://www.last.fm/music/Erik+Satie/_/Gymnop%C3%A9die+No.+1)** - Erik Satie<br/>
+> ∙ **[lit(var)](https://www.last.fm/music/Kensuke+Ushio/_/lit(var))** - Kensuke Ushio<br/>
+> ∙ **[DUET](https://www.last.fm/music/Omori/_/DUET)** - Omori<br/>
+> ∙ **[Staying](https://www.last.fm/music/Lizzy+McAlpine/_/Staying)** - Lizzy McAlpine<br/>
+> ∙ **[The Man Who Can't Be Moved](https://www.last.fm/music/The+Script/_/The+Man+Who+Can%27t+Be+Moved)** - The Script<br/>
+> ∙ **[Pandangan Pertama](https://www.last.fm/music/RAN/_/Pandangan+Pertama)** - RAN<br/>
 > ∙ **[Fanfare](https://www.last.fm/music/TWICE/_/Fanfare)** - TWICE<br/>
 > ∙ **[A Home For Flowers (Daisy)](https://www.last.fm/music/Omori/_/A+Home+For+Flowers+(Daisy))** - Omori<br/>
-> ∙ **[H20:HCL](https://www.last.fm/music/Omori/_/H20:HCL)** - Omori<br/>
-> ∙ **[Do You Remember?](https://www.last.fm/music/Omori/_/Do+You+Remember%3F)** - Omori<br/>
-> ∙ **[fall](https://www.last.fm/music/zts/_/fall)** - zts<br/>
-> ∙ **[lost at a sleepover](https://www.last.fm/music/Omori/_/lost+at+a+sleepover)** - Omori<br/>
-> ∙ **[cage](https://www.last.fm/music/zts/_/cage)** - zts<br/>
-> ∙ **[Sugar Star Planetarium](https://www.last.fm/music/Omori/_/Sugar+Star+Planetarium)** - Omori<br/>
 <!--END_LASTFM_RECENT-->
