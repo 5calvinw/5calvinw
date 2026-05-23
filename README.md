@@ -49,14 +49,14 @@ Other         1 hr 35 mins          >------------------------   02.73 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `37 ▶️` ∙ **[a picture of her](https://www.last.fm/music/a+picture+of+her)**<br/>
-> `23 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `35 ▶️` ∙ **[a picture of her](https://www.last.fm/music/a+picture+of+her)**<br/>
 > `23 ▶️` ∙ **[panoir](https://www.last.fm/music/panoir)**<br/>
-> `20 ▶️` ∙ **[Lizzy McAlpine](https://www.last.fm/music/Lizzy+McAlpine)**<br/>
+> `22 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `19 ▶️` ∙ **[Lizzy McAlpine](https://www.last.fm/music/Lizzy+McAlpine)**<br/>
 > `12 ▶️` ∙ **[Yorushika](https://www.last.fm/music/Yorushika)**<br/>
-> `11 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `8 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
-> `7 ▶️` ∙ **[Fuminori Matsumoto](https://www.last.fm/music/Fuminori+Matsumoto)**<br/>
+> `10 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `7 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `7 ▶️` ∙ **[TWICE](https://www.last.fm/music/TWICE)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
