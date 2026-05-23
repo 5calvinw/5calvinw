@@ -51,23 +51,23 @@ Other         1 hr 37 mins          >------------------------   02.68 %
 
 > `23 ▶️` ∙ **[panoir](https://www.last.fm/music/panoir)**<br/>
 > `22 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `19 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `19 ▶️` ∙ **[Lizzy McAlpine](https://www.last.fm/music/Lizzy+McAlpine)**<br/>
-> `10 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `7 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `7 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
-> `7 ▶️` ∙ **[Yorushika](https://www.last.fm/music/Yorushika)**<br/>
-> `6 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
+> `6 ▶️` ∙ **[物語シリーズ](https://www.last.fm/music/%E7%89%A9%E8%AA%9E%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA)**<br/>
+> `5 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[One More Wish](https://www.last.fm/music/C%C3%B6+shu+Nie/_/One+More+Wish)** - Cö shu Nie<br/>
-> ∙ **[プロポーズ](https://www.last.fm/music/9Lana/_/%E3%83%97%E3%83%AD%E3%83%9D%E3%83%BC%E3%82%BA)** - 9Lana<br/>
-> ∙ **[No Time to Explain](https://www.last.fm/music/Good+Kid/_/No+Time+to+Explain)** - Good Kid<br/>
-> ∙ **[Kirari](https://www.last.fm/music/Fujii+Kaze/_/Kirari)** - Fujii Kaze<br/>
-> ∙ **[Shinunoga E-Wa](https://www.last.fm/music/Fujii+Kaze/_/Shinunoga+E-Wa)** - Fujii Kaze<br/>
-> ∙ **[masshiro (pure white)](https://www.last.fm/music/Fujii+Kaze/_/masshiro+(pure+white))** - Fujii Kaze<br/>
-> ∙ **[When the Morning Glory Falls](https://www.last.fm/music/Tuyu/_/When+the+Morning+Glory+Falls)** - Tuyu<br/>
-> ∙ **[endroll](https://www.last.fm/music/MIKANZIL/_/endroll)** - MIKANZIL<br/>
+> ∙ **[Please Do Not Lean (feat. BADBADNOTGOOD) - Bonus](https://www.last.fm/music/Daniel+Caesar/_/Please+Do+Not+Lean+(feat.+BADBADNOTGOOD)+-+Bonus)** - Daniel Caesar<br/>
+> ∙ **[Streetcar](https://www.last.fm/music/Daniel+Caesar/_/Streetcar)** - Daniel Caesar<br/>
+> ∙ **[Loose](https://www.last.fm/music/Daniel+Caesar/_/Loose)** - Daniel Caesar<br/>
+> ∙ **[SUPERPOSITION (feat. John Mayer)](https://www.last.fm/music/Daniel+Caesar/_/SUPERPOSITION+(feat.+John+Mayer))** - Daniel Caesar<br/>
+> ∙ **[Always](https://www.last.fm/music/Daniel+Caesar/_/Always)** - Daniel Caesar<br/>
+> ∙ **[Get You (feat. Kali Uchis)](https://www.last.fm/music/Daniel+Caesar/_/Get+You+(feat.+Kali+Uchis))** - Daniel Caesar<br/>
+> ∙ **[Superpowers](https://www.last.fm/music/Daniel+Caesar/_/Superpowers)** - Daniel Caesar<br/>
+> ∙ **[Best Part (feat. H.E.R.)](https://www.last.fm/music/Daniel+Caesar/_/Best+Part+(feat.+H.E.R.))** - Daniel Caesar<br/>
 <!--END_LASTFM_RECENT-->
