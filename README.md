@@ -49,25 +49,25 @@ Other         1 hr 37 mins          >------------------------   02.68 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `35 ▶️` ∙ **[a picture of her](https://www.last.fm/music/a+picture+of+her)**<br/>
 > `23 ▶️` ∙ **[panoir](https://www.last.fm/music/panoir)**<br/>
 > `22 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `19 ▶️` ∙ **[Lizzy McAlpine](https://www.last.fm/music/Lizzy+McAlpine)**<br/>
 > `12 ▶️` ∙ **[Yorushika](https://www.last.fm/music/Yorushika)**<br/>
 > `10 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `7 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `7 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `7 ▶️` ∙ **[TWICE](https://www.last.fm/music/TWICE)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[cream](https://www.last.fm/music/%E7%95%B0%E6%AC%A1%E5%85%83+%2F+youkiss/_/cream)** - 異次元 / youkiss<br/>
-> ∙ **[カミイロアワセ](https://www.last.fm/music/binaria/_/%E3%82%AB%E3%83%9F%E3%82%A4%E3%83%AD%E3%82%A2%E3%83%AF%E3%82%BB)** - binaria<br/>
-> ∙ **[The Disaster of Passion](https://www.last.fm/music/Aisha/_/The+Disaster+of+Passion)** - Aisha<br/>
-> ∙ **[The Man Who Can't Be Moved](https://www.last.fm/music/The+Script/_/The+Man+Who+Can%27t+Be+Moved)** - The Script<br/>
-> ∙ **[ヒャダインのカカカタ☆カタオモイ-C](https://www.last.fm/music/Hyadain/_/%E3%83%92%E3%83%A3%E3%83%80%E3%82%A4%E3%83%B3%E3%81%AE%E3%82%AB%E3%82%AB%E3%82%AB%E3%82%BF%E2%98%86%E3%82%AB%E3%82%BF%E3%82%AA%E3%83%A2%E3%82%A4-C)** - Hyadain<br/>
-> ∙ **[Lebih Indah](https://www.last.fm/music/Adera/_/Lebih+Indah)** - Adera<br/>
-> ∙ **[Rain](https://www.last.fm/music/%E7%A7%A6%E5%9F%BA%E5%8D%9A/_/Rain)** - 秦基博<br/>
-> ∙ **[Seventh Heaven](https://www.last.fm/music/INOHA/_/Seventh+Heaven)** - INOHA<br/>
+> ∙ **[One More Wish](https://www.last.fm/music/C%C3%B6+shu+Nie/_/One+More+Wish)** - Cö shu Nie<br/>
+> ∙ **[プロポーズ](https://www.last.fm/music/9Lana/_/%E3%83%97%E3%83%AD%E3%83%9D%E3%83%BC%E3%82%BA)** - 9Lana<br/>
+> ∙ **[No Time to Explain](https://www.last.fm/music/Good+Kid/_/No+Time+to+Explain)** - Good Kid<br/>
+> ∙ **[Kirari](https://www.last.fm/music/Fujii+Kaze/_/Kirari)** - Fujii Kaze<br/>
+> ∙ **[Shinunoga E-Wa](https://www.last.fm/music/Fujii+Kaze/_/Shinunoga+E-Wa)** - Fujii Kaze<br/>
+> ∙ **[masshiro (pure white)](https://www.last.fm/music/Fujii+Kaze/_/masshiro+(pure+white))** - Fujii Kaze<br/>
+> ∙ **[When the Morning Glory Falls](https://www.last.fm/music/Tuyu/_/When+the+Morning+Glory+Falls)** - Tuyu<br/>
+> ∙ **[endroll](https://www.last.fm/music/MIKANZIL/_/endroll)** - MIKANZIL<br/>
 <!--END_LASTFM_RECENT-->
