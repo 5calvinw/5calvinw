@@ -52,11 +52,11 @@ Other         1 hr 37 mins          >------------------------   02.68 %
 > `23 ▶️` ∙ **[panoir](https://www.last.fm/music/panoir)**<br/>
 > `22 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `19 ▶️` ∙ **[Lizzy McAlpine](https://www.last.fm/music/Lizzy+McAlpine)**<br/>
-> `12 ▶️` ∙ **[Yorushika](https://www.last.fm/music/Yorushika)**<br/>
 > `10 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `7 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `7 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
-> `7 ▶️` ∙ **[TWICE](https://www.last.fm/music/TWICE)**<br/>
+> `7 ▶️` ∙ **[Yorushika](https://www.last.fm/music/Yorushika)**<br/>
+> `6 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
