@@ -51,8 +51,8 @@ Other         1 hr 37 mins          >------------------------   02.68 %
 
 > `23 ▶️` ∙ **[panoir](https://www.last.fm/music/panoir)**<br/>
 > `22 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `20 ▶️` ∙ **[Lizzy McAlpine](https://www.last.fm/music/Lizzy+McAlpine)**<br/>
 > `19 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `19 ▶️` ∙ **[Lizzy McAlpine](https://www.last.fm/music/Lizzy+McAlpine)**<br/>
 > `7 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `7 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `6 ▶️` ∙ **[物語シリーズ](https://www.last.fm/music/%E7%89%A9%E8%AA%9E%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA)**<br/>
@@ -62,12 +62,12 @@ Other         1 hr 37 mins          >------------------------   02.68 %
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Please Do Not Lean (feat. BADBADNOTGOOD) - Bonus](https://www.last.fm/music/Daniel+Caesar/_/Please+Do+Not+Lean+(feat.+BADBADNOTGOOD)+-+Bonus)** - Daniel Caesar<br/>
-> ∙ **[Streetcar](https://www.last.fm/music/Daniel+Caesar/_/Streetcar)** - Daniel Caesar<br/>
-> ∙ **[Loose](https://www.last.fm/music/Daniel+Caesar/_/Loose)** - Daniel Caesar<br/>
-> ∙ **[SUPERPOSITION (feat. John Mayer)](https://www.last.fm/music/Daniel+Caesar/_/SUPERPOSITION+(feat.+John+Mayer))** - Daniel Caesar<br/>
-> ∙ **[Always](https://www.last.fm/music/Daniel+Caesar/_/Always)** - Daniel Caesar<br/>
-> ∙ **[Get You (feat. Kali Uchis)](https://www.last.fm/music/Daniel+Caesar/_/Get+You+(feat.+Kali+Uchis))** - Daniel Caesar<br/>
-> ∙ **[Superpowers](https://www.last.fm/music/Daniel+Caesar/_/Superpowers)** - Daniel Caesar<br/>
-> ∙ **[Best Part (feat. H.E.R.)](https://www.last.fm/music/Daniel+Caesar/_/Best+Part+(feat.+H.E.R.))** - Daniel Caesar<br/>
+> 🎶 **[Pocket wo Fukuramase te - Instrumental](https://www.last.fm/music/VISUAL+ARTS+%2F+Key/_/Pocket+wo+Fukuramase+te+-+Instrumental)** - VISUAL ARTS / Key<br/>
+> ∙ **[kagefumi](https://www.last.fm/music/%E7%99%BE%E6%99%AF/_/kagefumi)** - 百景<br/>
+> ∙ **[Ekspektasi](https://www.last.fm/music/Okin/_/Ekspektasi)** - Okin<br/>
+> ∙ **[spring into summer](https://www.last.fm/music/Lizzy+McAlpine/_/spring+into+summer)** - Lizzy McAlpine<br/>
+> ∙ **[Slow Dance](https://www.last.fm/music/Clairo/_/Slow+Dance)** - Clairo<br/>
+> ∙ **[About You](https://www.last.fm/music/The+1975/_/About+You)** - The 1975<br/>
+> ∙ **[ぎゅっと。](https://www.last.fm/music/%E3%82%82%E3%81%95%E3%82%92%E3%80%82/_/%E3%81%8E%E3%82%85%E3%81%A3%E3%81%A8%E3%80%82)** - もさを。<br/>
+> ∙ **[花の塔](https://www.last.fm/music/Sayuri/_/%E8%8A%B1%E3%81%AE%E5%A1%94)** - Sayuri<br/>
 <!--END_LASTFM_RECENT-->
