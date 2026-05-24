@@ -53,21 +53,21 @@ Other         1 hr 37 mins          >------------------------   02.68 %
 > `22 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `22 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `21 ▶️` ∙ **[Lizzy McAlpine](https://www.last.fm/music/Lizzy+McAlpine)**<br/>
-> `10 ▶️` ∙ **[Sidney Gish](https://www.last.fm/music/Sidney+Gish)**<br/>
-> `9 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
+> `11 ▶️` ∙ **[Sidney Gish](https://www.last.fm/music/Sidney+Gish)**<br/>
+> `10 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
+> `8 ▶️` ∙ **[物語シリーズ](https://www.last.fm/music/%E7%89%A9%E8%AA%9E%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA)**<br/>
 > `7 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
-> `7 ▶️` ∙ **[Origami Angel](https://www.last.fm/music/Origami+Angel)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Sin Triangle](https://www.last.fm/music/Sidney+Gish/_/Sin+Triangle)** - Sidney Gish<br/>
-> ∙ **[Bird Tutorial](https://www.last.fm/music/Sidney+Gish/_/Bird+Tutorial)** - Sidney Gish<br/>
-> ∙ **[New Recording 180 (New Year's Eve)](https://www.last.fm/music/Sidney+Gish/_/New+Recording+180+(New+Year%27s+Eve))** - Sidney Gish<br/>
-> ∙ **[Impostor Syndrome](https://www.last.fm/music/Sidney+Gish/_/Impostor+Syndrome)** - Sidney Gish<br/>
-> ∙ **[kagefumi](https://www.last.fm/music/%E7%99%BE%E6%99%AF/_/kagefumi)** - 百景<br/>
-> ∙ **[Ekspektasi](https://www.last.fm/music/Okin/_/Ekspektasi)** - Okin<br/>
-> ∙ **[spring into summer](https://www.last.fm/music/Lizzy+McAlpine/_/spring+into+summer)** - Lizzy McAlpine<br/>
-> ∙ **[Slow Dance](https://www.last.fm/music/Clairo/_/Slow+Dance)** - Clairo<br/>
+> ∙ **[Fake.Fake.Fake](https://www.last.fm/music/AZKI/_/Fake.Fake.Fake)** - AZKI<br/>
+> ∙ **[M'aider](https://www.last.fm/music/FROZEN+QUALIA/_/M%27aider)** - FROZEN QUALIA<br/>
+> ∙ **[Anemone No Hana](https://www.last.fm/music/fh%C3%A1na/_/Anemone+No+Hana)** - fhána<br/>
+> ∙ **[Starlights (feat. Tea)](https://www.last.fm/music/kamome+sano/_/Starlights+(feat.+Tea))** - kamome sano<br/>
+> ∙ **[When the Morning Glory Falls](https://www.last.fm/music/Tuyu/_/When+the+Morning+Glory+Falls)** - Tuyu<br/>
+> ∙ **[endroll](https://www.last.fm/music/MIKANZIL/_/endroll)** - MIKANZIL<br/>
+> ∙ **[Scented Breeze](https://www.last.fm/music/%E6%B1%9F%EF%A8%91%E6%96%87%E6%AD%A6/_/Scented+Breeze)** - 江﨑文武<br/>
+> ∙ **[perfect slumbers](https://www.last.fm/music/%E7%89%A9%E8%AA%9E%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/_/perfect+slumbers)** - 物語シリーズ<br/>
 <!--END_LASTFM_RECENT-->
