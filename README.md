@@ -50,25 +50,25 @@ Other         1 hr 37 mins          >------------------------   02.54 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `32 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `27 ▶️` ∙ **[Sidney Gish](https://www.last.fm/music/Sidney+Gish)**<br/>
-> `23 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `23 ▶️` ∙ **[panoir](https://www.last.fm/music/panoir)**<br/>
 > `22 ▶️` ∙ **[Lizzy McAlpine](https://www.last.fm/music/Lizzy+McAlpine)**<br/>
 > `16 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `13 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `11 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
-> `7 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
+> `8 ▶️` ∙ **[Origami Angel](https://www.last.fm/music/Origami+Angel)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[perfect slumbers](https://www.last.fm/music/%E7%89%A9%E8%AA%9E%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/_/perfect+slumbers)** - 物語シリーズ<br/>
-> ∙ **[Measure the Dawn](https://www.last.fm/music/JYOCHO/_/Measure+the+Dawn)** - JYOCHO<br/>
-> ∙ **[Too Little, Too Late](https://www.last.fm/music/Laufey/_/Too+Little,+Too+Late)** - Laufey<br/>
-> ∙ **[Impostor Syndrome](https://www.last.fm/music/Sidney+Gish/_/Impostor+Syndrome)** - Sidney Gish<br/>
-> ∙ **[Bird Tutorial](https://www.last.fm/music/Sidney+Gish/_/Bird+Tutorial)** - Sidney Gish<br/>
-> ∙ **[New Recording 180 (New Year's Eve)](https://www.last.fm/music/Sidney+Gish/_/New+Recording+180+(New+Year%27s+Eve))** - Sidney Gish<br/>
-> ∙ **[Impostor Syndrome](https://www.last.fm/music/Sidney+Gish/_/Impostor+Syndrome)** - Sidney Gish<br/>
-> ∙ **[Persephone](https://www.last.fm/music/Sidney+Gish/_/Persephone)** - Sidney Gish<br/>
+> ∙ **[ヒーロー](https://www.last.fm/music/Supercell/_/%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC)** - Supercell<br/>
+> ∙ **[オーケストラ](https://www.last.fm/music/Bish/_/%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9)** - Bish<br/>
+> ∙ **[オーケストラ ’23](https://www.last.fm/music/Bish/_/%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9+%E2%80%9923)** - Bish<br/>
+> ∙ **[Streetcar](https://www.last.fm/music/Daniel+Caesar/_/Streetcar)** - Daniel Caesar<br/>
+> ∙ **[Please Do Not Lean (feat. BADBADNOTGOOD) - Bonus](https://www.last.fm/music/Daniel+Caesar/_/Please+Do+Not+Lean+(feat.+BADBADNOTGOOD)+-+Bonus)** - Daniel Caesar<br/>
+> ∙ **[Blessed](https://www.last.fm/music/Daniel+Caesar/_/Blessed)** - Daniel Caesar<br/>
+> ∙ **[Loose](https://www.last.fm/music/Daniel+Caesar/_/Loose)** - Daniel Caesar<br/>
+> ∙ **[Best Part (feat. H.E.R.)](https://www.last.fm/music/Daniel+Caesar/_/Best+Part+(feat.+H.E.R.))** - Daniel Caesar<br/>
 <!--END_LASTFM_RECENT-->
