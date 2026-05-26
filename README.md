@@ -50,25 +50,25 @@ Other         1 hr 37 mins          >------------------------   02.65 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `27 ▶️` ∙ **[Sidney Gish](https://www.last.fm/music/Sidney+Gish)**<br/>
+> `23 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `23 ▶️` ∙ **[panoir](https://www.last.fm/music/panoir)**<br/>
-> `22 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `22 ▶️` ∙ **[Lizzy McAlpine](https://www.last.fm/music/Lizzy+McAlpine)**<br/>
 > `16 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `12 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
-> `12 ▶️` ∙ **[Sidney Gish](https://www.last.fm/music/Sidney+Gish)**<br/>
+> `13 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `11 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
-> `7 ▶️` ∙ **[物語シリーズ](https://www.last.fm/music/%E7%89%A9%E8%AA%9E%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA)**<br/>
+> `7 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[恥ずかしいか青春は](https://www.last.fm/music/Ryokuoushoku+Shakai/_/%E6%81%A5%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84%E3%81%8B%E9%9D%92%E6%98%A5%E3%81%AF)** - Ryokuoushoku Shakai<br/>
-> ∙ **[Umareochiru sekai](https://www.last.fm/music/VISUAL+ARTS+%2F+Key/_/Umareochiru+sekai)** - VISUAL ARTS / Key<br/>
-> ∙ **[prc](https://www.last.fm/music/Kensuke+Ushio/_/prc)** - Kensuke Ushio<br/>
-> ∙ **[Gentle Jena](https://www.last.fm/music/VISUAL+ARTS+%2F+Key/_/Gentle+Jena)** - VISUAL ARTS / Key<br/>
-> ∙ **[Mezameta Asa ni](https://www.last.fm/music/VISUAL+ARTS+%2F+Key/_/Mezameta+Asa+ni)** - VISUAL ARTS / Key<br/>
-> ∙ **[Nene](https://www.last.fm/music/Masakatsu+Takagi/_/Nene)** - Masakatsu Takagi<br/>
-> ∙ **[wind,glass,bluebird](https://www.last.fm/music/Kensuke+Ushio/_/wind,glass,bluebird)** - Kensuke Ushio<br/>
-> ∙ **[目標](https://www.last.fm/music/%E6%9E%97%E3%82%86%E3%81%86%E3%81%8D/_/%E7%9B%AE%E6%A8%99)** - 林ゆうき<br/>
+> 🎶 **[perfect slumbers](https://www.last.fm/music/%E7%89%A9%E8%AA%9E%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/_/perfect+slumbers)** - 物語シリーズ<br/>
+> ∙ **[Measure the Dawn](https://www.last.fm/music/JYOCHO/_/Measure+the+Dawn)** - JYOCHO<br/>
+> ∙ **[Too Little, Too Late](https://www.last.fm/music/Laufey/_/Too+Little,+Too+Late)** - Laufey<br/>
+> ∙ **[Impostor Syndrome](https://www.last.fm/music/Sidney+Gish/_/Impostor+Syndrome)** - Sidney Gish<br/>
+> ∙ **[Bird Tutorial](https://www.last.fm/music/Sidney+Gish/_/Bird+Tutorial)** - Sidney Gish<br/>
+> ∙ **[New Recording 180 (New Year's Eve)](https://www.last.fm/music/Sidney+Gish/_/New+Recording+180+(New+Year%27s+Eve))** - Sidney Gish<br/>
+> ∙ **[Impostor Syndrome](https://www.last.fm/music/Sidney+Gish/_/Impostor+Syndrome)** - Sidney Gish<br/>
+> ∙ **[Persephone](https://www.last.fm/music/Sidney+Gish/_/Persephone)** - Sidney Gish<br/>
 <!--END_LASTFM_RECENT-->
