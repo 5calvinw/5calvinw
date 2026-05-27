@@ -50,25 +50,25 @@ Other         1 hr 37 mins          >------------------------   02.54 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `31 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `35 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `27 ▶️` ∙ **[Sidney Gish](https://www.last.fm/music/Sidney+Gish)**<br/>
 > `23 ▶️` ∙ **[panoir](https://www.last.fm/music/panoir)**<br/>
-> `22 ▶️` ∙ **[Lizzy McAlpine](https://www.last.fm/music/Lizzy+McAlpine)**<br/>
-> `16 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `13 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
-> `11 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `21 ▶️` ∙ **[Lizzy McAlpine](https://www.last.fm/music/Lizzy+McAlpine)**<br/>
+> `15 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `12 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
+> `10 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `8 ▶️` ∙ **[Origami Angel](https://www.last.fm/music/Origami+Angel)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> 🎶 **[Always](https://www.last.fm/music/Daniel+Caesar/_/Always)** - Daniel Caesar<br/>
+> ∙ **[Superpowers](https://www.last.fm/music/Daniel+Caesar/_/Superpowers)** - Daniel Caesar<br/>
+> ∙ **[Get You (feat. Kali Uchis)](https://www.last.fm/music/Daniel+Caesar/_/Get+You+(feat.+Kali+Uchis))** - Daniel Caesar<br/>
+> ∙ **[Best Part (feat. H.E.R.)](https://www.last.fm/music/Daniel+Caesar/_/Best+Part+(feat.+H.E.R.))** - Daniel Caesar<br/>
+> ∙ **[Who Knows](https://www.last.fm/music/Daniel+Caesar/_/Who+Knows)** - Daniel Caesar<br/>
+> ∙ **[＆Ｚ](https://www.last.fm/music/SawanoHiroyuki%5BnZk%5D/_/%EF%BC%86%EF%BC%BA)** - SawanoHiroyuki[nZk]<br/>
 > ∙ **[Grand Escape (feat. Toko Miura)](https://www.last.fm/music/RADWIMPS/_/Grand+Escape+(feat.+Toko+Miura))** - RADWIMPS<br/>
 > ∙ **[Alice in 冷凍庫](https://www.last.fm/music/Mary/_/Alice+in+%E5%86%B7%E5%87%8D%E5%BA%AB)** - Mary<br/>
-> ∙ **[Alice in 冷凍庫](https://www.last.fm/music/Mary/_/Alice+in+%E5%86%B7%E5%87%8D%E5%BA%AB)** - Mary<br/>
-> ∙ **[ヒーロー](https://www.last.fm/music/Supercell/_/%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC)** - Supercell<br/>
-> ∙ **[オーケストラ](https://www.last.fm/music/Bish/_/%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9)** - Bish<br/>
-> ∙ **[オーケストラ ’23](https://www.last.fm/music/Bish/_/%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9+%E2%80%9923)** - Bish<br/>
-> ∙ **[Streetcar](https://www.last.fm/music/Daniel+Caesar/_/Streetcar)** - Daniel Caesar<br/>
-> ∙ **[Please Do Not Lean (feat. BADBADNOTGOOD) - Bonus](https://www.last.fm/music/Daniel+Caesar/_/Please+Do+Not+Lean+(feat.+BADBADNOTGOOD)+-+Bonus)** - Daniel Caesar<br/>
 <!--END_LASTFM_RECENT-->
