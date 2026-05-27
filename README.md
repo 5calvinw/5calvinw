@@ -50,25 +50,25 @@ Other         1 hr 37 mins          >------------------------   02.49 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `35 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `43 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `27 ▶️` ∙ **[Sidney Gish](https://www.last.fm/music/Sidney+Gish)**<br/>
 > `23 ▶️` ∙ **[panoir](https://www.last.fm/music/panoir)**<br/>
-> `21 ▶️` ∙ **[Lizzy McAlpine](https://www.last.fm/music/Lizzy+McAlpine)**<br/>
 > `15 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `12 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `10 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `9 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `8 ▶️` ∙ **[Origami Angel](https://www.last.fm/music/Origami+Angel)**<br/>
+> `6 ▶️` ∙ **[centimillimental](https://www.last.fm/music/centimillimental)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Always](https://www.last.fm/music/Daniel+Caesar/_/Always)** - Daniel Caesar<br/>
-> ∙ **[Superpowers](https://www.last.fm/music/Daniel+Caesar/_/Superpowers)** - Daniel Caesar<br/>
-> ∙ **[Get You (feat. Kali Uchis)](https://www.last.fm/music/Daniel+Caesar/_/Get+You+(feat.+Kali+Uchis))** - Daniel Caesar<br/>
-> ∙ **[Best Part (feat. H.E.R.)](https://www.last.fm/music/Daniel+Caesar/_/Best+Part+(feat.+H.E.R.))** - Daniel Caesar<br/>
-> ∙ **[Who Knows](https://www.last.fm/music/Daniel+Caesar/_/Who+Knows)** - Daniel Caesar<br/>
-> ∙ **[＆Ｚ](https://www.last.fm/music/SawanoHiroyuki%5BnZk%5D/_/%EF%BC%86%EF%BC%BA)** - SawanoHiroyuki[nZk]<br/>
-> ∙ **[Grand Escape (feat. Toko Miura)](https://www.last.fm/music/RADWIMPS/_/Grand+Escape+(feat.+Toko+Miura))** - RADWIMPS<br/>
-> ∙ **[Alice in 冷凍庫](https://www.last.fm/music/Mary/_/Alice+in+%E5%86%B7%E5%87%8D%E5%BA%AB)** - Mary<br/>
+> ∙ **[Rearrange My World](https://www.last.fm/music/Daniel+Caesar/_/Rearrange+My+World)** - Daniel Caesar<br/>
+> ∙ **[SUPERPOSITION (feat. John Mayer)](https://www.last.fm/music/Daniel+Caesar/_/SUPERPOSITION+(feat.+John+Mayer))** - Daniel Caesar<br/>
+> ∙ **[Emily’s Song](https://www.last.fm/music/Daniel+Caesar/_/Emily%E2%80%99s+Song)** - Daniel Caesar<br/>
+> ∙ **[Do You Like Me?](https://www.last.fm/music/Daniel+Caesar/_/Do+You+Like+Me%3F)** - Daniel Caesar<br/>
+> ∙ **[Disillusioned (with serpentwithfeet)](https://www.last.fm/music/Daniel+Caesar/_/Disillusioned+(with+serpentwithfeet))** - Daniel Caesar<br/>
+> ∙ **[Japanese Denim](https://www.last.fm/music/Daniel+Caesar/_/Japanese+Denim)** - Daniel Caesar<br/>
+> ∙ **[Loose](https://www.last.fm/music/Daniel+Caesar/_/Loose)** - Daniel Caesar<br/>
+> ∙ **[Hold Me Down](https://www.last.fm/music/Daniel+Caesar/_/Hold+Me+Down)** - Daniel Caesar<br/>
 <!--END_LASTFM_RECENT-->
