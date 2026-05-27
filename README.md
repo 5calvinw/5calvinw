@@ -50,25 +50,25 @@ Other         1 hr 37 mins          >------------------------   02.49 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `43 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `27 ▶️` ∙ **[Sidney Gish](https://www.last.fm/music/Sidney+Gish)**<br/>
-> `23 ▶️` ∙ **[panoir](https://www.last.fm/music/panoir)**<br/>
+> `52 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `28 ▶️` ∙ **[Sidney Gish](https://www.last.fm/music/Sidney+Gish)**<br/>
+> `19 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
 > `15 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `10 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `9 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `8 ▶️` ∙ **[Origami Angel](https://www.last.fm/music/Origami+Angel)**<br/>
-> `6 ▶️` ∙ **[centimillimental](https://www.last.fm/music/centimillimental)**<br/>
+> `8 ▶️` ∙ **[panoir](https://www.last.fm/music/panoir)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Rearrange My World](https://www.last.fm/music/Daniel+Caesar/_/Rearrange+My+World)** - Daniel Caesar<br/>
-> ∙ **[SUPERPOSITION (feat. John Mayer)](https://www.last.fm/music/Daniel+Caesar/_/SUPERPOSITION+(feat.+John+Mayer))** - Daniel Caesar<br/>
-> ∙ **[Emily’s Song](https://www.last.fm/music/Daniel+Caesar/_/Emily%E2%80%99s+Song)** - Daniel Caesar<br/>
-> ∙ **[Do You Like Me?](https://www.last.fm/music/Daniel+Caesar/_/Do+You+Like+Me%3F)** - Daniel Caesar<br/>
-> ∙ **[Disillusioned (with serpentwithfeet)](https://www.last.fm/music/Daniel+Caesar/_/Disillusioned+(with+serpentwithfeet))** - Daniel Caesar<br/>
-> ∙ **[Japanese Denim](https://www.last.fm/music/Daniel+Caesar/_/Japanese+Denim)** - Daniel Caesar<br/>
-> ∙ **[Loose](https://www.last.fm/music/Daniel+Caesar/_/Loose)** - Daniel Caesar<br/>
-> ∙ **[Hold Me Down](https://www.last.fm/music/Daniel+Caesar/_/Hold+Me+Down)** - Daniel Caesar<br/>
+> 🎶 **[碧い家](https://www.last.fm/music/JYOCHO/_/%E7%A2%A7%E3%81%84%E5%AE%B6)** - JYOCHO<br/>
+> ∙ **[Gather the Lights](https://www.last.fm/music/JYOCHO/_/Gather+the+Lights)** - JYOCHO<br/>
+> ∙ **[安い命](https://www.last.fm/music/JYOCHO/_/%E5%AE%89%E3%81%84%E5%91%BD)** - JYOCHO<br/>
+> ∙ **[Guide and Devote](https://www.last.fm/music/JYOCHO/_/Guide+and+Devote)** - JYOCHO<br/>
+> ∙ **[Aporia](https://www.last.fm/music/JYOCHO/_/Aporia)** - JYOCHO<br/>
+> ∙ **[グラスの底は、夜](https://www.last.fm/music/JYOCHO/_/%E3%82%B0%E3%83%A9%E3%82%B9%E3%81%AE%E5%BA%95%E3%81%AF%E3%80%81%E5%A4%9C)** - JYOCHO<br/>
+> ∙ **[つづくいのち](https://www.last.fm/music/JYOCHO/_/%E3%81%A4%E3%81%A5%E3%81%8F%E3%81%84%E3%81%AE%E3%81%A1)** - JYOCHO<br/>
+> ∙ **[family](https://www.last.fm/music/JYOCHO/_/family)** - JYOCHO<br/>
 <!--END_LASTFM_RECENT-->
