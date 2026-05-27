@@ -52,7 +52,7 @@ Other         1 hr 37 mins          >------------------------   02.49 %
 
 > `52 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `28 ▶️` ∙ **[Sidney Gish](https://www.last.fm/music/Sidney+Gish)**<br/>
-> `19 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
+> `26 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
 > `15 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `10 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `9 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
@@ -63,12 +63,12 @@ Other         1 hr 37 mins          >------------------------   02.49 %
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[碧い家](https://www.last.fm/music/JYOCHO/_/%E7%A2%A7%E3%81%84%E5%AE%B6)** - JYOCHO<br/>
+> ∙ **[Stay in the Circle](https://www.last.fm/music/JYOCHO/_/Stay+in+the+Circle)** - JYOCHO<br/>
+> ∙ **[furusato](https://www.last.fm/music/JYOCHO/_/furusato)** - JYOCHO<br/>
+> ∙ **[hills](https://www.last.fm/music/JYOCHO/_/hills)** - JYOCHO<br/>
+> ∙ **[美しい終末サイクル](https://www.last.fm/music/JYOCHO/_/%E7%BE%8E%E3%81%97%E3%81%84%E7%B5%82%E6%9C%AB%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB)** - JYOCHO<br/>
+> ∙ **[The End of Sorrow](https://www.last.fm/music/JYOCHO/_/The+End+of+Sorrow)** - JYOCHO<br/>
+> ∙ **[あの木にはわたしにないものを](https://www.last.fm/music/JYOCHO/_/%E3%81%82%E3%81%AE%E6%9C%A8%E3%81%AB%E3%81%AF%E3%82%8F%E3%81%9F%E3%81%97%E3%81%AB%E3%81%AA%E3%81%84%E3%82%82%E3%81%AE%E3%82%92)** - JYOCHO<br/>
+> ∙ **[碧い家](https://www.last.fm/music/JYOCHO/_/%E7%A2%A7%E3%81%84%E5%AE%B6)** - JYOCHO<br/>
 > ∙ **[Gather the Lights](https://www.last.fm/music/JYOCHO/_/Gather+the+Lights)** - JYOCHO<br/>
-> ∙ **[安い命](https://www.last.fm/music/JYOCHO/_/%E5%AE%89%E3%81%84%E5%91%BD)** - JYOCHO<br/>
-> ∙ **[Guide and Devote](https://www.last.fm/music/JYOCHO/_/Guide+and+Devote)** - JYOCHO<br/>
-> ∙ **[Aporia](https://www.last.fm/music/JYOCHO/_/Aporia)** - JYOCHO<br/>
-> ∙ **[グラスの底は、夜](https://www.last.fm/music/JYOCHO/_/%E3%82%B0%E3%83%A9%E3%82%B9%E3%81%AE%E5%BA%95%E3%81%AF%E3%80%81%E5%A4%9C)** - JYOCHO<br/>
-> ∙ **[つづくいのち](https://www.last.fm/music/JYOCHO/_/%E3%81%A4%E3%81%A5%E3%81%8F%E3%81%84%E3%81%AE%E3%81%A1)** - JYOCHO<br/>
-> ∙ **[family](https://www.last.fm/music/JYOCHO/_/family)** - JYOCHO<br/>
 <!--END_LASTFM_RECENT-->
