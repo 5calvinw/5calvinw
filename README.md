@@ -50,14 +50,14 @@ Other         1 hr 37 mins          >------------------------   02.49 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `52 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `51 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `28 ▶️` ∙ **[Sidney Gish](https://www.last.fm/music/Sidney+Gish)**<br/>
 > `26 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
-> `15 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `10 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `13 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `9 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `9 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `8 ▶️` ∙ **[Origami Angel](https://www.last.fm/music/Origami+Angel)**<br/>
-> `8 ▶️` ∙ **[panoir](https://www.last.fm/music/panoir)**<br/>
+> `6 ▶️` ∙ **[MIKANZIL](https://www.last.fm/music/MIKANZIL)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
