@@ -51,25 +51,25 @@ Other         1 hr 37 mins          >------------------------   02.46 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `49 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `54 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `29 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
 > `29 ▶️` ∙ **[Sidney Gish](https://www.last.fm/music/Sidney+Gish)**<br/>
-> `13 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `10 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `9 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `8 ▶️` ∙ **[Bish](https://www.last.fm/music/Bish)**<br/>
-> `8 ▶️` ∙ **[Origami Angel](https://www.last.fm/music/Origami+Angel)**<br/>
+> `8 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `7 ▶️` ∙ **[Origami Angel](https://www.last.fm/music/Origami+Angel)**<br/>
+> `6 ▶️` ∙ **[MIKANZIL](https://www.last.fm/music/MIKANZIL)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Yasashisa no Riyu](https://www.last.fm/music/ChouCho/_/Yasashisa+no+Riyu)** - ChouCho<br/>
-> ∙ **[Die with a Smile](https://www.last.fm/music/Lady+Gaga/_/Die+with+a+Smile)** - Lady Gaga<br/>
-> ∙ **[Ring of Fortune](https://www.last.fm/music/%E4%BD%90%E3%80%85%E6%9C%A8%E6%81%B5%E6%A2%A8/_/Ring+of+Fortune)** - 佐々木恵梨<br/>
-> ∙ **[Untitled](https://www.last.fm/music/MALIQ+&+D%27Essentials/_/Untitled)** - MALIQ & D'Essentials<br/>
-> ∙ **[Stuck on You](https://www.last.fm/music/Giv%C4%93on/_/Stuck+on+You)** - Givēon<br/>
-> ∙ **[Be Wherever You Are (feat. Zach Callison)](https://www.last.fm/music/Steven+Universe/_/Be+Wherever+You+Are+(feat.+Zach+Callison))** - Steven Universe<br/>
-> ∙ **[blue](https://www.last.fm/music/yung+kai/_/blue)** - yung kai<br/>
-> ∙ **[Lebih Indah](https://www.last.fm/music/Adera/_/Lebih+Indah)** - Adera<br/>
+> ∙ **[Get You (feat. Kali Uchis)](https://www.last.fm/music/Daniel+Caesar/_/Get+You+(feat.+Kali+Uchis))** - Daniel Caesar<br/>
+> ∙ **[Japanese Denim](https://www.last.fm/music/Daniel+Caesar/_/Japanese+Denim)** - Daniel Caesar<br/>
+> ∙ **[Superpowers](https://www.last.fm/music/Daniel+Caesar/_/Superpowers)** - Daniel Caesar<br/>
+> ∙ **[Best Part (feat. H.E.R.)](https://www.last.fm/music/Daniel+Caesar/_/Best+Part+(feat.+H.E.R.))** - Daniel Caesar<br/>
+> ∙ **[Who Knows](https://www.last.fm/music/Daniel+Caesar/_/Who+Knows)** - Daniel Caesar<br/>
+> ∙ **[Do You Like Me?](https://www.last.fm/music/Daniel+Caesar/_/Do+You+Like+Me%3F)** - Daniel Caesar<br/>
+> ∙ **[Last Promise](https://www.last.fm/music/%E5%B1%B1%E5%B4%8E%E3%82%A8%E3%83%AA%E3%82%A4/_/Last+Promise)** - 山崎エリイ<br/>
+> ∙ **[Wonder Schaffen no Housoku](https://www.last.fm/music/Alice+Schach+and+the+Magic+Orchestra/_/Wonder+Schaffen+no+Housoku)** - Alice Schach and the Magic Orchestra<br/>
 <!--END_LASTFM_RECENT-->
