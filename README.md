@@ -51,25 +51,25 @@ Other         1 hr 37 mins          >------------------------   02.46 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `51 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `28 ▶️` ∙ **[Sidney Gish](https://www.last.fm/music/Sidney+Gish)**<br/>
-> `26 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
+> `49 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `29 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
+> `29 ▶️` ∙ **[Sidney Gish](https://www.last.fm/music/Sidney+Gish)**<br/>
 > `13 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `9 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `10 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `9 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
+> `8 ▶️` ∙ **[Bish](https://www.last.fm/music/Bish)**<br/>
 > `8 ▶️` ∙ **[Origami Angel](https://www.last.fm/music/Origami+Angel)**<br/>
-> `6 ▶️` ∙ **[MIKANZIL](https://www.last.fm/music/MIKANZIL)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Stay in the Circle](https://www.last.fm/music/JYOCHO/_/Stay+in+the+Circle)** - JYOCHO<br/>
-> ∙ **[furusato](https://www.last.fm/music/JYOCHO/_/furusato)** - JYOCHO<br/>
-> ∙ **[hills](https://www.last.fm/music/JYOCHO/_/hills)** - JYOCHO<br/>
-> ∙ **[美しい終末サイクル](https://www.last.fm/music/JYOCHO/_/%E7%BE%8E%E3%81%97%E3%81%84%E7%B5%82%E6%9C%AB%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB)** - JYOCHO<br/>
-> ∙ **[The End of Sorrow](https://www.last.fm/music/JYOCHO/_/The+End+of+Sorrow)** - JYOCHO<br/>
-> ∙ **[あの木にはわたしにないものを](https://www.last.fm/music/JYOCHO/_/%E3%81%82%E3%81%AE%E6%9C%A8%E3%81%AB%E3%81%AF%E3%82%8F%E3%81%9F%E3%81%97%E3%81%AB%E3%81%AA%E3%81%84%E3%82%82%E3%81%AE%E3%82%92)** - JYOCHO<br/>
-> ∙ **[碧い家](https://www.last.fm/music/JYOCHO/_/%E7%A2%A7%E3%81%84%E5%AE%B6)** - JYOCHO<br/>
-> ∙ **[Gather the Lights](https://www.last.fm/music/JYOCHO/_/Gather+the+Lights)** - JYOCHO<br/>
+> 🎶 **[Yasashisa no Riyu](https://www.last.fm/music/ChouCho/_/Yasashisa+no+Riyu)** - ChouCho<br/>
+> ∙ **[Die with a Smile](https://www.last.fm/music/Lady+Gaga/_/Die+with+a+Smile)** - Lady Gaga<br/>
+> ∙ **[Ring of Fortune](https://www.last.fm/music/%E4%BD%90%E3%80%85%E6%9C%A8%E6%81%B5%E6%A2%A8/_/Ring+of+Fortune)** - 佐々木恵梨<br/>
+> ∙ **[Untitled](https://www.last.fm/music/MALIQ+&+D%27Essentials/_/Untitled)** - MALIQ & D'Essentials<br/>
+> ∙ **[Stuck on You](https://www.last.fm/music/Giv%C4%93on/_/Stuck+on+You)** - Givēon<br/>
+> ∙ **[Be Wherever You Are (feat. Zach Callison)](https://www.last.fm/music/Steven+Universe/_/Be+Wherever+You+Are+(feat.+Zach+Callison))** - Steven Universe<br/>
+> ∙ **[blue](https://www.last.fm/music/yung+kai/_/blue)** - yung kai<br/>
+> ∙ **[Lebih Indah](https://www.last.fm/music/Adera/_/Lebih+Indah)** - Adera<br/>
 <!--END_LASTFM_RECENT-->
