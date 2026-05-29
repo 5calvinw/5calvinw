@@ -52,11 +52,11 @@ Other         1 hr 37 mins          >------------------------   02.46 %
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `54 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `29 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
+> `31 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
 > `29 ▶️` ∙ **[Sidney Gish](https://www.last.fm/music/Sidney+Gish)**<br/>
+> `9 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `9 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `8 ▶️` ∙ **[Bish](https://www.last.fm/music/Bish)**<br/>
-> `8 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `7 ▶️` ∙ **[Origami Angel](https://www.last.fm/music/Origami+Angel)**<br/>
 > `6 ▶️` ∙ **[MIKANZIL](https://www.last.fm/music/MIKANZIL)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -64,12 +64,12 @@ Other         1 hr 37 mins          >------------------------   02.46 %
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Get You (feat. Kali Uchis)](https://www.last.fm/music/Daniel+Caesar/_/Get+You+(feat.+Kali+Uchis))** - Daniel Caesar<br/>
-> ∙ **[Japanese Denim](https://www.last.fm/music/Daniel+Caesar/_/Japanese+Denim)** - Daniel Caesar<br/>
-> ∙ **[Superpowers](https://www.last.fm/music/Daniel+Caesar/_/Superpowers)** - Daniel Caesar<br/>
-> ∙ **[Best Part (feat. H.E.R.)](https://www.last.fm/music/Daniel+Caesar/_/Best+Part+(feat.+H.E.R.))** - Daniel Caesar<br/>
-> ∙ **[Who Knows](https://www.last.fm/music/Daniel+Caesar/_/Who+Knows)** - Daniel Caesar<br/>
-> ∙ **[Do You Like Me?](https://www.last.fm/music/Daniel+Caesar/_/Do+You+Like+Me%3F)** - Daniel Caesar<br/>
-> ∙ **[Last Promise](https://www.last.fm/music/%E5%B1%B1%E5%B4%8E%E3%82%A8%E3%83%AA%E3%82%A4/_/Last+Promise)** - 山崎エリイ<br/>
-> ∙ **[Wonder Schaffen no Housoku](https://www.last.fm/music/Alice+Schach+and+the+Magic+Orchestra/_/Wonder+Schaffen+no+Housoku)** - Alice Schach and the Magic Orchestra<br/>
+> 🎶 **[Summer's Wind](https://www.last.fm/music/Edin+Kaso/_/Summer%27s+Wind)** - Edin Kaso<br/>
+> ∙ **[Solitude](https://www.last.fm/music/%E9%98%BF%E4%BF%9D%E5%89%9B/_/Solitude)** - 阿保剛<br/>
+> ∙ **[it begins](https://www.last.fm/music/Kensuke+Ushio/_/it+begins)** - Kensuke Ushio<br/>
+> ∙ **[Wind Garden](https://www.last.fm/music/AJ+DiSpirito/_/Wind+Garden)** - AJ DiSpirito<br/>
+> ∙ **[Moonsetter](https://www.last.fm/music/CopacetiCat/_/Moonsetter)** - CopacetiCat<br/>
+> ∙ **[まくとぅそーけ、なんくるないさ](https://www.last.fm/music/Yoshiaki+Dewa/_/%E3%81%BE%E3%81%8F%E3%81%A8%E3%81%85%E3%81%9D%E3%83%BC%E3%81%91%E3%80%81%E3%81%AA%E3%82%93%E3%81%8F%E3%82%8B%E3%81%AA%E3%81%84%E3%81%95)** - Yoshiaki Dewa<br/>
+> ∙ **[Title](https://www.last.fm/music/Omori/_/Title)** - Omori<br/>
+> ∙ **[You Must Carry On.](https://www.last.fm/music/Omori/_/You+Must+Carry+On.)** - Omori<br/>
 <!--END_LASTFM_RECENT-->
