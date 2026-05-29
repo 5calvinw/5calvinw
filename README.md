@@ -54,22 +54,22 @@ Other         1 hr 45 mins          >------------------------   02.60 %
 > `54 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `31 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
 > `29 ▶️` ∙ **[Sidney Gish](https://www.last.fm/music/Sidney+Gish)**<br/>
-> `9 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `19 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `16 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `9 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `8 ▶️` ∙ **[Bish](https://www.last.fm/music/Bish)**<br/>
 > `7 ▶️` ∙ **[Origami Angel](https://www.last.fm/music/Origami+Angel)**<br/>
-> `6 ▶️` ∙ **[MIKANZIL](https://www.last.fm/music/MIKANZIL)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Summer's Wind](https://www.last.fm/music/Edin+Kaso/_/Summer%27s+Wind)** - Edin Kaso<br/>
-> ∙ **[Solitude](https://www.last.fm/music/%E9%98%BF%E4%BF%9D%E5%89%9B/_/Solitude)** - 阿保剛<br/>
-> ∙ **[it begins](https://www.last.fm/music/Kensuke+Ushio/_/it+begins)** - Kensuke Ushio<br/>
-> ∙ **[Wind Garden](https://www.last.fm/music/AJ+DiSpirito/_/Wind+Garden)** - AJ DiSpirito<br/>
-> ∙ **[Moonsetter](https://www.last.fm/music/CopacetiCat/_/Moonsetter)** - CopacetiCat<br/>
-> ∙ **[まくとぅそーけ、なんくるないさ](https://www.last.fm/music/Yoshiaki+Dewa/_/%E3%81%BE%E3%81%8F%E3%81%A8%E3%81%85%E3%81%9D%E3%83%BC%E3%81%91%E3%80%81%E3%81%AA%E3%82%93%E3%81%8F%E3%82%8B%E3%81%AA%E3%81%84%E3%81%95)** - Yoshiaki Dewa<br/>
-> ∙ **[Title](https://www.last.fm/music/Omori/_/Title)** - Omori<br/>
-> ∙ **[You Must Carry On.](https://www.last.fm/music/Omori/_/You+Must+Carry+On.)** - Omori<br/>
+> 🎶 **[the desire to simply not exist](https://www.last.fm/music/Reece+Moseley/_/the+desire+to+simply+not+exist)** - Reece Moseley<br/>
+> ∙ **[a plant managed to startle me somehow](https://www.last.fm/music/AZALI/_/a+plant+managed+to+startle+me+somehow)** - AZALI<br/>
+> ∙ **[A Home For Flowers (Daisy)](https://www.last.fm/music/Omori/_/A+Home+For+Flowers+(Daisy))** - Omori<br/>
+> ∙ **[Sugar Star Planetarium](https://www.last.fm/music/Omori/_/Sugar+Star+Planetarium)** - Omori<br/>
+> ∙ **[Play With Me](https://www.last.fm/music/Dan+Salvato/_/Play+With+Me)** - Dan Salvato<br/>
+> ∙ **[Kagayakashiki Nitijou - instrumental](https://www.last.fm/music/Swinging+Popsicle/_/Kagayakashiki+Nitijou+-+instrumental)** - Swinging Popsicle<br/>
+> ∙ **[Fushigi of Inanna (Solfeggio 528hz) [Impro#30 211216]](https://www.last.fm/music/Shintaro+Aoki/_/Fushigi+of+Inanna+(Solfeggio+528hz)+%5BImpro%2330+211216%5D)** - Shintaro Aoki<br/>
+> ∙ **[Glade](https://www.last.fm/music/Omori/_/Glade)** - Omori<br/>
 <!--END_LASTFM_RECENT-->
