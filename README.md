@@ -51,25 +51,25 @@ Other         1 hr 45 mins          >------------------------   02.60 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `54 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `31 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
+> `51 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `49 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
+> `30 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
+> `30 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `29 ▶️` ∙ **[Sidney Gish](https://www.last.fm/music/Sidney+Gish)**<br/>
-> `19 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `16 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
-> `9 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
+> `17 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `8 ▶️` ∙ **[Bish](https://www.last.fm/music/Bish)**<br/>
-> `7 ▶️` ∙ **[Origami Angel](https://www.last.fm/music/Origami+Angel)**<br/>
+> `8 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[the desire to simply not exist](https://www.last.fm/music/Reece+Moseley/_/the+desire+to+simply+not+exist)** - Reece Moseley<br/>
-> ∙ **[a plant managed to startle me somehow](https://www.last.fm/music/AZALI/_/a+plant+managed+to+startle+me+somehow)** - AZALI<br/>
-> ∙ **[A Home For Flowers (Daisy)](https://www.last.fm/music/Omori/_/A+Home+For+Flowers+(Daisy))** - Omori<br/>
-> ∙ **[Sugar Star Planetarium](https://www.last.fm/music/Omori/_/Sugar+Star+Planetarium)** - Omori<br/>
-> ∙ **[Play With Me](https://www.last.fm/music/Dan+Salvato/_/Play+With+Me)** - Dan Salvato<br/>
-> ∙ **[Kagayakashiki Nitijou - instrumental](https://www.last.fm/music/Swinging+Popsicle/_/Kagayakashiki+Nitijou+-+instrumental)** - Swinging Popsicle<br/>
-> ∙ **[Fushigi of Inanna (Solfeggio 528hz) [Impro#30 211216]](https://www.last.fm/music/Shintaro+Aoki/_/Fushigi+of+Inanna+(Solfeggio+528hz)+%5BImpro%2330+211216%5D)** - Shintaro Aoki<br/>
-> ∙ **[Glade](https://www.last.fm/music/Omori/_/Glade)** - Omori<br/>
+> ∙ **[Pelican Town](https://www.last.fm/music/ConcernedApe/_/Pelican+Town)** - ConcernedApe<br/>
+> ∙ **[Overture](https://www.last.fm/music/ConcernedApe/_/Overture)** - ConcernedApe<br/>
+> ∙ **[Spring (It's A Big World Outside)](https://www.last.fm/music/ConcernedApe/_/Spring+(It%27s+A+Big+World+Outside))** - ConcernedApe<br/>
+> ∙ **[Mines (Star Lumpy)](https://www.last.fm/music/ConcernedApe/_/Mines+(Star+Lumpy))** - ConcernedApe<br/>
+> ∙ **[Submarine Song](https://www.last.fm/music/ConcernedApe/_/Submarine+Song)** - ConcernedApe<br/>
+> ∙ **[Mines (Cloth)](https://www.last.fm/music/ConcernedApe/_/Mines+(Cloth))** - ConcernedApe<br/>
+> ∙ **[Summer (The Sun Can Bend An Orange Sky)](https://www.last.fm/music/ConcernedApe/_/Summer+(The+Sun+Can+Bend+An+Orange+Sky))** - ConcernedApe<br/>
+> ∙ **[Winter (The Wind Can Be Still)](https://www.last.fm/music/ConcernedApe/_/Winter+(The+Wind+Can+Be+Still))** - ConcernedApe<br/>
 <!--END_LASTFM_RECENT-->
