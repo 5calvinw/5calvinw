@@ -51,8 +51,8 @@ Other         1 hr 45 mins          >------------------------   02.60 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `51 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `49 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
+> `71 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
+> `53 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `30 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
 > `30 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `29 ▶️` ∙ **[Sidney Gish](https://www.last.fm/music/Sidney+Gish)**<br/>
@@ -64,12 +64,12 @@ Other         1 hr 45 mins          >------------------------   02.60 %
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Pelican Town](https://www.last.fm/music/ConcernedApe/_/Pelican+Town)** - ConcernedApe<br/>
+> ∙ **[Who Knows](https://www.last.fm/music/Daniel+Caesar/_/Who+Knows)** - Daniel Caesar<br/>
+> ∙ **[Do You Like Me?](https://www.last.fm/music/Daniel+Caesar/_/Do+You+Like+Me%3F)** - Daniel Caesar<br/>
 > ∙ **[Overture](https://www.last.fm/music/ConcernedApe/_/Overture)** - ConcernedApe<br/>
 > ∙ **[Spring (It's A Big World Outside)](https://www.last.fm/music/ConcernedApe/_/Spring+(It%27s+A+Big+World+Outside))** - ConcernedApe<br/>
 > ∙ **[Mines (Star Lumpy)](https://www.last.fm/music/ConcernedApe/_/Mines+(Star+Lumpy))** - ConcernedApe<br/>
 > ∙ **[Submarine Song](https://www.last.fm/music/ConcernedApe/_/Submarine+Song)** - ConcernedApe<br/>
 > ∙ **[Mines (Cloth)](https://www.last.fm/music/ConcernedApe/_/Mines+(Cloth))** - ConcernedApe<br/>
 > ∙ **[Summer (The Sun Can Bend An Orange Sky)](https://www.last.fm/music/ConcernedApe/_/Summer+(The+Sun+Can+Bend+An+Orange+Sky))** - ConcernedApe<br/>
-> ∙ **[Winter (The Wind Can Be Still)](https://www.last.fm/music/ConcernedApe/_/Winter+(The+Wind+Can+Be+Still))** - ConcernedApe<br/>
 <!--END_LASTFM_RECENT-->
