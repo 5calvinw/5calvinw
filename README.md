@@ -51,25 +51,25 @@ Other         1 hr 45 mins          >------------------------   02.60 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `71 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
-> `53 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `30 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
+> `73 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
+> `54 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `30 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `29 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
 > `29 ▶️` ∙ **[Sidney Gish](https://www.last.fm/music/Sidney+Gish)**<br/>
 > `17 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `8 ▶️` ∙ **[Bish](https://www.last.fm/music/Bish)**<br/>
-> `8 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
+> `8 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Who Knows](https://www.last.fm/music/Daniel+Caesar/_/Who+Knows)** - Daniel Caesar<br/>
-> ∙ **[Do You Like Me?](https://www.last.fm/music/Daniel+Caesar/_/Do+You+Like+Me%3F)** - Daniel Caesar<br/>
-> ∙ **[Overture](https://www.last.fm/music/ConcernedApe/_/Overture)** - ConcernedApe<br/>
-> ∙ **[Spring (It's A Big World Outside)](https://www.last.fm/music/ConcernedApe/_/Spring+(It%27s+A+Big+World+Outside))** - ConcernedApe<br/>
-> ∙ **[Mines (Star Lumpy)](https://www.last.fm/music/ConcernedApe/_/Mines+(Star+Lumpy))** - ConcernedApe<br/>
-> ∙ **[Submarine Song](https://www.last.fm/music/ConcernedApe/_/Submarine+Song)** - ConcernedApe<br/>
-> ∙ **[Mines (Cloth)](https://www.last.fm/music/ConcernedApe/_/Mines+(Cloth))** - ConcernedApe<br/>
-> ∙ **[Summer (The Sun Can Bend An Orange Sky)](https://www.last.fm/music/ConcernedApe/_/Summer+(The+Sun+Can+Bend+An+Orange+Sky))** - ConcernedApe<br/>
+> 🎶 **[Jangan Cintai Aku Apa Adanya](https://www.last.fm/music/Tulus/_/Jangan+Cintai+Aku+Apa+Adanya)** - Tulus<br/>
+> ∙ **[Pandangan Pertama](https://www.last.fm/music/RAN/_/Pandangan+Pertama)** - RAN<br/>
+> ∙ **[telepatía](https://www.last.fm/music/Kali+Uchis/_/telepat%C3%ADa)** - Kali Uchis<br/>
+> ∙ **[Marigolds](https://www.last.fm/music/Early+Eyes/_/Marigolds)** - Early Eyes<br/>
+> ∙ **[Benci Untuk Mencinta](https://www.last.fm/music/Naif/_/Benci+Untuk+Mencinta)** - Naif<br/>
+> ∙ **[Rain](https://www.last.fm/music/b%C3%B4a/_/Rain)** - bôa<br/>
+> ∙ **[Thrift Shop (feat. Wanz)](https://www.last.fm/music/Macklemore+&+Ryan+Lewis/_/Thrift+Shop+(feat.+Wanz))** - Macklemore & Ryan Lewis<br/>
+> ∙ **[Asphodelus](https://www.last.fm/music/Ceui/_/Asphodelus)** - Ceui<br/>
 <!--END_LASTFM_RECENT-->
