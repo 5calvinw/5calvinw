@@ -64,12 +64,12 @@ Other         1 hr 45 mins          >------------------------   02.60 %
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Jangan Cintai Aku Apa Adanya](https://www.last.fm/music/Tulus/_/Jangan+Cintai+Aku+Apa+Adanya)** - Tulus<br/>
-> ∙ **[Pandangan Pertama](https://www.last.fm/music/RAN/_/Pandangan+Pertama)** - RAN<br/>
-> ∙ **[telepatía](https://www.last.fm/music/Kali+Uchis/_/telepat%C3%ADa)** - Kali Uchis<br/>
-> ∙ **[Marigolds](https://www.last.fm/music/Early+Eyes/_/Marigolds)** - Early Eyes<br/>
-> ∙ **[Benci Untuk Mencinta](https://www.last.fm/music/Naif/_/Benci+Untuk+Mencinta)** - Naif<br/>
-> ∙ **[Rain](https://www.last.fm/music/b%C3%B4a/_/Rain)** - bôa<br/>
-> ∙ **[Thrift Shop (feat. Wanz)](https://www.last.fm/music/Macklemore+&+Ryan+Lewis/_/Thrift+Shop+(feat.+Wanz))** - Macklemore & Ryan Lewis<br/>
-> ∙ **[Asphodelus](https://www.last.fm/music/Ceui/_/Asphodelus)** - Ceui<br/>
+> ∙ **[Squall](https://www.last.fm/music/04+Limited+Sazabys/_/Squall)** - 04 Limited Sazabys<br/>
+> ∙ **[Sawakaze](https://www.last.fm/music/%E3%82%BF%E3%83%8B%E3%82%B6%E3%83%AF%E3%83%88%E3%83%A2%E3%83%95%E3%83%9F/_/Sawakaze)** - タニザワトモフミ<br/>
+> ∙ **[Honey](https://www.last.fm/music/Chihiro/_/Honey)** - Chihiro<br/>
+> ∙ **[Bulletproof Love](https://www.last.fm/music/Pierce+the+Veil/_/Bulletproof+Love)** - Pierce the Veil<br/>
+> ∙ **[Frozen One](https://www.last.fm/music/Dance+Gavin+Dance/_/Frozen+One)** - Dance Gavin Dance<br/>
+> ∙ **[Blue Youth](https://www.last.fm/music/%E3%81%B2%E3%81%8B%E3%82%8A%E3%81%AE%E3%81%AA%E3%81%8B%E3%81%AB/_/Blue+Youth)** - ひかりのなかに<br/>
+> ∙ **[Amanita](https://www.last.fm/music/Marmalade+butcher/_/Amanita)** - Marmalade butcher<br/>
+> ∙ **[double take](https://www.last.fm/music/dhruv/_/double+take)** - dhruv<br/>
 <!--END_LASTFM_RECENT-->
