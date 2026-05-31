@@ -64,12 +64,12 @@ Other         1 hr 45 mins          >------------------------   02.60 %
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Squall](https://www.last.fm/music/04+Limited+Sazabys/_/Squall)** - 04 Limited Sazabys<br/>
-> ∙ **[Sawakaze](https://www.last.fm/music/%E3%82%BF%E3%83%8B%E3%82%B6%E3%83%AF%E3%83%88%E3%83%A2%E3%83%95%E3%83%9F/_/Sawakaze)** - タニザワトモフミ<br/>
-> ∙ **[Honey](https://www.last.fm/music/Chihiro/_/Honey)** - Chihiro<br/>
-> ∙ **[Bulletproof Love](https://www.last.fm/music/Pierce+the+Veil/_/Bulletproof+Love)** - Pierce the Veil<br/>
-> ∙ **[Frozen One](https://www.last.fm/music/Dance+Gavin+Dance/_/Frozen+One)** - Dance Gavin Dance<br/>
-> ∙ **[Blue Youth](https://www.last.fm/music/%E3%81%B2%E3%81%8B%E3%82%8A%E3%81%AE%E3%81%AA%E3%81%8B%E3%81%AB/_/Blue+Youth)** - ひかりのなかに<br/>
-> ∙ **[Amanita](https://www.last.fm/music/Marmalade+butcher/_/Amanita)** - Marmalade butcher<br/>
-> ∙ **[double take](https://www.last.fm/music/dhruv/_/double+take)** - dhruv<br/>
+> ∙ **[YALA](https://www.last.fm/music/QMIIR/_/YALA)** - QMIIR<br/>
+> ∙ **[MONTAGEM UNKNOWN](https://www.last.fm/music/AKXNESHIVA/_/MONTAGEM+UNKNOWN)** - AKXNESHIVA<br/>
+> ∙ **[MONTAGEM ELDER](https://www.last.fm/music/dj+samir/_/MONTAGEM+ELDER)** - dj samir<br/>
+> ∙ **[FUNK SERENO](https://www.last.fm/music/ICEDMANE/_/FUNK+SERENO)** - ICEDMANE<br/>
+> ∙ **[VOY A CRECER](https://www.last.fm/music/KPHK/_/VOY+A+CRECER)** - KPHK<br/>
+> ∙ **[MONTAGEM SANTA FE 2](https://www.last.fm/music/qaraqshy/_/MONTAGEM+SANTA+FE+2)** - qaraqshy<br/>
+> ∙ **[MONTAGEM ALQUIMIA](https://www.last.fm/music/h6itam/_/MONTAGEM+ALQUIMIA)** - h6itam<br/>
+> ∙ **[MONTAGEM PEGADORA - Slowed](https://www.last.fm/music/Rubikdice/_/MONTAGEM+PEGADORA+-+Slowed)** - Rubikdice<br/>
 <!--END_LASTFM_RECENT-->
