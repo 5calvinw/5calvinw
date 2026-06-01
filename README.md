@@ -55,8 +55,8 @@ Other         1 hr 45 mins          >------------------------   02.60 %
 > `43 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `30 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `27 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
-> `18 ▶️` ∙ **[Sidney Gish](https://www.last.fm/music/Sidney+Gish)**<br/>
 > `17 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `17 ▶️` ∙ **[Sidney Gish](https://www.last.fm/music/Sidney+Gish)**<br/>
 > `8 ▶️` ∙ **[Bish](https://www.last.fm/music/Bish)**<br/>
 > `8 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 <!--END_LASTFM_ARTISTS-->
