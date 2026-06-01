@@ -30,20 +30,20 @@ Email: calvinthewu@gmail.com
 <!--START_SECTION:waka-->
 
 ```rust
-From: 22 March 2026 - To: 29 May 2026
+From: 22 March 2026 - To: 30 May 2026
 
-Total Time: 66 hrs 1 min
+Total Time: 66 hrs 34 mins
 
-TypeScript    26 hrs 15 mins        >>>>>>>>>>---------------   38.74 %
-Python        6 hrs 57 mins         >>>----------------------   10.27 %
-Dart          5 hrs 40 mins         >>-----------------------   08.37 %
-HTML          5 hrs 31 mins         >>-----------------------   08.15 %
-Markdown      5 hrs 14 mins         >>-----------------------   07.72 %
-Go            4 hrs 55 mins         >>-----------------------   07.27 %
-Svelte        2 hrs 15 mins         >------------------------   03.34 %
-Bash          2 hrs 5 mins          >------------------------   03.08 %
-CSS           1 hr 47 mins          >------------------------   02.65 %
-Other         1 hr 45 mins          >------------------------   02.60 %
+TypeScript    26 hrs 47 mins        >>>>>>>>>>---------------   39.21 %
+Python        6 hrs 57 mins         >>>----------------------   10.19 %
+Dart          5 hrs 40 mins         >>-----------------------   08.30 %
+HTML          5 hrs 31 mins         >>-----------------------   08.08 %
+Markdown      5 hrs 14 mins         >>-----------------------   07.66 %
+Go            4 hrs 55 mins         >>-----------------------   07.21 %
+Svelte        2 hrs 15 mins         >------------------------   03.31 %
+Bash          2 hrs 5 mins          >------------------------   03.05 %
+CSS           1 hr 49 mins          >------------------------   02.66 %
+Other         1 hr 45 mins          >------------------------   02.58 %
 ```
 
 <!--END_SECTION:waka-->
