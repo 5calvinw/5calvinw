@@ -51,9 +51,9 @@ Other         1 hr 45 mins          >------------------------   02.58 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `85 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `73 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
-> `45 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
-> `44 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `43 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `31 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `26 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
 > `18 ▶️` ∙ **[Sidney Gish](https://www.last.fm/music/Sidney+Gish)**<br/>
@@ -64,9 +64,9 @@ Other         1 hr 45 mins          >------------------------   02.58 %
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Lover Girl](https://www.last.fm/music/Laufey/_/Lover+Girl)** - Laufey<br/>
-> ∙ **[Lover Girl](https://www.last.fm/music/Laufey/_/Lover+Girl)** - Laufey<br/>
-> ∙ **[Lover Girl](https://www.last.fm/music/Laufey/_/Lover+Girl)** - Laufey<br/>
+> ∙ **[ひこうき雲](https://www.last.fm/music/%E6%9D%BE%E4%BB%BB%E8%B0%B7%E7%94%B1%E5%AE%9F/_/%E3%81%B2%E3%81%93%E3%81%86%E3%81%8D%E9%9B%B2)** - 松任谷由実<br/>
+> ∙ **[君と夏フェス](https://www.last.fm/music/SHISHAMO/_/%E5%90%9B%E3%81%A8%E5%A4%8F%E3%83%95%E3%82%A7%E3%82%B9)** - SHISHAMO<br/>
+> ∙ **[明日も](https://www.last.fm/music/SHISHAMO/_/%E6%98%8E%E6%97%A5%E3%82%82)** - SHISHAMO<br/>
 > ∙ **[Lover Girl](https://www.last.fm/music/Laufey/_/Lover+Girl)** - Laufey<br/>
 > ∙ **[Lover Girl](https://www.last.fm/music/Laufey/_/Lover+Girl)** - Laufey<br/>
 > ∙ **[Lover Girl](https://www.last.fm/music/Laufey/_/Lover+Girl)** - Laufey<br/>
