@@ -53,7 +53,7 @@ Other         1 hr 45 mins          >------------------------   02.58 %
 
 > `84 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `73 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
-> `37 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `43 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `31 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `25 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
 > `11 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
@@ -64,12 +64,12 @@ Other         1 hr 45 mins          >------------------------   02.58 %
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Emily’s Song](https://www.last.fm/music/Daniel+Caesar/_/Emily%E2%80%99s+Song)** - Daniel Caesar<br/>
-> ∙ **[Valentina](https://www.last.fm/music/Daniel+Caesar/_/Valentina)** - Daniel Caesar<br/>
-> ∙ **[Call On Me](https://www.last.fm/music/Daniel+Caesar/_/Call+On+Me)** - Daniel Caesar<br/>
-> ∙ **[Re:Re:](https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION/_/Re:Re:)** - ASIAN KUNG-FU GENERATION<br/>
-> ∙ **[optical](https://www.last.fm/music/stargaze+shelter/_/optical)** - stargaze shelter<br/>
-> ∙ **[JET](https://www.last.fm/music/Polkadot+Stingray/_/JET)** - Polkadot Stingray<br/>
-> ∙ **[スタンドバイミー](https://www.last.fm/music/the+peggies/_/%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%83%90%E3%82%A4%E3%83%9F%E3%83%BC)** - the peggies<br/>
-> ∙ **[cafuné](https://www.last.fm/music/Rubens/_/cafun%C3%A9)** - Rubens<br/>
+> ∙ **[インフェルノ](https://www.last.fm/music/Mrs.+GREEN+APPLE/_/%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%83%AB%E3%83%8E)** - Mrs. GREEN APPLE<br/>
+> ∙ **[新宝島](https://www.last.fm/music/Sakanaction/_/%E6%96%B0%E5%AE%9D%E5%B3%B6)** - Sakanaction<br/>
+> ∙ **[優しい彗星](https://www.last.fm/music/YOASOBI/_/%E5%84%AA%E3%81%97%E3%81%84%E5%BD%97%E6%98%9F)** - YOASOBI<br/>
+> ∙ **[ないものねだり - Revenge THE FIRST TAKE](https://www.last.fm/music/KANA-BOON/_/%E3%81%AA%E3%81%84%E3%82%82%E3%81%AE%E3%81%AD%E3%81%A0%E3%82%8A+-+Revenge+THE+FIRST+TAKE)** - KANA-BOON<br/>
+> ∙ **[ピースサイン - Peace Sign](https://www.last.fm/music/Kenshi+Yonezu/_/%E3%83%94%E3%83%BC%E3%82%B9%E3%82%B5%E3%82%A4%E3%83%B3+-+Peace+Sign)** - Kenshi Yonezu<br/>
+> ∙ **[シュガーソングとビターステップ](https://www.last.fm/music/UNISON+SQUARE+GARDEN/_/%E3%82%B7%E3%83%A5%E3%82%AC%E3%83%BC%E3%82%BD%E3%83%B3%E3%82%B0%E3%81%A8%E3%83%93%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%86%E3%83%83%E3%83%97)** - UNISON SQUARE GARDEN<br/>
+> ∙ **[Zenzenzense - movie ver.](https://www.last.fm/music/RADWIMPS/_/Zenzenzense+-+movie+ver.)** - RADWIMPS<br/>
+> ∙ **[遥か彼方](https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION/_/%E9%81%A5%E3%81%8B%E5%BD%BC%E6%96%B9)** - ASIAN KUNG-FU GENERATION<br/>
 <!--END_LASTFM_RECENT-->
