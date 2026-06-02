@@ -53,12 +53,12 @@ Other         1 hr 45 mins          >------------------------   02.58 %
 
 > `84 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `73 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
-> `46 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `37 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `31 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `25 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
 > `11 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
-> `8 ▶️` ∙ **[Bish](https://www.last.fm/music/Bish)**<br/>
 > `8 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `6 ▶️` ∙ **[Bish](https://www.last.fm/music/Bish)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
