@@ -51,11 +51,11 @@ Other         1 hr 45 mins          >------------------------   02.57 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `85 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
+> `87 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `73 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
-> `34 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `31 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `25 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
+> `29 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `26 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
 > `11 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `8 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `6 ▶️` ∙ **[Bish](https://www.last.fm/music/Bish)**<br/>
@@ -64,12 +64,12 @@ Other         1 hr 45 mins          >------------------------   02.57 %
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Measure the Dawn](https://www.last.fm/music/JYOCHO/_/Measure+the+Dawn)** - JYOCHO<br/>
-> ∙ **[Buddy Holly](https://www.last.fm/music/Weezer/_/Buddy+Holly)** - Weezer<br/>
-> ∙ **[君の知らない物語](https://www.last.fm/music/Supercell/_/%E5%90%9B%E3%81%AE%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E7%89%A9%E8%AA%9E)** - Supercell<br/>
 > ∙ **[Too Little, Too Late](https://www.last.fm/music/Laufey/_/Too+Little,+Too+Late)** - Laufey<br/>
-> ∙ **[Made to Fall in Love](https://www.last.fm/music/Daniel+Caesar/_/Made+to+Fall+in+Love)** - Daniel Caesar<br/>
-> ∙ **[シルエット](https://www.last.fm/music/KANA-BOON/_/%E3%82%B7%E3%83%AB%E3%82%A8%E3%83%83%E3%83%88)** - KANA-BOON<br/>
-> ∙ **[インフェルノ](https://www.last.fm/music/Mrs.+GREEN+APPLE/_/%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%83%AB%E3%83%8E)** - Mrs. GREEN APPLE<br/>
-> ∙ **[新宝島](https://www.last.fm/music/Sakanaction/_/%E6%96%B0%E5%AE%9D%E5%B3%B6)** - Sakanaction<br/>
+> ∙ **[Impostor Syndrome](https://www.last.fm/music/Sidney+Gish/_/Impostor+Syndrome)** - Sidney Gish<br/>
+> ∙ **[Chasing Pavements](https://www.last.fm/music/Adele/_/Chasing+Pavements)** - Adele<br/>
+> ∙ **[I Wish You Love](https://www.last.fm/music/Laufey/_/I+Wish+You+Love)** - Laufey<br/>
+> ∙ **[Wonderwall - Remastered](https://www.last.fm/music/Oasis/_/Wonderwall+-+Remastered)** - Oasis<br/>
+> ∙ **[Labirin](https://www.last.fm/music/Tulus/_/Labirin)** - Tulus<br/>
+> ∙ **[Knight of Firmament (feat. Yoneko)](https://www.last.fm/music/Eye+XY/_/Knight+of+Firmament+(feat.+Yoneko))** - Eye XY<br/>
+> ∙ **[1HOPE SNIPER](https://www.last.fm/music/%E7%94%B0%E6%89%80%E3%81%82%E3%81%9A%E3%81%95/_/1HOPE+SNIPER)** - 田所あずさ<br/>
 <!--END_LASTFM_RECENT-->
