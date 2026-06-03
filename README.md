@@ -51,25 +51,25 @@ Other         1 hr 45 mins          >------------------------   02.57 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `87 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
+> `88 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `73 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
 > `31 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `29 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `26 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
+> `23 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `11 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `8 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `7 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
 > `6 ▶️` ∙ **[Bish](https://www.last.fm/music/Bish)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Toronto 2014 (with Mustafa)](https://www.last.fm/music/Daniel+Caesar/_/Toronto+2014+(with+Mustafa))** - Daniel Caesar<br/>
+> ∙ **[Fake.Fake.Fake](https://www.last.fm/music/AZKI/_/Fake.Fake.Fake)** - AZKI<br/>
+> ∙ **[M'aider](https://www.last.fm/music/FROZEN+QUALIA/_/M%27aider)** - FROZEN QUALIA<br/>
+> ∙ **[Measure the Dawn](https://www.last.fm/music/JYOCHO/_/Measure+the+Dawn)** - JYOCHO<br/>
 > ∙ **[Too Little, Too Late](https://www.last.fm/music/Laufey/_/Too+Little,+Too+Late)** - Laufey<br/>
-> ∙ **[Impostor Syndrome](https://www.last.fm/music/Sidney+Gish/_/Impostor+Syndrome)** - Sidney Gish<br/>
-> ∙ **[Chasing Pavements](https://www.last.fm/music/Adele/_/Chasing+Pavements)** - Adele<br/>
-> ∙ **[I Wish You Love](https://www.last.fm/music/Laufey/_/I+Wish+You+Love)** - Laufey<br/>
-> ∙ **[Wonderwall - Remastered](https://www.last.fm/music/Oasis/_/Wonderwall+-+Remastered)** - Oasis<br/>
-> ∙ **[Labirin](https://www.last.fm/music/Tulus/_/Labirin)** - Tulus<br/>
-> ∙ **[Knight of Firmament (feat. Yoneko)](https://www.last.fm/music/Eye+XY/_/Knight+of+Firmament+(feat.+Yoneko))** - Eye XY<br/>
-> ∙ **[1HOPE SNIPER](https://www.last.fm/music/%E7%94%B0%E6%89%80%E3%81%82%E3%81%9A%E3%81%95/_/1HOPE+SNIPER)** - 田所あずさ<br/>
+> ∙ **[perfect slumbers](https://www.last.fm/music/%E7%89%A9%E8%AA%9E%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/_/perfect+slumbers)** - 物語シリーズ<br/>
+> ∙ **[Measure the Dawn](https://www.last.fm/music/JYOCHO/_/Measure+the+Dawn)** - JYOCHO<br/>
+> ∙ **[Too Little, Too Late](https://www.last.fm/music/Laufey/_/Too+Little,+Too+Late)** - Laufey<br/>
 <!--END_LASTFM_RECENT-->
