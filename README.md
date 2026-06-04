@@ -51,14 +51,14 @@ Other         1 hr 47 mins          >------------------------   02.59 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `88 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
+> `87 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `73 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
 > `31 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `23 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `11 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `10 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `8 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
-> `7 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
-> `6 ▶️` ∙ **[Bish](https://www.last.fm/music/Bish)**<br/>
+> `6 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `5 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
