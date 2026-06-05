@@ -52,13 +52,13 @@ Other         1 hr 48 mins          >------------------------   02.56 %
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `87 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
-> `72 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
+> `23 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
 > `17 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `14 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `5 ▶️` ∙ **[VISUAL ARTS / Key - Topic](https://www.last.fm/music/VISUAL+ARTS+%2F+Key+-+Topic)**<br/>
-> `4 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `3 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
-> `3 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `3 ▶️` ∙ **[MONOGATARI Series - Topic](https://www.last.fm/music/MONOGATARI+Series+-+Topic)**<br/>
+> `3 ▶️` ∙ **[Subarashiki Hibi](https://www.last.fm/music/Subarashiki+Hibi)**<br/>
+> `3 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
