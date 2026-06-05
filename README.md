@@ -52,24 +52,24 @@ Other         1 hr 47 mins          >------------------------   02.59 %
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `87 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
-> `73 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
-> `31 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `72 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
+> `30 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `17 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `10 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
-> `7 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `11 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `6 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `6 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
-> `5 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
+> `5 ▶️` ∙ **[VISUAL ARTS / Key - Topic](https://www.last.fm/music/VISUAL+ARTS+%2F+Key+-+Topic)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[milk tea](https://www.last.fm/music/Kensuke+Ushio/_/milk+tea)** - Kensuke Ushio<br/>
+> ∙ **[終わりへ向かう始まりの歌](https://www.last.fm/music/Supercell/_/%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%B8%E5%90%91%E3%81%8B%E3%81%86%E5%A7%8B%E3%81%BE%E3%82%8A%E3%81%AE%E6%AD%8C)** - Supercell<br/>
+> ∙ **[lit(var)](https://www.last.fm/music/Kensuke+Ushio/_/lit(var))** - Kensuke Ushio<br/>
+> ∙ **[DUET](https://www.last.fm/music/Omori/_/DUET)** - Omori<br/>
+> ∙ **[マラソン](https://www.last.fm/music/%E8%8A%B1%E6%BE%A4%E9%A6%99%E8%8F%9C/_/%E3%83%9E%E3%83%A9%E3%82%BD%E3%83%B3)** - 花澤香菜<br/>
 > ∙ **[Hati-Hati di Jalan](https://www.last.fm/music/Tulus/_/Hati-Hati+di+Jalan)** - Tulus<br/>
 > ∙ **[I'm Not the Only One](https://www.last.fm/music/Sam+Smith/_/I%27m+Not+the+Only+One)** - Sam Smith<br/>
 > ∙ **[Love Grows (Where My Rosemary Goes)](https://www.last.fm/music/Edison+Lighthouse/_/Love+Grows+(Where+My+Rosemary+Goes))** - Edison Lighthouse<br/>
-> ∙ **[navy bluish apocalypse](https://www.last.fm/music/lical/_/navy+bluish+apocalypse)** - lical<br/>
-> ∙ **[Staying](https://www.last.fm/music/Lizzy+McAlpine/_/Staying)** - Lizzy McAlpine<br/>
-> ∙ **[We Are The Crystal Gems (feat. Zach Callison, Estelle, Deedee Magno Hall, Michaela Dietz & Tom Scharpling) - Full Theme Song](https://www.last.fm/music/Steven+Universe/_/We+Are+The+Crystal+Gems+(feat.+Zach+Callison,+Estelle,+Deedee+Magno+Hall,+Michaela+Dietz+&+Tom+Scharpling)+-+Full+Theme+Song)** - Steven Universe<br/>
-> ∙ **[Kacamata](https://www.last.fm/music/Afgan/_/Kacamata)** - Afgan<br/>
-> ∙ **[花の塔](https://www.last.fm/music/Sayuri/_/%E8%8A%B1%E3%81%AE%E5%A1%94)** - Sayuri<br/>
 <!--END_LASTFM_RECENT-->
