@@ -53,12 +53,12 @@ Other         1 hr 48 mins          >------------------------   02.56 %
 
 > `87 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `72 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
-> `30 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `17 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `11 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
-> `6 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
-> `6 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `14 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `5 ▶️` ∙ **[VISUAL ARTS / Key - Topic](https://www.last.fm/music/VISUAL+ARTS+%2F+Key+-+Topic)**<br/>
+> `4 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `3 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
+> `3 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
