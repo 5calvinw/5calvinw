@@ -64,12 +64,12 @@ Other         1 hr 48 mins          >------------------------   02.56 %
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Kyoumen no Nami](https://www.last.fm/music/YURiKA/_/Kyoumen+no+Nami)** - YURiKA<br/>
+> ∙ **[アクアテラリウム](https://www.last.fm/music/yanaginagi/_/%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%86%E3%83%A9%E3%83%AA%E3%82%A6%E3%83%A0)** - yanaginagi<br/>
+> ∙ **[Here With Me](https://www.last.fm/music/d4vd/_/Here+With+Me)** - d4vd<br/>
+> ∙ **[Lover](https://www.last.fm/music/Taylor+Swift/_/Lover)** - Taylor Swift<br/>
+> ∙ **[Buddy Holly](https://www.last.fm/music/Weezer/_/Buddy+Holly)** - Weezer<br/>
+> ∙ **[Sweet Boy](https://www.last.fm/music/Malcolm+Todd/_/Sweet+Boy)** - Malcolm Todd<br/>
 > ∙ **[milk tea](https://www.last.fm/music/Kensuke+Ushio/_/milk+tea)** - Kensuke Ushio<br/>
 > ∙ **[終わりへ向かう始まりの歌](https://www.last.fm/music/Supercell/_/%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%B8%E5%90%91%E3%81%8B%E3%81%86%E5%A7%8B%E3%81%BE%E3%82%8A%E3%81%AE%E6%AD%8C)** - Supercell<br/>
-> ∙ **[lit(var)](https://www.last.fm/music/Kensuke+Ushio/_/lit(var))** - Kensuke Ushio<br/>
-> ∙ **[DUET](https://www.last.fm/music/Omori/_/DUET)** - Omori<br/>
-> ∙ **[マラソン](https://www.last.fm/music/%E8%8A%B1%E6%BE%A4%E9%A6%99%E8%8F%9C/_/%E3%83%9E%E3%83%A9%E3%82%BD%E3%83%B3)** - 花澤香菜<br/>
-> ∙ **[Hati-Hati di Jalan](https://www.last.fm/music/Tulus/_/Hati-Hati+di+Jalan)** - Tulus<br/>
-> ∙ **[I'm Not the Only One](https://www.last.fm/music/Sam+Smith/_/I%27m+Not+the+Only+One)** - Sam Smith<br/>
-> ∙ **[Love Grows (Where My Rosemary Goes)](https://www.last.fm/music/Edison+Lighthouse/_/Love+Grows+(Where+My+Rosemary+Goes))** - Edison Lighthouse<br/>
 <!--END_LASTFM_RECENT-->
