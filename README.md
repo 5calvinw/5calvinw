@@ -55,21 +55,21 @@ Other         1 hr 48 mins          >------------------------   02.56 %
 > `17 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `6 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
 > `5 ▶️` ∙ **[VISUAL ARTS / Key - Topic](https://www.last.fm/music/VISUAL+ARTS+%2F+Key+-+Topic)**<br/>
+> `4 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
 > `4 ▶️` ∙ **[la la larks](https://www.last.fm/music/la+la+larks)**<br/>
 > `4 ▶️` ∙ **[Weezer](https://www.last.fm/music/Weezer)**<br/>
 > `3 ▶️` ∙ **[Armada](https://www.last.fm/music/Armada)**<br/>
-> `3 ▶️` ∙ **[Hivi!](https://www.last.fm/music/Hivi!)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[lastendconductor](https://www.last.fm/music/zts/_/lastendconductor)** - zts<br/>
-> ∙ **[Every Summertime](https://www.last.fm/music/Niki/_/Every+Summertime)** - Niki<br/>
-> ∙ **[Mencintaimu](https://www.last.fm/music/Sal+Priadi/_/Mencintaimu)** - Sal Priadi<br/>
-> ∙ **[「僕は...」](https://www.last.fm/music/Atarayo/_/%E3%80%8C%E5%83%95%E3%81%AF...%E3%80%8D)** - Atarayo<br/>
-> ∙ **[Ao no Waltz](https://www.last.fm/music/Eve/_/Ao+no+Waltz)** - Eve<br/>
-> ∙ **[Mata Ke Hati](https://www.last.fm/music/Hivi!/_/Mata+Ke+Hati)** - Hivi!<br/>
-> ∙ **[Asphodelus](https://www.last.fm/music/Ceui/_/Asphodelus)** - Ceui<br/>
-> ∙ **[ego-izm](https://www.last.fm/music/la+la+larks/_/ego-izm)** - la la larks<br/>
+> ∙ **[Gemintang Hatiku](https://www.last.fm/music/Tiara+Andini/_/Gemintang+Hatiku)** - Tiara Andini<br/>
+> ∙ **[The Disaster of Passion](https://www.last.fm/music/Aisha/_/The+Disaster+of+Passion)** - Aisha<br/>
+> ∙ **[Happiness](https://www.last.fm/music/Rex+Orange+County/_/Happiness)** - Rex Orange County<br/>
+> ∙ **[Aoi Chou](https://www.last.fm/music/Eli+Sougetsu/_/Aoi+Chou)** - Eli Sougetsu<br/>
+> ∙ **[Cancer](https://www.last.fm/music/My+Chemical+Romance/_/Cancer)** - My Chemical Romance<br/>
+> ∙ **[Measure the Dawn](https://www.last.fm/music/JYOCHO/_/Measure+the+Dawn)** - JYOCHO<br/>
+> ∙ **[Tampar](https://www.last.fm/music/Juicy+luicy/_/Tampar)** - Juicy luicy<br/>
+> ∙ **[XO](https://www.last.fm/music/Fall+Out+Boy/_/XO)** - Fall Out Boy<br/>
 <!--END_LASTFM_RECENT-->
