@@ -56,9 +56,9 @@ Other         1 hr 48 mins          >------------------------   02.56 %
 > `6 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
 > `5 ▶️` ∙ **[VISUAL ARTS / Key - Topic](https://www.last.fm/music/VISUAL+ARTS+%2F+Key+-+Topic)**<br/>
 > `4 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
-> `4 ▶️` ∙ **[la la larks](https://www.last.fm/music/la+la+larks)**<br/>
 > `4 ▶️` ∙ **[Weezer](https://www.last.fm/music/Weezer)**<br/>
 > `3 ▶️` ∙ **[Armada](https://www.last.fm/music/Armada)**<br/>
+> `3 ▶️` ∙ **[Hivi!](https://www.last.fm/music/Hivi!)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
