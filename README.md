@@ -52,24 +52,24 @@ Other         1 hr 48 mins          >------------------------   02.56 %
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `87 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
-> `23 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
-> `17 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `15 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `5 ▶️` ∙ **[VISUAL ARTS / Key - Topic](https://www.last.fm/music/VISUAL+ARTS+%2F+Key+-+Topic)**<br/>
 > `3 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
 > `3 ▶️` ∙ **[MONOGATARI Series - Topic](https://www.last.fm/music/MONOGATARI+Series+-+Topic)**<br/>
 > `3 ▶️` ∙ **[Subarashiki Hibi](https://www.last.fm/music/Subarashiki+Hibi)**<br/>
 > `3 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
+> `3 ▶️` ∙ **[Tulus](https://www.last.fm/music/Tulus)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> 🎶 **[Marvins Room](https://www.last.fm/music/Drake/_/Marvins+Room)** - Drake<br/>
+> ∙ **[Anaphylaxis](https://www.last.fm/music/PUP/_/Anaphylaxis)** - PUP<br/>
+> ∙ **[For Lovers](https://www.last.fm/music/Lamp/_/For+Lovers)** - Lamp<br/>
+> ∙ **[Toronto 2014 (with Mustafa)](https://www.last.fm/music/Daniel+Caesar/_/Toronto+2014+(with+Mustafa))** - Daniel Caesar<br/>
 > ∙ **[Kyoumen no Nami](https://www.last.fm/music/YURiKA/_/Kyoumen+no+Nami)** - YURiKA<br/>
 > ∙ **[アクアテラリウム](https://www.last.fm/music/yanaginagi/_/%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%86%E3%83%A9%E3%83%AA%E3%82%A6%E3%83%A0)** - yanaginagi<br/>
 > ∙ **[Here With Me](https://www.last.fm/music/d4vd/_/Here+With+Me)** - d4vd<br/>
 > ∙ **[Lover](https://www.last.fm/music/Taylor+Swift/_/Lover)** - Taylor Swift<br/>
-> ∙ **[Buddy Holly](https://www.last.fm/music/Weezer/_/Buddy+Holly)** - Weezer<br/>
-> ∙ **[Sweet Boy](https://www.last.fm/music/Malcolm+Todd/_/Sweet+Boy)** - Malcolm Todd<br/>
-> ∙ **[milk tea](https://www.last.fm/music/Kensuke+Ushio/_/milk+tea)** - Kensuke Ushio<br/>
-> ∙ **[終わりへ向かう始まりの歌](https://www.last.fm/music/Supercell/_/%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%B8%E5%90%91%E3%81%8B%E3%81%86%E5%A7%8B%E3%81%BE%E3%82%8A%E3%81%AE%E6%AD%8C)** - Supercell<br/>
 <!--END_LASTFM_RECENT-->
