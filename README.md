@@ -51,25 +51,25 @@ Other         1 hr 48 mins          >------------------------   02.55 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `87 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
-> `19 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `8 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
-> `6 ▶️` ∙ **[Taylor Swift](https://www.last.fm/music/Taylor+Swift)**<br/>
+> `88 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
+> `16 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `9 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
+> `7 ▶️` ∙ **[Taylor Swift](https://www.last.fm/music/Taylor+Swift)**<br/>
+> `5 ▶️` ∙ **[la la larks](https://www.last.fm/music/la+la+larks)**<br/>
 > `5 ▶️` ∙ **[VISUAL ARTS / Key - Topic](https://www.last.fm/music/VISUAL+ARTS+%2F+Key+-+Topic)**<br/>
 > `4 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
-> `4 ▶️` ∙ **[la la larks](https://www.last.fm/music/la+la+larks)**<br/>
-> `4 ▶️` ∙ **[My Chemical Romance](https://www.last.fm/music/My+Chemical+Romance)**<br/>
+> `4 ▶️` ∙ **[Lamp](https://www.last.fm/music/Lamp)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Too Little, Too Late](https://www.last.fm/music/Laufey/_/Too+Little,+Too+Late)** - Laufey<br/>
-> ∙ **[You Belong with Me](https://www.last.fm/music/Taylor+Swift/_/You+Belong+with+Me)** - Taylor Swift<br/>
-> ∙ **[Poker Face](https://www.last.fm/music/Lady+Gaga/_/Poker+Face)** - Lady Gaga<br/>
-> ∙ **[When the Morning Glory Falls](https://www.last.fm/music/Tuyu/_/When+the+Morning+Glory+Falls)** - Tuyu<br/>
-> ∙ **[サンキュー！！](https://www.last.fm/music/HOME+MADE+%E5%AE%B6%E6%97%8F/_/%E3%82%B5%E3%83%B3%E3%82%AD%E3%83%A5%E3%83%BC%EF%BC%81%EF%BC%81)** - HOME MADE 家族<br/>
-> ∙ **[i won't run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)** - Keanu Bicol<br/>
-> ∙ **[ocean eyes](https://www.last.fm/music/Billie+Eilish/_/ocean+eyes)** - Billie Eilish<br/>
-> ∙ **[Tired](https://www.last.fm/music/beabadoobee/_/Tired)** - beabadoobee<br/>
+> ∙ **[ひこうき雲](https://www.last.fm/music/%E6%9D%BE%E4%BB%BB%E8%B0%B7%E7%94%B1%E5%AE%9F/_/%E3%81%B2%E3%81%93%E3%81%86%E3%81%8D%E9%9B%B2)** - 松任谷由実<br/>
+> ∙ **[星が瞬くこんな夜に 〜ゲームVer.〜](https://www.last.fm/music/Supercell/_/%E6%98%9F%E3%81%8C%E7%9E%AC%E3%81%8F%E3%81%93%E3%82%93%E3%81%AA%E5%A4%9C%E3%81%AB+%E3%80%9C%E3%82%B2%E3%83%BC%E3%83%A0Ver.%E3%80%9C)** - Supercell<br/>
+> ∙ **[Watashi No Koi Wa Hotchkiss - Ep. 23 "Ho-Kago!" Mix](https://www.last.fm/music/Ho+-+kago+Tea+Time/_/Watashi+No+Koi+Wa+Hotchkiss+-+Ep.+23+%22Ho-Kago!%22+Mix)** - Ho - kago Tea Time<br/>
+> ∙ **[Grand Escape (feat. Toko Miura)](https://www.last.fm/music/RADWIMPS/_/Grand+Escape+(feat.+Toko+Miura))** - RADWIMPS<br/>
+> ∙ **[Chunker](https://www.last.fm/music/Hail+The+Sun/_/Chunker)** - Hail The Sun<br/>
+> ∙ **[Can't Take My Eyes Off You](https://www.last.fm/music/Frankie+Valli/_/Can%27t+Take+My+Eyes+Off+You)** - Frankie Valli<br/>
+> ∙ **[move!](https://www.last.fm/music/Niki/_/move!)** - Niki<br/>
+> ∙ **[さよならワルツ](https://www.last.fm/music/la+la+larks/_/%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%83%AF%E3%83%AB%E3%83%84)** - la la larks<br/>
 <!--END_LASTFM_RECENT-->
