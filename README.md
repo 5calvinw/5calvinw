@@ -52,24 +52,24 @@ Other         1 hr 48 mins          >------------------------   02.55 %
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `87 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
-> `18 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `6 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
+> `19 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `8 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
+> `6 ▶️` ∙ **[Taylor Swift](https://www.last.fm/music/Taylor+Swift)**<br/>
 > `5 ▶️` ∙ **[VISUAL ARTS / Key - Topic](https://www.last.fm/music/VISUAL+ARTS+%2F+Key+-+Topic)**<br/>
 > `4 ▶️` ∙ **[JYOCHO](https://www.last.fm/music/JYOCHO)**<br/>
 > `4 ▶️` ∙ **[la la larks](https://www.last.fm/music/la+la+larks)**<br/>
-> `4 ▶️` ∙ **[Taylor Swift](https://www.last.fm/music/Taylor+Swift)**<br/>
-> `4 ▶️` ∙ **[Weezer](https://www.last.fm/music/Weezer)**<br/>
+> `4 ▶️` ∙ **[My Chemical Romance](https://www.last.fm/music/My+Chemical+Romance)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Aoi, Koi, Daidaiiro no Hi](https://www.last.fm/music/MASS+OF+THE+FERMENTING+DREGS/_/Aoi,+Koi,+Daidaiiro+no+Hi)** - MASS OF THE FERMENTING DREGS<br/>
-> ∙ **[Soft Spot](https://www.last.fm/music/keshi/_/Soft+Spot)** - keshi<br/>
-> ∙ **[Kangen](https://www.last.fm/music/Dewa+19/_/Kangen)** - Dewa 19<br/>
-> ∙ **[Here With Me](https://www.last.fm/music/d4vd/_/Here+With+Me)** - d4vd<br/>
-> ∙ **[Brand-new World](https://www.last.fm/music/%E8%A5%BF%E6%B2%A2%E5%B9%B8%E5%A5%8F/_/Brand-new+World)** - 西沢幸奏<br/>
-> ∙ **[Tiny Light](https://www.last.fm/music/Akari+Kito/_/Tiny+Light)** - Akari Kito<br/>
-> ∙ **[seasons](https://www.last.fm/music/wave+to+earth/_/seasons)** - wave to earth<br/>
-> ∙ **[Sawakaze](https://www.last.fm/music/%E3%82%BF%E3%83%8B%E3%82%B6%E3%83%AF%E3%83%88%E3%83%A2%E3%83%95%E3%83%9F/_/Sawakaze)** - タニザワトモフミ<br/>
+> 🎶 **[Too Little, Too Late](https://www.last.fm/music/Laufey/_/Too+Little,+Too+Late)** - Laufey<br/>
+> ∙ **[You Belong with Me](https://www.last.fm/music/Taylor+Swift/_/You+Belong+with+Me)** - Taylor Swift<br/>
+> ∙ **[Poker Face](https://www.last.fm/music/Lady+Gaga/_/Poker+Face)** - Lady Gaga<br/>
+> ∙ **[When the Morning Glory Falls](https://www.last.fm/music/Tuyu/_/When+the+Morning+Glory+Falls)** - Tuyu<br/>
+> ∙ **[サンキュー！！](https://www.last.fm/music/HOME+MADE+%E5%AE%B6%E6%97%8F/_/%E3%82%B5%E3%83%B3%E3%82%AD%E3%83%A5%E3%83%BC%EF%BC%81%EF%BC%81)** - HOME MADE 家族<br/>
+> ∙ **[i won't run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)** - Keanu Bicol<br/>
+> ∙ **[ocean eyes](https://www.last.fm/music/Billie+Eilish/_/ocean+eyes)** - Billie Eilish<br/>
+> ∙ **[Tired](https://www.last.fm/music/beabadoobee/_/Tired)** - beabadoobee<br/>
 <!--END_LASTFM_RECENT-->
