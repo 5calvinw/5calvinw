@@ -51,12 +51,12 @@ Other         1 hr 48 mins          >------------------------   02.55 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `89 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
+> `54 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `17 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `10 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
 > `7 ▶️` ∙ **[Taylor Swift](https://www.last.fm/music/Taylor+Swift)**<br/>
 > `5 ▶️` ∙ **[la la larks](https://www.last.fm/music/la+la+larks)**<br/>
-> `5 ▶️` ∙ **[VISUAL ARTS / Key - Topic](https://www.last.fm/music/VISUAL+ARTS+%2F+Key+-+Topic)**<br/>
+> `5 ▶️` ∙ **[Tia](https://www.last.fm/music/Tia)**<br/>
 > `5 ▶️` ∙ **[yanaginagi](https://www.last.fm/music/yanaginagi)**<br/>
 > `4 ▶️` ∙ **[Afgan](https://www.last.fm/music/Afgan)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -64,6 +64,7 @@ Other         1 hr 48 mins          >------------------------   02.55 %
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[ハートリアライズ](https://www.last.fm/music/Tia/_/%E3%83%8F%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA)** - Tia<br/>
 > ∙ **[Used to Me](https://www.last.fm/music/Luke+Chiang/_/Used+to+Me)** - Luke Chiang<br/>
 > ∙ **[Too Little, Too Late](https://www.last.fm/music/Laufey/_/Too+Little,+Too+Late)** - Laufey<br/>
 > ∙ **[Itsuwaranai Kimi e](https://www.last.fm/music/yanaginagi/_/Itsuwaranai+Kimi+e)** - yanaginagi<br/>
@@ -71,5 +72,4 @@ Other         1 hr 48 mins          >------------------------   02.55 %
 > ∙ **[Alice's Suitcase](https://www.last.fm/music/Endorfin./_/Alice%27s+Suitcase)** - Endorfin.<br/>
 > ∙ **[EVERBLUE](https://www.last.fm/music/Omoinotake/_/EVERBLUE)** - Omoinotake<br/>
 > ∙ **[Merindukanmu](https://www.last.fm/music/D%E2%80%99Masiv/_/Merindukanmu)** - D’Masiv<br/>
-> ∙ **[My High](https://www.last.fm/music/Disclosure/_/My+High)** - Disclosure<br/>
 <!--END_LASTFM_RECENT-->
