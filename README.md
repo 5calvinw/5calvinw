@@ -51,10 +51,10 @@ Other         1 hr 48 mins          >------------------------   02.55 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `54 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
-> `17 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `18 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `10 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
 > `7 ▶️` ∙ **[Taylor Swift](https://www.last.fm/music/Taylor+Swift)**<br/>
+> `6 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `5 ▶️` ∙ **[la la larks](https://www.last.fm/music/la+la+larks)**<br/>
 > `5 ▶️` ∙ **[Tia](https://www.last.fm/music/Tia)**<br/>
 > `5 ▶️` ∙ **[yanaginagi](https://www.last.fm/music/yanaginagi)**<br/>
@@ -64,12 +64,12 @@ Other         1 hr 48 mins          >------------------------   02.55 %
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[ハートリアライズ](https://www.last.fm/music/Tia/_/%E3%83%8F%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA)** - Tia<br/>
-> ∙ **[Used to Me](https://www.last.fm/music/Luke+Chiang/_/Used+to+Me)** - Luke Chiang<br/>
-> ∙ **[Too Little, Too Late](https://www.last.fm/music/Laufey/_/Too+Little,+Too+Late)** - Laufey<br/>
-> ∙ **[Itsuwaranai Kimi e](https://www.last.fm/music/yanaginagi/_/Itsuwaranai+Kimi+e)** - yanaginagi<br/>
-> ∙ **[bad](https://www.last.fm/music/wave+to+earth/_/bad)** - wave to earth<br/>
-> ∙ **[Alice's Suitcase](https://www.last.fm/music/Endorfin./_/Alice%27s+Suitcase)** - Endorfin.<br/>
-> ∙ **[EVERBLUE](https://www.last.fm/music/Omoinotake/_/EVERBLUE)** - Omoinotake<br/>
-> ∙ **[Merindukanmu](https://www.last.fm/music/D%E2%80%99Masiv/_/Merindukanmu)** - D’Masiv<br/>
+> ∙ **[Last Night on Earth](https://www.last.fm/music/Green+Day/_/Last+Night+on+Earth)** - Green Day<br/>
+> ∙ **[ぎゅっと。](https://www.last.fm/music/%E3%82%82%E3%81%95%E3%82%92%E3%80%82/_/%E3%81%8E%E3%82%85%E3%81%A3%E3%81%A8%E3%80%82)** - もさを。<br/>
+> ∙ **[孤犬](https://www.last.fm/music/nowisee/_/%E5%AD%A4%E7%8A%AC)** - nowisee<br/>
+> ∙ **[Kabutomushi](https://www.last.fm/music/aiko/_/Kabutomushi)** - aiko<br/>
+> ∙ **[Fuwa Fuwa Time](https://www.last.fm/music/Sakurakou+K-ON+Bu/_/Fuwa+Fuwa+Time)** - Sakurakou K-ON Bu<br/>
+> ∙ **[「僕は...」](https://www.last.fm/music/Atarayo/_/%E3%80%8C%E5%83%95%E3%81%AF...%E3%80%8D)** - Atarayo<br/>
+> ∙ **[See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))** - Tyler, The Creator<br/>
+> ∙ **[Loose](https://www.last.fm/music/Daniel+Caesar/_/Loose)** - Daniel Caesar<br/>
 <!--END_LASTFM_RECENT-->
