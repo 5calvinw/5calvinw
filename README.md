@@ -51,8 +51,8 @@ Other         1 hr 48 mins          >------------------------   02.55 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `21 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
-> `17 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `42 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
+> `14 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `10 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
 > `7 ▶️` ∙ **[Taylor Swift](https://www.last.fm/music/Taylor+Swift)**<br/>
 > `6 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
@@ -64,12 +64,12 @@ Other         1 hr 48 mins          >------------------------   02.55 %
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Winter (The Wind Can Be Still)](https://www.last.fm/music/ConcernedApe/_/Winter+(The+Wind+Can+Be+Still))** - ConcernedApe<br/>
-> ∙ **[Spring (Wild Horseradish Jam)](https://www.last.fm/music/ConcernedApe/_/Spring+(Wild+Horseradish+Jam))** - ConcernedApe<br/>
 > ∙ **[Mines (Crystal Bells)](https://www.last.fm/music/ConcernedApe/_/Mines+(Crystal+Bells))** - ConcernedApe<br/>
 > ∙ **[In the Deep Woods (Variations)](https://www.last.fm/music/ConcernedApe/_/In+the+Deep+Woods+(Variations))** - ConcernedApe<br/>
 > ∙ **[Summer (Tropicala)](https://www.last.fm/music/ConcernedApe/_/Summer+(Tropicala))** - ConcernedApe<br/>
 > ∙ **[Summer (The Sun Can Bend An Orange Sky)](https://www.last.fm/music/ConcernedApe/_/Summer+(The+Sun+Can+Bend+An+Orange+Sky))** - ConcernedApe<br/>
 > ∙ **[Fall (Ghost Synth)](https://www.last.fm/music/ConcernedApe/_/Fall+(Ghost+Synth))** - ConcernedApe<br/>
 > ∙ **[Fall (Raven's Descent)](https://www.last.fm/music/ConcernedApe/_/Fall+(Raven%27s+Descent))** - ConcernedApe<br/>
+> ∙ **[A Golden Star Was Born](https://www.last.fm/music/ConcernedApe/_/A+Golden+Star+Was+Born)** - ConcernedApe<br/>
+> ∙ **[Summer (Nature's Crescendo)](https://www.last.fm/music/ConcernedApe/_/Summer+(Nature%27s+Crescendo))** - ConcernedApe<br/>
 <!--END_LASTFM_RECENT-->
