@@ -52,24 +52,24 @@ Other         1 hr 49 mins          >------------------------   02.54 %
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `69 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
-> `12 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
-> `10 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `7 ▶️` ∙ **[Taylor Swift](https://www.last.fm/music/Taylor+Swift)**<br/>
+> `13 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
+> `9 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `8 ▶️` ∙ **[Taylor Swift](https://www.last.fm/music/Taylor+Swift)**<br/>
 > `7 ▶️` ∙ **[yanaginagi](https://www.last.fm/music/yanaginagi)**<br/>
+> `6 ▶️` ∙ **[Niki](https://www.last.fm/music/Niki)**<br/>
 > `5 ▶️` ∙ **[aiko](https://www.last.fm/music/aiko)**<br/>
 > `5 ▶️` ∙ **[la la larks](https://www.last.fm/music/la+la+larks)**<br/>
-> `5 ▶️` ∙ **[Lamp](https://www.last.fm/music/Lamp)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[My Famed Disappearing Act](https://www.last.fm/music/Thank+You+Scientist/_/My+Famed+Disappearing+Act)** - Thank You Scientist<br/>
-> ∙ **[Hero](https://www.last.fm/music/Charlie+Puth/_/Hero)** - Charlie Puth<br/>
-> ∙ **[Beautiful Girls](https://www.last.fm/music/Sean+Kingston/_/Beautiful+Girls)** - Sean Kingston<br/>
-> ∙ **[青い栞](https://www.last.fm/music/Galileo+Galilei/_/%E9%9D%92%E3%81%84%E6%A0%9E)** - Galileo Galilei<br/>
-> ∙ **[Lampu Merah](https://www.last.fm/music/The+Lantis/_/Lampu+Merah)** - The Lantis<br/>
-> ∙ **[Alamak](https://www.last.fm/music/Rizky+Febian/_/Alamak)** - Rizky Febian<br/>
-> ∙ **[Cloud 9](https://www.last.fm/music/Beach+Bunny/_/Cloud+9)** - Beach Bunny<br/>
-> ∙ **[Staying](https://www.last.fm/music/Lizzy+McAlpine/_/Staying)** - Lizzy McAlpine<br/>
+> ∙ **[君の知らない物語 -TV Edit-](https://www.last.fm/music/Supercell/_/%E5%90%9B%E3%81%AE%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E7%89%A9%E8%AA%9E+-TV+Edit-)** - Supercell<br/>
+> ∙ **[We Are The Crystal Gems (feat. Zach Callison, Estelle, Deedee Magno Hall, Michaela Dietz & Tom Scharpling) - Full Theme Song](https://www.last.fm/music/Steven+Universe/_/We+Are+The+Crystal+Gems+(feat.+Zach+Callison,+Estelle,+Deedee+Magno+Hall,+Michaela+Dietz+&+Tom+Scharpling)+-+Full+Theme+Song)** - Steven Universe<br/>
+> ∙ **[22](https://www.last.fm/music/Taylor+Swift/_/22)** - Taylor Swift<br/>
+> ∙ **[暖かな時間](https://www.last.fm/music/Fuminori+Matsumoto/_/%E6%9A%96%E3%81%8B%E3%81%AA%E6%99%82%E9%96%93)** - Fuminori Matsumoto<br/>
+> ∙ **[BIRDS OF A FEATHER](https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER)** - Billie Eilish<br/>
+> ∙ **[I Like U](https://www.last.fm/music/Niki/_/I+Like+U)** - Niki<br/>
+> ∙ **[Until I Found You](https://www.last.fm/music/Stephen+Sanchez/_/Until+I+Found+You)** - Stephen Sanchez<br/>
+> ∙ **[Believe in ourselves](https://www.last.fm/music/Lisa/_/Believe+in+ourselves)** - Lisa<br/>
 <!--END_LASTFM_RECENT-->
