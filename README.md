@@ -52,24 +52,24 @@ Other         1 hr 49 mins          >------------------------   02.54 %
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `69 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
-> `11 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
-> `8 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `12 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
+> `10 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `7 ▶️` ∙ **[Taylor Swift](https://www.last.fm/music/Taylor+Swift)**<br/>
-> `6 ▶️` ∙ **[yanaginagi](https://www.last.fm/music/yanaginagi)**<br/>
+> `7 ▶️` ∙ **[yanaginagi](https://www.last.fm/music/yanaginagi)**<br/>
+> `5 ▶️` ∙ **[aiko](https://www.last.fm/music/aiko)**<br/>
 > `5 ▶️` ∙ **[la la larks](https://www.last.fm/music/la+la+larks)**<br/>
 > `5 ▶️` ∙ **[Lamp](https://www.last.fm/music/Lamp)**<br/>
-> `5 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[worldenddominator](https://www.last.fm/music/zts/_/worldenddominator)** - zts<br/>
-> ∙ **[Alice's Suitcase](https://www.last.fm/music/Endorfin./_/Alice%27s+Suitcase)** - Endorfin.<br/>
-> ∙ **[ヒッチコック - Re-Recording](https://www.last.fm/music/Yorushika/_/%E3%83%92%E3%83%83%E3%83%81%E3%82%B3%E3%83%83%E3%82%AF+-+Re-Recording)** - Yorushika<br/>
-> ∙ **[My Heart Aches](https://www.last.fm/music/Sweet+Dove/_/My+Heart+Aches)** - Sweet Dove<br/>
-> ∙ **[POOL](https://www.last.fm/music/tricot/_/POOL)** - tricot<br/>
-> ∙ **[Tanpa Pesan Terakhir](https://www.last.fm/music/Seventeen/_/Tanpa+Pesan+Terakhir)** - Seventeen<br/>
-> ∙ **[Merindu Lagi (Pada Kekasih Orang)](https://www.last.fm/music/Yovie+&+Nuno/_/Merindu+Lagi+(Pada+Kekasih+Orang))** - Yovie & Nuno<br/>
-> ∙ **[Last Night on Earth](https://www.last.fm/music/Green+Day/_/Last+Night+on+Earth)** - Green Day<br/>
+> ∙ **[My Famed Disappearing Act](https://www.last.fm/music/Thank+You+Scientist/_/My+Famed+Disappearing+Act)** - Thank You Scientist<br/>
+> ∙ **[Hero](https://www.last.fm/music/Charlie+Puth/_/Hero)** - Charlie Puth<br/>
+> ∙ **[Beautiful Girls](https://www.last.fm/music/Sean+Kingston/_/Beautiful+Girls)** - Sean Kingston<br/>
+> ∙ **[青い栞](https://www.last.fm/music/Galileo+Galilei/_/%E9%9D%92%E3%81%84%E6%A0%9E)** - Galileo Galilei<br/>
+> ∙ **[Lampu Merah](https://www.last.fm/music/The+Lantis/_/Lampu+Merah)** - The Lantis<br/>
+> ∙ **[Alamak](https://www.last.fm/music/Rizky+Febian/_/Alamak)** - Rizky Febian<br/>
+> ∙ **[Cloud 9](https://www.last.fm/music/Beach+Bunny/_/Cloud+9)** - Beach Bunny<br/>
+> ∙ **[Staying](https://www.last.fm/music/Lizzy+McAlpine/_/Staying)** - Lizzy McAlpine<br/>
 <!--END_LASTFM_RECENT-->
