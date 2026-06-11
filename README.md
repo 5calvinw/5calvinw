@@ -58,7 +58,7 @@ Other         1 hr 51 mins          >------------------------   02.49 %
 > `7 ▶️` ∙ **[yanaginagi](https://www.last.fm/music/yanaginagi)**<br/>
 > `6 ▶️` ∙ **[Niki](https://www.last.fm/music/Niki)**<br/>
 > `5 ▶️` ∙ **[aiko](https://www.last.fm/music/aiko)**<br/>
-> `5 ▶️` ∙ **[la la larks](https://www.last.fm/music/la+la+larks)**<br/>
+> `5 ▶️` ∙ **[Lamp](https://www.last.fm/music/Lamp)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
