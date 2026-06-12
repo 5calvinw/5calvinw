@@ -64,12 +64,12 @@ Other         1 hr 51 mins          >------------------------   02.49 %
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[君の知らない物語 -TV Edit-](https://www.last.fm/music/Supercell/_/%E5%90%9B%E3%81%AE%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E7%89%A9%E8%AA%9E+-TV+Edit-)** - Supercell<br/>
-> ∙ **[We Are The Crystal Gems (feat. Zach Callison, Estelle, Deedee Magno Hall, Michaela Dietz & Tom Scharpling) - Full Theme Song](https://www.last.fm/music/Steven+Universe/_/We+Are+The+Crystal+Gems+(feat.+Zach+Callison,+Estelle,+Deedee+Magno+Hall,+Michaela+Dietz+&+Tom+Scharpling)+-+Full+Theme+Song)** - Steven Universe<br/>
-> ∙ **[22](https://www.last.fm/music/Taylor+Swift/_/22)** - Taylor Swift<br/>
-> ∙ **[暖かな時間](https://www.last.fm/music/Fuminori+Matsumoto/_/%E6%9A%96%E3%81%8B%E3%81%AA%E6%99%82%E9%96%93)** - Fuminori Matsumoto<br/>
-> ∙ **[BIRDS OF A FEATHER](https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER)** - Billie Eilish<br/>
-> ∙ **[I Like U](https://www.last.fm/music/Niki/_/I+Like+U)** - Niki<br/>
-> ∙ **[Until I Found You](https://www.last.fm/music/Stephen+Sanchez/_/Until+I+Found+You)** - Stephen Sanchez<br/>
-> ∙ **[Believe in ourselves](https://www.last.fm/music/Lisa/_/Believe+in+ourselves)** - Lisa<br/>
+> ∙ **[intro (end of the world)](https://www.last.fm/music/Ariana+Grande/_/intro+(end+of+the+world))** - Ariana Grande<br/>
+> ∙ **[想いを巡らす100の事象](https://www.last.fm/music/Egoist/_/%E6%83%B3%E3%81%84%E3%82%92%E5%B7%A1%E3%82%89%E3%81%99100%E3%81%AE%E4%BA%8B%E8%B1%A1)** - Egoist<br/>
+> ∙ **[If You Can't Hang](https://www.last.fm/music/Sleeping+With+Sirens/_/If+You+Can%27t+Hang)** - Sleeping With Sirens<br/>
+> ∙ **[snooze](https://www.last.fm/music/wotaku/_/snooze)** - wotaku<br/>
+> ∙ **[栞](https://www.last.fm/music/SEKAI+NO+OWARI/_/%E6%A0%9E)** - SEKAI NO OWARI<br/>
+> ∙ **[Sawakaze](https://www.last.fm/music/%E3%82%BF%E3%83%8B%E3%82%B6%E3%83%AF%E3%83%88%E3%83%A2%E3%83%95%E3%83%9F/_/Sawakaze)** - タニザワトモフミ<br/>
+> ∙ **[Love Like You (feat. Rebecca Sugar) - End Credits](https://www.last.fm/music/Steven+Universe/_/Love+Like+You+(feat.+Rebecca+Sugar)+-+End+Credits)** - Steven Universe<br/>
+> ∙ **[君と夏フェス](https://www.last.fm/music/SHISHAMO/_/%E5%90%9B%E3%81%A8%E5%A4%8F%E3%83%95%E3%82%A7%E3%82%B9)** - SHISHAMO<br/>
 <!--END_LASTFM_RECENT-->
