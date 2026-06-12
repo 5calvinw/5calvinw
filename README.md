@@ -30,7 +30,7 @@ Email: calvinthewu@gmail.com
 <!--START_SECTION:waka-->
 
 ```rust
-From: 22 March 2026 - To: 09 June 2026
+From: 22 March 2026 - To: 10 June 2026
 
 Total Time: 72 hrs 41 mins
 
