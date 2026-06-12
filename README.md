@@ -55,9 +55,9 @@ Other         1 hr 51 mins          >------------------------   02.49 %
 > `12 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
 > `10 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `9 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `8 ▶️` ∙ **[Taylor Swift](https://www.last.fm/music/Taylor+Swift)**<br/>
-> `7 ▶️` ∙ **[yanaginagi](https://www.last.fm/music/yanaginagi)**<br/>
+> `7 ▶️` ∙ **[Taylor Swift](https://www.last.fm/music/Taylor+Swift)**<br/>
 > `6 ▶️` ∙ **[Niki](https://www.last.fm/music/Niki)**<br/>
+> `6 ▶️` ∙ **[yanaginagi](https://www.last.fm/music/yanaginagi)**<br/>
 > `5 ▶️` ∙ **[aiko](https://www.last.fm/music/aiko)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
