@@ -53,23 +53,23 @@ Other         1 hr 51 mins          >------------------------   02.49 %
 
 > `69 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
 > `12 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
+> `10 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `9 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `8 ▶️` ∙ **[Taylor Swift](https://www.last.fm/music/Taylor+Swift)**<br/>
 > `7 ▶️` ∙ **[yanaginagi](https://www.last.fm/music/yanaginagi)**<br/>
 > `6 ▶️` ∙ **[Niki](https://www.last.fm/music/Niki)**<br/>
 > `5 ▶️` ∙ **[aiko](https://www.last.fm/music/aiko)**<br/>
-> `5 ▶️` ∙ **[Lamp](https://www.last.fm/music/Lamp)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Worldend](https://www.last.fm/music/zts/_/Worldend)** - zts<br/>
+> ∙ **[witch in gold](https://www.last.fm/music/zts/_/witch+in+gold)** - zts<br/>
+> ∙ **[discolor](https://www.last.fm/music/zts/_/discolor)** - zts<br/>
+> ∙ **[cage](https://www.last.fm/music/zts/_/cage)** - zts<br/>
+> ∙ **[lastendconductor](https://www.last.fm/music/zts/_/lastendconductor)** - zts<br/>
 > ∙ **[intro (end of the world)](https://www.last.fm/music/Ariana+Grande/_/intro+(end+of+the+world))** - Ariana Grande<br/>
 > ∙ **[想いを巡らす100の事象](https://www.last.fm/music/Egoist/_/%E6%83%B3%E3%81%84%E3%82%92%E5%B7%A1%E3%82%89%E3%81%99100%E3%81%AE%E4%BA%8B%E8%B1%A1)** - Egoist<br/>
 > ∙ **[If You Can't Hang](https://www.last.fm/music/Sleeping+With+Sirens/_/If+You+Can%27t+Hang)** - Sleeping With Sirens<br/>
-> ∙ **[snooze](https://www.last.fm/music/wotaku/_/snooze)** - wotaku<br/>
-> ∙ **[栞](https://www.last.fm/music/SEKAI+NO+OWARI/_/%E6%A0%9E)** - SEKAI NO OWARI<br/>
-> ∙ **[Sawakaze](https://www.last.fm/music/%E3%82%BF%E3%83%8B%E3%82%B6%E3%83%AF%E3%83%88%E3%83%A2%E3%83%95%E3%83%9F/_/Sawakaze)** - タニザワトモフミ<br/>
-> ∙ **[Love Like You (feat. Rebecca Sugar) - End Credits](https://www.last.fm/music/Steven+Universe/_/Love+Like+You+(feat.+Rebecca+Sugar)+-+End+Credits)** - Steven Universe<br/>
-> ∙ **[君と夏フェス](https://www.last.fm/music/SHISHAMO/_/%E5%90%9B%E3%81%A8%E5%A4%8F%E3%83%95%E3%82%A7%E3%82%B9)** - SHISHAMO<br/>
 <!--END_LASTFM_RECENT-->
