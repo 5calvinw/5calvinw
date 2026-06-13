@@ -52,7 +52,7 @@ Other         1 hr 51 mins          >------------------------   02.49 %
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `69 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
-> `35 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `40 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `8 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
 > `6 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `5 ▶️` ∙ **[aiko](https://www.last.fm/music/aiko)**<br/>
@@ -64,12 +64,12 @@ Other         1 hr 51 mins          >------------------------   02.49 %
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[lastendconductor](https://www.last.fm/music/zts/_/lastendconductor)** - zts<br/>
+> ∙ **[dead angle](https://www.last.fm/music/zts/_/dead+angle)** - zts<br/>
+> ∙ **[the executioner](https://www.last.fm/music/zts/_/the+executioner)** - zts<br/>
+> ∙ **[miragecoordinator](https://www.last.fm/music/zts/_/miragecoordinator)** - zts<br/>
+> ∙ **[dreamenddischarger](https://www.last.fm/music/zts/_/dreamenddischarger)** - zts<br/>
 > ∙ **[goldenslaughterer](https://www.last.fm/music/zts/_/goldenslaughterer)** - zts<br/>
 > ∙ **[worldenddominator](https://www.last.fm/music/zts/_/worldenddominator)** - zts<br/>
 > ∙ **[liberatedliberator](https://www.last.fm/music/zts/_/liberatedliberator)** - zts<br/>
-> ∙ **[apathy](https://www.last.fm/music/zts/_/apathy)** - zts<br/>
-> ∙ **[voiceless](https://www.last.fm/music/zts/_/voiceless)** - zts<br/>
-> ∙ **[rain](https://www.last.fm/music/zts/_/rain)** - zts<br/>
-> ∙ **[Worldend](https://www.last.fm/music/zts/_/Worldend)** - zts<br/>
-> ∙ **[witch in gold](https://www.last.fm/music/zts/_/witch+in+gold)** - zts<br/>
 <!--END_LASTFM_RECENT-->
