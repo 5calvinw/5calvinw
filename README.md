@@ -52,24 +52,24 @@ Other         1 hr 51 mins          >------------------------   02.49 %
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `69 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
-> `12 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
-> `10 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
-> `8 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `6 ▶️` ∙ **[Niki](https://www.last.fm/music/Niki)**<br/>
-> `6 ▶️` ∙ **[Taylor Swift](https://www.last.fm/music/Taylor+Swift)**<br/>
-> `6 ▶️` ∙ **[yanaginagi](https://www.last.fm/music/yanaginagi)**<br/>
+> `35 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `8 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
+> `6 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `5 ▶️` ∙ **[aiko](https://www.last.fm/music/aiko)**<br/>
+> `5 ▶️` ∙ **[Taylor Swift](https://www.last.fm/music/Taylor+Swift)**<br/>
+> `4 ▶️` ∙ **[Lamp](https://www.last.fm/music/Lamp)**<br/>
+> `4 ▶️` ∙ **[Lisa](https://www.last.fm/music/Lisa)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[goldenslaughterer](https://www.last.fm/music/zts/_/goldenslaughterer)** - zts<br/>
+> ∙ **[worldenddominator](https://www.last.fm/music/zts/_/worldenddominator)** - zts<br/>
+> ∙ **[liberatedliberator](https://www.last.fm/music/zts/_/liberatedliberator)** - zts<br/>
+> ∙ **[apathy](https://www.last.fm/music/zts/_/apathy)** - zts<br/>
+> ∙ **[voiceless](https://www.last.fm/music/zts/_/voiceless)** - zts<br/>
+> ∙ **[rain](https://www.last.fm/music/zts/_/rain)** - zts<br/>
 > ∙ **[Worldend](https://www.last.fm/music/zts/_/Worldend)** - zts<br/>
 > ∙ **[witch in gold](https://www.last.fm/music/zts/_/witch+in+gold)** - zts<br/>
-> ∙ **[discolor](https://www.last.fm/music/zts/_/discolor)** - zts<br/>
-> ∙ **[cage](https://www.last.fm/music/zts/_/cage)** - zts<br/>
-> ∙ **[lastendconductor](https://www.last.fm/music/zts/_/lastendconductor)** - zts<br/>
-> ∙ **[intro (end of the world)](https://www.last.fm/music/Ariana+Grande/_/intro+(end+of+the+world))** - Ariana Grande<br/>
-> ∙ **[想いを巡らす100の事象](https://www.last.fm/music/Egoist/_/%E6%83%B3%E3%81%84%E3%82%92%E5%B7%A1%E3%82%89%E3%81%99100%E3%81%AE%E4%BA%8B%E8%B1%A1)** - Egoist<br/>
-> ∙ **[If You Can't Hang](https://www.last.fm/music/Sleeping+With+Sirens/_/If+You+Can%27t+Hang)** - Sleeping With Sirens<br/>
 <!--END_LASTFM_RECENT-->
