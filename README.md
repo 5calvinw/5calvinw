@@ -54,11 +54,11 @@ Other         1 hr 51 mins          >------------------------   02.49 %
 > `69 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
 > `40 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `8 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
-> `6 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `5 ▶️` ∙ **[aiko](https://www.last.fm/music/aiko)**<br/>
-> `5 ▶️` ∙ **[Taylor Swift](https://www.last.fm/music/Taylor+Swift)**<br/>
-> `4 ▶️` ∙ **[Lamp](https://www.last.fm/music/Lamp)**<br/>
-> `4 ▶️` ∙ **[Lisa](https://www.last.fm/music/Lisa)**<br/>
+> `5 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `4 ▶️` ∙ **[Steven Universe](https://www.last.fm/music/Steven+Universe)**<br/>
+> `4 ▶️` ∙ **[Taylor Swift](https://www.last.fm/music/Taylor+Swift)**<br/>
+> `4 ▶️` ∙ **[Tia](https://www.last.fm/music/Tia)**<br/>
+> `3 ▶️` ∙ **[Lamp](https://www.last.fm/music/Lamp)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
