@@ -52,24 +52,24 @@ Other         1 hr 51 mins          >------------------------   02.49 %
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `69 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
-> `40 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
-> `8 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
-> `5 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `41 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `6 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
+> `4 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
+> `4 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `4 ▶️` ∙ **[Steven Universe](https://www.last.fm/music/Steven+Universe)**<br/>
-> `4 ▶️` ∙ **[Taylor Swift](https://www.last.fm/music/Taylor+Swift)**<br/>
-> `4 ▶️` ∙ **[Tia](https://www.last.fm/music/Tia)**<br/>
-> `3 ▶️` ∙ **[Lamp](https://www.last.fm/music/Lamp)**<br/>
+> `3 ▶️` ∙ **[Niki](https://www.last.fm/music/Niki)**<br/>
+> `3 ▶️` ∙ **[Rex Orange County](https://www.last.fm/music/Rex+Orange+County)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Naze Hi wa Katamuku no ka](https://www.last.fm/music/Subarashiki+Hibi/_/Naze+Hi+wa+Katamuku+no+ka)** - Subarashiki Hibi<br/>
+> ∙ **[Ekspektasi](https://www.last.fm/music/Okin/_/Ekspektasi)** - Okin<br/>
 > ∙ **[lastendconductor](https://www.last.fm/music/zts/_/lastendconductor)** - zts<br/>
-> ∙ **[dead angle](https://www.last.fm/music/zts/_/dead+angle)** - zts<br/>
-> ∙ **[the executioner](https://www.last.fm/music/zts/_/the+executioner)** - zts<br/>
-> ∙ **[miragecoordinator](https://www.last.fm/music/zts/_/miragecoordinator)** - zts<br/>
-> ∙ **[dreamenddischarger](https://www.last.fm/music/zts/_/dreamenddischarger)** - zts<br/>
-> ∙ **[goldenslaughterer](https://www.last.fm/music/zts/_/goldenslaughterer)** - zts<br/>
-> ∙ **[worldenddominator](https://www.last.fm/music/zts/_/worldenddominator)** - zts<br/>
-> ∙ **[liberatedliberator](https://www.last.fm/music/zts/_/liberatedliberator)** - zts<br/>
+> ∙ **[intro (end of the world)](https://www.last.fm/music/Ariana+Grande/_/intro+(end+of+the+world))** - Ariana Grande<br/>
+> ∙ **[想いを巡らす100の事象](https://www.last.fm/music/Egoist/_/%E6%83%B3%E3%81%84%E3%82%92%E5%B7%A1%E3%82%89%E3%81%99100%E3%81%AE%E4%BA%8B%E8%B1%A1)** - Egoist<br/>
+> ∙ **[If You Can't Hang](https://www.last.fm/music/Sleeping+With+Sirens/_/If+You+Can%27t+Hang)** - Sleeping With Sirens<br/>
+> ∙ **[snooze](https://www.last.fm/music/wotaku/_/snooze)** - wotaku<br/>
+> ∙ **[栞](https://www.last.fm/music/SEKAI+NO+OWARI/_/%E6%A0%9E)** - SEKAI NO OWARI<br/>
 <!--END_LASTFM_RECENT-->
