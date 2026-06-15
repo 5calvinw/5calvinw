@@ -52,9 +52,9 @@ Other         1 hr 51 mins          >------------------------   02.49 %
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `69 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
-> `41 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `42 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `5 ▶️` ∙ **[Steven Universe](https://www.last.fm/music/Steven+Universe)**<br/>
 > `4 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
-> `4 ▶️` ∙ **[Steven Universe](https://www.last.fm/music/Steven+Universe)**<br/>
 > `4 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
 > `3 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `3 ▶️` ∙ **[Rex Orange County](https://www.last.fm/music/Rex+Orange+County)**<br/>
@@ -64,12 +64,12 @@ Other         1 hr 51 mins          >------------------------   02.49 %
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Naze Hi wa Katamuku no ka](https://www.last.fm/music/Subarashiki+Hibi/_/Naze+Hi+wa+Katamuku+no+ka)** - Subarashiki Hibi<br/>
-> ∙ **[Ekspektasi](https://www.last.fm/music/Okin/_/Ekspektasi)** - Okin<br/>
-> ∙ **[lastendconductor](https://www.last.fm/music/zts/_/lastendconductor)** - zts<br/>
-> ∙ **[intro (end of the world)](https://www.last.fm/music/Ariana+Grande/_/intro+(end+of+the+world))** - Ariana Grande<br/>
-> ∙ **[想いを巡らす100の事象](https://www.last.fm/music/Egoist/_/%E6%83%B3%E3%81%84%E3%82%92%E5%B7%A1%E3%82%89%E3%81%99100%E3%81%AE%E4%BA%8B%E8%B1%A1)** - Egoist<br/>
-> ∙ **[If You Can't Hang](https://www.last.fm/music/Sleeping+With+Sirens/_/If+You+Can%27t+Hang)** - Sleeping With Sirens<br/>
-> ∙ **[snooze](https://www.last.fm/music/wotaku/_/snooze)** - wotaku<br/>
-> ∙ **[栞](https://www.last.fm/music/SEKAI+NO+OWARI/_/%E6%A0%9E)** - SEKAI NO OWARI<br/>
+> ∙ **[Am I Bothering You?](https://www.last.fm/music/Reality+Club/_/Am+I+Bothering+You%3F)** - Reality Club<br/>
+> ∙ **[little secret magic](https://www.last.fm/music/fh%C3%A1na/_/little+secret+magic)** - fhána<br/>
+> ∙ **[Brave Shine](https://www.last.fm/music/Aimer/_/Brave+Shine)** - Aimer<br/>
+> ∙ **[Hold On Till May](https://www.last.fm/music/Pierce+the+Veil/_/Hold+On+Till+May)** - Pierce the Veil<br/>
+> ∙ **[COLORFUL DAYS!!](https://www.last.fm/music/Ceui/_/COLORFUL+DAYS!!)** - Ceui<br/>
+> ∙ **[きみにとどけ](https://www.last.fm/music/%E3%82%BF%E3%83%8B%E3%82%B6%E3%83%AF%E3%83%88%E3%83%A2%E3%83%95%E3%83%9F/_/%E3%81%8D%E3%81%BF%E3%81%AB%E3%81%A8%E3%81%A9%E3%81%91)** - タニザワトモフミ<br/>
+> ∙ **[Ikenai Borderline -album version-](https://www.last.fm/music/Walkure/_/Ikenai+Borderline+-album+version-)** - Walkure<br/>
+> ∙ **[Inside Out](https://www.last.fm/music/keshi/_/Inside+Out)** - keshi<br/>
 <!--END_LASTFM_RECENT-->
