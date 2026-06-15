@@ -52,24 +52,24 @@ Other         1 hr 51 mins          >------------------------   02.49 %
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `69 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
-> `42 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
-> `5 ▶️` ∙ **[Steven Universe](https://www.last.fm/music/Steven+Universe)**<br/>
+> `43 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `6 ▶️` ∙ **[Steven Universe](https://www.last.fm/music/Steven+Universe)**<br/>
 > `4 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
 > `4 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
-> `3 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `3 ▶️` ∙ **[Rex Orange County](https://www.last.fm/music/Rex+Orange+County)**<br/>
+> `3 ▶️` ∙ **[SHISHAMO](https://www.last.fm/music/SHISHAMO)**<br/>
 > `3 ▶️` ∙ **[Tulus](https://www.last.fm/music/Tulus)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[It's Over Isn't It (feat. Deedee Magno Hall)](https://www.last.fm/music/Steven+Universe/_/It%27s+Over+Isn%27t+It+(feat.+Deedee+Magno+Hall))** - Steven Universe<br/>
+> ∙ **[Time To Make History - Original Full Size ver.](https://www.last.fm/music/Shihoko+Hirata/_/Time+To+Make+History+-+Original+Full+Size+ver.)** - Shihoko Hirata<br/>
+> ∙ **[glass beach](https://www.last.fm/music/Glass+Beach/_/glass+beach)** - Glass Beach<br/>
+> ∙ **[Asphodelus](https://www.last.fm/music/Ceui/_/Asphodelus)** - Ceui<br/>
+> ∙ **[明日も](https://www.last.fm/music/SHISHAMO/_/%E6%98%8E%E6%97%A5%E3%82%82)** - SHISHAMO<br/>
 > ∙ **[Am I Bothering You?](https://www.last.fm/music/Reality+Club/_/Am+I+Bothering+You%3F)** - Reality Club<br/>
 > ∙ **[little secret magic](https://www.last.fm/music/fh%C3%A1na/_/little+secret+magic)** - fhána<br/>
 > ∙ **[Brave Shine](https://www.last.fm/music/Aimer/_/Brave+Shine)** - Aimer<br/>
-> ∙ **[Hold On Till May](https://www.last.fm/music/Pierce+the+Veil/_/Hold+On+Till+May)** - Pierce the Veil<br/>
-> ∙ **[COLORFUL DAYS!!](https://www.last.fm/music/Ceui/_/COLORFUL+DAYS!!)** - Ceui<br/>
-> ∙ **[きみにとどけ](https://www.last.fm/music/%E3%82%BF%E3%83%8B%E3%82%B6%E3%83%AF%E3%83%88%E3%83%A2%E3%83%95%E3%83%9F/_/%E3%81%8D%E3%81%BF%E3%81%AB%E3%81%A8%E3%81%A9%E3%81%91)** - タニザワトモフミ<br/>
-> ∙ **[Ikenai Borderline -album version-](https://www.last.fm/music/Walkure/_/Ikenai+Borderline+-album+version-)** - Walkure<br/>
-> ∙ **[Inside Out](https://www.last.fm/music/keshi/_/Inside+Out)** - keshi<br/>
 <!--END_LASTFM_RECENT-->
