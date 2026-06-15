@@ -53,10 +53,10 @@ Other         1 hr 51 mins          >------------------------   02.49 %
 
 > `69 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
 > `41 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
-> `5 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
 > `4 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
-> `4 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `4 ▶️` ∙ **[Steven Universe](https://www.last.fm/music/Steven+Universe)**<br/>
+> `4 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
+> `3 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `3 ▶️` ∙ **[Rex Orange County](https://www.last.fm/music/Rex+Orange+County)**<br/>
 > `3 ▶️` ∙ **[Tulus](https://www.last.fm/music/Tulus)**<br/>
 <!--END_LASTFM_ARTISTS-->
