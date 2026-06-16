@@ -51,25 +51,25 @@ Other         1 hr 51 mins          >------------------------   02.49 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `42 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
-> `33 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
+> `63 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `26 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
 > `6 ▶️` ∙ **[Steven Universe](https://www.last.fm/music/Steven+Universe)**<br/>
 > `4 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
+> `4 ▶️` ∙ **[Lamp](https://www.last.fm/music/Lamp)**<br/>
+> `4 ▶️` ∙ **[Rex Orange County](https://www.last.fm/music/Rex+Orange+County)**<br/>
 > `4 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
-> `3 ▶️` ∙ **[Rex Orange County](https://www.last.fm/music/Rex+Orange+County)**<br/>
-> `3 ▶️` ∙ **[SHISHAMO](https://www.last.fm/music/SHISHAMO)**<br/>
-> `3 ▶️` ∙ **[Tulus](https://www.last.fm/music/Tulus)**<br/>
+> `3 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[It's Over Isn't It (feat. Deedee Magno Hall)](https://www.last.fm/music/Steven+Universe/_/It%27s+Over+Isn%27t+It+(feat.+Deedee+Magno+Hall))** - Steven Universe<br/>
-> ∙ **[Time To Make History - Original Full Size ver.](https://www.last.fm/music/Shihoko+Hirata/_/Time+To+Make+History+-+Original+Full+Size+ver.)** - Shihoko Hirata<br/>
-> ∙ **[glass beach](https://www.last.fm/music/Glass+Beach/_/glass+beach)** - Glass Beach<br/>
-> ∙ **[Asphodelus](https://www.last.fm/music/Ceui/_/Asphodelus)** - Ceui<br/>
-> ∙ **[明日も](https://www.last.fm/music/SHISHAMO/_/%E6%98%8E%E6%97%A5%E3%82%82)** - SHISHAMO<br/>
-> ∙ **[Am I Bothering You?](https://www.last.fm/music/Reality+Club/_/Am+I+Bothering+You%3F)** - Reality Club<br/>
-> ∙ **[little secret magic](https://www.last.fm/music/fh%C3%A1na/_/little+secret+magic)** - fhána<br/>
-> ∙ **[Brave Shine](https://www.last.fm/music/Aimer/_/Brave+Shine)** - Aimer<br/>
+> ∙ **[worldenddominator](https://www.last.fm/music/zts/_/worldenddominator)** - zts<br/>
+> ∙ **[rain](https://www.last.fm/music/zts/_/rain)** - zts<br/>
+> ∙ **[voiceless](https://www.last.fm/music/zts/_/voiceless)** - zts<br/>
+> ∙ **[liberatedliberator](https://www.last.fm/music/zts/_/liberatedliberator)** - zts<br/>
+> ∙ **[Worldend](https://www.last.fm/music/zts/_/Worldend)** - zts<br/>
+> ∙ **[apathy](https://www.last.fm/music/zts/_/apathy)** - zts<br/>
+> ∙ **[witch in gold](https://www.last.fm/music/zts/_/witch+in+gold)** - zts<br/>
+> ∙ **[strelitzia](https://www.last.fm/music/zts/_/strelitzia)** - zts<br/>
 <!--END_LASTFM_RECENT-->
