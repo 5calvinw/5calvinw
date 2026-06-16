@@ -51,8 +51,8 @@ Other         1 hr 51 mins          >------------------------   02.49 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `69 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
-> `43 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `42 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `33 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
 > `6 ▶️` ∙ **[Steven Universe](https://www.last.fm/music/Steven+Universe)**<br/>
 > `4 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
 > `4 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
