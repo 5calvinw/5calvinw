@@ -51,25 +51,25 @@ Other         1 hr 51 mins          >------------------------   02.49 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `63 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
-> `26 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
+> `94 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `6 ▶️` ∙ **[Steven Universe](https://www.last.fm/music/Steven+Universe)**<br/>
 > `4 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
-> `4 ▶️` ∙ **[Lamp](https://www.last.fm/music/Lamp)**<br/>
-> `4 ▶️` ∙ **[Rex Orange County](https://www.last.fm/music/Rex+Orange+County)**<br/>
-> `4 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
 > `3 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `3 ▶️` ∙ **[Lamp](https://www.last.fm/music/Lamp)**<br/>
+> `3 ▶️` ∙ **[Rex Orange County](https://www.last.fm/music/Rex+Orange+County)**<br/>
+> `3 ▶️` ∙ **[SHISHAMO](https://www.last.fm/music/SHISHAMO)**<br/>
+> `3 ▶️` ∙ **[The Lantis](https://www.last.fm/music/The+Lantis)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[worldenddominator](https://www.last.fm/music/zts/_/worldenddominator)** - zts<br/>
-> ∙ **[rain](https://www.last.fm/music/zts/_/rain)** - zts<br/>
-> ∙ **[voiceless](https://www.last.fm/music/zts/_/voiceless)** - zts<br/>
-> ∙ **[liberatedliberator](https://www.last.fm/music/zts/_/liberatedliberator)** - zts<br/>
-> ∙ **[Worldend](https://www.last.fm/music/zts/_/Worldend)** - zts<br/>
-> ∙ **[apathy](https://www.last.fm/music/zts/_/apathy)** - zts<br/>
-> ∙ **[witch in gold](https://www.last.fm/music/zts/_/witch+in+gold)** - zts<br/>
-> ∙ **[strelitzia](https://www.last.fm/music/zts/_/strelitzia)** - zts<br/>
+> ∙ **[Liar,Liar](https://www.last.fm/music/mr.fantastic/_/Liar,Liar)** - mr.fantastic<br/>
+> ∙ **[Kabutomushi](https://www.last.fm/music/aiko/_/Kabutomushi)** - aiko<br/>
+> ∙ **[colorful transparency](https://www.last.fm/music/zts/_/colorful+transparency)** - zts<br/>
+> ∙ **[resurrectedreplayer](https://www.last.fm/music/zts/_/resurrectedreplayer)** - zts<br/>
+> ∙ **[wingless](https://www.last.fm/music/zts/_/wingless)** - zts<br/>
+> ∙ **[Far](https://www.last.fm/music/zts/_/Far)** - zts<br/>
+> ∙ **[lastendconductor](https://www.last.fm/music/zts/_/lastendconductor)** - zts<br/>
+> ∙ **[dead angle](https://www.last.fm/music/zts/_/dead+angle)** - zts<br/>
 <!--END_LASTFM_RECENT-->
