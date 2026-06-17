@@ -51,14 +51,14 @@ Other         1 hr 53 mins          >------------------------   02.50 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `97 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `96 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `5 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
-> `5 ▶️` ∙ **[Steven Universe](https://www.last.fm/music/Steven+Universe)**<br/>
 > `4 ▶️` ∙ **[Afgan](https://www.last.fm/music/Afgan)**<br/>
 > `4 ▶️` ∙ **[SHISHAMO](https://www.last.fm/music/SHISHAMO)**<br/>
-> `4 ▶️` ∙ **[Taylor Swift](https://www.last.fm/music/Taylor+Swift)**<br/>
+> `4 ▶️` ∙ **[Steven Universe](https://www.last.fm/music/Steven+Universe)**<br/>
 > `3 ▶️` ∙ **[Ari Lasso](https://www.last.fm/music/Ari+Lasso)**<br/>
 > `3 ▶️` ∙ **[Cigarettes After Sex](https://www.last.fm/music/Cigarettes+After+Sex)**<br/>
+> `3 ▶️` ∙ **[fhána](https://www.last.fm/music/fh%C3%A1na)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
