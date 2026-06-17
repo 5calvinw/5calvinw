@@ -51,25 +51,25 @@ Other         1 hr 53 mins          >------------------------   02.50 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `93 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
-> `6 ▶️` ∙ **[Steven Universe](https://www.last.fm/music/Steven+Universe)**<br/>
+> `97 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `5 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
-> `3 ▶️` ∙ **[Lamp](https://www.last.fm/music/Lamp)**<br/>
-> `3 ▶️` ∙ **[Rex Orange County](https://www.last.fm/music/Rex+Orange+County)**<br/>
-> `3 ▶️` ∙ **[SHISHAMO](https://www.last.fm/music/SHISHAMO)**<br/>
-> `3 ▶️` ∙ **[The Lantis](https://www.last.fm/music/The+Lantis)**<br/>
-> `3 ▶️` ∙ **[タニザワトモフミ](https://www.last.fm/music/%E3%82%BF%E3%83%8B%E3%82%B6%E3%83%AF%E3%83%88%E3%83%A2%E3%83%95%E3%83%9F)**<br/>
+> `5 ▶️` ∙ **[Steven Universe](https://www.last.fm/music/Steven+Universe)**<br/>
+> `4 ▶️` ∙ **[Afgan](https://www.last.fm/music/Afgan)**<br/>
+> `4 ▶️` ∙ **[SHISHAMO](https://www.last.fm/music/SHISHAMO)**<br/>
+> `4 ▶️` ∙ **[Taylor Swift](https://www.last.fm/music/Taylor+Swift)**<br/>
+> `3 ▶️` ∙ **[Ari Lasso](https://www.last.fm/music/Ari+Lasso)**<br/>
+> `3 ▶️` ∙ **[Cigarettes After Sex](https://www.last.fm/music/Cigarettes+After+Sex)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Am I Bothering You?](https://www.last.fm/music/Reality+Club/_/Am+I+Bothering+You%3F)** - Reality Club<br/>
-> ∙ **[Destroyed by Hippie Powers](https://www.last.fm/music/Car+Seat+Headrest/_/Destroyed+by+Hippie+Powers)** - Car Seat Headrest<br/>
-> ∙ **[Signal](https://www.last.fm/music/CITROBAL/_/Signal)** - CITROBAL<br/>
-> ∙ **[夢疾風](https://www.last.fm/music/%E3%83%9F%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%93%E3%83%BC+(CV.+%E5%A4%A9%E6%B5%B7%E7%94%B1%E6%A2%A8%E5%A5%88)/_/%E5%A4%A2%E7%96%BE%E9%A2%A8)** - ミスターシービー (CV. 天海由梨奈)<br/>
-> ∙ **[Bawalah Cintaku](https://www.last.fm/music/Afgan/_/Bawalah+Cintaku)** - Afgan<br/>
-> ∙ **[シュガーソングとビターステップ](https://www.last.fm/music/UNISON+SQUARE+GARDEN/_/%E3%82%B7%E3%83%A5%E3%82%AC%E3%83%BC%E3%82%BD%E3%83%B3%E3%82%B0%E3%81%A8%E3%83%93%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%86%E3%83%83%E3%83%97)** - UNISON SQUARE GARDEN<br/>
-> ∙ **[Death of a Bachelor](https://www.last.fm/music/Panic!+at+the+Disco/_/Death+of+a+Bachelor)** - Panic! at the Disco<br/>
-> ∙ **[あの夏に咲け](https://www.last.fm/music/Yorushika/_/%E3%81%82%E3%81%AE%E5%A4%8F%E3%81%AB%E5%92%B2%E3%81%91)** - Yorushika<br/>
+> ∙ **[君と夏フェス](https://www.last.fm/music/SHISHAMO/_/%E5%90%9B%E3%81%A8%E5%A4%8F%E3%83%95%E3%82%A7%E3%82%B9)** - SHISHAMO<br/>
+> ∙ **[ヒカリの方へ](https://www.last.fm/music/PSYQUI/_/%E3%83%92%E3%82%AB%E3%83%AA%E3%81%AE%E6%96%B9%E3%81%B8)** - PSYQUI<br/>
+> ∙ **[Anemone No Hana](https://www.last.fm/music/fh%C3%A1na/_/Anemone+No+Hana)** - fhána<br/>
+> ∙ **[Wormhole](https://www.last.fm/music/Annabel/_/Wormhole)** - Annabel<br/>
+> ∙ **[Apple Cider](https://www.last.fm/music/beabadoobee/_/Apple+Cider)** - beabadoobee<br/>
+> ∙ **[miragecoordinator](https://www.last.fm/music/zts/_/miragecoordinator)** - zts<br/>
+> ∙ **[dreamenddischarger](https://www.last.fm/music/zts/_/dreamenddischarger)** - zts<br/>
+> ∙ **[goldenslaughterer](https://www.last.fm/music/zts/_/goldenslaughterer)** - zts<br/>
 <!--END_LASTFM_RECENT-->
