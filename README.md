@@ -53,23 +53,23 @@ Other         1 hr 53 mins          >------------------------   02.48 %
 
 > `96 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `5 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
+> `5 ▶️` ∙ **[Steven Universe](https://www.last.fm/music/Steven+Universe)**<br/>
 > `4 ▶️` ∙ **[Afgan](https://www.last.fm/music/Afgan)**<br/>
 > `4 ▶️` ∙ **[SHISHAMO](https://www.last.fm/music/SHISHAMO)**<br/>
-> `4 ▶️` ∙ **[Steven Universe](https://www.last.fm/music/Steven+Universe)**<br/>
+> `4 ▶️` ∙ **[Taylor Swift](https://www.last.fm/music/Taylor+Swift)**<br/>
 > `3 ▶️` ∙ **[Ari Lasso](https://www.last.fm/music/Ari+Lasso)**<br/>
 > `3 ▶️` ∙ **[Cigarettes After Sex](https://www.last.fm/music/Cigarettes+After+Sex)**<br/>
-> `3 ▶️` ∙ **[fhána](https://www.last.fm/music/fh%C3%A1na)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[君と夏フェス](https://www.last.fm/music/SHISHAMO/_/%E5%90%9B%E3%81%A8%E5%A4%8F%E3%83%95%E3%82%A7%E3%82%B9)** - SHISHAMO<br/>
-> ∙ **[ヒカリの方へ](https://www.last.fm/music/PSYQUI/_/%E3%83%92%E3%82%AB%E3%83%AA%E3%81%AE%E6%96%B9%E3%81%B8)** - PSYQUI<br/>
-> ∙ **[Anemone No Hana](https://www.last.fm/music/fh%C3%A1na/_/Anemone+No+Hana)** - fhána<br/>
-> ∙ **[Wormhole](https://www.last.fm/music/Annabel/_/Wormhole)** - Annabel<br/>
-> ∙ **[Apple Cider](https://www.last.fm/music/beabadoobee/_/Apple+Cider)** - beabadoobee<br/>
-> ∙ **[miragecoordinator](https://www.last.fm/music/zts/_/miragecoordinator)** - zts<br/>
-> ∙ **[dreamenddischarger](https://www.last.fm/music/zts/_/dreamenddischarger)** - zts<br/>
-> ∙ **[goldenslaughterer](https://www.last.fm/music/zts/_/goldenslaughterer)** - zts<br/>
+> ∙ **[Chunker](https://www.last.fm/music/Hail+The+Sun/_/Chunker)** - Hail The Sun<br/>
+> ∙ **[Untuk Mencintaimu](https://www.last.fm/music/Seventeen/_/Untuk+Mencintaimu)** - Seventeen<br/>
+> ∙ **[Here Comes a Thought (feat. Estelle & Aj Michalka)](https://www.last.fm/music/Steven+Universe/_/Here+Comes+a+Thought+(feat.+Estelle+&+Aj+Michalka))** - Steven Universe<br/>
+> ∙ **[風が吹く街](https://www.last.fm/music/Lucklife/_/%E9%A2%A8%E3%81%8C%E5%90%B9%E3%81%8F%E8%A1%97)** - Lucklife<br/>
+> ∙ **[bedroom community](https://www.last.fm/music/Glass+Beach/_/bedroom+community)** - Glass Beach<br/>
+> ∙ **[IT'S YOU (feat. keshi)](https://www.last.fm/music/MAX/_/IT%27S+YOU+(feat.+keshi))** - MAX<br/>
+> ∙ **[cardigan](https://www.last.fm/music/Taylor+Swift/_/cardigan)** - Taylor Swift<br/>
+> ∙ **[Please Do Not Lean (feat. BADBADNOTGOOD) - Bonus](https://www.last.fm/music/Daniel+Caesar/_/Please+Do+Not+Lean+(feat.+BADBADNOTGOOD)+-+Bonus)** - Daniel Caesar<br/>
 <!--END_LASTFM_RECENT-->
