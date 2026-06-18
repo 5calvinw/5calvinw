@@ -51,7 +51,7 @@ Other         1 hr 53 mins          >------------------------   02.48 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `96 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `97 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `5 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
 > `5 ▶️` ∙ **[Steven Universe](https://www.last.fm/music/Steven+Universe)**<br/>
 > `4 ▶️` ∙ **[Afgan](https://www.last.fm/music/Afgan)**<br/>
@@ -64,12 +64,12 @@ Other         1 hr 53 mins          >------------------------   02.48 %
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Ao no Waltz](https://www.last.fm/music/Eve/_/Ao+no+Waltz)** - Eve<br/>
+> ∙ **[それは小さな光のような](https://www.last.fm/music/Sayuri/_/%E3%81%9D%E3%82%8C%E3%81%AF%E5%B0%8F%E3%81%95%E3%81%AA%E5%85%89%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA)** - Sayuri<br/>
+> ∙ **[Shout Baby](https://www.last.fm/music/Ryokuoushoku+Shakai/_/Shout+Baby)** - Ryokuoushoku Shakai<br/>
 > ∙ **[Chunker](https://www.last.fm/music/Hail+The+Sun/_/Chunker)** - Hail The Sun<br/>
 > ∙ **[Untuk Mencintaimu](https://www.last.fm/music/Seventeen/_/Untuk+Mencintaimu)** - Seventeen<br/>
 > ∙ **[Here Comes a Thought (feat. Estelle & Aj Michalka)](https://www.last.fm/music/Steven+Universe/_/Here+Comes+a+Thought+(feat.+Estelle+&+Aj+Michalka))** - Steven Universe<br/>
 > ∙ **[風が吹く街](https://www.last.fm/music/Lucklife/_/%E9%A2%A8%E3%81%8C%E5%90%B9%E3%81%8F%E8%A1%97)** - Lucklife<br/>
 > ∙ **[bedroom community](https://www.last.fm/music/Glass+Beach/_/bedroom+community)** - Glass Beach<br/>
-> ∙ **[IT'S YOU (feat. keshi)](https://www.last.fm/music/MAX/_/IT%27S+YOU+(feat.+keshi))** - MAX<br/>
-> ∙ **[cardigan](https://www.last.fm/music/Taylor+Swift/_/cardigan)** - Taylor Swift<br/>
-> ∙ **[Please Do Not Lean (feat. BADBADNOTGOOD) - Bonus](https://www.last.fm/music/Daniel+Caesar/_/Please+Do+Not+Lean+(feat.+BADBADNOTGOOD)+-+Bonus)** - Daniel Caesar<br/>
 <!--END_LASTFM_RECENT-->
