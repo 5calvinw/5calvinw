@@ -64,12 +64,12 @@ Other         1 hr 53 mins          >------------------------   02.48 %
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Ao no Waltz](https://www.last.fm/music/Eve/_/Ao+no+Waltz)** - Eve<br/>
-> ∙ **[それは小さな光のような](https://www.last.fm/music/Sayuri/_/%E3%81%9D%E3%82%8C%E3%81%AF%E5%B0%8F%E3%81%95%E3%81%AA%E5%85%89%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA)** - Sayuri<br/>
-> ∙ **[Shout Baby](https://www.last.fm/music/Ryokuoushoku+Shakai/_/Shout+Baby)** - Ryokuoushoku Shakai<br/>
-> ∙ **[Chunker](https://www.last.fm/music/Hail+The+Sun/_/Chunker)** - Hail The Sun<br/>
-> ∙ **[Untuk Mencintaimu](https://www.last.fm/music/Seventeen/_/Untuk+Mencintaimu)** - Seventeen<br/>
-> ∙ **[Here Comes a Thought (feat. Estelle & Aj Michalka)](https://www.last.fm/music/Steven+Universe/_/Here+Comes+a+Thought+(feat.+Estelle+&+Aj+Michalka))** - Steven Universe<br/>
-> ∙ **[風が吹く街](https://www.last.fm/music/Lucklife/_/%E9%A2%A8%E3%81%8C%E5%90%B9%E3%81%8F%E8%A1%97)** - Lucklife<br/>
-> ∙ **[bedroom community](https://www.last.fm/music/Glass+Beach/_/bedroom+community)** - Glass Beach<br/>
+> ∙ **[hutari hitori - Remastering Version](https://www.last.fm/music/Dai/_/hutari+hitori+-+Remastering+Version)** - Dai<br/>
+> ∙ **[終ワリノ歌](https://www.last.fm/music/Kenichiro+Suehiro/_/%E7%B5%82%E3%83%AF%E3%83%AA%E3%83%8E%E6%AD%8C)** - Kenichiro Suehiro<br/>
+> ∙ **[Ame Iro Rondo](https://www.last.fm/music/ACN+Music./_/Ame+Iro+Rondo)** - ACN Music.<br/>
+> ∙ **[Save to Load](https://www.last.fm/music/%E5%B9%B3%E7%94%B0+%E5%8D%9A%E4%BF%A1/_/Save+to+Load)** - 平田 博信<br/>
+> ∙ **[きょうは夕陽野郎](https://www.last.fm/music/%E3%83%91%E3%83%BC%E3%83%AB%E5%85%84%E5%BC%9F/_/%E3%81%8D%E3%82%87%E3%81%86%E3%81%AF%E5%A4%95%E9%99%BD%E9%87%8E%E9%83%8E)** - パール兄弟<br/>
+> ∙ **[MY ROOM](https://www.last.fm/music/Itoki+Hana/_/MY+ROOM)** - Itoki Hana<br/>
+> ∙ **[今日もがんばるっピ！](https://www.last.fm/music/%E8%97%A4%E6%BE%A4%E6%85%B6%E6%98%8C/_/%E4%BB%8A%E6%97%A5%E3%82%82%E3%81%8C%E3%82%93%E3%81%B0%E3%82%8B%E3%81%A3%E3%83%94%EF%BC%81)** - 藤澤慶昌<br/>
+> ∙ **[午後の眠り](https://www.last.fm/music/Hideyuki+Fukasawa/_/%E5%8D%88%E5%BE%8C%E3%81%AE%E7%9C%A0%E3%82%8A)** - Hideyuki Fukasawa<br/>
 <!--END_LASTFM_RECENT-->
