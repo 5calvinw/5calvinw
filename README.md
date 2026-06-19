@@ -51,25 +51,25 @@ Other         1 hr 53 mins          >------------------------   02.37 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `97 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
-> `5 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
-> `5 ▶️` ∙ **[Steven Universe](https://www.last.fm/music/Steven+Universe)**<br/>
+> `96 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `6 ▶️` ∙ **[Lamp](https://www.last.fm/music/Lamp)**<br/>
+> `6 ▶️` ∙ **[藤澤慶昌](https://www.last.fm/music/%E8%97%A4%E6%BE%A4%E6%85%B6%E6%98%8C)**<br/>
+> `5 ▶️` ∙ **[Kenichiro Suehiro](https://www.last.fm/music/Kenichiro+Suehiro)**<br/>
 > `4 ▶️` ∙ **[Afgan](https://www.last.fm/music/Afgan)**<br/>
-> `4 ▶️` ∙ **[SHISHAMO](https://www.last.fm/music/SHISHAMO)**<br/>
-> `4 ▶️` ∙ **[Taylor Swift](https://www.last.fm/music/Taylor+Swift)**<br/>
-> `3 ▶️` ∙ **[Ari Lasso](https://www.last.fm/music/Ari+Lasso)**<br/>
-> `3 ▶️` ∙ **[Cigarettes After Sex](https://www.last.fm/music/Cigarettes+After+Sex)**<br/>
+> `4 ▶️` ∙ **[Caramel Column](https://www.last.fm/music/Caramel+Column)**<br/>
+> `4 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `4 ▶️` ∙ **[Steven Universe](https://www.last.fm/music/Steven+Universe)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[hutari hitori - Remastering Version](https://www.last.fm/music/Dai/_/hutari+hitori+-+Remastering+Version)** - Dai<br/>
-> ∙ **[終ワリノ歌](https://www.last.fm/music/Kenichiro+Suehiro/_/%E7%B5%82%E3%83%AF%E3%83%AA%E3%83%8E%E6%AD%8C)** - Kenichiro Suehiro<br/>
-> ∙ **[Ame Iro Rondo](https://www.last.fm/music/ACN+Music./_/Ame+Iro+Rondo)** - ACN Music.<br/>
-> ∙ **[Save to Load](https://www.last.fm/music/%E5%B9%B3%E7%94%B0+%E5%8D%9A%E4%BF%A1/_/Save+to+Load)** - 平田 博信<br/>
-> ∙ **[きょうは夕陽野郎](https://www.last.fm/music/%E3%83%91%E3%83%BC%E3%83%AB%E5%85%84%E5%BC%9F/_/%E3%81%8D%E3%82%87%E3%81%86%E3%81%AF%E5%A4%95%E9%99%BD%E9%87%8E%E9%83%8E)** - パール兄弟<br/>
-> ∙ **[MY ROOM](https://www.last.fm/music/Itoki+Hana/_/MY+ROOM)** - Itoki Hana<br/>
-> ∙ **[今日もがんばるっピ！](https://www.last.fm/music/%E8%97%A4%E6%BE%A4%E6%85%B6%E6%98%8C/_/%E4%BB%8A%E6%97%A5%E3%82%82%E3%81%8C%E3%82%93%E3%81%B0%E3%82%8B%E3%81%A3%E3%83%94%EF%BC%81)** - 藤澤慶昌<br/>
-> ∙ **[午後の眠り](https://www.last.fm/music/Hideyuki+Fukasawa/_/%E5%8D%88%E5%BE%8C%E3%81%AE%E7%9C%A0%E3%82%8A)** - Hideyuki Fukasawa<br/>
+> 🎶 **[A Home For Flowers (Tulip)](https://www.last.fm/music/Omori/_/A+Home+For+Flowers+(Tulip))** - Omori<br/>
+> ∙ **[Time with You](https://www.last.fm/music/Gonando/_/Time+with+You)** - Gonando<br/>
+> ∙ **[ある雨の日](https://www.last.fm/music/Satoru+K%C5%8Dsaki/_/%E3%81%82%E3%82%8B%E9%9B%A8%E3%81%AE%E6%97%A5)** - Satoru Kōsaki<br/>
+> ∙ **[Breath of Wind and Sunlight through the Trees](https://www.last.fm/music/Michiru+Oshima/_/Breath+of+Wind+and+Sunlight+through+the+Trees)** - Michiru Oshima<br/>
+> ∙ **[MainTheme](https://www.last.fm/music/Lizardry/_/MainTheme)** - Lizardry<br/>
+> ∙ **[フォスフォフィライト](https://www.last.fm/music/%E8%97%A4%E6%BE%A4%E6%85%B6%E6%98%8C/_/%E3%83%95%E3%82%A9%E3%82%B9%E3%83%95%E3%82%A9%E3%83%95%E3%82%A3%E3%83%A9%E3%82%A4%E3%83%88)** - 藤澤慶昌<br/>
+> ∙ **[オープニング](https://www.last.fm/music/Puryu/_/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%8B%E3%83%B3%E3%82%B0)** - Puryu<br/>
+> ∙ **[メインテーマ](https://www.last.fm/music/%E8%97%A4%E6%BE%A4%E6%85%B6%E6%98%8C/_/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%86%E3%83%BC%E3%83%9E)** - 藤澤慶昌<br/>
 <!--END_LASTFM_RECENT-->
