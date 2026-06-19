@@ -51,25 +51,25 @@ Other         1 hr 53 mins          >------------------------   02.37 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `96 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `91 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `7 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
+> `6 ▶️` ∙ **[Afgan](https://www.last.fm/music/Afgan)**<br/>
 > `6 ▶️` ∙ **[Lamp](https://www.last.fm/music/Lamp)**<br/>
+> `6 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `6 ▶️` ∙ **[藤澤慶昌](https://www.last.fm/music/%E8%97%A4%E6%BE%A4%E6%85%B6%E6%98%8C)**<br/>
 > `5 ▶️` ∙ **[Kenichiro Suehiro](https://www.last.fm/music/Kenichiro+Suehiro)**<br/>
-> `4 ▶️` ∙ **[Afgan](https://www.last.fm/music/Afgan)**<br/>
-> `4 ▶️` ∙ **[Caramel Column](https://www.last.fm/music/Caramel+Column)**<br/>
-> `4 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `4 ▶️` ∙ **[Steven Universe](https://www.last.fm/music/Steven+Universe)**<br/>
+> `5 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[A Home For Flowers (Tulip)](https://www.last.fm/music/Omori/_/A+Home+For+Flowers+(Tulip))** - Omori<br/>
-> ∙ **[Time with You](https://www.last.fm/music/Gonando/_/Time+with+You)** - Gonando<br/>
-> ∙ **[ある雨の日](https://www.last.fm/music/Satoru+K%C5%8Dsaki/_/%E3%81%82%E3%82%8B%E9%9B%A8%E3%81%AE%E6%97%A5)** - Satoru Kōsaki<br/>
-> ∙ **[Breath of Wind and Sunlight through the Trees](https://www.last.fm/music/Michiru+Oshima/_/Breath+of+Wind+and+Sunlight+through+the+Trees)** - Michiru Oshima<br/>
-> ∙ **[MainTheme](https://www.last.fm/music/Lizardry/_/MainTheme)** - Lizardry<br/>
-> ∙ **[フォスフォフィライト](https://www.last.fm/music/%E8%97%A4%E6%BE%A4%E6%85%B6%E6%98%8C/_/%E3%83%95%E3%82%A9%E3%82%B9%E3%83%95%E3%82%A9%E3%83%95%E3%82%A3%E3%83%A9%E3%82%A4%E3%83%88)** - 藤澤慶昌<br/>
-> ∙ **[オープニング](https://www.last.fm/music/Puryu/_/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%8B%E3%83%B3%E3%82%B0)** - Puryu<br/>
-> ∙ **[メインテーマ](https://www.last.fm/music/%E8%97%A4%E6%BE%A4%E6%85%B6%E6%98%8C/_/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%86%E3%83%BC%E3%83%9E)** - 藤澤慶昌<br/>
+> ∙ **[Realize](https://www.last.fm/music/Konomi+Suzuki/_/Realize)** - Konomi Suzuki<br/>
+> ∙ **[斜陽](https://www.last.fm/music/Yorushika/_/%E6%96%9C%E9%99%BD)** - Yorushika<br/>
+> ∙ **[COLORS](https://www.last.fm/music/Flow/_/COLORS)** - Flow<br/>
+> ∙ **[This Game](https://www.last.fm/music/%E9%88%B4%E6%9C%A8%E3%81%93%E3%81%AE%E3%81%BF/_/This+Game)** - 鈴木このみ<br/>
+> ∙ **[Let You Break My Heart Again](https://www.last.fm/music/Laufey/_/Let+You+Break+My+Heart+Again)** - Laufey<br/>
+> ∙ **[Lover Girl](https://www.last.fm/music/Laufey/_/Lover+Girl)** - Laufey<br/>
+> ∙ **[Letter to My 13 Year Old Self](https://www.last.fm/music/Laufey/_/Letter+to+My+13+Year+Old+Self)** - Laufey<br/>
+> ∙ **[Lucky for Me](https://www.last.fm/music/Laufey/_/Lucky+for+Me)** - Laufey<br/>
 <!--END_LASTFM_RECENT-->
