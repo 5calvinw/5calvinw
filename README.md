@@ -51,11 +51,11 @@ Other         1 hr 53 mins          >------------------------   02.37 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `64 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `60 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `8 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `7 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
 > `6 ▶️` ∙ **[Afgan](https://www.last.fm/music/Afgan)**<br/>
 > `6 ▶️` ∙ **[Lamp](https://www.last.fm/music/Lamp)**<br/>
-> `6 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `6 ▶️` ∙ **[藤澤慶昌](https://www.last.fm/music/%E8%97%A4%E6%BE%A4%E6%85%B6%E6%98%8C)**<br/>
 > `5 ▶️` ∙ **[Kenichiro Suehiro](https://www.last.fm/music/Kenichiro+Suehiro)**<br/>
 > `5 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
@@ -64,12 +64,12 @@ Other         1 hr 53 mins          >------------------------   02.37 %
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[First Death](https://www.last.fm/music/TK+from+Ling+tosite+sigure/_/First+Death)** - TK from Ling tosite sigure<br/>
-> ∙ **[Shadow and Truth](https://www.last.fm/music/ONE+%E2%85%A2+NOTES/_/Shadow+and+Truth)** - ONE Ⅲ NOTES<br/>
-> ∙ **[Redo](https://www.last.fm/music/Konomi+Suzuki/_/Redo)** - Konomi Suzuki<br/>
-> ∙ **[Youkoso! Hitori Bocchi (Welcome to Loneliness)](https://www.last.fm/music/ACN+Music./_/Youkoso!+Hitori+Bocchi+(Welcome+to+Loneliness))** - ACN Music.<br/>
-> ∙ **[Kokoro ni Kumo wo Motsu Shonen](https://www.last.fm/music/Sunny+Day+Service/_/Kokoro+ni+Kumo+wo+Motsu+Shonen)** - Sunny Day Service<br/>
-> ∙ **[hibernation](https://www.last.fm/music/Kneu/_/hibernation)** - Kneu<br/>
-> ∙ **[question](https://www.last.fm/music/%C3%B6sterreich/_/question)** - österreich<br/>
-> ∙ **[Kodoku](https://www.last.fm/music/%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%81%E3%83%92%E3%83%87%E3%82%AD/_/Kodoku)** - タニウチヒデキ<br/>
+> 🎶 **[星の奏でる歌 -strings quartet-](https://www.last.fm/music/Nobuaki+Nobusawa/_/%E6%98%9F%E3%81%AE%E5%A5%8F%E3%81%A7%E3%82%8B%E6%AD%8C+-strings+quartet-)** - Nobuaki Nobusawa<br/>
+> ∙ **[Issyun to Eien](https://www.last.fm/music/%E5%B9%B3%E7%94%B0+%E5%8D%9A%E4%BF%A1/_/Issyun+to+Eien)** - 平田 博信<br/>
+> ∙ **[Orchard](https://www.last.fm/music/Omori/_/Orchard)** - Omori<br/>
+> ∙ **[My Confession](https://www.last.fm/music/Dan+Salvato/_/My+Confession)** - Dan Salvato<br/>
+> ∙ **[ゆめにっき](https://www.last.fm/music/KIKIYAMA/_/%E3%82%86%E3%82%81%E3%81%AB%E3%81%A3%E3%81%8D)** - KIKIYAMA<br/>
+> ∙ **[Fushigi of Inanna (Solfeggio 528hz) [Impro#30 211216]](https://www.last.fm/music/Shintaro+Aoki/_/Fushigi+of+Inanna+(Solfeggio+528hz)+%5BImpro%2330+211216%5D)** - Shintaro Aoki<br/>
+> ∙ **[Moonsetter](https://www.last.fm/music/CopacetiCat/_/Moonsetter)** - CopacetiCat<br/>
+> ∙ **[A Home For Flowers (Empty)](https://www.last.fm/music/Omori/_/A+Home+For+Flowers+(Empty))** - Omori<br/>
 <!--END_LASTFM_RECENT-->
