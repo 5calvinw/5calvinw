@@ -51,7 +51,7 @@ Other         1 hr 53 mins          >------------------------   02.37 %
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `91 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `64 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `7 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
 > `6 ▶️` ∙ **[Afgan](https://www.last.fm/music/Afgan)**<br/>
 > `6 ▶️` ∙ **[Lamp](https://www.last.fm/music/Lamp)**<br/>
@@ -64,12 +64,12 @@ Other         1 hr 53 mins          >------------------------   02.37 %
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Realize](https://www.last.fm/music/Konomi+Suzuki/_/Realize)** - Konomi Suzuki<br/>
-> ∙ **[斜陽](https://www.last.fm/music/Yorushika/_/%E6%96%9C%E9%99%BD)** - Yorushika<br/>
-> ∙ **[COLORS](https://www.last.fm/music/Flow/_/COLORS)** - Flow<br/>
-> ∙ **[This Game](https://www.last.fm/music/%E9%88%B4%E6%9C%A8%E3%81%93%E3%81%AE%E3%81%BF/_/This+Game)** - 鈴木このみ<br/>
-> ∙ **[Let You Break My Heart Again](https://www.last.fm/music/Laufey/_/Let+You+Break+My+Heart+Again)** - Laufey<br/>
-> ∙ **[Lover Girl](https://www.last.fm/music/Laufey/_/Lover+Girl)** - Laufey<br/>
-> ∙ **[Letter to My 13 Year Old Self](https://www.last.fm/music/Laufey/_/Letter+to+My+13+Year+Old+Self)** - Laufey<br/>
-> ∙ **[Lucky for Me](https://www.last.fm/music/Laufey/_/Lucky+for+Me)** - Laufey<br/>
+> ∙ **[First Death](https://www.last.fm/music/TK+from+Ling+tosite+sigure/_/First+Death)** - TK from Ling tosite sigure<br/>
+> ∙ **[Shadow and Truth](https://www.last.fm/music/ONE+%E2%85%A2+NOTES/_/Shadow+and+Truth)** - ONE Ⅲ NOTES<br/>
+> ∙ **[Redo](https://www.last.fm/music/Konomi+Suzuki/_/Redo)** - Konomi Suzuki<br/>
+> ∙ **[Youkoso! Hitori Bocchi (Welcome to Loneliness)](https://www.last.fm/music/ACN+Music./_/Youkoso!+Hitori+Bocchi+(Welcome+to+Loneliness))** - ACN Music.<br/>
+> ∙ **[Kokoro ni Kumo wo Motsu Shonen](https://www.last.fm/music/Sunny+Day+Service/_/Kokoro+ni+Kumo+wo+Motsu+Shonen)** - Sunny Day Service<br/>
+> ∙ **[hibernation](https://www.last.fm/music/Kneu/_/hibernation)** - Kneu<br/>
+> ∙ **[question](https://www.last.fm/music/%C3%B6sterreich/_/question)** - österreich<br/>
+> ∙ **[Kodoku](https://www.last.fm/music/%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%81%E3%83%92%E3%83%87%E3%82%AD/_/Kodoku)** - タニウチヒデキ<br/>
 <!--END_LASTFM_RECENT-->
