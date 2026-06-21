@@ -27,26 +27,9 @@ React, TypeScript, Vite, Tailwind CSS , FastAPI, Express.js, Node.js, PostgreSQL
 LinkedIn: https://www.linkedin.com/in/calvin-wu-a9aa0b270/
 Email: calvinthewu@gmail.com
 
-<!--START_SECTION:waka-->
 
-```rust
-From: 22 March 2026 - To: 19 June 2026
 
-Total Time: 80 hrs 9 mins
 
-TypeScript    33 hrs 53 mins        >>>>>>>>>>---------------   41.31 %
-Python        9 hrs 14 mins         >>>----------------------   11.26 %
-Markdown      6 hrs 38 mins         >>-----------------------   08.09 %
-HTML          6 hrs                 >>-----------------------   07.33 %
-Dart          5 hrs 40 mins         >>-----------------------   06.91 %
-Go            5 hrs 3 mins          >>-----------------------   06.16 %
-CSS           2 hrs 19 mins         >------------------------   02.83 %
-Svelte        2 hrs 15 mins         >------------------------   02.76 %
-Bash          2 hrs 14 mins         >------------------------   02.74 %
-Other         1 hr 54 mins          >------------------------   02.32 %
-```
-
-<!--END_SECTION:waka-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
