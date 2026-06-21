@@ -34,25 +34,25 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `60 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
-> `10 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `63 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `28 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `7 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
+> `7 ▶️` ∙ **[平田 博信](https://www.last.fm/music/%E5%B9%B3%E7%94%B0+%E5%8D%9A%E4%BF%A1)**<br/>
 > `6 ▶️` ∙ **[Afgan](https://www.last.fm/music/Afgan)**<br/>
+> `6 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `6 ▶️` ∙ **[Lamp](https://www.last.fm/music/Lamp)**<br/>
 > `6 ▶️` ∙ **[藤澤慶昌](https://www.last.fm/music/%E8%97%A4%E6%BE%A4%E6%85%B6%E6%98%8C)**<br/>
-> `5 ▶️` ∙ **[Kenichiro Suehiro](https://www.last.fm/music/Kenichiro+Suehiro)**<br/>
-> `5 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[moon jelly and the benthic blues](https://www.last.fm/music/No+Love+in+the+House+of+Gold/_/moon+jelly+and+the+benthic+blues)** - No Love in the House of Gold<br/>
-> ∙ **[August/Water](https://www.last.fm/music/Omori/_/August%2FWater)** - Omori<br/>
-> ∙ **[星の奏でる歌 -piano-](https://www.last.fm/music/Nobuaki+Nobusawa/_/%E6%98%9F%E3%81%AE%E5%A5%8F%E3%81%A7%E3%82%8B%E6%AD%8C+-piano-)** - Nobuaki Nobusawa<br/>
-> ∙ **[Radiant Ruins](https://www.last.fm/music/Urotsuki/_/Radiant+Ruins)** - Urotsuki<br/>
-> ∙ **[Veil](https://www.last.fm/music/P3pper/_/Veil)** - P3pper<br/>
-> ∙ **[a plant managed to startle me somehow](https://www.last.fm/music/AZALI/_/a+plant+managed+to+startle+me+somehow)** - AZALI<br/>
-> ∙ **[Buried Away (Mars Underground)](https://www.last.fm/music/Flare/_/Buried+Away+(Mars+Underground))** - Flare<br/>
-> ∙ **[lit(var)](https://www.last.fm/music/Kensuke+Ushio/_/lit(var))** - Kensuke Ushio<br/>
+> 🎶 **[Fallen Down](https://www.last.fm/music/Toby+Fox/_/Fallen+Down)** - Toby Fox<br/>
+> ∙ **[WHITE SPACE](https://www.last.fm/music/Omori/_/WHITE+SPACE)** - Omori<br/>
+> ∙ **[Do You Remember?](https://www.last.fm/music/Omori/_/Do+You+Remember%3F)** - Omori<br/>
+> ∙ **[Night Market](https://www.last.fm/music/ConcernedApe/_/Night+Market)** - ConcernedApe<br/>
+> ∙ **[the desire to simply not exist](https://www.last.fm/music/Reece+Moseley/_/the+desire+to+simply+not+exist)** - Reece Moseley<br/>
+> ∙ **[World's End Valentine](https://www.last.fm/music/PaintAMelody/_/World%27s+End+Valentine)** - PaintAMelody<br/>
+> ∙ **[Let's Get Together Now!](https://www.last.fm/music/Omori/_/Let%27s+Get+Together+Now!)** - Omori<br/>
+> ∙ **[Niko And The World Machine](https://www.last.fm/music/Nightmargin/_/Niko+And+The+World+Machine)** - Nightmargin<br/>
 <!--END_LASTFM_RECENT-->
