@@ -34,25 +34,25 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `62 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
-> `31 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `7 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `63 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `34 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `9 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `7 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
 > `7 ▶️` ∙ **[平田 博信](https://www.last.fm/music/%E5%B9%B3%E7%94%B0+%E5%8D%9A%E4%BF%A1)**<br/>
 > `6 ▶️` ∙ **[Afgan](https://www.last.fm/music/Afgan)**<br/>
+> `6 ▶️` ∙ **[Kenichiro Suehiro](https://www.last.fm/music/Kenichiro+Suehiro)**<br/>
 > `6 ▶️` ∙ **[Lamp](https://www.last.fm/music/Lamp)**<br/>
-> `6 ▶️` ∙ **[藤澤慶昌](https://www.last.fm/music/%E8%97%A4%E6%BE%A4%E6%85%B6%E6%98%8C)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[tomorrow](https://www.last.fm/music/Monet/_/tomorrow)** - Monet<br/>
-> ∙ **[hearts get closer](https://www.last.fm/music/Kensuke+Ushio/_/hearts+get+closer)** - Kensuke Ushio<br/>
-> ∙ **[a little girl](https://www.last.fm/music/zmi/_/a+little+girl)** - zmi<br/>
-> ∙ **[H20:HCL](https://www.last.fm/music/Omori/_/H20:HCL)** - Omori<br/>
-> ∙ **[Glade](https://www.last.fm/music/Omori/_/Glade)** - Omori<br/>
-> ∙ **[rainfall](https://www.last.fm/music/Morimoto+Naoki/_/rainfall)** - Morimoto Naoki<br/>
-> ∙ **[fall](https://www.last.fm/music/zts/_/fall)** - zts<br/>
-> ∙ **[親愛なるあの日々へ](https://www.last.fm/music/Fuminori+Matsumoto/_/%E8%A6%AA%E6%84%9B%E3%81%AA%E3%82%8B%E3%81%82%E3%81%AE%E6%97%A5%E3%80%85%E3%81%B8)** - Fuminori Matsumoto<br/>
+> 🎶 **[Trees...](https://www.last.fm/music/Omori/_/Trees...)** - Omori<br/>
+> ∙ **[What Meets the Eye](https://www.last.fm/music/Tomoki+Miyoshi/_/What+Meets+the+Eye)** - Tomoki Miyoshi<br/>
+> ∙ **[waltz of the ruins](https://www.last.fm/music/AZALI/_/waltz+of+the+ruins)** - AZALI<br/>
+> ∙ **[陽だまり道とれんちょん](https://www.last.fm/music/Hiromi+Mizutani/_/%E9%99%BD%E3%81%A0%E3%81%BE%E3%82%8A%E9%81%93%E3%81%A8%E3%82%8C%E3%82%93%E3%81%A1%E3%82%87%E3%82%93)** - Hiromi Mizutani<br/>
+> ∙ **[our gradation](https://www.last.fm/music/Kensuke+Ushio/_/our+gradation)** - Kensuke Ushio<br/>
+> ∙ **[wingless](https://www.last.fm/music/zts/_/wingless)** - zts<br/>
+> ∙ **[DUET](https://www.last.fm/music/PaintAMelody/_/DUET)** - PaintAMelody<br/>
+> ∙ **[Respite](https://www.last.fm/music/Toby+Fox/_/Respite)** - Toby Fox<br/>
 <!--END_LASTFM_RECENT-->
