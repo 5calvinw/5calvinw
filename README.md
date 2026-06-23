@@ -34,25 +34,25 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `62 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
-> `36 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `54 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `44 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `19 ▶️` ∙ **[White Noise Radiance](https://www.last.fm/music/White+Noise+Radiance)**<br/>
 > `12 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
-> `8 ▶️` ∙ **[Kenichiro Suehiro](https://www.last.fm/music/Kenichiro+Suehiro)**<br/>
-> `7 ▶️` ∙ **[平田 博信](https://www.last.fm/music/%E5%B9%B3%E7%94%B0+%E5%8D%9A%E4%BF%A1)**<br/>
-> `7 ▶️` ∙ **[藤澤慶昌](https://www.last.fm/music/%E8%97%A4%E6%BE%A4%E6%85%B6%E6%98%8C)**<br/>
-> `6 ▶️` ∙ **[Afgan](https://www.last.fm/music/Afgan)**<br/>
-> `6 ▶️` ∙ **[Hikaru Shirosu](https://www.last.fm/music/Hikaru+Shirosu)**<br/>
+> `9 ▶️` ∙ **[Kenichiro Suehiro](https://www.last.fm/music/Kenichiro+Suehiro)**<br/>
+> `8 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `8 ▶️` ∙ **[平田 博信](https://www.last.fm/music/%E5%B9%B3%E7%94%B0+%E5%8D%9A%E4%BF%A1)**<br/>
+> `8 ▶️` ∙ **[窪田ミナ](https://www.last.fm/music/%E7%AA%AA%E7%94%B0%E3%83%9F%E3%83%8A)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Untitled](https://www.last.fm/music/MALIQ+&+D%27Essentials/_/Untitled)** - MALIQ & D'Essentials<br/>
-> ∙ **[Secret Door](https://www.last.fm/music/Arctic+Monkeys/_/Secret+Door)** - Arctic Monkeys<br/>
-> ∙ **[lowkey](https://www.last.fm/music/Niki/_/lowkey)** - Niki<br/>
-> ∙ **[Call It Fate, Call It Karma](https://www.last.fm/music/The+Strokes/_/Call+It+Fate,+Call+It+Karma)** - The Strokes<br/>
-> ∙ **[in the pool](https://www.last.fm/music/Kensuke+Ushio/_/in+the+pool)** - Kensuke Ushio<br/>
-> ∙ **[一緒なら](https://www.last.fm/music/%E7%85%A7%E4%BA%95%E9%A0%86%E6%94%BF/_/%E4%B8%80%E7%B7%92%E3%81%AA%E3%82%89)** - 照井順政<br/>
-> ∙ **[不確か](https://www.last.fm/music/Mei+Ehara/_/%E4%B8%8D%E7%A2%BA%E3%81%8B)** - Mei Ehara<br/>
-> ∙ **[kagefumi](https://www.last.fm/music/%E7%99%BE%E6%99%AF/_/kagefumi)** - 百景<br/>
+> 🎶 **[Rain Sounds for Sleeping, Pt. 57 (Continuous No Gaps)](https://www.last.fm/music/White+Noise+Radiance/_/Rain+Sounds+for+Sleeping,+Pt.+57+(Continuous+No+Gaps))** - White Noise Radiance<br/>
+> ∙ **[Rain Sounds for Sleeping, Pt. 16 (Continuous No Gaps)](https://www.last.fm/music/White+Noise+Radiance/_/Rain+Sounds+for+Sleeping,+Pt.+16+(Continuous+No+Gaps))** - White Noise Radiance<br/>
+> ∙ **[Rain Sounds for Sleeping, Pt. 39 (Continuous No Gaps)](https://www.last.fm/music/White+Noise+Radiance/_/Rain+Sounds+for+Sleeping,+Pt.+39+(Continuous+No+Gaps))** - White Noise Radiance<br/>
+> ∙ **[Rain Sounds for Sleeping, Pt. 61 (Continuous No Gaps)](https://www.last.fm/music/White+Noise+Radiance/_/Rain+Sounds+for+Sleeping,+Pt.+61+(Continuous+No+Gaps))** - White Noise Radiance<br/>
+> ∙ **[Rain Sounds for Sleeping, Pt. 68 (Continuous No Gaps)](https://www.last.fm/music/White+Noise+Radiance/_/Rain+Sounds+for+Sleeping,+Pt.+68+(Continuous+No+Gaps))** - White Noise Radiance<br/>
+> ∙ **[Rain Sounds for Sleeping, Pt. 38 (Continuous No Gaps)](https://www.last.fm/music/White+Noise+Radiance/_/Rain+Sounds+for+Sleeping,+Pt.+38+(Continuous+No+Gaps))** - White Noise Radiance<br/>
+> ∙ **[Rain Sounds for Sleeping, Pt. 71 (Continuous No Gaps)](https://www.last.fm/music/White+Noise+Radiance/_/Rain+Sounds+for+Sleeping,+Pt.+71+(Continuous+No+Gaps))** - White Noise Radiance<br/>
+> ∙ **[Rain Sounds for Sleeping, Pt. 49 (Continuous No Gaps)](https://www.last.fm/music/White+Noise+Radiance/_/Rain+Sounds+for+Sleeping,+Pt.+49+(Continuous+No+Gaps))** - White Noise Radiance<br/>
 <!--END_LASTFM_RECENT-->
