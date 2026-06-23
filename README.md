@@ -34,10 +34,10 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `54 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `68 ▶️` ∙ **[White Noise Radiance](https://www.last.fm/music/White+Noise+Radiance)**<br/>
 > `44 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `19 ▶️` ∙ **[White Noise Radiance](https://www.last.fm/music/White+Noise+Radiance)**<br/>
 > `12 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `10 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `9 ▶️` ∙ **[Kenichiro Suehiro](https://www.last.fm/music/Kenichiro+Suehiro)**<br/>
 > `8 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `8 ▶️` ∙ **[平田 博信](https://www.last.fm/music/%E5%B9%B3%E7%94%B0+%E5%8D%9A%E4%BF%A1)**<br/>
@@ -47,12 +47,12 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Rain Sounds for Sleeping, Pt. 57 (Continuous No Gaps)](https://www.last.fm/music/White+Noise+Radiance/_/Rain+Sounds+for+Sleeping,+Pt.+57+(Continuous+No+Gaps))** - White Noise Radiance<br/>
-> ∙ **[Rain Sounds for Sleeping, Pt. 16 (Continuous No Gaps)](https://www.last.fm/music/White+Noise+Radiance/_/Rain+Sounds+for+Sleeping,+Pt.+16+(Continuous+No+Gaps))** - White Noise Radiance<br/>
-> ∙ **[Rain Sounds for Sleeping, Pt. 39 (Continuous No Gaps)](https://www.last.fm/music/White+Noise+Radiance/_/Rain+Sounds+for+Sleeping,+Pt.+39+(Continuous+No+Gaps))** - White Noise Radiance<br/>
-> ∙ **[Rain Sounds for Sleeping, Pt. 61 (Continuous No Gaps)](https://www.last.fm/music/White+Noise+Radiance/_/Rain+Sounds+for+Sleeping,+Pt.+61+(Continuous+No+Gaps))** - White Noise Radiance<br/>
-> ∙ **[Rain Sounds for Sleeping, Pt. 68 (Continuous No Gaps)](https://www.last.fm/music/White+Noise+Radiance/_/Rain+Sounds+for+Sleeping,+Pt.+68+(Continuous+No+Gaps))** - White Noise Radiance<br/>
-> ∙ **[Rain Sounds for Sleeping, Pt. 38 (Continuous No Gaps)](https://www.last.fm/music/White+Noise+Radiance/_/Rain+Sounds+for+Sleeping,+Pt.+38+(Continuous+No+Gaps))** - White Noise Radiance<br/>
-> ∙ **[Rain Sounds for Sleeping, Pt. 71 (Continuous No Gaps)](https://www.last.fm/music/White+Noise+Radiance/_/Rain+Sounds+for+Sleeping,+Pt.+71+(Continuous+No+Gaps))** - White Noise Radiance<br/>
-> ∙ **[Rain Sounds for Sleeping, Pt. 49 (Continuous No Gaps)](https://www.last.fm/music/White+Noise+Radiance/_/Rain+Sounds+for+Sleeping,+Pt.+49+(Continuous+No+Gaps))** - White Noise Radiance<br/>
+> ∙ **[Rain Sounds for Sleeping, Pt. 21 (Continuous No Gaps)](https://www.last.fm/music/White+Noise+Radiance/_/Rain+Sounds+for+Sleeping,+Pt.+21+(Continuous+No+Gaps))** - White Noise Radiance<br/>
+> ∙ **[Rain Sounds for Sleeping, Pt. 36 (Continuous No Gaps)](https://www.last.fm/music/White+Noise+Radiance/_/Rain+Sounds+for+Sleeping,+Pt.+36+(Continuous+No+Gaps))** - White Noise Radiance<br/>
+> ∙ **[Rain Sounds for Sleeping, Pt. 51 (Continuous No Gaps)](https://www.last.fm/music/White+Noise+Radiance/_/Rain+Sounds+for+Sleeping,+Pt.+51+(Continuous+No+Gaps))** - White Noise Radiance<br/>
+> ∙ **[Rain Sounds for Sleeping, Pt. 52 (Continuous No Gaps)](https://www.last.fm/music/White+Noise+Radiance/_/Rain+Sounds+for+Sleeping,+Pt.+52+(Continuous+No+Gaps))** - White Noise Radiance<br/>
+> ∙ **[Rain Sounds for Sleeping, Pt. 04 (Continuous No Gaps)](https://www.last.fm/music/White+Noise+Radiance/_/Rain+Sounds+for+Sleeping,+Pt.+04+(Continuous+No+Gaps))** - White Noise Radiance<br/>
+> ∙ **[Rain Sounds for Sleeping, Pt. 42 (Continuous No Gaps)](https://www.last.fm/music/White+Noise+Radiance/_/Rain+Sounds+for+Sleeping,+Pt.+42+(Continuous+No+Gaps))** - White Noise Radiance<br/>
+> ∙ **[Rain Sounds for Sleeping, Pt. 24 (Continuous No Gaps)](https://www.last.fm/music/White+Noise+Radiance/_/Rain+Sounds+for+Sleeping,+Pt.+24+(Continuous+No+Gaps))** - White Noise Radiance<br/>
+> ∙ **[Rain Sounds for Sleeping, Pt. 67 (Continuous No Gaps)](https://www.last.fm/music/White+Noise+Radiance/_/Rain+Sounds+for+Sleeping,+Pt.+67+(Continuous+No+Gaps))** - White Noise Radiance<br/>
 <!--END_LASTFM_RECENT-->
