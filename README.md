@@ -35,24 +35,24 @@ Email: calvinthewu@gmail.com
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `76 ▶️` ∙ **[White Noise Radiance](https://www.last.fm/music/White+Noise+Radiance)**<br/>
-> `51 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `15 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
-> `11 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
-> `10 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `57 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `16 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `15 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
+> `11 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `9 ▶️` ∙ **[Kenichiro Suehiro](https://www.last.fm/music/Kenichiro+Suehiro)**<br/>
-> `8 ▶️` ∙ **[Hikaru Shirosu](https://www.last.fm/music/Hikaru+Shirosu)**<br/>
-> `8 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `9 ▶️` ∙ **[窪田ミナ](https://www.last.fm/music/%E7%AA%AA%E7%94%B0%E3%83%9F%E3%83%8A)**<br/>
+> `8 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Oceans & Engines](https://www.last.fm/music/Niki/_/Oceans+&+Engines)** - Niki<br/>
-> ∙ **[Pasilyo](https://www.last.fm/music/SunKissed+Lola/_/Pasilyo)** - SunKissed Lola<br/>
-> ∙ **[Love Trial](https://www.last.fm/music/40mP/_/Love+Trial)** - 40mP<br/>
-> ∙ **[String Theocracy](https://www.last.fm/music/Mili/_/String+Theocracy)** - Mili<br/>
-> ∙ **[Letter to My 13 Year Old Self](https://www.last.fm/music/Laufey/_/Letter+to+My+13+Year+Old+Self)** - Laufey<br/>
-> ∙ **[Letter to My 13 Year Old Self](https://www.last.fm/music/Laufey/_/Letter+to+My+13+Year+Old+Self)** - Laufey<br/>
-> ∙ **[Too Little, Too Late](https://www.last.fm/music/Laufey/_/Too+Little,+Too+Late)** - Laufey<br/>
-> ∙ **[Crying At The Airport](https://www.last.fm/music/Ebony+Loren/_/Crying+At+The+Airport)** - Ebony Loren<br/>
+> 🎶 **[utakata](https://www.last.fm/music/zmi/_/utakata)** - zmi<br/>
+> ∙ **[lost at a sleepover](https://www.last.fm/music/Omori/_/lost+at+a+sleepover)** - Omori<br/>
+> ∙ **[a little girl](https://www.last.fm/music/zmi/_/a+little+girl)** - zmi<br/>
+> ∙ **[Sweet Pain](https://www.last.fm/music/Kensuke+Ushio/_/Sweet+Pain)** - Kensuke Ushio<br/>
+> ∙ **[Dear Little Brother...](https://www.last.fm/music/Omori/_/Dear+Little+Brother...)** - Omori<br/>
+> ∙ **[DUET](https://www.last.fm/music/Omori/_/DUET)** - Omori<br/>
+> ∙ **[Howling Fjord "Prelude"](https://www.last.fm/music/Robin+Appelqvist/_/Howling+Fjord+%22Prelude%22)** - Robin Appelqvist<br/>
+> ∙ **[I Still Love You](https://www.last.fm/music/Dan+Salvato/_/I+Still+Love+You)** - Dan Salvato<br/>
 <!--END_LASTFM_RECENT-->
