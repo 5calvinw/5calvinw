@@ -37,7 +37,7 @@ Email: calvinthewu@gmail.com
 > `76 ▶️` ∙ **[White Noise Radiance](https://www.last.fm/music/White+Noise+Radiance)**<br/>
 > `51 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `15 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
-> `10 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
+> `11 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `10 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `9 ▶️` ∙ **[Kenichiro Suehiro](https://www.last.fm/music/Kenichiro+Suehiro)**<br/>
 > `8 ▶️` ∙ **[Hikaru Shirosu](https://www.last.fm/music/Hikaru+Shirosu)**<br/>
@@ -47,12 +47,12 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Oceans & Engines](https://www.last.fm/music/Niki/_/Oceans+&+Engines)** - Niki<br/>
+> ∙ **[Pasilyo](https://www.last.fm/music/SunKissed+Lola/_/Pasilyo)** - SunKissed Lola<br/>
+> ∙ **[Love Trial](https://www.last.fm/music/40mP/_/Love+Trial)** - 40mP<br/>
+> ∙ **[String Theocracy](https://www.last.fm/music/Mili/_/String+Theocracy)** - Mili<br/>
+> ∙ **[Letter to My 13 Year Old Self](https://www.last.fm/music/Laufey/_/Letter+to+My+13+Year+Old+Self)** - Laufey<br/>
 > ∙ **[Letter to My 13 Year Old Self](https://www.last.fm/music/Laufey/_/Letter+to+My+13+Year+Old+Self)** - Laufey<br/>
 > ∙ **[Too Little, Too Late](https://www.last.fm/music/Laufey/_/Too+Little,+Too+Late)** - Laufey<br/>
 > ∙ **[Crying At The Airport](https://www.last.fm/music/Ebony+Loren/_/Crying+At+The+Airport)** - Ebony Loren<br/>
-> ∙ **[Who Knows](https://www.last.fm/music/Daniel+Caesar/_/Who+Knows)** - Daniel Caesar<br/>
-> ∙ **[Letter to My 13 Year Old Self](https://www.last.fm/music/Laufey/_/Letter+to+My+13+Year+Old+Self)** - Laufey<br/>
-> ∙ **[Too Little, Too Late](https://www.last.fm/music/Laufey/_/Too+Little,+Too+Late)** - Laufey<br/>
-> ∙ **[Sugar Star Planetarium](https://www.last.fm/music/Omori/_/Sugar+Star+Planetarium)** - Omori<br/>
-> ∙ **[See You Tomorrow](https://www.last.fm/music/Omori/_/See+You+Tomorrow)** - Omori<br/>
 <!--END_LASTFM_RECENT-->
