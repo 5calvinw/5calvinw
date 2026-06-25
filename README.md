@@ -47,7 +47,7 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[utakata](https://www.last.fm/music/zmi/_/utakata)** - zmi<br/>
+> ∙ **[utakata](https://www.last.fm/music/zmi/_/utakata)** - zmi<br/>
 > ∙ **[lost at a sleepover](https://www.last.fm/music/Omori/_/lost+at+a+sleepover)** - Omori<br/>
 > ∙ **[a little girl](https://www.last.fm/music/zmi/_/a+little+girl)** - zmi<br/>
 > ∙ **[Sweet Pain](https://www.last.fm/music/Kensuke+Ushio/_/Sweet+Pain)** - Kensuke Ushio<br/>
