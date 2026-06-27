@@ -35,24 +35,24 @@ Email: calvinthewu@gmail.com
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `76 ▶️` ∙ **[White Noise Radiance](https://www.last.fm/music/White+Noise+Radiance)**<br/>
-> `60 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `20 ▶️` ∙ **[Bernadya](https://www.last.fm/music/Bernadya)**<br/>
-> `20 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
-> `17 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
-> `12 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
-> `10 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
-> `8 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `72 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `24 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `21 ▶️` ∙ **[Bernadya](https://www.last.fm/music/Bernadya)**<br/>
+> `18 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
+> `14 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `11 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
+> `9 ▶️` ∙ **[窪田ミナ](https://www.last.fm/music/%E7%AA%AA%E7%94%B0%E3%83%9F%E3%83%8A)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[A Home For Flowers (Empty)](https://www.last.fm/music/Omori/_/A+Home+For+Flowers+(Empty))** - Omori<br/>
-> ∙ **[Sweet Pain](https://www.last.fm/music/Kensuke+Ushio/_/Sweet+Pain)** - Kensuke Ushio<br/>
-> ∙ **[The Quiet Evening](https://www.last.fm/music/Mina+Kubota/_/The+Quiet+Evening)** - Mina Kubota<br/>
-> ∙ **[feeling conscious](https://www.last.fm/music/Kensuke+Ushio/_/feeling+conscious)** - Kensuke Ushio<br/>
-> ∙ **[Title](https://www.last.fm/music/Omori/_/Title)** - Omori<br/>
-> ∙ **[It's Raining Somewhere Else](https://www.last.fm/music/Toby+Fox/_/It%27s+Raining+Somewhere+Else)** - Toby Fox<br/>
-> ∙ **[Lost Library](https://www.last.fm/music/Omori/_/Lost+Library)** - Omori<br/>
+> ∙ **[Letter to My 13 Year Old Self](https://www.last.fm/music/Laufey/_/Letter+to+My+13+Year+Old+Self)** - Laufey<br/>
+> ∙ **[Kita Buat Menyenangkan](https://www.last.fm/music/Bernadya/_/Kita+Buat+Menyenangkan)** - Bernadya<br/>
+> ∙ **[The Name of Life - Piano Solo Version](https://www.last.fm/music/Hikaru+Shirosu/_/The+Name+of+Life+-+Piano+Solo+Version)** - Hikaru Shirosu<br/>
+> ∙ **[8の季節](https://www.last.fm/music/Haruka+Nakamura/_/8%E3%81%AE%E5%AD%A3%E7%AF%80)** - Haruka Nakamura<br/>
+> ∙ **[Spring Rain (Love Does Soul Like Water on Withered Soil)](https://www.last.fm/music/Hemio/_/Spring+Rain+(Love+Does+Soul+Like+Water+on+Withered+Soil))** - Hemio<br/>
+> ∙ **[Date](https://www.last.fm/music/RADWIMPS/_/Date)** - RADWIMPS<br/>
 > ∙ **[See You Tomorrow](https://www.last.fm/music/Omori/_/See+You+Tomorrow)** - Omori<br/>
+> ∙ **[World's End Valentine](https://www.last.fm/music/PaintAMelody/_/World%27s+End+Valentine)** - PaintAMelody<br/>
 <!--END_LASTFM_RECENT-->
