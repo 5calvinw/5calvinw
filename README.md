@@ -35,13 +35,13 @@ Email: calvinthewu@gmail.com
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `76 ▶️` ∙ **[White Noise Radiance](https://www.last.fm/music/White+Noise+Radiance)**<br/>
-> `68 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `57 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `26 ▶️` ∙ **[Bernadya](https://www.last.fm/music/Bernadya)**<br/>
-> `23 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `20 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `19 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
-> `13 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
-> `10 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
-> `8 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `11 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `9 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
+> `7 ▶️` ∙ **[窪田ミナ](https://www.last.fm/music/%E7%AA%AA%E7%94%B0%E3%83%9F%E3%83%8A)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
