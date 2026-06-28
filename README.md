@@ -35,11 +35,11 @@ Email: calvinthewu@gmail.com
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `76 ▶️` ∙ **[White Noise Radiance](https://www.last.fm/music/White+Noise+Radiance)**<br/>
-> `46 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `28 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `51 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `30 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `27 ▶️` ∙ **[Bernadya](https://www.last.fm/music/Bernadya)**<br/>
 > `19 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
-> `17 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `18 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `10 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `8 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -47,12 +47,12 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[春擬き](https://www.last.fm/music/yanaginagi/_/%E6%98%A5%E6%93%AC%E3%81%8D)** - yanaginagi<br/>
-> ∙ **[Pretender](https://www.last.fm/music/Official+HIGE+DANdism/_/Pretender)** - Official HIGE DANdism<br/>
-> ∙ **[like i need u](https://www.last.fm/music/keshi/_/like+i+need+u)** - keshi<br/>
-> ∙ **[I Want It That Way](https://www.last.fm/music/Backstreet+Boys/_/I+Want+It+That+Way)** - Backstreet Boys<br/>
-> ∙ **[Kita Buat Menyenangkan](https://www.last.fm/music/Bernadya/_/Kita+Buat+Menyenangkan)** - Bernadya<br/>
-> ∙ **[liquescimus](https://www.last.fm/music/%E3%83%95%E3%82%A9%E3%82%B9%E3%83%95%E3%82%A9%E3%83%95%E3%82%A3%E3%83%A9%E3%82%A4%E3%83%88(CV.%E9%BB%92%E6%B2%A2%E3%81%A8%E3%82%82%E3%82%88)/_/liquescimus)** - フォスフォフィライト(CV.黒沢ともよ)<br/>
-> ∙ **[More One Night](https://www.last.fm/music/%E3%83%81%E3%83%88(CV:%E6%B0%B4%E7%80%AC%E3%81%84%E3%81%AE%E3%82%8A)/_/More+One+Night)** - チト(CV:水瀬いのり)<br/>
-> ∙ **[環-cycle-](https://www.last.fm/music/Itoki+Hana/_/%E7%92%B0-cycle-)** - Itoki Hana<br/>
+> ∙ **[rain](https://www.last.fm/music/zts/_/rain)** - zts<br/>
+> ∙ **[DUET](https://www.last.fm/music/PaintAMelody/_/DUET)** - PaintAMelody<br/>
+> ∙ **[終ワリノ歌](https://www.last.fm/music/Kenichiro+Suehiro/_/%E7%B5%82%E3%83%AF%E3%83%AA%E3%83%8E%E6%AD%8C)** - Kenichiro Suehiro<br/>
+> ∙ **[Itsumademo Dokomademo](https://www.last.fm/music/%E5%B9%B3%E7%94%B0+%E5%8D%9A%E4%BF%A1/_/Itsumademo+Dokomademo)** - 平田 博信<br/>
+> ∙ **[Song of Storms (From Ocarina of Time Ost)](https://www.last.fm/music/Claire+Waluch/_/Song+of+Storms+(From+Ocarina+of+Time+Ost))** - Claire Waluch<br/>
+> ∙ **[Calm](https://www.last.fm/music/Omori/_/Calm)** - Omori<br/>
+> ∙ **[Respite](https://www.last.fm/music/Omori/_/Respite)** - Omori<br/>
+> ∙ **[cage](https://www.last.fm/music/zts/_/cage)** - zts<br/>
 <!--END_LASTFM_RECENT-->
