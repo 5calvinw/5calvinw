@@ -35,24 +35,24 @@ Email: calvinthewu@gmail.com
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `76 ▶️` ∙ **[White Noise Radiance](https://www.last.fm/music/White+Noise+Radiance)**<br/>
-> `57 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `26 ▶️` ∙ **[Bernadya](https://www.last.fm/music/Bernadya)**<br/>
-> `20 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `46 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `28 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `27 ▶️` ∙ **[Bernadya](https://www.last.fm/music/Bernadya)**<br/>
 > `19 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
-> `11 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
-> `9 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
-> `7 ▶️` ∙ **[窪田ミナ](https://www.last.fm/music/%E7%AA%AA%E7%94%B0%E3%83%9F%E3%83%8A)**<br/>
+> `17 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `10 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `8 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[夜に駆ける](https://www.last.fm/music/YOASOBI/_/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B)** - YOASOBI<br/>
-> ∙ **[Wild Side -Anime Ver.-](https://www.last.fm/music/Ali/_/Wild+Side+-Anime+Ver.-)** - Ali<br/>
-> ∙ **[ワールドイズマイン-初音ミク「マジカルミライ 2021」Live- (feat. 初音ミク)](https://www.last.fm/music/ryo+(supercell)/_/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A4%E3%82%BA%E3%83%9E%E3%82%A4%E3%83%B3-%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%E3%80%8C%E3%83%9E%E3%82%B8%E3%82%AB%E3%83%AB%E3%83%9F%E3%83%A9%E3%82%A4+2021%E3%80%8DLive-+(feat.+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF))** - ryo (supercell)<br/>
-> ∙ **[Bloody Stream](https://www.last.fm/music/Coda/_/Bloody+Stream)** - Coda<br/>
-> ∙ **[Wild Side](https://www.last.fm/music/Ali/_/Wild+Side)** - Ali<br/>
-> ∙ **[It's Over Isn't It (feat. Deedee Magno Hall)](https://www.last.fm/music/Steven+Universe/_/It%27s+Over+Isn%27t+It+(feat.+Deedee+Magno+Hall))** - Steven Universe<br/>
-> ∙ **[It's Been So Long](https://www.last.fm/music/The+Living+Tombstone/_/It%27s+Been+So+Long)** - The Living Tombstone<br/>
-> ∙ **[I'm Just Your Problem (feat. Olivia Olson)](https://www.last.fm/music/Adventure+Time/_/I%27m+Just+Your+Problem+(feat.+Olivia+Olson))** - Adventure Time<br/>
+> 🎶 **[春擬き](https://www.last.fm/music/yanaginagi/_/%E6%98%A5%E6%93%AC%E3%81%8D)** - yanaginagi<br/>
+> ∙ **[Pretender](https://www.last.fm/music/Official+HIGE+DANdism/_/Pretender)** - Official HIGE DANdism<br/>
+> ∙ **[like i need u](https://www.last.fm/music/keshi/_/like+i+need+u)** - keshi<br/>
+> ∙ **[I Want It That Way](https://www.last.fm/music/Backstreet+Boys/_/I+Want+It+That+Way)** - Backstreet Boys<br/>
+> ∙ **[Kita Buat Menyenangkan](https://www.last.fm/music/Bernadya/_/Kita+Buat+Menyenangkan)** - Bernadya<br/>
+> ∙ **[liquescimus](https://www.last.fm/music/%E3%83%95%E3%82%A9%E3%82%B9%E3%83%95%E3%82%A9%E3%83%95%E3%82%A3%E3%83%A9%E3%82%A4%E3%83%88(CV.%E9%BB%92%E6%B2%A2%E3%81%A8%E3%82%82%E3%82%88)/_/liquescimus)** - フォスフォフィライト(CV.黒沢ともよ)<br/>
+> ∙ **[More One Night](https://www.last.fm/music/%E3%83%81%E3%83%88(CV:%E6%B0%B4%E7%80%AC%E3%81%84%E3%81%AE%E3%82%8A)/_/More+One+Night)** - チト(CV:水瀬いのり)<br/>
+> ∙ **[環-cycle-](https://www.last.fm/music/Itoki+Hana/_/%E7%92%B0-cycle-)** - Itoki Hana<br/>
 <!--END_LASTFM_RECENT-->
