@@ -36,10 +36,10 @@ Email: calvinthewu@gmail.com
 
 > `76 ▶️` ∙ **[White Noise Radiance](https://www.last.fm/music/White+Noise+Radiance)**<br/>
 > `55 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `30 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `31 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `27 ▶️` ∙ **[Bernadya](https://www.last.fm/music/Bernadya)**<br/>
 > `19 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
-> `17 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `16 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `10 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `7 ▶️` ∙ **[Claire Waluch](https://www.last.fm/music/Claire+Waluch)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -47,12 +47,12 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[No Other Heart](https://www.last.fm/music/Mac+DeMarco/_/No+Other+Heart)** - Mac DeMarco<br/>
+> ∙ **[She Needs Him](https://www.last.fm/music/Her%27s/_/She+Needs+Him)** - Her's<br/>
+> ∙ **[D>E>A>T>H>M>E>T>A>L](https://www.last.fm/music/Panchiko/_/D%3EE%3EA%3ET%3EH%3EM%3EE%3ET%3EA%3EL)** - Panchiko<br/>
+> ∙ **[Amoeba](https://www.last.fm/music/Clairo/_/Amoeba)** - Clairo<br/>
+> ∙ **[Last Train At 25 O'clock](https://www.last.fm/music/Lamp/_/Last+Train+At+25+O%27clock)** - Lamp<br/>
+> ∙ **[Remember Summer Days](https://www.last.fm/music/%E6%9D%8F%E9%87%8C/_/Remember+Summer+Days)** - 杏里<br/>
+> ∙ **[Numb](https://www.last.fm/music/Men+I+Trust/_/Numb)** - Men I Trust<br/>
 > ∙ **[here and there](https://www.last.fm/music/yanaginagi+official/_/here+and+there)** - yanaginagi official<br/>
-> ∙ **[answer thrice?](https://www.last.fm/music/Pathcel+Tarts/_/answer+thrice%3F)** - Pathcel Tarts<br/>
-> ∙ **[Orchard](https://www.last.fm/music/Omori/_/Orchard)** - Omori<br/>
-> ∙ **[Sweet Pain](https://www.last.fm/music/Kensuke+Ushio/_/Sweet+Pain)** - Kensuke Ushio<br/>
-> ∙ **[Howling Fjord "Prelude"](https://www.last.fm/music/Robin+Appelqvist/_/Howling+Fjord+%22Prelude%22)** - Robin Appelqvist<br/>
-> ∙ **[What Meets the Eye](https://www.last.fm/music/Tomoki+Miyoshi/_/What+Meets+the+Eye)** - Tomoki Miyoshi<br/>
-> ∙ **[Radiant Ruins](https://www.last.fm/music/Urotsuki/_/Radiant+Ruins)** - Urotsuki<br/>
-> ∙ **[Kagayakashiki Nitijou - instrumental](https://www.last.fm/music/Swinging+Popsicle/_/Kagayakashiki+Nitijou+-+instrumental)** - Swinging Popsicle<br/>
 <!--END_LASTFM_RECENT-->
