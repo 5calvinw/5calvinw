@@ -34,25 +34,25 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `76 ▶️` ∙ **[White Noise Radiance](https://www.last.fm/music/White+Noise+Radiance)**<br/>
-> `55 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `31 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `62 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `56 ▶️` ∙ **[White Noise Radiance](https://www.last.fm/music/White+Noise+Radiance)**<br/>
+> `33 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `27 ▶️` ∙ **[Bernadya](https://www.last.fm/music/Bernadya)**<br/>
+> `23 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `19 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
-> `16 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
-> `10 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
-> `7 ▶️` ∙ **[Claire Waluch](https://www.last.fm/music/Claire+Waluch)**<br/>
+> `11 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `7 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[No Other Heart](https://www.last.fm/music/Mac+DeMarco/_/No+Other+Heart)** - Mac DeMarco<br/>
-> ∙ **[She Needs Him](https://www.last.fm/music/Her%27s/_/She+Needs+Him)** - Her's<br/>
-> ∙ **[D>E>A>T>H>M>E>T>A>L](https://www.last.fm/music/Panchiko/_/D%3EE%3EA%3ET%3EH%3EM%3EE%3ET%3EA%3EL)** - Panchiko<br/>
-> ∙ **[Amoeba](https://www.last.fm/music/Clairo/_/Amoeba)** - Clairo<br/>
-> ∙ **[Last Train At 25 O'clock](https://www.last.fm/music/Lamp/_/Last+Train+At+25+O%27clock)** - Lamp<br/>
-> ∙ **[Remember Summer Days](https://www.last.fm/music/%E6%9D%8F%E9%87%8C/_/Remember+Summer+Days)** - 杏里<br/>
-> ∙ **[Numb](https://www.last.fm/music/Men+I+Trust/_/Numb)** - Men I Trust<br/>
-> ∙ **[here and there](https://www.last.fm/music/yanaginagi+official/_/here+and+there)** - yanaginagi official<br/>
+> 🎶 **[Gymnopédie No. 1](https://www.last.fm/music/Erik+Satie/_/Gymnop%C3%A9die+No.+1)** - Erik Satie<br/>
+> ∙ **[My Heart Aches](https://www.last.fm/music/Sweet+Dove/_/My+Heart+Aches)** - Sweet Dove<br/>
+> ∙ **[Title](https://www.last.fm/music/Omori/_/Title)** - Omori<br/>
+> ∙ **[Piranha Plant's Lullaby (From "Super Mario 64")](https://www.last.fm/music/Claire+Waluch/_/Piranha+Plant%27s+Lullaby+(From+%22Super+Mario+64%22))** - Claire Waluch<br/>
+> ∙ **[Glade](https://www.last.fm/music/Omori/_/Glade)** - Omori<br/>
+> ∙ **[Where We Used To Play](https://www.last.fm/music/Omori/_/Where+We+Used+To+Play)** - Omori<br/>
+> ∙ **[Veil](https://www.last.fm/music/P3pper/_/Veil)** - P3pper<br/>
+> ∙ **[Moonsetter](https://www.last.fm/music/CopacetiCat/_/Moonsetter)** - CopacetiCat<br/>
 <!--END_LASTFM_RECENT-->
