@@ -34,25 +34,25 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `62 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `56 ▶️` ∙ **[White Noise Radiance](https://www.last.fm/music/White+Noise+Radiance)**<br/>
+> `63 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `33 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
-> `27 ▶️` ∙ **[Bernadya](https://www.last.fm/music/Bernadya)**<br/>
-> `23 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `28 ▶️` ∙ **[Bernadya](https://www.last.fm/music/Bernadya)**<br/>
+> `24 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `19 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `11 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
-> `7 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
+> `8 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
+> `7 ▶️` ∙ **[Claire Waluch](https://www.last.fm/music/Claire+Waluch)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Gymnopédie No. 1](https://www.last.fm/music/Erik+Satie/_/Gymnop%C3%A9die+No.+1)** - Erik Satie<br/>
-> ∙ **[My Heart Aches](https://www.last.fm/music/Sweet+Dove/_/My+Heart+Aches)** - Sweet Dove<br/>
-> ∙ **[Title](https://www.last.fm/music/Omori/_/Title)** - Omori<br/>
-> ∙ **[Piranha Plant's Lullaby (From "Super Mario 64")](https://www.last.fm/music/Claire+Waluch/_/Piranha+Plant%27s+Lullaby+(From+%22Super+Mario+64%22))** - Claire Waluch<br/>
-> ∙ **[Glade](https://www.last.fm/music/Omori/_/Glade)** - Omori<br/>
-> ∙ **[Where We Used To Play](https://www.last.fm/music/Omori/_/Where+We+Used+To+Play)** - Omori<br/>
-> ∙ **[Veil](https://www.last.fm/music/P3pper/_/Veil)** - P3pper<br/>
-> ∙ **[Moonsetter](https://www.last.fm/music/CopacetiCat/_/Moonsetter)** - CopacetiCat<br/>
+> ∙ **[Try Again](https://www.last.fm/music/Jaehyun/_/Try+Again)** - Jaehyun<br/>
+> ∙ **[I Like U](https://www.last.fm/music/Niki/_/I+Like+U)** - Niki<br/>
+> ∙ **[Kita Buat Menyenangkan](https://www.last.fm/music/Bernadya/_/Kita+Buat+Menyenangkan)** - Bernadya<br/>
+> ∙ **[Downtime (Save Screen)](https://www.last.fm/music/Flare/_/Downtime+(Save+Screen))** - Flare<br/>
+> ∙ **[lit(var)](https://www.last.fm/music/Kensuke+Ushio/_/lit(var))** - Kensuke Ushio<br/>
+> ∙ **[Gentle Jena](https://www.last.fm/music/VISUAL+ARTS+%2F+Key/_/Gentle+Jena)** - VISUAL ARTS / Key<br/>
+> ∙ **[Fushigi of Inanna (Solfeggio 528hz) [Impro#30 211216]](https://www.last.fm/music/Shintaro+Aoki/_/Fushigi+of+Inanna+(Solfeggio+528hz)+%5BImpro%2330+211216%5D)** - Shintaro Aoki<br/>
+> ∙ **[Rosalina's Comet Observatory (From "Super Mario Galaxy")](https://www.last.fm/music/Claire+Waluch/_/Rosalina%27s+Comet+Observatory+(From+%22Super+Mario+Galaxy%22))** - Claire Waluch<br/>
 <!--END_LASTFM_RECENT-->
