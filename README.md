@@ -38,7 +38,7 @@ Email: calvinthewu@gmail.com
 > `33 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `28 ▶️` ∙ **[Bernadya](https://www.last.fm/music/Bernadya)**<br/>
 > `25 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
-> `17 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
+> `13 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `10 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
 > `10 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `9 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
