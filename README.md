@@ -34,25 +34,25 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `69 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `61 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `36 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
-> `28 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
-> `12 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
-> `12 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
-> `11 ▶️` ∙ **[Bernadya](https://www.last.fm/music/Bernadya)**<br/>
-> `9 ▶️` ∙ **[Claire Waluch](https://www.last.fm/music/Claire+Waluch)**<br/>
-> `9 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
+> `25 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `11 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
+> `11 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `10 ▶️` ∙ **[Bernadya](https://www.last.fm/music/Bernadya)**<br/>
+> `8 ▶️` ∙ **[Claire Waluch](https://www.last.fm/music/Claire+Waluch)**<br/>
+> `8 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Mau Dibawa Kemana](https://www.last.fm/music/Armada/_/Mau+Dibawa+Kemana)** - Armada<br/>
+> ∙ **[sayonara, teddy bear](https://www.last.fm/music/Sana/_/sayonara,+teddy+bear)** - Sana<br/>
+> ∙ **[「僕は...」](https://www.last.fm/music/Atarayo/_/%E3%80%8C%E5%83%95%E3%81%AF...%E3%80%8D)** - Atarayo<br/>
+> ∙ **[lowkey](https://www.last.fm/music/Niki/_/lowkey)** - Niki<br/>
+> ∙ **[Mau Dibawa Kemana](https://www.last.fm/music/Armada/_/Mau+Dibawa+Kemana)** - Armada<br/>
 > ∙ **[エブリデイワールド](https://www.last.fm/music/Yukinoshitayukino(CV.HayamiSaori)/_/%E3%82%A8%E3%83%96%E3%83%AA%E3%83%87%E3%82%A4%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89)** - Yukinoshitayukino(CV.HayamiSaori)<br/>
 > ∙ **[Universe](https://www.last.fm/music/Official+HIGE+DANdism/_/Universe)** - Official HIGE DANdism<br/>
 > ∙ **[Last Song](https://www.last.fm/music/ryo+(supercell)/_/Last+Song)** - ryo (supercell)<br/>
 > ∙ **[Kita Buat Menyenangkan](https://www.last.fm/music/Bernadya/_/Kita+Buat+Menyenangkan)** - Bernadya<br/>
-> ∙ **[Valentine](https://www.last.fm/music/Laufey/_/Valentine)** - Laufey<br/>
-> ∙ **[Wonder Stella](https://www.last.fm/music/fh%C3%A1na/_/Wonder+Stella)** - fhána<br/>
-> ∙ **[OPEN THE WORLDS](https://www.last.fm/music/Oresama/_/OPEN+THE+WORLDS)** - Oresama<br/>
 <!--END_LASTFM_RECENT-->
