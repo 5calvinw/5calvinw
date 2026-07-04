@@ -41,18 +41,18 @@ Email: calvinthewu@gmail.com
 > `9 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `8 ▶️` ∙ **[Claire Waluch](https://www.last.fm/music/Claire+Waluch)**<br/>
 > `7 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
-> `7 ▶️` ∙ **[Hikaru Shirosu](https://www.last.fm/music/Hikaru+Shirosu)**<br/>
+> `7 ▶️` ∙ **[Morimoto Naoki](https://www.last.fm/music/Morimoto+Naoki)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Fake.Fake.Fake](https://www.last.fm/music/AZKI/_/Fake.Fake.Fake)** - AZKI<br/>
-> ∙ **[M'aider](https://www.last.fm/music/FROZEN+QUALIA/_/M%27aider)** - FROZEN QUALIA<br/>
-> ∙ **[Anemone No Hana](https://www.last.fm/music/fh%C3%A1na/_/Anemone+No+Hana)** - fhána<br/>
-> ∙ **[Starlights (feat. Tea)](https://www.last.fm/music/kamome+sano/_/Starlights+(feat.+Tea))** - kamome sano<br/>
-> ∙ **[endroll](https://www.last.fm/music/MIKANZIL/_/endroll)** - MIKANZIL<br/>
-> ∙ **[Scented Breeze](https://www.last.fm/music/%E6%B1%9F%EF%A8%91%E6%96%87%E6%AD%A6/_/Scented+Breeze)** - 江﨑文武<br/>
-> ∙ **[Measure the Dawn](https://www.last.fm/music/JYOCHO/_/Measure+the+Dawn)** - JYOCHO<br/>
-> ∙ **[Too Little, Too Late](https://www.last.fm/music/Laufey/_/Too+Little,+Too+Late)** - Laufey<br/>
+> ∙ **[Rain](https://www.last.fm/music/%E7%A7%A6%E5%9F%BA%E5%8D%9A/_/Rain)** - 秦基博<br/>
+> ∙ **[Seventh Heaven](https://www.last.fm/music/INOHA/_/Seventh+Heaven)** - INOHA<br/>
+> ∙ **[ヒッチコック - Re-Recording](https://www.last.fm/music/Yorushika/_/%E3%83%92%E3%83%83%E3%83%81%E3%82%B3%E3%83%83%E3%82%AF+-+Re-Recording)** - Yorushika<br/>
+> ∙ **[Door](https://www.last.fm/music/%E3%82%A8%E3%83%9F%E3%83%AA%E3%82%A2(CV:%E9%AB%98%E6%A9%8B%E6%9D%8E%E4%BE%9D)/_/Door)** - エミリア(CV:高橋李依)<br/>
+> ∙ **[二十歳の恋](https://www.last.fm/music/Lamp/_/%E4%BA%8C%E5%8D%81%E6%AD%B3%E3%81%AE%E6%81%8B)** - Lamp<br/>
+> ∙ **[Please Do Not Lean (feat. BADBADNOTGOOD) - Bonus](https://www.last.fm/music/Daniel+Caesar/_/Please+Do+Not+Lean+(feat.+BADBADNOTGOOD)+-+Bonus)** - Daniel Caesar<br/>
+> ∙ **[Blessed](https://www.last.fm/music/Daniel+Caesar/_/Blessed)** - Daniel Caesar<br/>
+> ∙ **[Earrings](https://www.last.fm/music/Malcolm+Todd/_/Earrings)** - Malcolm Todd<br/>
 <!--END_LASTFM_RECENT-->
