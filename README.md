@@ -35,24 +35,24 @@ Email: calvinthewu@gmail.com
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `49 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `36 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `21 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `12 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `9 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
 > `9 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `8 ▶️` ∙ **[Claire Waluch](https://www.last.fm/music/Claire+Waluch)**<br/>
+> `8 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `7 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
-> `7 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Letter to My 13 Year Old Self](https://www.last.fm/music/Laufey/_/Letter+to+My+13+Year+Old+Self)** - Laufey<br/>
+> ∙ **[アシンメトリー](https://www.last.fm/music/Reol/_/%E3%82%A2%E3%82%B7%E3%83%B3%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC)** - Reol<br/>
+> ∙ **[化身](https://www.last.fm/music/Polkadot+Stingray/_/%E5%8C%96%E8%BA%AB)** - Polkadot Stingray<br/>
+> ∙ **[harutoki ~Spring Moment~](https://www.last.fm/music/Chihiro+Yonekura/_/harutoki+~Spring+Moment~)** - Chihiro Yonekura<br/>
+> ∙ **[Runaway Baby](https://www.last.fm/music/Bruno+Mars/_/Runaway+Baby)** - Bruno Mars<br/>
+> ∙ **[Improvisation Colosseum](https://www.last.fm/music/Blacky/_/Improvisation+Colosseum)** - Blacky<br/>
 > ∙ **[Love Trial](https://www.last.fm/music/40mP/_/Love+Trial)** - 40mP<br/>
 > ∙ **[shiwa](https://www.last.fm/music/buzzG/_/shiwa)** - buzzG<br/>
-> ∙ **[Hard Times](https://www.last.fm/music/Paramore/_/Hard+Times)** - Paramore<br/>
-> ∙ **[GHOST](https://www.last.fm/music/Hoshimachi+Suisei/_/GHOST)** - Hoshimachi Suisei<br/>
-> ∙ **[Sweet](https://www.last.fm/music/Cigarettes+After+Sex/_/Sweet)** - Cigarettes After Sex<br/>
-> ∙ **[telepatía](https://www.last.fm/music/Kali+Uchis/_/telepat%C3%ADa)** - Kali Uchis<br/>
-> ∙ **[About You](https://www.last.fm/music/The+1975/_/About+You)** - The 1975<br/>
-> ∙ **[Slipping Through My Fingers](https://www.last.fm/music/ABBA/_/Slipping+Through+My+Fingers)** - ABBA<br/>
 <!--END_LASTFM_RECENT-->
