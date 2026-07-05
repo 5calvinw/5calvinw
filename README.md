@@ -41,18 +41,18 @@ Email: calvinthewu@gmail.com
 > `9 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `8 ▶️` ∙ **[Claire Waluch](https://www.last.fm/music/Claire+Waluch)**<br/>
 > `7 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
-> `7 ▶️` ∙ **[Morimoto Naoki](https://www.last.fm/music/Morimoto+Naoki)**<br/>
+> `7 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[erase u](https://www.last.fm/music/flowerovlove/_/erase+u)** - flowerovlove<br/>
-> ∙ **[The Man Who Can't Be Moved](https://www.last.fm/music/The+Script/_/The+Man+Who+Can%27t+Be+Moved)** - The Script<br/>
-> ∙ **[Mata Ke Hati](https://www.last.fm/music/Hivi!/_/Mata+Ke+Hati)** - Hivi!<br/>
-> ∙ **[Alamak](https://www.last.fm/music/Rizky+Febian/_/Alamak)** - Rizky Febian<br/>
-> ∙ **[Anaphylaxis](https://www.last.fm/music/PUP/_/Anaphylaxis)** - PUP<br/>
-> ∙ **[Cinta dan Rahasia](https://www.last.fm/music/Yura+Yunita/_/Cinta+dan+Rahasia)** - Yura Yunita<br/>
-> ∙ **[Teenagers](https://www.last.fm/music/My+Chemical+Romance/_/Teenagers)** - My Chemical Romance<br/>
-> ∙ **[Lebih Indah](https://www.last.fm/music/Adera/_/Lebih+Indah)** - Adera<br/>
+> ∙ **[Love Trial](https://www.last.fm/music/40mP/_/Love+Trial)** - 40mP<br/>
+> ∙ **[shiwa](https://www.last.fm/music/buzzG/_/shiwa)** - buzzG<br/>
+> ∙ **[Hard Times](https://www.last.fm/music/Paramore/_/Hard+Times)** - Paramore<br/>
+> ∙ **[GHOST](https://www.last.fm/music/Hoshimachi+Suisei/_/GHOST)** - Hoshimachi Suisei<br/>
+> ∙ **[Sweet](https://www.last.fm/music/Cigarettes+After+Sex/_/Sweet)** - Cigarettes After Sex<br/>
+> ∙ **[telepatía](https://www.last.fm/music/Kali+Uchis/_/telepat%C3%ADa)** - Kali Uchis<br/>
+> ∙ **[About You](https://www.last.fm/music/The+1975/_/About+You)** - The 1975<br/>
+> ∙ **[Slipping Through My Fingers](https://www.last.fm/music/ABBA/_/Slipping+Through+My+Fingers)** - ABBA<br/>
 <!--END_LASTFM_RECENT-->
