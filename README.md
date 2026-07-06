@@ -34,25 +34,25 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `37 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `18 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
-> `9 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `36 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `21 ▶️` ∙ **[Lamp](https://www.last.fm/music/Lamp)**<br/>
+> `17 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `8 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `8 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `8 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `7 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
 > `6 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
-> `5 ▶️` ∙ **[Claire Waluch](https://www.last.fm/music/Claire+Waluch)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Letter to My 13 Year Old Self](https://www.last.fm/music/Laufey/_/Letter+to+My+13+Year+Old+Self)** - Laufey<br/>
-> ∙ **[アシンメトリー](https://www.last.fm/music/Reol/_/%E3%82%A2%E3%82%B7%E3%83%B3%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC)** - Reol<br/>
-> ∙ **[化身](https://www.last.fm/music/Polkadot+Stingray/_/%E5%8C%96%E8%BA%AB)** - Polkadot Stingray<br/>
-> ∙ **[harutoki ~Spring Moment~](https://www.last.fm/music/Chihiro+Yonekura/_/harutoki+~Spring+Moment~)** - Chihiro Yonekura<br/>
-> ∙ **[Runaway Baby](https://www.last.fm/music/Bruno+Mars/_/Runaway+Baby)** - Bruno Mars<br/>
-> ∙ **[Improvisation Colosseum](https://www.last.fm/music/Blacky/_/Improvisation+Colosseum)** - Blacky<br/>
-> ∙ **[Love Trial](https://www.last.fm/music/40mP/_/Love+Trial)** - 40mP<br/>
-> ∙ **[shiwa](https://www.last.fm/music/buzzG/_/shiwa)** - buzzG<br/>
+> ∙ **[セピア色の九月](https://www.last.fm/music/Kaede/_/%E3%82%BB%E3%83%94%E3%82%A2%E8%89%B2%E3%81%AE%E4%B9%9D%E6%9C%88)** - Kaede<br/>
+> ∙ **[Last Train At 25 O'clock](https://www.last.fm/music/Lamp/_/Last+Train+At+25+O%27clock)** - Lamp<br/>
+> ∙ **[儚き春の一幕](https://www.last.fm/music/Lamp/_/%E5%84%9A%E3%81%8D%E6%98%A5%E3%81%AE%E4%B8%80%E5%B9%95)** - Lamp<br/>
+> ∙ **[Us Tonight](https://www.last.fm/music/Lamp/_/Us+Tonight)** - Lamp<br/>
+> ∙ **[Bedroom Afternoon](https://www.last.fm/music/Lamp/_/Bedroom+Afternoon)** - Lamp<br/>
+> ∙ **[Misty Town](https://www.last.fm/music/Lamp/_/Misty+Town)** - Lamp<br/>
+> ∙ **[Raindrop City](https://www.last.fm/music/Lamp/_/Raindrop+City)** - Lamp<br/>
+> ∙ **[冬の影は哀しみ](https://www.last.fm/music/Lamp/_/%E5%86%AC%E3%81%AE%E5%BD%B1%E3%81%AF%E5%93%80%E3%81%97%E3%81%BF)** - Lamp<br/>
 <!--END_LASTFM_RECENT-->
