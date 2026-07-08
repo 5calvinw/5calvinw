@@ -34,12 +34,12 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `30 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `27 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `21 ▶️` ∙ **[Lamp](https://www.last.fm/music/Lamp)**<br/>
-> `20 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `9 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
-> `7 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
-> `6 ▶️` ∙ **[fhána](https://www.last.fm/music/fh%C3%A1na)**<br/>
+> `12 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `6 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
+> `5 ▶️` ∙ **[fhána](https://www.last.fm/music/fh%C3%A1na)**<br/>
+> `5 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `4 ▶️` ∙ **[Bernadya](https://www.last.fm/music/Bernadya)**<br/>
 > `4 ▶️` ∙ **[Bruno Mars](https://www.last.fm/music/Bruno+Mars)**<br/>
 <!--END_LASTFM_ARTISTS-->
