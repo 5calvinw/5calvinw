@@ -34,25 +34,25 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `29 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `49 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `21 ▶️` ∙ **[Lamp](https://www.last.fm/music/Lamp)**<br/>
 > `8 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `6 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
-> `5 ▶️` ∙ **[fhána](https://www.last.fm/music/fh%C3%A1na)**<br/>
 > `5 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
-> `4 ▶️` ∙ **[Bernadya](https://www.last.fm/music/Bernadya)**<br/>
+> `5 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
+> `4 ▶️` ∙ **[fhána](https://www.last.fm/music/fh%C3%A1na)**<br/>
 > `4 ▶️` ∙ **[Kaede](https://www.last.fm/music/Kaede)**<br/>
+> `3 ▶️` ∙ **[Bernadya](https://www.last.fm/music/Bernadya)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
 > ∙ **[miragecoordinator](https://www.last.fm/music/zts/_/miragecoordinator)** - zts<br/>
+> ∙ **[dreamenddischarger](https://www.last.fm/music/zts/_/dreamenddischarger)** - zts<br/>
 > ∙ **[goldenslaughterer](https://www.last.fm/music/zts/_/goldenslaughterer)** - zts<br/>
 > ∙ **[worldenddominator](https://www.last.fm/music/zts/_/worldenddominator)** - zts<br/>
-> ∙ **[wgft (feat. Burna Boy)](https://www.last.fm/music/Gunna/_/wgft+(feat.+Burna+Boy))** - Gunna<br/>
-> ∙ **[Aragami](https://www.last.fm/music/XI/_/Aragami)** - XI<br/>
-> ∙ **[Wonder Stella](https://www.last.fm/music/fh%C3%A1na/_/Wonder+Stella)** - fhána<br/>
-> ∙ **[Day 1](https://www.last.fm/music/Red+Velvet/_/Day+1)** - Red Velvet<br/>
-> ∙ **[Love Like You (feat. Rebecca Sugar) - End Credits](https://www.last.fm/music/Steven+Universe/_/Love+Like+You+(feat.+Rebecca+Sugar)+-+End+Credits)** - Steven Universe<br/>
+> ∙ **[rain](https://www.last.fm/music/zts/_/rain)** - zts<br/>
+> ∙ **[Worldend](https://www.last.fm/music/zts/_/Worldend)** - zts<br/>
+> ∙ **[liberatedliberator](https://www.last.fm/music/zts/_/liberatedliberator)** - zts<br/>
+> ∙ **[voiceless](https://www.last.fm/music/zts/_/voiceless)** - zts<br/>
 <!--END_LASTFM_RECENT-->
