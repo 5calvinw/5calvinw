@@ -34,14 +34,14 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `49 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `47 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `21 ▶️` ∙ **[Lamp](https://www.last.fm/music/Lamp)**<br/>
-> `8 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `5 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
-> `5 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
-> `4 ▶️` ∙ **[fhána](https://www.last.fm/music/fh%C3%A1na)**<br/>
 > `4 ▶️` ∙ **[Kaede](https://www.last.fm/music/Kaede)**<br/>
+> `4 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `3 ▶️` ∙ **[Bernadya](https://www.last.fm/music/Bernadya)**<br/>
+> `3 ▶️` ∙ **[Bruno Mars](https://www.last.fm/music/Bruno+Mars)**<br/>
+> `3 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `3 ▶️` ∙ **[fhána](https://www.last.fm/music/fh%C3%A1na)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
