@@ -34,25 +34,25 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `53 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `54 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `22 ▶️` ∙ **[Lamp](https://www.last.fm/music/Lamp)**<br/>
+> `6 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
 > `6 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
-> `5 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
+> `5 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `4 ▶️` ∙ **[Bruno Mars](https://www.last.fm/music/Bruno+Mars)**<br/>
+> `4 ▶️` ∙ **[Faye Webster](https://www.last.fm/music/Faye+Webster)**<br/>
 > `4 ▶️` ∙ **[fhána](https://www.last.fm/music/fh%C3%A1na)**<br/>
-> `4 ▶️` ∙ **[Kaede](https://www.last.fm/music/Kaede)**<br/>
-> `3 ▶️` ∙ **[Bruno Mars](https://www.last.fm/music/Bruno+Mars)**<br/>
-> `3 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Marvins Room](https://www.last.fm/music/Drake/_/Marvins+Room)** - Drake<br/>
-> ∙ **[Cruel Summer](https://www.last.fm/music/Taylor+Swift/_/Cruel+Summer)** - Taylor Swift<br/>
-> ∙ **[君の知らない物語](https://www.last.fm/music/Supercell/_/%E5%90%9B%E3%81%AE%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E7%89%A9%E8%AA%9E)** - Supercell<br/>
-> ∙ **[JET](https://www.last.fm/music/Polkadot+Stingray/_/JET)** - Polkadot Stingray<br/>
-> ∙ **[Last Train At 25 O'clock](https://www.last.fm/music/Lamp/_/Last+Train+At+25+O%27clock)** - Lamp<br/>
-> ∙ **[青い栞](https://www.last.fm/music/Galileo+Galilei/_/%E9%9D%92%E3%81%84%E6%A0%9E)** - Galileo Galilei<br/>
-> ∙ **[A Thousand Years](https://www.last.fm/music/James+Arthur/_/A+Thousand+Years)** - James Arthur<br/>
-> ∙ **[「僕は...」](https://www.last.fm/music/Atarayo/_/%E3%80%8C%E5%83%95%E3%81%AF...%E3%80%8D)** - Atarayo<br/>
+> ∙ **[JUST A DREAM](https://www.last.fm/music/Yel/_/JUST+A+DREAM)** - Yel<br/>
+> ∙ **[Soft Spot](https://www.last.fm/music/keshi/_/Soft+Spot)** - keshi<br/>
+> ∙ **[She Won't Go Away](https://www.last.fm/music/Faye+Webster/_/She+Won%27t+Go+Away)** - Faye Webster<br/>
+> ∙ **[Earrings](https://www.last.fm/music/Malcolm+Todd/_/Earrings)** - Malcolm Todd<br/>
+> ∙ **[Apple Cider](https://www.last.fm/music/beabadoobee/_/Apple+Cider)** - beabadoobee<br/>
+> ∙ **[Who Knows](https://www.last.fm/music/Daniel+Caesar/_/Who+Knows)** - Daniel Caesar<br/>
+> ∙ **[Beaches](https://www.last.fm/music/beabadoobee/_/Beaches)** - beabadoobee<br/>
+> ∙ **[She Won't Go Away](https://www.last.fm/music/Faye+Webster/_/She+Won%27t+Go+Away)** - Faye Webster<br/>
 <!--END_LASTFM_RECENT-->
