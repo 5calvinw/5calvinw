@@ -35,24 +35,24 @@ Email: calvinthewu@gmail.com
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `54 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
-> `22 ▶️` ∙ **[Lamp](https://www.last.fm/music/Lamp)**<br/>
-> `6 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
+> `21 ▶️` ∙ **[Lamp](https://www.last.fm/music/Lamp)**<br/>
+> `7 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
 > `6 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
-> `5 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `4 ▶️` ∙ **[Bruno Mars](https://www.last.fm/music/Bruno+Mars)**<br/>
+> `5 ▶️` ∙ **[Bruno Mars](https://www.last.fm/music/Bruno+Mars)**<br/>
 > `4 ▶️` ∙ **[Faye Webster](https://www.last.fm/music/Faye+Webster)**<br/>
-> `4 ▶️` ∙ **[fhána](https://www.last.fm/music/fh%C3%A1na)**<br/>
+> `4 ▶️` ∙ **[Kaede](https://www.last.fm/music/Kaede)**<br/>
+> `3 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[JUST A DREAM](https://www.last.fm/music/Yel/_/JUST+A+DREAM)** - Yel<br/>
-> ∙ **[Soft Spot](https://www.last.fm/music/keshi/_/Soft+Spot)** - keshi<br/>
-> ∙ **[She Won't Go Away](https://www.last.fm/music/Faye+Webster/_/She+Won%27t+Go+Away)** - Faye Webster<br/>
-> ∙ **[Earrings](https://www.last.fm/music/Malcolm+Todd/_/Earrings)** - Malcolm Todd<br/>
-> ∙ **[Apple Cider](https://www.last.fm/music/beabadoobee/_/Apple+Cider)** - beabadoobee<br/>
-> ∙ **[Who Knows](https://www.last.fm/music/Daniel+Caesar/_/Who+Knows)** - Daniel Caesar<br/>
-> ∙ **[Beaches](https://www.last.fm/music/beabadoobee/_/Beaches)** - beabadoobee<br/>
-> ∙ **[She Won't Go Away](https://www.last.fm/music/Faye+Webster/_/She+Won%27t+Go+Away)** - Faye Webster<br/>
+> ∙ **[move!](https://www.last.fm/music/Niki/_/move!)** - Niki<br/>
+> ∙ **[Aoi, Koi, Daidaiiro no Hi](https://www.last.fm/music/MASS+OF+THE+FERMENTING+DREGS/_/Aoi,+Koi,+Daidaiiro+no+Hi)** - MASS OF THE FERMENTING DREGS<br/>
+> ∙ **[Labirin](https://www.last.fm/music/Tulus/_/Labirin)** - Tulus<br/>
+> ∙ **[鋲心全壊ガール](https://www.last.fm/music/Mio+Yamazaki/_/%E9%8B%B2%E5%BF%83%E5%85%A8%E5%A3%8A%E3%82%AC%E3%83%BC%E3%83%AB)** - Mio Yamazaki<br/>
+> ∙ **[恥ずかしいか青春は](https://www.last.fm/music/Ryokuoushoku+Shakai/_/%E6%81%A5%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84%E3%81%8B%E9%9D%92%E6%98%A5%E3%81%AF)** - Ryokuoushoku Shakai<br/>
+> ∙ **[僕らだけの主題歌](https://www.last.fm/music/centimillimental/_/%E5%83%95%E3%82%89%E3%81%A0%E3%81%91%E3%81%AE%E4%B8%BB%E9%A1%8C%E6%AD%8C)** - centimillimental<br/>
+> ∙ **[Texas Is Forever](https://www.last.fm/music/Pierce+the+Veil/_/Texas+Is+Forever)** - Pierce the Veil<br/>
+> ∙ **[Ekspektasi](https://www.last.fm/music/Okin/_/Ekspektasi)** - Okin<br/>
 <!--END_LASTFM_RECENT-->
