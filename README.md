@@ -36,23 +36,23 @@ Email: calvinthewu@gmail.com
 
 > `54 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `21 ▶️` ∙ **[Lamp](https://www.last.fm/music/Lamp)**<br/>
-> `7 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
-> `6 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
-> `5 ▶️` ∙ **[Bruno Mars](https://www.last.fm/music/Bruno+Mars)**<br/>
-> `4 ▶️` ∙ **[Faye Webster](https://www.last.fm/music/Faye+Webster)**<br/>
+> `8 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
+> `5 ▶️` ∙ **[Faye Webster](https://www.last.fm/music/Faye+Webster)**<br/>
+> `5 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
+> `4 ▶️` ∙ **[Bruno Mars](https://www.last.fm/music/Bruno+Mars)**<br/>
 > `4 ▶️` ∙ **[Kaede](https://www.last.fm/music/Kaede)**<br/>
-> `3 ▶️` ∙ **[40mP](https://www.last.fm/music/40mP)**<br/>
+> `4 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[In My Mind](https://www.last.fm/music/Lyn+Lapid/_/In+My+Mind)** - Lyn Lapid<br/>
-> ∙ **[Rirubii](https://www.last.fm/music/Kuhakugokko/_/Rirubii)** - Kuhakugokko<br/>
-> ∙ **[暖かな時間](https://www.last.fm/music/Fuminori+Matsumoto/_/%E6%9A%96%E3%81%8B%E3%81%AA%E6%99%82%E9%96%93)** - Fuminori Matsumoto<br/>
-> ∙ **[You'll Find Lovers Like You and Me](https://www.last.fm/music/Reality+Club/_/You%27ll+Find+Lovers+Like+You+and+Me)** - Reality Club<br/>
-> ∙ **[telepatía](https://www.last.fm/music/Kali+Uchis/_/telepat%C3%ADa)** - Kali Uchis<br/>
-> ∙ **[OPEN THE WORLDS](https://www.last.fm/music/Oresama/_/OPEN+THE+WORLDS)** - Oresama<br/>
-> ∙ **[666 Flags](https://www.last.fm/music/Origami+Angel/_/666+Flags)** - Origami Angel<br/>
-> ∙ **[MILK TEA feat. Akari Dritschler](https://www.last.fm/music/Yuji+Ohno+&+Lupintic+Six/_/MILK+TEA+feat.+Akari+Dritschler)** - Yuji Ohno & Lupintic Six<br/>
+> ∙ **[Measure the Dawn](https://www.last.fm/music/JYOCHO/_/Measure+the+Dawn)** - JYOCHO<br/>
+> ∙ **[Too Little, Too Late](https://www.last.fm/music/Laufey/_/Too+Little,+Too+Late)** - Laufey<br/>
+> ∙ **[Letter to My 13 Year Old Self](https://www.last.fm/music/Laufey/_/Letter+to+My+13+Year+Old+Self)** - Laufey<br/>
+> ∙ **[Kita Buat Menyenangkan](https://www.last.fm/music/Bernadya/_/Kita+Buat+Menyenangkan)** - Bernadya<br/>
+> ∙ **[Kind Of](https://www.last.fm/music/Faye+Webster/_/Kind+Of)** - Faye Webster<br/>
+> ∙ **[Beaches](https://www.last.fm/music/beabadoobee/_/Beaches)** - beabadoobee<br/>
+> ∙ **[ACELERADA](https://www.last.fm/music/sma$her/_/ACELERADA)** - sma$her<br/>
+> ∙ **[CLIMA LINDO - SLOWED](https://www.last.fm/music/gxmz/_/CLIMA+LINDO+-+SLOWED)** - gxmz<br/>
 <!--END_LASTFM_RECENT-->
