@@ -36,23 +36,23 @@ Email: calvinthewu@gmail.com
 
 > `54 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `21 ▶️` ∙ **[Lamp](https://www.last.fm/music/Lamp)**<br/>
-> `9 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
-> `6 ▶️` ∙ **[Faye Webster](https://www.last.fm/music/Faye+Webster)**<br/>
+> `10 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
+> `7 ▶️` ∙ **[Faye Webster](https://www.last.fm/music/Faye+Webster)**<br/>
+> `6 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `5 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
 > `4 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `4 ▶️` ∙ **[Kaede](https://www.last.fm/music/Kaede)**<br/>
-> `4 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Toronto 2014 (with Mustafa)](https://www.last.fm/music/Daniel+Caesar/_/Toronto+2014+(with+Mustafa))** - Daniel Caesar<br/>
-> ∙ **[Too Little, Too Late](https://www.last.fm/music/Laufey/_/Too+Little,+Too+Late)** - Laufey<br/>
-> ∙ **[Kind Of](https://www.last.fm/music/Faye+Webster/_/Kind+Of)** - Faye Webster<br/>
-> ∙ **[Beaches](https://www.last.fm/music/beabadoobee/_/Beaches)** - beabadoobee<br/>
-> ∙ **[Scented Breeze](https://www.last.fm/music/%E6%B1%9F%EF%A8%91%E6%96%87%E6%AD%A6/_/Scented+Breeze)** - 江﨑文武<br/>
+> ∙ **[perfect slumbers](https://www.last.fm/music/%E7%89%A9%E8%AA%9E%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/_/perfect+slumbers)** - 物語シリーズ<br/>
 > ∙ **[Measure the Dawn](https://www.last.fm/music/JYOCHO/_/Measure+the+Dawn)** - JYOCHO<br/>
 > ∙ **[Too Little, Too Late](https://www.last.fm/music/Laufey/_/Too+Little,+Too+Late)** - Laufey<br/>
+> ∙ **[Impostor Syndrome](https://www.last.fm/music/Sidney+Gish/_/Impostor+Syndrome)** - Sidney Gish<br/>
 > ∙ **[Letter to My 13 Year Old Self](https://www.last.fm/music/Laufey/_/Letter+to+My+13+Year+Old+Self)** - Laufey<br/>
+> ∙ **[Kita Buat Menyenangkan](https://www.last.fm/music/Bernadya/_/Kita+Buat+Menyenangkan)** - Bernadya<br/>
+> ∙ **[Kind Of](https://www.last.fm/music/Faye+Webster/_/Kind+Of)** - Faye Webster<br/>
+> ∙ **[Beaches](https://www.last.fm/music/beabadoobee/_/Beaches)** - beabadoobee<br/>
 <!--END_LASTFM_RECENT-->
