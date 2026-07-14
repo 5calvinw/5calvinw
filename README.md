@@ -34,25 +34,25 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `50 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
-> `11 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
+> `30 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `12 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
 > `8 ▶️` ∙ **[Faye Webster](https://www.last.fm/music/Faye+Webster)**<br/>
 > `7 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
-> `7 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
-> `4 ▶️` ∙ **[Bernadya](https://www.last.fm/music/Bernadya)**<br/>
+> `5 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
 > `4 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `3 ▶️` ∙ **[Green Day](https://www.last.fm/music/Green+Day)**<br/>
+> `4 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
+> `3 ▶️` ∙ **[Bernadya](https://www.last.fm/music/Bernadya)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Basket Case](https://www.last.fm/music/Green+Day/_/Basket+Case)** - Green Day<br/>
-> ∙ **[君の知らない物語](https://www.last.fm/music/Supercell/_/%E5%90%9B%E3%81%AE%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E7%89%A9%E8%AA%9E)** - Supercell<br/>
-> ∙ **[Letter to My 13 Year Old Self](https://www.last.fm/music/Laufey/_/Letter+to+My+13+Year+Old+Self)** - Laufey<br/>
-> ∙ **[Kita Buat Menyenangkan](https://www.last.fm/music/Bernadya/_/Kita+Buat+Menyenangkan)** - Bernadya<br/>
-> ∙ **[Kind Of](https://www.last.fm/music/Faye+Webster/_/Kind+Of)** - Faye Webster<br/>
-> ∙ **[Beaches](https://www.last.fm/music/beabadoobee/_/Beaches)** - beabadoobee<br/>
-> ∙ **[春擬き](https://www.last.fm/music/yanaginagi/_/%E6%98%A5%E6%93%AC%E3%81%8D)** - yanaginagi<br/>
-> ∙ **[花の塔](https://www.last.fm/music/Sayuri/_/%E8%8A%B1%E3%81%AE%E5%A1%94)** - Sayuri<br/>
+> 🎶 **[divine intervention](https://www.last.fm/music/fh%C3%A1na/_/divine+intervention)** - fhána<br/>
+> ∙ **[LIMBO](https://www.last.fm/music/keshi/_/LIMBO)** - keshi<br/>
+> ∙ **[RGB](https://www.last.fm/music/Capsule/_/RGB)** - Capsule<br/>
+> ∙ **[人生は夢だらけ](https://www.last.fm/music/Sheena+Ringo/_/%E4%BA%BA%E7%94%9F%E3%81%AF%E5%A4%A2%E3%81%A0%E3%82%89%E3%81%91)** - Sheena Ringo<br/>
+> ∙ **[La La Lost You - Acoustic Version](https://www.last.fm/music/Niki/_/La+La+Lost+You+-+Acoustic+Version)** - Niki<br/>
+> ∙ **[katamari on the wings](https://www.last.fm/music/%E5%A4%A7%E6%A9%8B%E5%8D%93%E5%BC%A5/_/katamari+on+the+wings)** - 大橋卓弥<br/>
+> ∙ **[Merindukanmu](https://www.last.fm/music/D%E2%80%99Masiv/_/Merindukanmu)** - D’Masiv<br/>
+> ∙ **[Cancer](https://www.last.fm/music/My+Chemical+Romance/_/Cancer)** - My Chemical Romance<br/>
 <!--END_LASTFM_RECENT-->
