@@ -47,12 +47,12 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[divine intervention](https://www.last.fm/music/fh%C3%A1na/_/divine+intervention)** - fhána<br/>
+> ∙ **[Hey, Soul Sister](https://www.last.fm/music/Train/_/Hey,+Soul+Sister)** - Train<br/>
+> ∙ **[divine intervention](https://www.last.fm/music/fh%C3%A1na/_/divine+intervention)** - fhána<br/>
 > ∙ **[LIMBO](https://www.last.fm/music/keshi/_/LIMBO)** - keshi<br/>
 > ∙ **[RGB](https://www.last.fm/music/Capsule/_/RGB)** - Capsule<br/>
 > ∙ **[人生は夢だらけ](https://www.last.fm/music/Sheena+Ringo/_/%E4%BA%BA%E7%94%9F%E3%81%AF%E5%A4%A2%E3%81%A0%E3%82%89%E3%81%91)** - Sheena Ringo<br/>
 > ∙ **[La La Lost You - Acoustic Version](https://www.last.fm/music/Niki/_/La+La+Lost+You+-+Acoustic+Version)** - Niki<br/>
 > ∙ **[katamari on the wings](https://www.last.fm/music/%E5%A4%A7%E6%A9%8B%E5%8D%93%E5%BC%A5/_/katamari+on+the+wings)** - 大橋卓弥<br/>
 > ∙ **[Merindukanmu](https://www.last.fm/music/D%E2%80%99Masiv/_/Merindukanmu)** - D’Masiv<br/>
-> ∙ **[Cancer](https://www.last.fm/music/My+Chemical+Romance/_/Cancer)** - My Chemical Romance<br/>
 <!--END_LASTFM_RECENT-->
