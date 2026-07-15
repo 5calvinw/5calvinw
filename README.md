@@ -34,25 +34,25 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `31 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `29 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `11 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
 > `8 ▶️` ∙ **[Faye Webster](https://www.last.fm/music/Faye+Webster)**<br/>
 > `8 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
-> `6 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
-> `5 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
+> `7 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
+> `6 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
+> `5 ▶️` ∙ **[Taylor Swift](https://www.last.fm/music/Taylor+Swift)**<br/>
 > `4 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `4 ▶️` ∙ **[Taylor Swift](https://www.last.fm/music/Taylor+Swift)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[everything i wanted](https://www.last.fm/music/Billie+Eilish/_/everything+i+wanted)** - Billie Eilish<br/>
-> ∙ **[Let You Break My Heart Again](https://www.last.fm/music/Laufey/_/Let+You+Break+My+Heart+Again)** - Laufey<br/>
-> ∙ **[Asphodelus](https://www.last.fm/music/Ceui/_/Asphodelus)** - Ceui<br/>
-> ∙ **[The♡World's♡End](https://www.last.fm/music/Yui+Horie/_/The%E2%99%A1World%27s%E2%99%A1End)** - Yui Horie<br/>
-> ∙ **[Stuck on You](https://www.last.fm/music/Giv%C4%93on/_/Stuck+on+You)** - Givēon<br/>
+> 🎶 **[Stay Alive](https://www.last.fm/music/%E3%82%A8%E3%83%9F%E3%83%AA%E3%82%A2(CV:%E9%AB%98%E6%A9%8B%E6%9D%8E%E4%BE%9D)/_/Stay+Alive)** - エミリア(CV:高橋李依)<br/>
+> ∙ **[Stay Alive](https://www.last.fm/music/%E3%82%A8%E3%83%9F%E3%83%AA%E3%82%A2(CV:%E9%AB%98%E6%A9%8B%E6%9D%8E%E4%BE%9D)/_/Stay+Alive)** - エミリア(CV:高橋李依)<br/>
+> ∙ **[Stay Alive](https://www.last.fm/music/%E3%82%A8%E3%83%9F%E3%83%AA%E3%82%A2(CV:%E9%AB%98%E6%A9%8B%E6%9D%8E%E4%BE%9D)/_/Stay+Alive)** - エミリア(CV:高橋李依)<br/>
 > ∙ **[Inikah Cinta](https://www.last.fm/music/M.E+Voices/_/Inikah+Cinta)** - M.E Voices<br/>
 > ∙ **[B.Y.S.](https://www.last.fm/music/keshi/_/B.Y.S.)** - keshi<br/>
 > ∙ **[Lover, You Should've Come Over](https://www.last.fm/music/Jeff+Buckley/_/Lover,+You+Should%27ve+Come+Over)** - Jeff Buckley<br/>
+> ∙ **[Ashita no Kimi Sae Ireba Ii.](https://www.last.fm/music/ChouCho/_/Ashita+no+Kimi+Sae+Ireba+Ii.)** - ChouCho<br/>
+> ∙ **[Fall In Love Alone](https://www.last.fm/music/Stacey+Ryan/_/Fall+In+Love+Alone)** - Stacey Ryan<br/>
 <!--END_LASTFM_RECENT-->
