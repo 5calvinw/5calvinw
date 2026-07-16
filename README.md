@@ -47,12 +47,12 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[A Toshi No Aki](https://www.last.fm/music/Lamp/_/A+Toshi+No+Aki)** - Lamp<br/>
-> ∙ **[666 Flags](https://www.last.fm/music/Origami+Angel/_/666+Flags)** - Origami Angel<br/>
-> ∙ **[五月は花緑青の窓辺から](https://www.last.fm/music/Yorushika/_/%E4%BA%94%E6%9C%88%E3%81%AF%E8%8A%B1%E7%B7%91%E9%9D%92%E3%81%AE%E7%AA%93%E8%BE%BA%E3%81%8B%E3%82%89)** - Yorushika<br/>
-> ∙ **[Waltz No. 1, Collapse](https://www.last.fm/music/Hikaru+Shirosu/_/Waltz+No.+1,+Collapse)** - Hikaru Shirosu<br/>
-> ∙ **[人生は夢だらけ](https://www.last.fm/music/Sheena+Ringo/_/%E4%BA%BA%E7%94%9F%E3%81%AF%E5%A4%A2%E3%81%A0%E3%82%89%E3%81%91)** - Sheena Ringo<br/>
-> ∙ **[That's What I Like](https://www.last.fm/music/Bruno+Mars/_/That%27s+What+I+Like)** - Bruno Mars<br/>
-> ∙ **[Celebration (feat. Toko Miura)](https://www.last.fm/music/RADWIMPS/_/Celebration+(feat.+Toko+Miura))** - RADWIMPS<br/>
-> ∙ **[君の知らない物語](https://www.last.fm/music/Supercell/_/%E5%90%9B%E3%81%AE%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E7%89%A9%E8%AA%9E)** - Supercell<br/>
+> 🎶 **[Sphere of Brown Noise](https://www.last.fm/music/Spheres+of+Air/_/Sphere+of+Brown+Noise)** - Spheres of Air<br/>
+> ∙ **[Brown Noise Sleep Whisper](https://www.last.fm/music/Sleepy+Parents/_/Brown+Noise+Sleep+Whisper)** - Sleepy Parents<br/>
+> ∙ **[Brown Noise Harmony](https://www.last.fm/music/Hum+Humming/_/Brown+Noise+Harmony)** - Hum Humming<br/>
+> ∙ **[Eternal Brown Airscape](https://www.last.fm/music/Sleeping+Parachuter/_/Eternal+Brown+Airscape)** - Sleeping Parachuter<br/>
+> ∙ **[Brown Noise for Insomnia](https://www.last.fm/music/Willow+Shore/_/Brown+Noise+for+Insomnia)** - Willow Shore<br/>
+> ∙ **[Brown Noise Focal Point](https://www.last.fm/music/New+Lab/_/Brown+Noise+Focal+Point)** - New Lab<br/>
+> ∙ **[Brown Noise, Unbroken](https://www.last.fm/music/%C3%89quipage+ambiant/_/Brown+Noise,+Unbroken)** - Équipage ambiant<br/>
+> ∙ **[Brown Waves 420 Hz Soft Q](https://www.last.fm/music/universal+waves/_/Brown+Waves+420+Hz+Soft+Q)** - universal waves<br/>
 <!--END_LASTFM_RECENT-->
