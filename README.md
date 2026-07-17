@@ -35,24 +35,24 @@ Email: calvinthewu@gmail.com
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `37 ▶️` ∙ **[エミリア(CV:高橋李依)](https://www.last.fm/music/%E3%82%A8%E3%83%9F%E3%83%AA%E3%82%A2(CV:%E9%AB%98%E6%A9%8B%E6%9D%8E%E4%BE%9D))**<br/>
-> `14 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
-> `13 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
-> `12 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
+> `15 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
 > `11 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
+> `9 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
 > `8 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `8 ▶️` ∙ **[Faye Webster](https://www.last.fm/music/Faye+Webster)**<br/>
-> `6 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
+> `8 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `7 ▶️` ∙ **[Faye Webster](https://www.last.fm/music/Faye+Webster)**<br/>
+> `6 ▶️` ∙ **[Bernadya](https://www.last.fm/music/Bernadya)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[BREGA DO LOVE (SLOWED)](https://www.last.fm/music/Nxxkz/_/BREGA+DO+LOVE+(SLOWED))** - Nxxkz<br/>
-> ∙ **[DIA DELÍCIA](https://www.last.fm/music/NAKAMA/_/DIA+DEL%C3%8DCIA)** - NAKAMA<br/>
-> ∙ **[BATIDAO FUNK](https://www.last.fm/music/ZXKAI/_/BATIDAO+FUNK)** - ZXKAI<br/>
-> ∙ **[ECOS DO ABISMO - Super Slowed](https://www.last.fm/music/flame+runner/_/ECOS+DO+ABISMO+-+Super+Slowed)** - flame runner<br/>
-> ∙ **[the executioner](https://www.last.fm/music/zts/_/the+executioner)** - zts<br/>
-> ∙ **[lastendconductor](https://www.last.fm/music/zts/_/lastendconductor)** - zts<br/>
-> ∙ **[goldenslaughterer](https://www.last.fm/music/zts/_/goldenslaughterer)** - zts<br/>
-> ∙ **[KEEPER](https://www.last.fm/music/Giv%C4%93on/_/KEEPER)** - Givēon<br/>
+> ∙ **[Terlintas](https://www.last.fm/music/Bernadya/_/Terlintas)** - Bernadya<br/>
+> ∙ **[Lama-Lama](https://www.last.fm/music/Bernadya/_/Lama-Lama)** - Bernadya<br/>
+> ∙ **[Beaches](https://www.last.fm/music/beabadoobee/_/Beaches)** - beabadoobee<br/>
+> ∙ **[Slide da treme melódica v2](https://www.last.fm/music/DJ+FNK/_/Slide+da+treme+mel%C3%B3dica+v2)** - DJ FNK<br/>
+> ∙ **[UH VEI VEI](https://www.last.fm/music/KREZUS/_/UH+VEI+VEI)** - KREZUS<br/>
+> ∙ **[LUA NA PRAÇA](https://www.last.fm/music/dj+samir/_/LUA+NA+PRA%C3%87A)** - dj samir<br/>
+> ∙ **[MELODIA CAVALGADA - Slowed](https://www.last.fm/music/DJ+Javi26/_/MELODIA+CAVALGADA+-+Slowed)** - DJ Javi26<br/>
+> ∙ **[MONTAGEM ELDER - SLOWED](https://www.last.fm/music/dj+samir/_/MONTAGEM+ELDER+-+SLOWED)** - dj samir<br/>
 <!--END_LASTFM_RECENT-->
