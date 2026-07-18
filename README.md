@@ -36,7 +36,7 @@ Email: calvinthewu@gmail.com
 
 > `37 ▶️` ∙ **[エミリア(CV:高橋李依)](https://www.last.fm/music/%E3%82%A8%E3%83%9F%E3%83%AA%E3%82%A2(CV:%E9%AB%98%E6%A9%8B%E6%9D%8E%E4%BE%9D))**<br/>
 > `11 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
-> `10 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
+> `9 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
 > `9 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
 > `7 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `6 ▶️` ∙ **[Bernadya](https://www.last.fm/music/Bernadya)**<br/>
