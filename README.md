@@ -38,21 +38,21 @@ Email: calvinthewu@gmail.com
 > `11 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `9 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
 > `9 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
+> `7 ▶️` ∙ **[Bernadya](https://www.last.fm/music/Bernadya)**<br/>
 > `7 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
-> `6 ▶️` ∙ **[Bernadya](https://www.last.fm/music/Bernadya)**<br/>
-> `5 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `6 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `4 ▶️` ∙ **[Faye Webster](https://www.last.fm/music/Faye+Webster)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Tank!](https://www.last.fm/music/Seatbelts+-+Topic/_/Tank!)** - Seatbelts - Topic<br/>
-> ∙ **[Volupté](https://www.last.fm/music/Bleu+Nuage/_/Volupt%C3%A9)** - Bleu Nuage<br/>
-> ∙ **[Terlintas](https://www.last.fm/music/Bernadya/_/Terlintas)** - Bernadya<br/>
-> ∙ **[Lama-Lama](https://www.last.fm/music/Bernadya/_/Lama-Lama)** - Bernadya<br/>
-> ∙ **[Beaches](https://www.last.fm/music/beabadoobee/_/Beaches)** - beabadoobee<br/>
-> ∙ **[Slide da treme melódica v2](https://www.last.fm/music/DJ+FNK/_/Slide+da+treme+mel%C3%B3dica+v2)** - DJ FNK<br/>
-> ∙ **[UH VEI VEI](https://www.last.fm/music/KREZUS/_/UH+VEI+VEI)** - KREZUS<br/>
-> ∙ **[LUA NA PRAÇA](https://www.last.fm/music/dj+samir/_/LUA+NA+PRA%C3%87A)** - dj samir<br/>
+> ∙ **[boyfriend (with Social House)](https://www.last.fm/music/Ariana+Grande/_/boyfriend+(with+Social+House))** - Ariana Grande<br/>
+> ∙ **[カラフル。](https://www.last.fm/music/%E6%B2%A2%E4%BA%95%E7%BE%8E%E7%A9%BA/_/%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%80%82)** - 沢井美空<br/>
+> ∙ **[Kereta Kencan](https://www.last.fm/music/Hivi!/_/Kereta+Kencan)** - Hivi!<br/>
+> ∙ **[Loose](https://www.last.fm/music/Daniel+Caesar/_/Loose)** - Daniel Caesar<br/>
+> ∙ **[Thank You for the Venom](https://www.last.fm/music/My+Chemical+Romance/_/Thank+You+for+the+Venom)** - My Chemical Romance<br/>
+> ∙ **[It's Going Down Now](https://www.last.fm/music/Azumi+Takahashi/_/It%27s+Going+Down+Now)** - Azumi Takahashi<br/>
+> ∙ **[Aku dan Dirimu (feat. Ari Lasso)](https://www.last.fm/music/Bunga+Citra+Lestari/_/Aku+dan+Dirimu+(feat.+Ari+Lasso))** - Bunga Citra Lestari<br/>
+> ∙ **[vampire](https://www.last.fm/music/Olivia+Rodrigo/_/vampire)** - Olivia Rodrigo<br/>
 <!--END_LASTFM_RECENT-->
