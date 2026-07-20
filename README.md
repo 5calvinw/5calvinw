@@ -41,18 +41,18 @@ Email: calvinthewu@gmail.com
 > `6 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `5 ▶️` ∙ **[Bernadya](https://www.last.fm/music/Bernadya)**<br/>
 > `5 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `4 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
+> `5 ▶️` ∙ **[Steven Universe](https://www.last.fm/music/Steven+Universe)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Payphone](https://www.last.fm/music/Maroon+5/_/Payphone)** - Maroon 5<br/>
-> ∙ **[goldenslaughterer](https://www.last.fm/music/zts/_/goldenslaughterer)** - zts<br/>
-> ∙ **[Whiskey Bottle](https://www.last.fm/music/Gangga/_/Whiskey+Bottle)** - Gangga<br/>
-> ∙ **[中庭の少女たち](https://www.last.fm/music/SHISHAMO/_/%E4%B8%AD%E5%BA%AD%E3%81%AE%E5%B0%91%E5%A5%B3%E3%81%9F%E3%81%A1)** - SHISHAMO<br/>
-> ∙ **[Hoshi no merry-go-round](https://www.last.fm/music/%E5%A4%9A%E7%94%B0+%E8%91%B5/_/Hoshi+no+merry-go-round)** - 多田 葵<br/>
-> ∙ **[Soft Spot](https://www.last.fm/music/keshi/_/Soft+Spot)** - keshi<br/>
-> ∙ **[For Lovers](https://www.last.fm/music/Lamp/_/For+Lovers)** - Lamp<br/>
-> ∙ **[君の知らない物語 -TV Edit-](https://www.last.fm/music/Supercell/_/%E5%90%9B%E3%81%AE%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E7%89%A9%E8%AA%9E+-TV+Edit-)** - Supercell<br/>
+> ∙ **[Daidai Genome](https://www.last.fm/music/Tsuna+Maru+(Mezame-P)/_/Daidai+Genome)** - Tsuna Maru (Mezame-P)<br/>
+> ∙ **[nevermind, everything's ok](https://www.last.fm/music/Dreamcorp./_/nevermind,+everything%27s+ok)** - Dreamcorp.<br/>
+> ∙ **[The Anthem](https://www.last.fm/music/Good+Charlotte/_/The+Anthem)** - Good Charlotte<br/>
+> ∙ **[Tak Setampan Romeo](https://www.last.fm/music/Yovie+&+Nuno/_/Tak+Setampan+Romeo)** - Yovie & Nuno<br/>
+> ∙ **[はじまりの速度](https://www.last.fm/music/Sangatsu+no+Phantasia/_/%E3%81%AF%E3%81%98%E3%81%BE%E3%82%8A%E3%81%AE%E9%80%9F%E5%BA%A6)** - Sangatsu no Phantasia<br/>
+> ∙ **[Time To Make History - Original Full Size ver.](https://www.last.fm/music/Shihoko+Hirata/_/Time+To+Make+History+-+Original+Full+Size+ver.)** - Shihoko Hirata<br/>
+> ∙ **[In My Mind](https://www.last.fm/music/Lyn+Lapid/_/In+My+Mind)** - Lyn Lapid<br/>
+> ∙ **[風が吹く街](https://www.last.fm/music/Lucklife/_/%E9%A2%A8%E3%81%8C%E5%90%B9%E3%81%8F%E8%A1%97)** - Lucklife<br/>
 <!--END_LASTFM_RECENT-->
