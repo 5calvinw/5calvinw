@@ -36,23 +36,23 @@ Email: calvinthewu@gmail.com
 
 > `37 ▶️` ∙ **[エミリア(CV:高橋李依)](https://www.last.fm/music/%E3%82%A8%E3%83%9F%E3%83%AA%E3%82%A2(CV:%E9%AB%98%E6%A9%8B%E6%9D%8E%E4%BE%9D))**<br/>
 > `9 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
-> `7 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
-> `7 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
-> `7 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
-> `6 ▶️` ∙ **[Bernadya](https://www.last.fm/music/Bernadya)**<br/>
+> `8 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `6 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
+> `6 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
+> `5 ▶️` ∙ **[Bernadya](https://www.last.fm/music/Bernadya)**<br/>
 > `5 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `4 ▶️` ∙ **[My Chemical Romance](https://www.last.fm/music/My+Chemical+Romance)**<br/>
+> `4 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[テレフォン・ナンバー](https://www.last.fm/music/Junko+Ohashi/_/%E3%83%86%E3%83%AC%E3%83%95%E3%82%A9%E3%83%B3%E3%83%BB%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC)** - Junko Ohashi<br/>
-> ∙ **[Oddloop](https://www.last.fm/music/Frederic/_/Oddloop)** - Frederic<br/>
-> ∙ **[光るなら](https://www.last.fm/music/Goose+house/_/%E5%85%89%E3%82%8B%E3%81%AA%E3%82%89)** - Goose house<br/>
-> ∙ **[恋愛サーキュレーション](https://www.last.fm/music/%E7%89%A9%E8%AA%9E%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/_/%E6%81%8B%E6%84%9B%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)** - 物語シリーズ<br/>
-> ∙ **[カワキヲアメク](https://www.last.fm/music/%E7%BE%8E%E6%B3%A2/_/%E3%82%AB%E3%83%AF%E3%82%AD%E3%83%B2%E3%82%A2%E3%83%A1%E3%82%AF)** - 美波<br/>
-> ∙ **[おつかれSUMMER](https://www.last.fm/music/HALCALI/_/%E3%81%8A%E3%81%A4%E3%81%8B%E3%82%8CSUMMER)** - HALCALI<br/>
-> ∙ **[Fly-day Chinatown](https://www.last.fm/music/Yasuha/_/Fly-day+Chinatown)** - Yasuha<br/>
-> ∙ **[不可思議のカルテ](https://www.last.fm/music/Mai+Sakurajima(CV:Asami+Seto)/_/%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AD%B0%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%86)** - Mai Sakurajima(CV:Asami Seto)<br/>
+> 🎶 **[Payphone](https://www.last.fm/music/Maroon+5/_/Payphone)** - Maroon 5<br/>
+> ∙ **[goldenslaughterer](https://www.last.fm/music/zts/_/goldenslaughterer)** - zts<br/>
+> ∙ **[Whiskey Bottle](https://www.last.fm/music/Gangga/_/Whiskey+Bottle)** - Gangga<br/>
+> ∙ **[中庭の少女たち](https://www.last.fm/music/SHISHAMO/_/%E4%B8%AD%E5%BA%AD%E3%81%AE%E5%B0%91%E5%A5%B3%E3%81%9F%E3%81%A1)** - SHISHAMO<br/>
+> ∙ **[Hoshi no merry-go-round](https://www.last.fm/music/%E5%A4%9A%E7%94%B0+%E8%91%B5/_/Hoshi+no+merry-go-round)** - 多田 葵<br/>
+> ∙ **[Soft Spot](https://www.last.fm/music/keshi/_/Soft+Spot)** - keshi<br/>
+> ∙ **[For Lovers](https://www.last.fm/music/Lamp/_/For+Lovers)** - Lamp<br/>
+> ∙ **[君の知らない物語 -TV Edit-](https://www.last.fm/music/Supercell/_/%E5%90%9B%E3%81%AE%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E7%89%A9%E8%AA%9E+-TV+Edit-)** - Supercell<br/>
 <!--END_LASTFM_RECENT-->
