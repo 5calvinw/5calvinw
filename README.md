@@ -34,25 +34,25 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `23 ▶️` ∙ **[エミリア(CV:高橋李依)](https://www.last.fm/music/%E3%82%A8%E3%83%9F%E3%83%AA%E3%82%A2(CV:%E9%AB%98%E6%A9%8B%E6%9D%8E%E4%BE%9D))**<br/>
-> `7 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
 > `6 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
-> `5 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
-> `5 ▶️` ∙ **[Bernadya](https://www.last.fm/music/Bernadya)**<br/>
-> `5 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `5 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
-> `4 ▶️` ∙ **[Lamp](https://www.last.fm/music/Lamp)**<br/>
+> `4 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
+> `4 ▶️` ∙ **[Bernadya](https://www.last.fm/music/Bernadya)**<br/>
+> `4 ▶️` ∙ **[Monet](https://www.last.fm/music/Monet)**<br/>
+> `4 ▶️` ∙ **[panoir](https://www.last.fm/music/panoir)**<br/>
+> `4 ▶️` ∙ **[Steven Universe](https://www.last.fm/music/Steven+Universe)**<br/>
+> `3 ▶️` ∙ **[Armada](https://www.last.fm/music/Armada)**<br/>
+> `3 ▶️` ∙ **[Aurora Axis](https://www.last.fm/music/Aurora+Axis)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Daidai Genome](https://www.last.fm/music/Tsuna+Maru+(Mezame-P)/_/Daidai+Genome)** - Tsuna Maru (Mezame-P)<br/>
-> ∙ **[nevermind, everything's ok](https://www.last.fm/music/Dreamcorp./_/nevermind,+everything%27s+ok)** - Dreamcorp.<br/>
-> ∙ **[The Anthem](https://www.last.fm/music/Good+Charlotte/_/The+Anthem)** - Good Charlotte<br/>
-> ∙ **[Tak Setampan Romeo](https://www.last.fm/music/Yovie+&+Nuno/_/Tak+Setampan+Romeo)** - Yovie & Nuno<br/>
-> ∙ **[はじまりの速度](https://www.last.fm/music/Sangatsu+no+Phantasia/_/%E3%81%AF%E3%81%98%E3%81%BE%E3%82%8A%E3%81%AE%E9%80%9F%E5%BA%A6)** - Sangatsu no Phantasia<br/>
-> ∙ **[Time To Make History - Original Full Size ver.](https://www.last.fm/music/Shihoko+Hirata/_/Time+To+Make+History+-+Original+Full+Size+ver.)** - Shihoko Hirata<br/>
-> ∙ **[In My Mind](https://www.last.fm/music/Lyn+Lapid/_/In+My+Mind)** - Lyn Lapid<br/>
-> ∙ **[風が吹く街](https://www.last.fm/music/Lucklife/_/%E9%A2%A8%E3%81%8C%E5%90%B9%E3%81%8F%E8%A1%97)** - Lucklife<br/>
+> 🎶 **[four](https://www.last.fm/music/panoir/_/four)** - panoir<br/>
+> ∙ **[four](https://www.last.fm/music/panoir/_/four)** - panoir<br/>
+> ∙ **[three](https://www.last.fm/music/panoir/_/three)** - panoir<br/>
+> ∙ **[two](https://www.last.fm/music/panoir/_/two)** - panoir<br/>
+> ∙ **[one](https://www.last.fm/music/panoir/_/one)** - panoir<br/>
+> ∙ **[H2O](https://www.last.fm/music/Monet/_/H2O)** - Monet<br/>
+> ∙ **[FOOTPRINTS IN THE SAND](https://www.last.fm/music/Monet/_/FOOTPRINTS+IN+THE+SAND)** - Monet<br/>
+> ∙ **[DREAM](https://www.last.fm/music/Monet/_/DREAM)** - Monet<br/>
 <!--END_LASTFM_RECENT-->
