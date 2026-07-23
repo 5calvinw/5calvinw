@@ -34,7 +34,7 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `27 ▶️` ∙ **[エミリア(CV:高橋李依)](https://www.last.fm/music/%E3%82%A8%E3%83%9F%E3%83%AA%E3%82%A2(CV:%E9%AB%98%E6%A9%8B%E6%9D%8E%E4%BE%9D))**<br/>
+> `23 ▶️` ∙ **[エミリア(CV:高橋李依)](https://www.last.fm/music/%E3%82%A8%E3%83%9F%E3%83%AA%E3%82%A2(CV:%E9%AB%98%E6%A9%8B%E6%9D%8E%E4%BE%9D))**<br/>
 > `7 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
 > `6 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `5 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
