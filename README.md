@@ -41,7 +41,7 @@ Email: calvinthewu@gmail.com
 > `4 ▶️` ∙ **[Monet](https://www.last.fm/music/Monet)**<br/>
 > `4 ▶️` ∙ **[Steven Universe](https://www.last.fm/music/Steven+Universe)**<br/>
 > `3 ▶️` ∙ **[Armada](https://www.last.fm/music/Armada)**<br/>
-> `3 ▶️` ∙ **[Aurora Axis](https://www.last.fm/music/Aurora+Axis)**<br/>
+> `3 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
