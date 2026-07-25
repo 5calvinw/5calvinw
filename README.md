@@ -38,10 +38,10 @@ Email: calvinthewu@gmail.com
 > `4 ▶️` ∙ **[Monet](https://www.last.fm/music/Monet)**<br/>
 > `4 ▶️` ∙ **[Steven Universe](https://www.last.fm/music/Steven+Universe)**<br/>
 > `3 ▶️` ∙ **[Armada](https://www.last.fm/music/Armada)**<br/>
-> `3 ▶️` ∙ **[My Chemical Romance](https://www.last.fm/music/My+Chemical+Romance)**<br/>
 > `3 ▶️` ∙ **[西沢幸奏](https://www.last.fm/music/%E8%A5%BF%E6%B2%A2%E5%B9%B8%E5%A5%8F)**<br/>
 > `2 ▶️` ∙ **[40mP](https://www.last.fm/music/40mP)**<br/>
 > `2 ▶️` ∙ **[aiko](https://www.last.fm/music/aiko)**<br/>
+> `2 ▶️` ∙ **[Annabel](https://www.last.fm/music/Annabel)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
