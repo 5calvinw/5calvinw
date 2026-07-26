@@ -36,12 +36,12 @@ Email: calvinthewu@gmail.com
 
 > `6 ▶️` ∙ **[panoir](https://www.last.fm/music/panoir)**<br/>
 > `4 ▶️` ∙ **[Monet](https://www.last.fm/music/Monet)**<br/>
-> `2 ▶️` ∙ **[Annabel](https://www.last.fm/music/Annabel)**<br/>
-> `2 ▶️` ∙ **[Armada](https://www.last.fm/music/Armada)**<br/>
-> `2 ▶️` ∙ **[Good Charlotte](https://www.last.fm/music/Good+Charlotte)**<br/>
-> `2 ▶️` ∙ **[Goose house](https://www.last.fm/music/Goose+house)**<br/>
-> `2 ▶️` ∙ **[Juicy Lucy](https://www.last.fm/music/Juicy+Lucy)**<br/>
 > `2 ▶️` ∙ **[Steven Universe](https://www.last.fm/music/Steven+Universe)**<br/>
+> `1 ▶️` ∙ **[40mP](https://www.last.fm/music/40mP)**<br/>
+> `1 ▶️` ∙ **[aiko](https://www.last.fm/music/aiko)**<br/>
+> `1 ▶️` ∙ **[Akeboshi](https://www.last.fm/music/Akeboshi)**<br/>
+> `1 ▶️` ∙ **[Armada](https://www.last.fm/music/Armada)**<br/>
+> `1 ▶️` ∙ **[Carpenters](https://www.last.fm/music/Carpenters)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
