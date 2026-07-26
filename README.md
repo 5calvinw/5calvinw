@@ -36,12 +36,12 @@ Email: calvinthewu@gmail.com
 
 > `6 ▶️` ∙ **[panoir](https://www.last.fm/music/panoir)**<br/>
 > `4 ▶️` ∙ **[Monet](https://www.last.fm/music/Monet)**<br/>
-> `2 ▶️` ∙ **[Steven Universe](https://www.last.fm/music/Steven+Universe)**<br/>
-> `1 ▶️` ∙ **[40mP](https://www.last.fm/music/40mP)**<br/>
-> `1 ▶️` ∙ **[aiko](https://www.last.fm/music/aiko)**<br/>
 > `1 ▶️` ∙ **[Akeboshi](https://www.last.fm/music/Akeboshi)**<br/>
-> `1 ▶️` ∙ **[Armada](https://www.last.fm/music/Armada)**<br/>
-> `1 ▶️` ∙ **[Carpenters](https://www.last.fm/music/Carpenters)**<br/>
+> `1 ▶️` ∙ **[Chihiro](https://www.last.fm/music/Chihiro)**<br/>
+> `1 ▶️` ∙ **[Coldplay](https://www.last.fm/music/Coldplay)**<br/>
+> `1 ▶️` ∙ **[Dreamcorp.](https://www.last.fm/music/Dreamcorp.)**<br/>
+> `1 ▶️` ∙ **[Frederic](https://www.last.fm/music/Frederic)**<br/>
+> `1 ▶️` ∙ **[Gangga](https://www.last.fm/music/Gangga)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
