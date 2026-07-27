@@ -36,12 +36,12 @@ Email: calvinthewu@gmail.com
 
 > `6 ▶️` ∙ **[panoir](https://www.last.fm/music/panoir)**<br/>
 > `4 ▶️` ∙ **[Monet](https://www.last.fm/music/Monet)**<br/>
-> `1 ▶️` ∙ **[Akeboshi](https://www.last.fm/music/Akeboshi)**<br/>
 > `1 ▶️` ∙ **[Chihiro](https://www.last.fm/music/Chihiro)**<br/>
 > `1 ▶️` ∙ **[Coldplay](https://www.last.fm/music/Coldplay)**<br/>
 > `1 ▶️` ∙ **[Dreamcorp.](https://www.last.fm/music/Dreamcorp.)**<br/>
-> `1 ▶️` ∙ **[Frederic](https://www.last.fm/music/Frederic)**<br/>
 > `1 ▶️` ∙ **[Gangga](https://www.last.fm/music/Gangga)**<br/>
+> `1 ▶️` ∙ **[Good Charlotte](https://www.last.fm/music/Good+Charlotte)**<br/>
+> `1 ▶️` ∙ **[Ho - kago Tea Time](https://www.last.fm/music/Ho+-+kago+Tea+Time)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
