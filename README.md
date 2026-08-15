@@ -34,18 +34,18 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-No listening data found for the selected time period.
+> `9 ▶️` ∙ **[GYARI　CocoaCigaretteP](https://www.last.fm/music/GYARI%E3%80%80CocoaCigaretteP)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[maybe in another life](https://www.last.fm/music/SAILENCE/_/maybe+in+another+life)** - SAILENCE<br/>
-> ∙ **[six](https://www.last.fm/music/panoir/_/six)** - panoir<br/>
-> ∙ **[five](https://www.last.fm/music/panoir/_/five)** - panoir<br/>
-> ∙ **[four](https://www.last.fm/music/panoir/_/four)** - panoir<br/>
-> ∙ **[three](https://www.last.fm/music/panoir/_/three)** - panoir<br/>
-> ∙ **[two](https://www.last.fm/music/panoir/_/two)** - panoir<br/>
-> ∙ **[one](https://www.last.fm/music/panoir/_/one)** - panoir<br/>
-> ∙ **[H2O](https://www.last.fm/music/Monet/_/H2O)** - Monet<br/>
+> ∙ **[花隈の歌は可愛いし小春六花はマジでうるさい](https://www.last.fm/music/GYARI%E3%80%80CocoaCigaretteP/_/%E8%8A%B1%E9%9A%88%E3%81%AE%E6%AD%8C%E3%81%AF%E5%8F%AF%E6%84%9B%E3%81%84%E3%81%97%E5%B0%8F%E6%98%A5%E5%85%AD%E8%8A%B1%E3%81%AF%E3%83%9E%E3%82%B8%E3%81%A7%E3%81%86%E3%82%8B%E3%81%95%E3%81%84)** - GYARI　CocoaCigaretteP<br/>
+> ∙ **[花隈の歌は可愛いし小春六花はマジでうるさい](https://www.last.fm/music/GYARI%E3%80%80CocoaCigaretteP/_/%E8%8A%B1%E9%9A%88%E3%81%AE%E6%AD%8C%E3%81%AF%E5%8F%AF%E6%84%9B%E3%81%84%E3%81%97%E5%B0%8F%E6%98%A5%E5%85%AD%E8%8A%B1%E3%81%AF%E3%83%9E%E3%82%B8%E3%81%A7%E3%81%86%E3%82%8B%E3%81%95%E3%81%84)** - GYARI　CocoaCigaretteP<br/>
+> ∙ **[花隈の歌は可愛いし小春六花はマジでうるさい](https://www.last.fm/music/GYARI%E3%80%80CocoaCigaretteP/_/%E8%8A%B1%E9%9A%88%E3%81%AE%E6%AD%8C%E3%81%AF%E5%8F%AF%E6%84%9B%E3%81%84%E3%81%97%E5%B0%8F%E6%98%A5%E5%85%AD%E8%8A%B1%E3%81%AF%E3%83%9E%E3%82%B8%E3%81%A7%E3%81%86%E3%82%8B%E3%81%95%E3%81%84)** - GYARI　CocoaCigaretteP<br/>
+> ∙ **[花隈の歌は可愛いし小春六花はマジでうるさい](https://www.last.fm/music/GYARI%E3%80%80CocoaCigaretteP/_/%E8%8A%B1%E9%9A%88%E3%81%AE%E6%AD%8C%E3%81%AF%E5%8F%AF%E6%84%9B%E3%81%84%E3%81%97%E5%B0%8F%E6%98%A5%E5%85%AD%E8%8A%B1%E3%81%AF%E3%83%9E%E3%82%B8%E3%81%A7%E3%81%86%E3%82%8B%E3%81%95%E3%81%84)** - GYARI　CocoaCigaretteP<br/>
+> ∙ **[花隈の歌は可愛いし小春六花はマジでうるさい](https://www.last.fm/music/GYARI%E3%80%80CocoaCigaretteP/_/%E8%8A%B1%E9%9A%88%E3%81%AE%E6%AD%8C%E3%81%AF%E5%8F%AF%E6%84%9B%E3%81%84%E3%81%97%E5%B0%8F%E6%98%A5%E5%85%AD%E8%8A%B1%E3%81%AF%E3%83%9E%E3%82%B8%E3%81%A7%E3%81%86%E3%82%8B%E3%81%95%E3%81%84)** - GYARI　CocoaCigaretteP<br/>
+> ∙ **[花隈の歌は可愛いし小春六花はマジでうるさい](https://www.last.fm/music/GYARI%E3%80%80CocoaCigaretteP/_/%E8%8A%B1%E9%9A%88%E3%81%AE%E6%AD%8C%E3%81%AF%E5%8F%AF%E6%84%9B%E3%81%84%E3%81%97%E5%B0%8F%E6%98%A5%E5%85%AD%E8%8A%B1%E3%81%AF%E3%83%9E%E3%82%B8%E3%81%A7%E3%81%86%E3%82%8B%E3%81%95%E3%81%84)** - GYARI　CocoaCigaretteP<br/>
+> ∙ **[花隈の歌は可愛いし小春六花はマジでうるさい](https://www.last.fm/music/GYARI%E3%80%80CocoaCigaretteP/_/%E8%8A%B1%E9%9A%88%E3%81%AE%E6%AD%8C%E3%81%AF%E5%8F%AF%E6%84%9B%E3%81%84%E3%81%97%E5%B0%8F%E6%98%A5%E5%85%AD%E8%8A%B1%E3%81%AF%E3%83%9E%E3%82%B8%E3%81%A7%E3%81%86%E3%82%8B%E3%81%95%E3%81%84)** - GYARI　CocoaCigaretteP<br/>
+> ∙ **[花隈の歌は可愛いし小春六花はマジでうるさい](https://www.last.fm/music/GYARI%E3%80%80CocoaCigaretteP/_/%E8%8A%B1%E9%9A%88%E3%81%AE%E6%AD%8C%E3%81%AF%E5%8F%AF%E6%84%9B%E3%81%84%E3%81%97%E5%B0%8F%E6%98%A5%E5%85%AD%E8%8A%B1%E3%81%AF%E3%83%9E%E3%82%B8%E3%81%A7%E3%81%86%E3%82%8B%E3%81%95%E3%81%84)** - GYARI　CocoaCigaretteP<br/>
 <!--END_LASTFM_RECENT-->
