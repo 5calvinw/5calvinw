@@ -47,12 +47,12 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[091](https://www.last.fm/music/No.100/_/091)** - No.100<br/>
+> ∙ **[041](https://www.last.fm/music/No.050/_/041)** - No.050<br/>
 > ∙ **[Sugar Sweet Nightmare](https://www.last.fm/music/MONOGATARI+Series+-+Topic/_/Sugar+Sweet+Nightmare)** - MONOGATARI Series - Topic<br/>
 > ∙ **[If I could be a constellation](https://www.last.fm/music/kessoku+band+-+Topic/_/If+I+could+be+a+constellation)** - kessoku band - Topic<br/>
 > ∙ **[Sign](https://www.last.fm/music/%E5%86%85%E7%94%B0%E5%BD%A9+-+Aya+Uchida/_/Sign)** - 内田彩 - Aya Uchida<br/>
 > ∙ **[これくらいで (Kore Kurai de)  +Eng](https://www.last.fm/music/%E5%A4%A2%E3%81%A8%E8%89%B2%E3%81%A7%E3%81%A7%E3%81%8D%E3%81%A6%E3%81%84%E3%82%8B+(Yume+to+Iro+de+Dekiteiru)+ED/_/%E3%81%93%E3%82%8C%E3%81%8F%E3%82%89%E3%81%84%E3%81%A7+(Kore+Kurai+de)++%252BEng)** - 夢と色でできている (Yume to Iro de Dekiteiru) ED<br/>
 > ∙ **[ReAliZe](https://www.last.fm/music/%E7%B1%B3%E5%80%89%E5%8D%83%E5%B0%8B%E3%81%AESMILE+GO+PEACE/_/ReAliZe)** - 米倉千尋のSMILE GO PEACE<br/>
 > ∙ **[ヒステリックナイトガール (Original Mix)](https://www.last.fm/music/PSYQUI/_/%E3%83%92%E3%82%B9%E3%83%86%E3%83%AA%E3%83%83%E3%82%AF%E3%83%8A%E3%82%A4%E3%83%88%E3%82%AC%E3%83%BC%E3%83%AB+(Original+Mix))** - PSYQUI<br/>
-> ∙ **[Gira Gira](https://www.last.fm/music/Ado/_/Gira+Gira)** - Ado<br/>
-> ∙ **[過去に囚われている](https://www.last.fm/music/Tuyu/_/%E9%81%8E%E5%8E%BB%E3%81%AB%E5%9B%9A%E3%82%8F%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B)** - Tuyu<br/>
 <!--END_LASTFM_RECENT-->
