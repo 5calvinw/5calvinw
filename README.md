@@ -34,25 +34,25 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `11 ▶️` ∙ **[GYARI　CocoaCigaretteP](https://www.last.fm/music/GYARI%E3%80%80CocoaCigaretteP)**<br/>
+> `14 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `12 ▶️` ∙ **[GYARI　CocoaCigaretteP](https://www.last.fm/music/GYARI%E3%80%80CocoaCigaretteP)**<br/>
+> `7 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `4 ▶️` ∙ **[平田 博信](https://www.last.fm/music/%E5%B9%B3%E7%94%B0+%E5%8D%9A%E4%BF%A1)**<br/>
+> `3 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
 > `3 ▶️` ∙ **[Monet](https://www.last.fm/music/Monet)**<br/>
-> `3 ▶️` ∙ **[米倉千尋のSMILE GO PEACE](https://www.last.fm/music/%E7%B1%B3%E5%80%89%E5%8D%83%E5%B0%8B%E3%81%AESMILE+GO+PEACE)**<br/>
-> `2 ▶️` ∙ **[Ado](https://www.last.fm/music/Ado)**<br/>
-> `2 ▶️` ∙ **[MintJam x yanagi nagi](https://www.last.fm/music/MintJam+x+yanagi+nagi)**<br/>
-> `2 ▶️` ∙ **[MONOGATARI Series - Topic](https://www.last.fm/music/MONOGATARI+Series+-+Topic)**<br/>
-> `2 ▶️` ∙ **[ZUTOMAYO](https://www.last.fm/music/ZUTOMAYO)**<br/>
-> `1 ▶️` ∙ **[Advantage Lucy - Topic](https://www.last.fm/music/Advantage+Lucy+-+Topic)**<br/>
+> `3 ▶️` ∙ **[PaintAMelody](https://www.last.fm/music/PaintAMelody)**<br/>
+> `3 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[091](https://www.last.fm/music/No.100/_/091)** - No.100<br/>
-> ∙ **[041](https://www.last.fm/music/No.050/_/041)** - No.050<br/>
-> ∙ **[Sugar Sweet Nightmare](https://www.last.fm/music/MONOGATARI+Series+-+Topic/_/Sugar+Sweet+Nightmare)** - MONOGATARI Series - Topic<br/>
 > ∙ **[If I could be a constellation](https://www.last.fm/music/kessoku+band+-+Topic/_/If+I+could+be+a+constellation)** - kessoku band - Topic<br/>
-> ∙ **[Sign](https://www.last.fm/music/%E5%86%85%E7%94%B0%E5%BD%A9+-+Aya+Uchida/_/Sign)** - 内田彩 - Aya Uchida<br/>
-> ∙ **[これくらいで (Kore Kurai de)  +Eng](https://www.last.fm/music/%E5%A4%A2%E3%81%A8%E8%89%B2%E3%81%A7%E3%81%A7%E3%81%8D%E3%81%A6%E3%81%84%E3%82%8B+(Yume+to+Iro+de+Dekiteiru)+ED/_/%E3%81%93%E3%82%8C%E3%81%8F%E3%82%89%E3%81%84%E3%81%A7+(Kore+Kurai+de)++%252BEng)** - 夢と色でできている (Yume to Iro de Dekiteiru) ED<br/>
-> ∙ **[ReAliZe](https://www.last.fm/music/%E7%B1%B3%E5%80%89%E5%8D%83%E5%B0%8B%E3%81%AESMILE+GO+PEACE/_/ReAliZe)** - 米倉千尋のSMILE GO PEACE<br/>
-> ∙ **[ヒステリックナイトガール (Original Mix)](https://www.last.fm/music/PSYQUI/_/%E3%83%92%E3%82%B9%E3%83%86%E3%83%AA%E3%83%83%E3%82%AF%E3%83%8A%E3%82%A4%E3%83%88%E3%82%AC%E3%83%BC%E3%83%AB+(Original+Mix))** - PSYQUI<br/>
+> ∙ **[Netaminity Theater](https://www.last.fm/music/Shinra-bansho/_/Netaminity+Theater)** - Shinra-bansho<br/>
+> ∙ **[いろとりどりのセカイ](https://www.last.fm/music/%E3%82%A2%E3%83%AC%E3%82%BB%E3%82%A4%E3%82%A2%EF%BC%8Feufonius/_/%E3%81%84%E3%82%8D%E3%81%A8%E3%82%8A%E3%81%A9%E3%82%8A%E3%81%AE%E3%82%BB%E3%82%AB%E3%82%A4)** - アレセイア／eufonius<br/>
+> ∙ **[花隈の歌は可愛いし小春六花はマジでうるさい](https://www.last.fm/music/GYARI%E3%80%80CocoaCigaretteP/_/%E8%8A%B1%E9%9A%88%E3%81%AE%E6%AD%8C%E3%81%AF%E5%8F%AF%E6%84%9B%E3%81%84%E3%81%97%E5%B0%8F%E6%98%A5%E5%85%AD%E8%8A%B1%E3%81%AF%E3%83%9E%E3%82%B8%E3%81%A7%E3%81%86%E3%82%8B%E3%81%95%E3%81%84)** - GYARI　CocoaCigaretteP<br/>
+> ∙ **[Issyun to Eien](https://www.last.fm/music/%E5%B9%B3%E7%94%B0+%E5%8D%9A%E4%BF%A1/_/Issyun+to+Eien)** - 平田 博信<br/>
+> ∙ **[A Burning Memory](https://www.last.fm/music/Reece+Moseley/_/A+Burning+Memory)** - Reece Moseley<br/>
+> ∙ **[the desire to simply not exist](https://www.last.fm/music/Reece+Moseley/_/the+desire+to+simply+not+exist)** - Reece Moseley<br/>
+> ∙ **[Orchard](https://www.last.fm/music/Omori/_/Orchard)** - Omori<br/>
 <!--END_LASTFM_RECENT-->
