@@ -47,12 +47,12 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> 🎶 **[Hoshi no merry-go-round - instrumental](https://www.last.fm/music/%E5%A4%9A%E7%94%B0+%E8%91%B5/_/Hoshi+no+merry-go-round+-+instrumental)** - 多田 葵<br/>
+> ∙ **[Spring Rain (Love Does Soul Like Water on Withered Soil)](https://www.last.fm/music/Hemio/_/Spring+Rain+(Love+Does+Soul+Like+Water+on+Withered+Soil))** - Hemio<br/>
 > ∙ **[golden hour](https://www.last.fm/music/JVKE/_/golden+hour)** - JVKE<br/>
 > ∙ **[Alice's Suitcase](https://www.last.fm/music/Endorfin./_/Alice%27s+Suitcase)** - Endorfin.<br/>
 > ∙ **[残響散歌](https://www.last.fm/music/Aimer/_/%E6%AE%8B%E9%9F%BF%E6%95%A3%E6%AD%8C)** - Aimer<br/>
 > ∙ **[Am I Bothering You?](https://www.last.fm/music/Reality+Club/_/Am+I+Bothering+You%3F)** - Reality Club<br/>
 > ∙ **[like i need u](https://www.last.fm/music/keshi/_/like+i+need+u)** - keshi<br/>
 > ∙ **[Tek It - Sped Up](https://www.last.fm/music/Cafun%C3%A9/_/Tek+It+-+Sped+Up)** - Cafuné<br/>
-> ∙ **[kuuchuubunkai](https://www.last.fm/music/Sleeping+Pola/_/kuuchuubunkai)** - Sleeping Pola<br/>
-> ∙ **[キラーチューン](https://www.last.fm/music/%E6%9D%B1%E4%BA%AC%E4%BA%8B%E5%A4%89/_/%E3%82%AD%E3%83%A9%E3%83%BC%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3)** - 東京事変<br/>
 <!--END_LASTFM_RECENT-->
