@@ -34,25 +34,25 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `34 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `42 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `16 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `14 ▶️` ∙ **[GYARI　CocoaCigaretteP](https://www.last.fm/music/GYARI%E3%80%80CocoaCigaretteP)**<br/>
-> `14 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
-> `8 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
-> `6 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
-> `5 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
-> `5 ▶️` ∙ **[平田 博信](https://www.last.fm/music/%E5%B9%B3%E7%94%B0+%E5%8D%9A%E4%BF%A1)**<br/>
-> `4 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
+> `9 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `7 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
+> `6 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
+> `6 ▶️` ∙ **[平田 博信](https://www.last.fm/music/%E5%B9%B3%E7%94%B0+%E5%8D%9A%E4%BF%A1)**<br/>
+> `5 ▶️` ∙ **[Claire Waluch](https://www.last.fm/music/Claire+Waluch)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Hoshi no merry-go-round - instrumental](https://www.last.fm/music/%E5%A4%9A%E7%94%B0+%E8%91%B5/_/Hoshi+no+merry-go-round+-+instrumental)** - 多田 葵<br/>
-> ∙ **[Spring Rain (Love Does Soul Like Water on Withered Soil)](https://www.last.fm/music/Hemio/_/Spring+Rain+(Love+Does+Soul+Like+Water+on+Withered+Soil))** - Hemio<br/>
-> ∙ **[golden hour](https://www.last.fm/music/JVKE/_/golden+hour)** - JVKE<br/>
-> ∙ **[Alice's Suitcase](https://www.last.fm/music/Endorfin./_/Alice%27s+Suitcase)** - Endorfin.<br/>
-> ∙ **[残響散歌](https://www.last.fm/music/Aimer/_/%E6%AE%8B%E9%9F%BF%E6%95%A3%E6%AD%8C)** - Aimer<br/>
-> ∙ **[Am I Bothering You?](https://www.last.fm/music/Reality+Club/_/Am+I+Bothering+You%3F)** - Reality Club<br/>
-> ∙ **[like i need u](https://www.last.fm/music/keshi/_/like+i+need+u)** - keshi<br/>
-> ∙ **[Tek It - Sped Up](https://www.last.fm/music/Cafun%C3%A9/_/Tek+It+-+Sped+Up)** - Cafuné<br/>
+> ∙ **[Kiss Me Good-Bye](https://www.last.fm/music/%E3%82%A2%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%A9%E3%83%BB%E3%82%A2%E3%82%AD/_/Kiss+Me+Good-Bye)** - アンジェラ・アキ<br/>
+> ∙ **[Veil](https://www.last.fm/music/P3pper/_/Veil)** - P3pper<br/>
+> ∙ **[Lullaby](https://www.last.fm/music/Snail%27s+house/_/Lullaby)** - Snail's house<br/>
+> ∙ **[Radiant Ruins](https://www.last.fm/music/Urotsuki/_/Radiant+Ruins)** - Urotsuki<br/>
+> ∙ **[August/Water](https://www.last.fm/music/Omori/_/August%2FWater)** - Omori<br/>
+> ∙ **[Howling Fjord "Prelude"](https://www.last.fm/music/Robin+Appelqvist/_/Howling+Fjord+%22Prelude%22)** - Robin Appelqvist<br/>
+> ∙ **[Crossroads](https://www.last.fm/music/Omori/_/Crossroads)** - Omori<br/>
+> ∙ **[Gentle Jena](https://www.last.fm/music/VISUAL+ARTS+%2F+Key/_/Gentle+Jena)** - VISUAL ARTS / Key<br/>
 <!--END_LASTFM_RECENT-->
