@@ -47,12 +47,12 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[beside you](https://www.last.fm/music/keshi/_/beside+you)** - keshi<br/>
+> 🎶 **[Another Heaven](https://www.last.fm/music/%E3%81%84%E3%81%A8%E3%81%86%E3%81%8B%E3%81%AA%E3%81%93/_/Another+Heaven)** - いとうかなこ<br/>
 > ∙ **[Kiss Me Good-Bye](https://www.last.fm/music/%E3%82%A2%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%A9%E3%83%BB%E3%82%A2%E3%82%AD/_/Kiss+Me+Good-Bye)** - アンジェラ・アキ<br/>
+> ∙ **[For a Pessimist, I'm Pretty Optimistic](https://www.last.fm/music/Paramore/_/For+a+Pessimist,+I%27m+Pretty+Optimistic)** - Paramore<br/>
+> ∙ **[Do It For Her (feat. Zach Callison & Grace Rolek)](https://www.last.fm/music/Steven+Universe/_/Do+It+For+Her+(feat.+Zach+Callison+&+Grace+Rolek))** - Steven Universe<br/>
+> ∙ **[beside you](https://www.last.fm/music/keshi/_/beside+you)** - keshi<br/>
 > ∙ **[Kiss Me Good-Bye](https://www.last.fm/music/%E3%82%A2%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%A9%E3%83%BB%E3%82%A2%E3%82%AD/_/Kiss+Me+Good-Bye)** - アンジェラ・アキ<br/>
-> ∙ **[Veil](https://www.last.fm/music/P3pper/_/Veil)** - P3pper<br/>
-> ∙ **[Lullaby](https://www.last.fm/music/Snail%27s+house/_/Lullaby)** - Snail's house<br/>
-> ∙ **[Radiant Ruins](https://www.last.fm/music/Urotsuki/_/Radiant+Ruins)** - Urotsuki<br/>
-> ∙ **[August/Water](https://www.last.fm/music/Omori/_/August%2FWater)** - Omori<br/>
-> ∙ **[Howling Fjord "Prelude"](https://www.last.fm/music/Robin+Appelqvist/_/Howling+Fjord+%22Prelude%22)** - Robin Appelqvist<br/>
+> ∙ **[Niscaya](https://www.last.fm/music/Bilal+Indrajaya/_/Niscaya)** - Bilal Indrajaya<br/>
+> ∙ **[桜流し](https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/%E6%A1%9C%E6%B5%81%E3%81%97)** - 宇多田ヒカル<br/>
 <!--END_LASTFM_RECENT-->
