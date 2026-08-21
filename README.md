@@ -37,22 +37,22 @@ Email: calvinthewu@gmail.com
 > `42 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `16 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `14 ▶️` ∙ **[GYARI　CocoaCigaretteP](https://www.last.fm/music/GYARI%E3%80%80CocoaCigaretteP)**<br/>
-> `9 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
+> `14 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
 > `9 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `7 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `6 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
-> `6 ▶️` ∙ **[平田 博信](https://www.last.fm/music/%E5%B9%B3%E7%94%B0+%E5%8D%9A%E4%BF%A1)**<br/>
+> `6 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Too Little, Too Late](https://www.last.fm/music/Laufey/_/Too+Little,+Too+Late)** - Laufey<br/>
-> ∙ **[Impostor Syndrome](https://www.last.fm/music/Sidney+Gish/_/Impostor+Syndrome)** - Sidney Gish<br/>
-> ∙ **[Letter to My 13 Year Old Self](https://www.last.fm/music/Laufey/_/Letter+to+My+13+Year+Old+Self)** - Laufey<br/>
-> ∙ **[Kita Buat Menyenangkan](https://www.last.fm/music/Bernadya/_/Kita+Buat+Menyenangkan)** - Bernadya<br/>
-> ∙ **[Kind Of](https://www.last.fm/music/Faye+Webster/_/Kind+Of)** - Faye Webster<br/>
-> ∙ **[Beaches](https://www.last.fm/music/beabadoobee/_/Beaches)** - beabadoobee<br/>
-> ∙ **[Tank!](https://www.last.fm/music/The+Seatbelts/_/Tank!)** - The Seatbelts<br/>
-> ∙ **[Another Heaven](https://www.last.fm/music/%E3%81%84%E3%81%A8%E3%81%86%E3%81%8B%E3%81%AA%E3%81%93/_/Another+Heaven)** - いとうかなこ<br/>
+> ∙ **[kagefumi](https://www.last.fm/music/%E7%99%BE%E6%99%AF/_/kagefumi)** - 百景<br/>
+> ∙ **[Ekspektasi](https://www.last.fm/music/Okin/_/Ekspektasi)** - Okin<br/>
+> ∙ **[spring into summer](https://www.last.fm/music/Lizzy+McAlpine/_/spring+into+summer)** - Lizzy McAlpine<br/>
+> ∙ **[Slow Dance](https://www.last.fm/music/Clairo/_/Slow+Dance)** - Clairo<br/>
+> ∙ **[About You](https://www.last.fm/music/The+1975/_/About+You)** - The 1975<br/>
+> ∙ **[ぎゅっと。](https://www.last.fm/music/%E3%82%82%E3%81%95%E3%82%92%E3%80%82/_/%E3%81%8E%E3%82%85%E3%81%A3%E3%81%A8%E3%80%82)** - もさを。<br/>
+> ∙ **[Sandiwara Semu](https://www.last.fm/music/rumahsakit/_/Sandiwara+Semu)** - rumahsakit<br/>
+> ∙ **[oyasumination](https://www.last.fm/music/vally.exe/_/oyasumination)** - vally.exe<br/>
 <!--END_LASTFM_RECENT-->
