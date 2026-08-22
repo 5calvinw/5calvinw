@@ -47,12 +47,12 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[ヒステリックナイトガール (Original Mix)](https://www.last.fm/music/PSYQUI/_/%E3%83%92%E3%82%B9%E3%83%86%E3%83%AA%E3%83%83%E3%82%AF%E3%83%8A%E3%82%A4%E3%83%88%E3%82%AC%E3%83%BC%E3%83%AB+(Original+Mix))** - PSYQUI<br/>
-> ∙ **[ヒステリックナイトガール (Original Mix)](https://www.last.fm/music/PSYQUI/_/%E3%83%92%E3%82%B9%E3%83%86%E3%83%AA%E3%83%83%E3%82%AF%E3%83%8A%E3%82%A4%E3%83%88%E3%82%AC%E3%83%BC%E3%83%AB+(Original+Mix))** - PSYQUI<br/>
-> ∙ **[silent room](https://www.last.fm/music/Hana/_/silent+room)** - Hana<br/>
-> ∙ **[Fireworks](https://www.last.fm/music/DAOKO+&+Kenshi+Yonezu/_/Fireworks)** - DAOKO & Kenshi Yonezu<br/>
-> ∙ **[これくらいで (Kore Kurai de)  +Eng](https://www.last.fm/music/%E5%A4%A2%E3%81%A8%E8%89%B2%E3%81%A7%E3%81%A7%E3%81%8D%E3%81%A6%E3%81%84%E3%82%8B+(Yume+to+Iro+de+Dekiteiru)+ED/_/%E3%81%93%E3%82%8C%E3%81%8F%E3%82%89%E3%81%84%E3%81%A7+(Kore+Kurai+de)++%252BEng)** - 夢と色でできている (Yume to Iro de Dekiteiru) ED<br/>
-> ∙ **[Arishi Hi no Tame ni](https://www.last.fm/music/Monet/_/Arishi+Hi+no+Tame+ni)** - Monet<br/>
-> ∙ **[Fuyu Ni Saku Hana](https://www.last.fm/music/Thears/_/Fuyu+Ni+Saku+Hana)** - Thears<br/>
-> ∙ **[Lasting Moment](https://www.last.fm/music/Konomi+Suzuki+Official/_/Lasting+Moment)** - Konomi Suzuki Official<br/>
+> ∙ **[how do you feel?](https://www.last.fm/music/advantage+Lucy/_/how+do+you+feel%3F)** - advantage Lucy<br/>
+> ∙ **[Kita Buat Menyenangkan](https://www.last.fm/music/Bernadya/_/Kita+Buat+Menyenangkan)** - Bernadya<br/>
+> ∙ **[Forever](https://www.last.fm/music/Gangga/_/Forever)** - Gangga<br/>
+> ∙ **[UNDERSTAND](https://www.last.fm/music/keshi/_/UNDERSTAND)** - keshi<br/>
+> ∙ **[Runaway Baby](https://www.last.fm/music/Bruno+Mars/_/Runaway+Baby)** - Bruno Mars<br/>
+> ∙ **[Runaway Baby](https://www.last.fm/music/Bruno+Mars/_/Runaway+Baby)** - Bruno Mars<br/>
+> ∙ **[Gangukyosoukyoku Syuen](https://www.last.fm/music/Kikuo/_/Gangukyosoukyoku+Syuen)** - Kikuo<br/>
+> ∙ **[Kura Kura](https://www.last.fm/music/Ado/_/Kura+Kura)** - Ado<br/>
 <!--END_LASTFM_RECENT-->
