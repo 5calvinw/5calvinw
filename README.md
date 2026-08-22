@@ -37,7 +37,7 @@ Email: calvinthewu@gmail.com
 > `42 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `16 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `15 ▶️` ∙ **[GYARI　CocoaCigaretteP](https://www.last.fm/music/GYARI%E3%80%80CocoaCigaretteP)**<br/>
-> `14 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
+> `15 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
 > `9 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `7 ▶️` ∙ **[zts](https://www.last.fm/music/zts)**<br/>
 > `6 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
@@ -47,12 +47,12 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[how do you feel?](https://www.last.fm/music/advantage+Lucy/_/how+do+you+feel%3F)** - advantage Lucy<br/>
-> ∙ **[Kita Buat Menyenangkan](https://www.last.fm/music/Bernadya/_/Kita+Buat+Menyenangkan)** - Bernadya<br/>
-> ∙ **[Forever](https://www.last.fm/music/Gangga/_/Forever)** - Gangga<br/>
-> ∙ **[UNDERSTAND](https://www.last.fm/music/keshi/_/UNDERSTAND)** - keshi<br/>
-> ∙ **[Runaway Baby](https://www.last.fm/music/Bruno+Mars/_/Runaway+Baby)** - Bruno Mars<br/>
-> ∙ **[Runaway Baby](https://www.last.fm/music/Bruno+Mars/_/Runaway+Baby)** - Bruno Mars<br/>
-> ∙ **[Gangukyosoukyoku Syuen](https://www.last.fm/music/Kikuo/_/Gangukyosoukyoku+Syuen)** - Kikuo<br/>
-> ∙ **[Kura Kura](https://www.last.fm/music/Ado/_/Kura+Kura)** - Ado<br/>
+> 🎶 **[Bags](https://www.last.fm/music/Clairo/_/Bags)** - Clairo<br/>
+> ∙ **[All I Did Was Dream Of You (feat. The Marías)](https://www.last.fm/music/beabadoobee/_/All+I+Did+Was+Dream+Of+You+(feat.+The+Mar%C3%ADas))** - beabadoobee<br/>
+> ∙ **[Heavy](https://www.last.fm/music/The+Mar%C3%ADas/_/Heavy)** - The Marías<br/>
+> ∙ **[Evergreen (You Didn’t Deserve Me At All)](https://www.last.fm/music/Omar+Apollo/_/Evergreen+(You+Didn%E2%80%99t+Deserve+Me+At+All))** - Omar Apollo<br/>
+> ∙ **[North](https://www.last.fm/music/Clairo/_/North)** - Clairo<br/>
+> ∙ **[Mr. Incorrect](https://www.last.fm/music/Malcolm+Todd/_/Mr.+Incorrect)** - Malcolm Todd<br/>
+> ∙ **[Soft Spot](https://www.last.fm/music/keshi/_/Soft+Spot)** - keshi<br/>
+> ∙ **[Dia Milikku](https://www.last.fm/music/Yovie+&+Nuno/_/Dia+Milikku)** - Yovie & Nuno<br/>
 <!--END_LASTFM_RECENT-->
