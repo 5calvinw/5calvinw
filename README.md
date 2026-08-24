@@ -34,10 +34,10 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `48 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `43 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `27 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
-> `14 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `13 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `13 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `10 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
 > `10 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `9 ▶️` ∙ **[Clairo](https://www.last.fm/music/Clairo)**<br/>
@@ -47,6 +47,7 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[サンキュー！！](https://www.last.fm/music/HOME+MADE+%E5%AE%B6%E6%97%8F/_/%E3%82%B5%E3%83%B3%E3%82%AD%E3%83%A5%E3%83%BC%EF%BC%81%EF%BC%81)** - HOME MADE 家族<br/>
 > ∙ **[Door](https://www.last.fm/music/%E3%82%A8%E3%83%9F%E3%83%AA%E3%82%A2(CV:%E9%AB%98%E6%A9%8B%E6%9D%8E%E4%BE%9D)/_/Door)** - エミリア(CV:高橋李依)<br/>
 > ∙ **[二十歳の恋](https://www.last.fm/music/Lamp/_/%E4%BA%8C%E5%8D%81%E6%AD%B3%E3%81%AE%E6%81%8B)** - Lamp<br/>
 > ∙ **[Please Do Not Lean (feat. BADBADNOTGOOD) - Bonus](https://www.last.fm/music/Daniel+Caesar/_/Please+Do+Not+Lean+(feat.+BADBADNOTGOOD)+-+Bonus)** - Daniel Caesar<br/>
@@ -54,5 +55,4 @@ Email: calvinthewu@gmail.com
 > ∙ **[The Mercy of the Wind](https://www.last.fm/music/Million+Eyes/_/The+Mercy+of+the+Wind)** - Million Eyes<br/>
 > ∙ **[Rosalina's Observatory](https://www.last.fm/music/AJ+DiSpirito/_/Rosalina%27s+Observatory)** - AJ DiSpirito<br/>
 > ∙ **[Let's Get Together Now!](https://www.last.fm/music/Omori/_/Let%27s+Get+Together+Now!)** - Omori<br/>
-> ∙ **[Radiant Ruins](https://www.last.fm/music/Urotsuki/_/Radiant+Ruins)** - Urotsuki<br/>
 <!--END_LASTFM_RECENT-->
