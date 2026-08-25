@@ -34,25 +34,25 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `43 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `27 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
-> `13 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `13 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
-> `10 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
-> `10 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
-> `9 ▶️` ∙ **[Clairo](https://www.last.fm/music/Clairo)**<br/>
-> `8 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
+> `28 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
+> `23 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `14 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `12 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
+> `10 ▶️` ∙ **[Clairo](https://www.last.fm/music/Clairo)**<br/>
+> `10 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
+> `8 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
+> `6 ▶️` ∙ **[Faye Webster](https://www.last.fm/music/Faye+Webster)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[サンキュー！！](https://www.last.fm/music/HOME+MADE+%E5%AE%B6%E6%97%8F/_/%E3%82%B5%E3%83%B3%E3%82%AD%E3%83%A5%E3%83%BC%EF%BC%81%EF%BC%81)** - HOME MADE 家族<br/>
-> ∙ **[Door](https://www.last.fm/music/%E3%82%A8%E3%83%9F%E3%83%AA%E3%82%A2(CV:%E9%AB%98%E6%A9%8B%E6%9D%8E%E4%BE%9D)/_/Door)** - エミリア(CV:高橋李依)<br/>
-> ∙ **[二十歳の恋](https://www.last.fm/music/Lamp/_/%E4%BA%8C%E5%8D%81%E6%AD%B3%E3%81%AE%E6%81%8B)** - Lamp<br/>
-> ∙ **[Please Do Not Lean (feat. BADBADNOTGOOD) - Bonus](https://www.last.fm/music/Daniel+Caesar/_/Please+Do+Not+Lean+(feat.+BADBADNOTGOOD)+-+Bonus)** - Daniel Caesar<br/>
-> ∙ **[Blessed](https://www.last.fm/music/Daniel+Caesar/_/Blessed)** - Daniel Caesar<br/>
-> ∙ **[The Mercy of the Wind](https://www.last.fm/music/Million+Eyes/_/The+Mercy+of+the+Wind)** - Million Eyes<br/>
-> ∙ **[Rosalina's Observatory](https://www.last.fm/music/AJ+DiSpirito/_/Rosalina%27s+Observatory)** - AJ DiSpirito<br/>
-> ∙ **[Let's Get Together Now!](https://www.last.fm/music/Omori/_/Let%27s+Get+Together+Now!)** - Omori<br/>
+> 🎶 **[Miniskirt](https://www.last.fm/music/AOA/_/Miniskirt)** - AOA<br/>
+> ∙ **[ヒカリの方へ](https://www.last.fm/music/PSYQUI/_/%E3%83%92%E3%82%AB%E3%83%AA%E3%81%AE%E6%96%B9%E3%81%B8)** - PSYQUI<br/>
+> ∙ **[さよならワルツ](https://www.last.fm/music/la+la+larks/_/%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%83%AF%E3%83%AB%E3%83%84)** - la la larks<br/>
+> ∙ **[孤犬](https://www.last.fm/music/nowisee/_/%E5%AD%A4%E7%8A%AC)** - nowisee<br/>
+> ∙ **[You'll Find Lovers Like You and Me](https://www.last.fm/music/Reality+Club/_/You%27ll+Find+Lovers+Like+You+and+Me)** - Reality Club<br/>
+> ∙ **[中庭の少女たち](https://www.last.fm/music/SHISHAMO/_/%E4%B8%AD%E5%BA%AD%E3%81%AE%E5%B0%91%E5%A5%B3%E3%81%9F%E3%81%A1)** - SHISHAMO<br/>
+> ∙ **[ラブレター](https://www.last.fm/music/YOASOBI/_/%E3%83%A9%E3%83%96%E3%83%AC%E3%82%BF%E3%83%BC)** - YOASOBI<br/>
+> ∙ **[Used to Me](https://www.last.fm/music/Luke+Chiang/_/Used+to+Me)** - Luke Chiang<br/>
 <!--END_LASTFM_RECENT-->
