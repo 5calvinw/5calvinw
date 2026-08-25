@@ -36,7 +36,7 @@ Email: calvinthewu@gmail.com
 
 > `28 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
 > `23 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `14 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `15 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `12 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
 > `10 ▶️` ∙ **[Clairo](https://www.last.fm/music/Clairo)**<br/>
 > `10 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
@@ -47,12 +47,12 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Miniskirt](https://www.last.fm/music/AOA/_/Miniskirt)** - AOA<br/>
-> ∙ **[ヒカリの方へ](https://www.last.fm/music/PSYQUI/_/%E3%83%92%E3%82%AB%E3%83%AA%E3%81%AE%E6%96%B9%E3%81%B8)** - PSYQUI<br/>
-> ∙ **[さよならワルツ](https://www.last.fm/music/la+la+larks/_/%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%83%AF%E3%83%AB%E3%83%84)** - la la larks<br/>
-> ∙ **[孤犬](https://www.last.fm/music/nowisee/_/%E5%AD%A4%E7%8A%AC)** - nowisee<br/>
-> ∙ **[You'll Find Lovers Like You and Me](https://www.last.fm/music/Reality+Club/_/You%27ll+Find+Lovers+Like+You+and+Me)** - Reality Club<br/>
-> ∙ **[中庭の少女たち](https://www.last.fm/music/SHISHAMO/_/%E4%B8%AD%E5%BA%AD%E3%81%AE%E5%B0%91%E5%A5%B3%E3%81%9F%E3%81%A1)** - SHISHAMO<br/>
-> ∙ **[ラブレター](https://www.last.fm/music/YOASOBI/_/%E3%83%A9%E3%83%96%E3%83%AC%E3%82%BF%E3%83%BC)** - YOASOBI<br/>
-> ∙ **[Used to Me](https://www.last.fm/music/Luke+Chiang/_/Used+to+Me)** - Luke Chiang<br/>
+> ∙ **[III. Reminiscence](https://www.last.fm/music/Feryquitous/_/III.+Reminiscence)** - Feryquitous<br/>
+> ∙ **[WHITE ALBUM Live at Campus Fes](https://www.last.fm/music/%E5%B0%8F%E6%9C%A8%E6%9B%BD%E9%9B%AA%E8%8F%9C/_/WHITE+ALBUM+Live+at+Campus+Fes)** - 小木曽雪菜<br/>
+> ∙ **[Who Knows](https://www.last.fm/music/Daniel+Caesar/_/Who+Knows)** - Daniel Caesar<br/>
+> ∙ **[Anything You Want](https://www.last.fm/music/Reality+Club/_/Anything+You+Want)** - Reality Club<br/>
+> ∙ **[夢疾風](https://www.last.fm/music/%E3%83%9F%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%93%E3%83%BC+(CV.+%E5%A4%A9%E6%B5%B7%E7%94%B1%E6%A2%A8%E5%A5%88)/_/%E5%A4%A2%E7%96%BE%E9%A2%A8)** - ミスターシービー (CV. 天海由梨奈)<br/>
+> ∙ **[アクアテラリウム](https://www.last.fm/music/yanaginagi/_/%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%86%E3%83%A9%E3%83%AA%E3%82%A6%E3%83%A0)** - yanaginagi<br/>
+> ∙ **[Sing My Pleasure](https://www.last.fm/music/%E3%83%B4%E3%82%A3%E3%83%B4%E3%82%A3(Vo.%E5%85%AB%E6%9C%A8%E6%B5%B7%E8%8E%89)/_/Sing+My+Pleasure)** - ヴィヴィ(Vo.八木海莉)<br/>
+> ∙ **[sayonara, teddy bear](https://www.last.fm/music/Sana/_/sayonara,+teddy+bear)** - Sana<br/>
 <!--END_LASTFM_RECENT-->
