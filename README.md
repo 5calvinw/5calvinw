@@ -34,25 +34,25 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `32 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `27 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
+> `24 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `15 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `12 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
 > `10 ▶️` ∙ **[Clairo](https://www.last.fm/music/Clairo)**<br/>
 > `10 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
 > `8 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
-> `7 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `6 ▶️` ∙ **[Bruno Mars](https://www.last.fm/music/Bruno+Mars)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[B.Y.S.](https://www.last.fm/music/keshi/_/B.Y.S.)** - keshi<br/>
-> ∙ **[Pasilyo](https://www.last.fm/music/SunKissed+Lola/_/Pasilyo)** - SunKissed Lola<br/>
-> ∙ **[雨とカプチーノ](https://www.last.fm/music/Yorushika/_/%E9%9B%A8%E3%81%A8%E3%82%AB%E3%83%97%E3%83%81%E3%83%BC%E3%83%8E)** - Yorushika<br/>
-> ∙ **[アシンメトリー](https://www.last.fm/music/Reol/_/%E3%82%A2%E3%82%B7%E3%83%B3%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC)** - Reol<br/>
-> ∙ **[ロックンロールなんですの](https://www.last.fm/music/Supercell/_/%E3%83%AD%E3%83%83%E3%82%AF%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%AB%E3%81%AA%E3%82%93%E3%81%A7%E3%81%99%E3%81%AE)** - Supercell<br/>
-> ∙ **[I Don't Love You](https://www.last.fm/music/My+Chemical+Romance/_/I+Don%27t+Love+You)** - My Chemical Romance<br/>
-> ∙ **[星が瞬くこんな夜に 〜ゲームVer.〜](https://www.last.fm/music/Supercell/_/%E6%98%9F%E3%81%8C%E7%9E%AC%E3%81%8F%E3%81%93%E3%82%93%E3%81%AA%E5%A4%9C%E3%81%AB+%E3%80%9C%E3%82%B2%E3%83%BC%E3%83%A0Ver.%E3%80%9C)** - Supercell<br/>
-> ∙ **[Indecision (feat. Daniel Caesar)](https://www.last.fm/music/Rex+Orange+County/_/Indecision+(feat.+Daniel+Caesar))** - Rex Orange County<br/>
+> ∙ **[DAYS of DASH](https://www.last.fm/music/%E9%88%B4%E6%9C%A8%E3%81%93%E3%81%AE%E3%81%BF/_/DAYS+of+DASH)** - 鈴木このみ<br/>
+> ∙ **[FEELING YOU](https://www.last.fm/music/%E5%AE%89%E6%9C%88%E5%90%8D%E8%8E%89%E5%AD%90/_/FEELING+YOU)** - 安月名莉子<br/>
+> ∙ **[Dusk and madder, dust and flower](https://www.last.fm/music/Tsukuyomi/_/Dusk+and+madder,+dust+and+flower)** - Tsukuyomi<br/>
+> ∙ **[Of Our Time](https://www.last.fm/music/Will+Stetson/_/Of+Our+Time)** - Will Stetson<br/>
+> ∙ **[PAPERMOON](https://www.last.fm/music/Tommy+heavenly6/_/PAPERMOON)** - Tommy heavenly6<br/>
+> ∙ **[オメガリズム](https://www.last.fm/music/UPLIFT+SPICE/_/%E3%82%AA%E3%83%A1%E3%82%AC%E3%83%AA%E3%82%BA%E3%83%A0)** - UPLIFT SPICE<br/>
+> ∙ **[アフターダーク](https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION/_/%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%83%80%E3%83%BC%E3%82%AF)** - ASIAN KUNG-FU GENERATION<br/>
+> ∙ **[Zzz](https://www.last.fm/music/%E4%BD%90%E5%92%B2%E7%B4%97%E8%8A%B1/_/Zzz)** - 佐咲紗花<br/>
 <!--END_LASTFM_RECENT-->
