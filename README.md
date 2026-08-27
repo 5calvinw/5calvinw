@@ -39,7 +39,7 @@ Email: calvinthewu@gmail.com
 > `15 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `12 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
 > `10 ▶️` ∙ **[Clairo](https://www.last.fm/music/Clairo)**<br/>
-> `10 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
+> `9 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
 > `8 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `6 ▶️` ∙ **[Bruno Mars](https://www.last.fm/music/Bruno+Mars)**<br/>
 <!--END_LASTFM_ARTISTS-->
