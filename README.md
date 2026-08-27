@@ -34,14 +34,14 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `27 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
 > `24 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `15 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `12 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
-> `10 ▶️` ∙ **[Clairo](https://www.last.fm/music/Clairo)**<br/>
-> `9 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
-> `8 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
+> `19 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
+> `14 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `11 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
+> `8 ▶️` ∙ **[Clairo](https://www.last.fm/music/Clairo)**<br/>
+> `8 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
 > `6 ▶️` ∙ **[Bruno Mars](https://www.last.fm/music/Bruno+Mars)**<br/>
+> `6 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
