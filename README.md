@@ -35,13 +35,13 @@ Email: calvinthewu@gmail.com
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `25 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `14 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
-> `11 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `9 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
-> `6 ▶️` ∙ **[Clairo](https://www.last.fm/music/Clairo)**<br/>
-> `6 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
-> `6 ▶️` ∙ **[Rex Orange County](https://www.last.fm/music/Rex+Orange+County)**<br/>
+> `11 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
 > `6 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
+> `6 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `5 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
+> `5 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `5 ▶️` ∙ **[Givēon](https://www.last.fm/music/Giv%C4%93on)**<br/>
+> `5 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
