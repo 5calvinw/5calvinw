@@ -38,21 +38,21 @@ Email: calvinthewu@gmail.com
 > `14 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
 > `11 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `9 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
-> `8 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
-> `6 ▶️` ∙ **[Bruno Mars](https://www.last.fm/music/Bruno+Mars)**<br/>
 > `6 ▶️` ∙ **[Clairo](https://www.last.fm/music/Clairo)**<br/>
+> `6 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
+> `6 ▶️` ∙ **[Rex Orange County](https://www.last.fm/music/Rex+Orange+County)**<br/>
 > `6 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Gun To My Head](https://www.last.fm/music/Malcolm+Todd/_/Gun+To+My+Head)** - Malcolm Todd<br/>
+> ∙ **[twoface](https://www.last.fm/music/Aimer/_/twoface)** - Aimer<br/>
+> ∙ **[Jangan Cintai Aku Apa Adanya](https://www.last.fm/music/Tulus/_/Jangan+Cintai+Aku+Apa+Adanya)** - Tulus<br/>
+> ∙ **[Indecision (feat. Daniel Caesar)](https://www.last.fm/music/Rex+Orange+County/_/Indecision+(feat.+Daniel+Caesar))** - Rex Orange County<br/>
+> ∙ **[マラソン](https://www.last.fm/music/%E8%8A%B1%E6%BE%A4%E9%A6%99%E8%8F%9C/_/%E3%83%9E%E3%83%A9%E3%82%BD%E3%83%B3)** - 花澤香菜<br/>
+> ∙ **[Pasilyo](https://www.last.fm/music/SunKissed+Lola/_/Pasilyo)** - SunKissed Lola<br/>
+> ∙ **[マラソン](https://www.last.fm/music/%E8%8A%B1%E6%BE%A4%E9%A6%99%E8%8F%9C/_/%E3%83%9E%E3%83%A9%E3%82%BD%E3%83%B3)** - 花澤香菜<br/>
 > ∙ **[Re:Re:](https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION/_/Re:Re:)** - ASIAN KUNG-FU GENERATION<br/>
-> ∙ **[アマデウス](https://www.last.fm/music/%E3%81%84%E3%81%A8%E3%81%86%E3%81%8B%E3%81%AA%E3%81%93/_/%E3%82%A2%E3%83%9E%E3%83%87%E3%82%A6%E3%82%B9)** - いとうかなこ<br/>
-> ∙ **[Yuudachi no Ribbon](https://www.last.fm/music/Shoshinsha+F/_/Yuudachi+no+Ribbon)** - Shoshinsha F<br/>
-> ∙ **[ゴミの日](https://www.last.fm/music/Chiai+Fujikawa/_/%E3%82%B4%E3%83%9F%E3%81%AE%E6%97%A5)** - Chiai Fujikawa<br/>
-> ∙ **[fairytale](https://www.last.fm/music/Kashitaro+Ito/_/fairytale)** - Kashitaro Ito<br/>
-> ∙ **[ボタン](https://www.last.fm/music/PENGUIN+RESEARCH/_/%E3%83%9C%E3%82%BF%E3%83%B3)** - PENGUIN RESEARCH<br/>
-> ∙ **[My Song](https://www.last.fm/music/Marina/_/My+Song)** - Marina<br/>
-> ∙ **[さよならのゆくえ](https://www.last.fm/music/Alisa+Takigawa/_/%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%81%AE%E3%82%86%E3%81%8F%E3%81%88)** - Alisa Takigawa<br/>
 <!--END_LASTFM_RECENT-->
