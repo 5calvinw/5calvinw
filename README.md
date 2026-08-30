@@ -35,24 +35,24 @@ Email: calvinthewu@gmail.com
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `24 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `9 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
-> `7 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
+> `13 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
+> `8 ▶️` ∙ **[Sayuri](https://www.last.fm/music/Sayuri)**<br/>
+> `6 ▶️` ∙ **[Egoist](https://www.last.fm/music/Egoist)**<br/>
 > `5 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `5 ▶️` ∙ **[Luna Haruna](https://www.last.fm/music/Luna+Haruna)**<br/>
+> `5 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
 > `5 ▶️` ∙ **[RADWIMPS](https://www.last.fm/music/RADWIMPS)**<br/>
-> `4 ▶️` ∙ **[aiko](https://www.last.fm/music/aiko)**<br/>
-> `4 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `4 ▶️` ∙ **[Egoist](https://www.last.fm/music/Egoist)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[君という神話](https://www.last.fm/music/yanaginagi/_/%E5%90%9B%E3%81%A8%E3%81%84%E3%81%86%E7%A5%9E%E8%A9%B1)** - yanaginagi<br/>
-> ∙ **[ヨスガノソラ メインテーマ-祈り-](https://www.last.fm/music/Bruno+Wen-li/_/%E3%83%A8%E3%82%B9%E3%82%AC%E3%83%8E%E3%82%BD%E3%83%A9+%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%86%E3%83%BC%E3%83%9E-%E7%A5%88%E3%82%8A-)** - Bruno Wen-li<br/>
-> ∙ **[My Code](https://www.last.fm/music/%E3%83%B4%E3%82%A3%E3%83%B4%E3%82%A3(Vo.%E5%85%AB%E6%9C%A8%E6%B5%B7%E8%8E%89)/_/My+Code)** - ヴィヴィ(Vo.八木海莉)<br/>
-> ∙ **[Esoragoto](https://www.last.fm/music/nano.RIPE/_/Esoragoto)** - nano.RIPE<br/>
-> ∙ **[glory days - movie ver.](https://www.last.fm/music/Luna+Haruna/_/glory+days+-+movie+ver.)** - Luna Haruna<br/>
-> ∙ **[月がきれい](https://www.last.fm/music/Nao+Toyama/_/%E6%9C%88%E3%81%8C%E3%81%8D%E3%82%8C%E3%81%84)** - Nao Toyama<br/>
-> ∙ **[Earrings](https://www.last.fm/music/Malcolm+Todd/_/Earrings)** - Malcolm Todd<br/>
-> ∙ **[endroll](https://www.last.fm/music/MIKANZIL/_/endroll)** - MIKANZIL<br/>
+> ∙ **[unlasting](https://www.last.fm/music/Lisa/_/unlasting)** - Lisa<br/>
+> ∙ **[CANDY MAGIC](https://www.last.fm/music/MimimemeMIMI/_/CANDY+MAGIC)** - MimimemeMIMI<br/>
+> ∙ **[カラフル。](https://www.last.fm/music/Luna+Haruna/_/%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%80%82)** - Luna Haruna<br/>
+> ∙ **[終わりへ向かう始まりの歌](https://www.last.fm/music/Supercell/_/%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%B8%E5%90%91%E3%81%8B%E3%81%86%E5%A7%8B%E3%81%BE%E3%82%8A%E3%81%AE%E6%AD%8C)** - Supercell<br/>
+> ∙ **[Oracion](https://www.last.fm/music/%E7%99%BD(CV:%E8%8C%85%E9%87%8E%E6%84%9B%E8%A1%A3)/_/Oracion)** - 白(CV:茅野愛衣)<br/>
+> ∙ **[ユメセカイ（TV Size Ver.）](https://www.last.fm/music/Haruka+Tomatsu/_/%E3%83%A6%E3%83%A1%E3%82%BB%E3%82%AB%E3%82%A4%EF%BC%88TV+Size+Ver.%EF%BC%89)** - Haruka Tomatsu<br/>
+> ∙ **[青い栞](https://www.last.fm/music/Galileo+Galilei/_/%E9%9D%92%E3%81%84%E6%A0%9E)** - Galileo Galilei<br/>
+> ∙ **[Behind (with Yuna Yoshino & Lynn)](https://www.last.fm/music/Karin+Isobe/_/Behind+(with+Yuna+Yoshino+&+Lynn))** - Karin Isobe<br/>
 <!--END_LASTFM_RECENT-->
