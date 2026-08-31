@@ -37,9 +37,9 @@ Email: calvinthewu@gmail.com
 > `14 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
 > `12 ▶️` ∙ **[茅原実里](https://www.last.fm/music/%E8%8C%85%E5%8E%9F%E5%AE%9F%E9%87%8C)**<br/>
 > `10 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `9 ▶️` ∙ **[True](https://www.last.fm/music/True)**<br/>
 > `8 ▶️` ∙ **[Luna Haruna](https://www.last.fm/music/Luna+Haruna)**<br/>
 > `8 ▶️` ∙ **[Sayuri](https://www.last.fm/music/Sayuri)**<br/>
-> `8 ▶️` ∙ **[True](https://www.last.fm/music/True)**<br/>
 > `8 ▶️` ∙ **[yanaginagi](https://www.last.fm/music/yanaginagi)**<br/>
 > `7 ▶️` ∙ **[Egoist](https://www.last.fm/music/Egoist)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -47,12 +47,12 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Knew Day](https://www.last.fm/music/(K)NoW_NAME/_/Knew+Day)** - (K)NoW_NAME<br/>
-> ∙ **[優しい忘却](https://www.last.fm/music/%E8%8C%85%E5%8E%9F%E5%AE%9F%E9%87%8C/_/%E5%84%AA%E3%81%97%E3%81%84%E5%BF%98%E5%8D%B4)** - 茅原実里<br/>
-> ∙ **[here and there](https://www.last.fm/music/yanaginagi/_/here+and+there)** - yanaginagi<br/>
-> ∙ **[キネマ](https://www.last.fm/music/True/_/%E3%82%AD%E3%83%8D%E3%83%9E)** - True<br/>
-> ∙ **[Omoideshiritori](https://www.last.fm/music/DIALOGUE%252B/_/Omoideshiritori)** - DIALOGUE+<br/>
-> ∙ **[Hello Alone](https://www.last.fm/music/Yukinoshitayukino(CV.HayamiSaori)/_/Hello+Alone)** - Yukinoshitayukino(CV.HayamiSaori)<br/>
-> ∙ **[KIMINO SHIRANAI MONOGATARI - from CrosSing](https://www.last.fm/music/Kana+Hanazawa/_/KIMINO+SHIRANAI+MONOGATARI+-+from+CrosSing)** - Kana Hanazawa<br/>
-> ∙ **[Toki wo Kizamu Uta](https://www.last.fm/music/Lia/_/Toki+wo+Kizamu+Uta)** - Lia<br/>
+> ∙ **[Sayaka Sasaki – Twinkle Starlight](https://www.last.fm/music/Planetarian:+Chiisana+Hoshi+no+Yume+ED+(full)/_/Sayaka+Sasaki+%E2%80%93+Twinkle+Starlight)** - Planetarian: Chiisana Hoshi no Yume ED (full)<br/>
+> ∙ **[Light Across the Seas](https://www.last.fm/music/Mami+Yanagi+-+Topic/_/Light+Across+the+Seas)** - Mami Yanagi - Topic<br/>
+> ∙ **[Lasting Moment](https://www.last.fm/music/Konomi+Suzuki+Official/_/Lasting+Moment)** - Konomi Suzuki Official<br/>
+> ∙ **[Reply](https://www.last.fm/music/%E3%82%84%E3%81%AA%E3%81%8E%E3%81%AA%E3%81%8E/_/Reply)** - やなぎなぎ<br/>
+> ∙ **[Koibumi](https://www.last.fm/music/MintJam+x+yanagi+nagi/_/Koibumi)** - MintJam x yanagi nagi<br/>
+> ∙ **[いろとりどりのセカイ](https://www.last.fm/music/%E3%82%A2%E3%83%AC%E3%82%BB%E3%82%A4%E3%82%A2%EF%BC%8Feufonius/_/%E3%81%84%E3%82%8D%E3%81%A8%E3%82%8A%E3%81%A9%E3%82%8A%E3%81%AE%E3%82%BB%E3%82%AB%E3%82%A4)** - アレセイア／eufonius<br/>
+> ∙ **[Ref:rain (for 7th Heaven) - カモメサノエレクトリックオーケストラ include Limonène](https://www.last.fm/music/kamome+sano/_/Ref:rain+(for+7th+Heaven)+-+%E3%82%AB%E3%83%A2%E3%83%A1%E3%82%B5%E3%83%8E%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9+include+Limon%C3%A8ne)** - kamome sano<br/>
+> ∙ **[Cinta dan Rahasia](https://www.last.fm/music/Yura+Yunita/_/Cinta+dan+Rahasia)** - Yura Yunita<br/>
 <!--END_LASTFM_RECENT-->
