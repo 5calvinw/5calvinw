@@ -39,9 +39,9 @@ Email: calvinthewu@gmail.com
 > `10 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `9 ▶️` ∙ **[True](https://www.last.fm/music/True)**<br/>
 > `8 ▶️` ∙ **[Luna Haruna](https://www.last.fm/music/Luna+Haruna)**<br/>
-> `8 ▶️` ∙ **[Sayuri](https://www.last.fm/music/Sayuri)**<br/>
 > `8 ▶️` ∙ **[yanaginagi](https://www.last.fm/music/yanaginagi)**<br/>
 > `7 ▶️` ∙ **[Egoist](https://www.last.fm/music/Egoist)**<br/>
+> `7 ▶️` ∙ **[Sayuri](https://www.last.fm/music/Sayuri)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
