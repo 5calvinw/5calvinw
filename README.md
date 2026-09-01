@@ -47,12 +47,12 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[EVERBLUE](https://www.last.fm/music/Omoinotake/_/EVERBLUE)** - Omoinotake<br/>
+> ∙ **[Rhapsody of Blue Sky](https://www.last.fm/music/fh%C3%A1na/_/Rhapsody+of+Blue+Sky)** - fhána<br/>
+> ∙ **[1HOPE SNIPER](https://www.last.fm/music/%E7%94%B0%E6%89%80%E3%81%82%E3%81%9A%E3%81%95/_/1HOPE+SNIPER)** - 田所あずさ<br/>
+> ∙ **[1/2](https://www.last.fm/music/KanoeRana/_/1%2F2)** - KanoeRana<br/>
+> ∙ **[Downtime (Save Screen)](https://www.last.fm/music/Flare/_/Downtime+(Save+Screen))** - Flare<br/>
+> ∙ **[blue](https://www.last.fm/music/yung+kai/_/blue)** - yung kai<br/>
 > ∙ **[My Famed Disappearing Act](https://www.last.fm/music/Thank+You+Scientist/_/My+Famed+Disappearing+Act)** - Thank You Scientist<br/>
 > ∙ **[太陽と暮らしてきた](https://www.last.fm/music/JYOCHO/_/%E5%A4%AA%E9%99%BD%E3%81%A8%E6%9A%AE%E3%82%89%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F)** - JYOCHO<br/>
-> ∙ **[Kegarenaki Barajuuji](https://www.last.fm/music/Ariabl%27eyeS/_/Kegarenaki+Barajuuji)** - Ariabl'eyeS<br/>
-> ∙ **[Aoi Chou](https://www.last.fm/music/Eli+Sougetsu/_/Aoi+Chou)** - Eli Sougetsu<br/>
-> ∙ **[Nothing](https://www.last.fm/music/Bruno+Major/_/Nothing)** - Bruno Major<br/>
-> ∙ **[Love Shuffle](https://www.last.fm/music/GOHOBI/_/Love+Shuffle)** - GOHOBI<br/>
-> ∙ **[Wonder Stella](https://www.last.fm/music/fh%C3%A1na/_/Wonder+Stella)** - fhána<br/>
-> ∙ **[UNDERSTAND](https://www.last.fm/music/keshi/_/UNDERSTAND)** - keshi<br/>
 <!--END_LASTFM_RECENT-->
