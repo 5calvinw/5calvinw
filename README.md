@@ -39,8 +39,8 @@ Email: calvinthewu@gmail.com
 > `10 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
 > `9 ▶️` ∙ **[True](https://www.last.fm/music/True)**<br/>
 > `8 ▶️` ∙ **[Luna Haruna](https://www.last.fm/music/Luna+Haruna)**<br/>
-> `7 ▶️` ∙ **[Sayuri](https://www.last.fm/music/Sayuri)**<br/>
 > `7 ▶️` ∙ **[yanaginagi](https://www.last.fm/music/yanaginagi)**<br/>
+> `6 ▶️` ∙ **[Sayuri](https://www.last.fm/music/Sayuri)**<br/>
 > `5 ▶️` ∙ **[Yui Horie](https://www.last.fm/music/Yui+Horie)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
