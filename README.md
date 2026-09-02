@@ -35,24 +35,24 @@ Email: calvinthewu@gmail.com
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `12 ▶️` ∙ **[茅原実里](https://www.last.fm/music/%E8%8C%85%E5%8E%9F%E5%AE%9F%E9%87%8C)**<br/>
+> `11 ▶️` ∙ **[fhána](https://www.last.fm/music/fh%C3%A1na)**<br/>
 > `9 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
 > `9 ▶️` ∙ **[True](https://www.last.fm/music/True)**<br/>
-> `8 ▶️` ∙ **[Luna Haruna](https://www.last.fm/music/Luna+Haruna)**<br/>
-> `7 ▶️` ∙ **[fhána](https://www.last.fm/music/fh%C3%A1na)**<br/>
+> `7 ▶️` ∙ **[Luna Haruna](https://www.last.fm/music/Luna+Haruna)**<br/>
+> `7 ▶️` ∙ **[Sayuri](https://www.last.fm/music/Sayuri)**<br/>
 > `7 ▶️` ∙ **[yanaginagi](https://www.last.fm/music/yanaginagi)**<br/>
-> `6 ▶️` ∙ **[Sayuri](https://www.last.fm/music/Sayuri)**<br/>
 > `5 ▶️` ∙ **[Yui Horie](https://www.last.fm/music/Yui+Horie)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Mr. Loverman](https://www.last.fm/music/Ricky+Montgomery/_/Mr.+Loverman)** - Ricky Montgomery<br/>
-> ∙ **[Last Song](https://www.last.fm/music/ryo+(supercell)/_/Last+Song)** - ryo (supercell)<br/>
-> ∙ **[The Bravery](https://www.last.fm/music/Supercell/_/The+Bravery)** - Supercell<br/>
-> ∙ **[Don't Say "Lazy" (From "K-On!")](https://www.last.fm/music/Sakurakou+K-ON+Bu/_/Don%27t+Say+%22Lazy%22+(From+%22K-On!%22))** - Sakurakou K-ON Bu<br/>
-> ∙ **[運命](https://www.last.fm/music/Sumika/_/%E9%81%8B%E5%91%BD)** - Sumika<br/>
-> ∙ **[undry](https://www.last.fm/music/lical/_/undry)** - lical<br/>
-> ∙ **[divine intervention](https://www.last.fm/music/fh%C3%A1na/_/divine+intervention)** - fhána<br/>
-> ∙ **[kairikou](https://www.last.fm/music/Soleil+de+Minuit/_/kairikou)** - Soleil de Minuit<br/>
+> ∙ **[足跡](https://www.last.fm/music/the+peggies/_/%E8%B6%B3%E8%B7%A1)** - the peggies<br/>
+> ∙ **[Reset](https://www.last.fm/music/la+la+larks/_/Reset)** - la la larks<br/>
+> ∙ **[FLOWER](https://www.last.fm/music/Nao+Toyama/_/FLOWER)** - Nao Toyama<br/>
+> ∙ **[satellite](https://www.last.fm/music/MIKANZIL/_/satellite)** - MIKANZIL<br/>
+> ∙ **[パステルレイン](https://www.last.fm/music/Sangatsu+no+Phantasia/_/%E3%83%91%E3%82%B9%E3%83%86%E3%83%AB%E3%83%AC%E3%82%A4%E3%83%B3)** - Sangatsu no Phantasia<br/>
+> ∙ **[tiny lamp](https://www.last.fm/music/fh%C3%A1na/_/tiny+lamp)** - fhána<br/>
+> ∙ **[Kasukadetashika](https://www.last.fm/music/DIALOGUE%252B/_/Kasukadetashika)** - DIALOGUE+<br/>
+> ∙ **[Jinsei Easy?](https://www.last.fm/music/DIALOGUE%252B/_/Jinsei+Easy%3F)** - DIALOGUE+<br/>
 <!--END_LASTFM_RECENT-->
