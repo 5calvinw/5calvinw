@@ -35,24 +35,24 @@ Email: calvinthewu@gmail.com
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `61 ▶️` ∙ **[DIALOGUE+](https://www.last.fm/music/DIALOGUE%252B)**<br/>
-> `18 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `22 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `12 ▶️` ∙ **[fhána](https://www.last.fm/music/fh%C3%A1na)**<br/>
 > `12 ▶️` ∙ **[茅原実里](https://www.last.fm/music/%E8%8C%85%E5%8E%9F%E5%AE%9F%E9%87%8C)**<br/>
+> `11 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
 > `9 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
 > `9 ▶️` ∙ **[True](https://www.last.fm/music/True)**<br/>
 > `8 ▶️` ∙ **[Luna Haruna](https://www.last.fm/music/Luna+Haruna)**<br/>
-> `8 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[perfect slumbers](https://www.last.fm/music/%E7%89%A9%E8%AA%9E%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/_/perfect+slumbers)** - 物語シリーズ<br/>
-> ∙ **[Measure the Dawn](https://www.last.fm/music/JYOCHO/_/Measure+the+Dawn)** - JYOCHO<br/>
-> ∙ **[Too Little, Too Late](https://www.last.fm/music/Laufey/_/Too+Little,+Too+Late)** - Laufey<br/>
-> ∙ **[Impostor Syndrome](https://www.last.fm/music/Sidney+Gish/_/Impostor+Syndrome)** - Sidney Gish<br/>
-> ∙ **[Letter to My 13 Year Old Self](https://www.last.fm/music/Laufey/_/Letter+to+My+13+Year+Old+Self)** - Laufey<br/>
-> ∙ **[Kita Buat Menyenangkan](https://www.last.fm/music/Bernadya/_/Kita+Buat+Menyenangkan)** - Bernadya<br/>
-> ∙ **[Kind Of](https://www.last.fm/music/Faye+Webster/_/Kind+Of)** - Faye Webster<br/>
-> ∙ **[Beaches](https://www.last.fm/music/beabadoobee/_/Beaches)** - beabadoobee<br/>
+> ∙ **[パパパ](https://www.last.fm/music/%E6%96%89%E8%97%A4+%E6%9C%B1%E5%A4%8F/_/%E3%83%91%E3%83%91%E3%83%91)** - 斉藤 朱夏<br/>
+> ∙ **[「僕は...」](https://www.last.fm/music/Atarayo/_/%E3%80%8C%E5%83%95%E3%81%AF...%E3%80%8D)** - Atarayo<br/>
+> ∙ **[Growing Up](https://www.last.fm/music/MACHICO/_/Growing+Up)** - MACHICO<br/>
+> ∙ **[嘘月](https://www.last.fm/music/Yorushika/_/%E5%98%98%E6%9C%88)** - Yorushika<br/>
+> ∙ **[Clover](https://www.last.fm/music/%E5%A4%A7%E5%8E%9F%E3%82%86%E3%81%84%E5%AD%90/_/Clover)** - 大原ゆい子<br/>
+> ∙ **[アメヲマツ、](https://www.last.fm/music/%E7%BE%8E%E6%B3%A2/_/%E3%82%A2%E3%83%A1%E3%83%B2%E3%83%9E%E3%83%84%E3%80%81)** - 美波<br/>
+> ∙ **[heart notes](https://www.last.fm/music/AIRI+SUZUKI/_/heart+notes)** - AIRI SUZUKI<br/>
+> ∙ **[ダイヤモンドの純度](https://www.last.fm/music/Yukino+Yukinoshita(CV.Saori+Hayami)/_/%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%81%AE%E7%B4%94%E5%BA%A6)** - Yukino Yukinoshita(CV.Saori Hayami)<br/>
 <!--END_LASTFM_RECENT-->
