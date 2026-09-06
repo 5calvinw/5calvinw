@@ -39,9 +39,9 @@ Email: calvinthewu@gmail.com
 > `12 ▶️` ∙ **[fhána](https://www.last.fm/music/fh%C3%A1na)**<br/>
 > `12 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
 > `12 ▶️` ∙ **[茅原実里](https://www.last.fm/music/%E8%8C%85%E5%8E%9F%E5%AE%9F%E9%87%8C)**<br/>
-> `9 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
 > `9 ▶️` ∙ **[True](https://www.last.fm/music/True)**<br/>
 > `8 ▶️` ∙ **[Luna Haruna](https://www.last.fm/music/Luna+Haruna)**<br/>
+> `8 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
