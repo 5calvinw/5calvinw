@@ -36,23 +36,23 @@ Email: calvinthewu@gmail.com
 
 > `74 ▶️` ∙ **[DIALOGUE+](https://www.last.fm/music/DIALOGUE%252B)**<br/>
 > `38 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `17 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
+> `21 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
+> `13 ▶️` ∙ **[Rex Orange County](https://www.last.fm/music/Rex+Orange+County)**<br/>
 > `12 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
 > `12 ▶️` ∙ **[fhána](https://www.last.fm/music/fh%C3%A1na)**<br/>
-> `11 ▶️` ∙ **[Rex Orange County](https://www.last.fm/music/Rex+Orange+County)**<br/>
-> `11 ▶️` ∙ **[茅原実里](https://www.last.fm/music/%E8%8C%85%E5%8E%9F%E5%AE%9F%E9%87%8C)**<br/>
 > `9 ▶️` ∙ **[The Marías](https://www.last.fm/music/The+Mar%C3%ADas)**<br/>
+> `7 ▶️` ∙ **[Cidergirl](https://www.last.fm/music/Cidergirl)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Hold Me Down](https://www.last.fm/music/Daniel+Caesar/_/Hold+Me+Down)** - Daniel Caesar<br/>
-> ∙ **[Domestic Force!!](https://www.last.fm/music/DIALOGUE%252B/_/Domestic+Force!!)** - DIALOGUE+<br/>
-> ∙ **[Jinsei Easy?](https://www.last.fm/music/DIALOGUE%252B/_/Jinsei+Easy%3F)** - DIALOGUE+<br/>
-> ∙ **[FUN×FUN☆SEEKER!!](https://www.last.fm/music/%E9%B3%B3+%E3%81%93%E3%81%93%E3%81%AA+(CV.%E7%9F%B3%E8%A6%8B%E8%88%9E%E8%8F%9C%E9%A6%99)/_/FUN%C3%97FUN%E2%98%86SEEKER!!)** - 鳳 ここな (CV.石見舞菜香)<br/>
-> ∙ **[Sore wa sekai o koete](https://www.last.fm/music/La+Pri%C3%A8re/_/Sore+wa+sekai+o+koete)** - La Prière<br/>
-> ∙ **[Change Our MIRAI!](https://www.last.fm/music/Irodorimidori/_/Change+Our+MIRAI!)** - Irodorimidori<br/>
-> ∙ **[Snow Colored Score](https://www.last.fm/music/Irodorimidori/_/Snow+Colored+Score)** - Irodorimidori<br/>
-> ∙ **[Snow Colored Score](https://www.last.fm/music/Irodorimidori/_/Snow+Colored+Score)** - Irodorimidori<br/>
+> ∙ **[Tank!](https://www.last.fm/music/The+Seatbelts/_/Tank!)** - The Seatbelts<br/>
+> ∙ **[Gun To My Head](https://www.last.fm/music/Malcolm+Todd/_/Gun+To+My+Head)** - Malcolm Todd<br/>
+> ∙ **[I Saw Your Face](https://www.last.fm/music/Malcolm+Todd/_/I+Saw+Your+Face)** - Malcolm Todd<br/>
+> ∙ **[Malcolm In The Middle](https://www.last.fm/music/Malcolm+Todd/_/Malcolm+In+The+Middle)** - Malcolm Todd<br/>
+> ∙ **[X's & O's](https://www.last.fm/music/Malcolm+Todd/_/X%27s+&+O%27s)** - Malcolm Todd<br/>
+> ∙ **[Amoeba](https://www.last.fm/music/Clairo/_/Amoeba)** - Clairo<br/>
+> ∙ **[Another Heaven](https://www.last.fm/music/%E3%81%84%E3%81%A8%E3%81%86%E3%81%8B%E3%81%AA%E3%81%93/_/Another+Heaven)** - いとうかなこ<br/>
+> ∙ **[Kiss Me Good-Bye](https://www.last.fm/music/%E3%82%A2%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%A9%E3%83%BB%E3%82%A2%E3%82%AD/_/Kiss+Me+Good-Bye)** - アンジェラ・アキ<br/>
 <!--END_LASTFM_RECENT-->
