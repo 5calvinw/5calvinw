@@ -36,7 +36,7 @@ Email: calvinthewu@gmail.com
 
 > `73 ▶️` ∙ **[DIALOGUE+](https://www.last.fm/music/DIALOGUE%252B)**<br/>
 > `37 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `26 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
+> `27 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
 > `14 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
 > `14 ▶️` ∙ **[Rex Orange County](https://www.last.fm/music/Rex+Orange+County)**<br/>
 > `11 ▶️` ∙ **[fhána](https://www.last.fm/music/fh%C3%A1na)**<br/>
@@ -47,12 +47,12 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[U & I](https://www.last.fm/music/Seycara+Orchestral/_/U+&+I)** - Seycara Orchestral<br/>
-> ∙ **[七時の食事(Chocolate Lemon)](https://www.last.fm/music/%E3%83%9F%E3%83%84%E3%82%AD%E3%83%A8/_/%E4%B8%83%E6%99%82%E3%81%AE%E9%A3%9F%E4%BA%8B(Chocolate+Lemon))** - ミツキヨ<br/>
-> ∙ **[Little by little](https://www.last.fm/music/Milkoi/_/Little+by+little)** - Milkoi<br/>
-> ∙ **[A Lovesick Bossa](https://www.last.fm/music/Jomm/_/A+Lovesick+Bossa)** - Jomm<br/>
-> ∙ **[Beaches](https://www.last.fm/music/beabadoobee/_/Beaches)** - beabadoobee<br/>
-> ∙ **[Inside Out](https://www.last.fm/music/keshi/_/Inside+Out)** - keshi<br/>
-> ∙ **[Astronaut Song](https://www.last.fm/music/Jomm/_/Astronaut+Song)** - Jomm<br/>
-> ∙ **[amu](https://www.last.fm/music/Rourourourous/_/amu)** - Rourourourous<br/>
+> 🎶 **[2 soon](https://www.last.fm/music/keshi/_/2+soon)** - keshi<br/>
+> ∙ **[rainy afternoon in wonderland](https://www.last.fm/music/TIHA+Studio/_/rainy+afternoon+in+wonderland)** - TIHA Studio<br/>
+> ∙ **[do i need to love....?](https://www.last.fm/music/Mingeon+Jang/_/do+i+need+to+love....%3F)** - Mingeon Jang<br/>
+> ∙ **[walk to class](https://www.last.fm/music/Malcolm+Todd/_/walk+to+class)** - Malcolm Todd<br/>
+> ∙ **[when she laughs](https://www.last.fm/music/Seycara+Orchestral/_/when+she+laughs)** - Seycara Orchestral<br/>
+> ∙ **[YU.ME.NO !](https://www.last.fm/music/%E3%83%9F%E3%83%84%E3%82%AD%E3%83%A8/_/YU.ME.NO+!)** - ミツキヨ<br/>
+> ∙ **[Spring Rain (Love Does Soul Like Water on Withered Soil)](https://www.last.fm/music/Hemio/_/Spring+Rain+(Love+Does+Soul+Like+Water+on+Withered+Soil))** - Hemio<br/>
+> ∙ **[FRIENDS](https://www.last.fm/music/Kairo/_/FRIENDS)** - Kairo<br/>
 <!--END_LASTFM_RECENT-->
