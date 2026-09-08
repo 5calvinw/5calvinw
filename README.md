@@ -39,7 +39,7 @@ Email: calvinthewu@gmail.com
 > `28 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
 > `14 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
 > `14 ▶️` ∙ **[Rex Orange County](https://www.last.fm/music/Rex+Orange+County)**<br/>
-> `10 ▶️` ∙ **[fhána](https://www.last.fm/music/fh%C3%A1na)**<br/>
+> `9 ▶️` ∙ **[fhána](https://www.last.fm/music/fh%C3%A1na)**<br/>
 > `9 ▶️` ∙ **[The Marías](https://www.last.fm/music/The+Mar%C3%ADas)**<br/>
 > `9 ▶️` ∙ **[ミツキヨ](https://www.last.fm/music/%E3%83%9F%E3%83%84%E3%82%AD%E3%83%A8)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -47,6 +47,7 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Texas](https://www.last.fm/music/keshi/_/Texas)** - keshi<br/>
 > ∙ **[Forevermore](https://www.last.fm/music/Jomm/_/Forevermore)** - Jomm<br/>
 > ∙ **[二十四時の念願](https://www.last.fm/music/%E3%83%9F%E3%83%84%E3%82%AD%E3%83%A8/_/%E4%BA%8C%E5%8D%81%E5%9B%9B%E6%99%82%E3%81%AE%E5%BF%B5%E9%A1%98)** - ミツキヨ<br/>
 > ∙ **[Holiday](https://www.last.fm/music/Emi+Choi/_/Holiday)** - Emi Choi<br/>
@@ -54,5 +55,4 @@ Email: calvinthewu@gmail.com
 > ∙ **[food court](https://www.last.fm/music/potsu/_/food+court)** - potsu<br/>
 > ∙ **[SAY](https://www.last.fm/music/keshi/_/SAY)** - keshi<br/>
 > ∙ **[summer rain](https://www.last.fm/music/TIHA+Studio/_/summer+rain)** - TIHA Studio<br/>
-> ∙ **[八時のティータイム(Chocolate Lemon trio)](https://www.last.fm/music/%E3%83%9F%E3%83%84%E3%82%AD%E3%83%A8/_/%E5%85%AB%E6%99%82%E3%81%AE%E3%83%86%E3%82%A3%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%A0(Chocolate+Lemon+trio))** - ミツキヨ<br/>
 <!--END_LASTFM_RECENT-->
