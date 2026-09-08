@@ -36,23 +36,23 @@ Email: calvinthewu@gmail.com
 
 > `73 ▶️` ∙ **[DIALOGUE+](https://www.last.fm/music/DIALOGUE%252B)**<br/>
 > `37 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `27 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
+> `28 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
 > `14 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
 > `14 ▶️` ∙ **[Rex Orange County](https://www.last.fm/music/Rex+Orange+County)**<br/>
-> `11 ▶️` ∙ **[fhána](https://www.last.fm/music/fh%C3%A1na)**<br/>
+> `10 ▶️` ∙ **[fhána](https://www.last.fm/music/fh%C3%A1na)**<br/>
 > `9 ▶️` ∙ **[The Marías](https://www.last.fm/music/The+Mar%C3%ADas)**<br/>
-> `7 ▶️` ∙ **[Cidergirl](https://www.last.fm/music/Cidergirl)**<br/>
+> `9 ▶️` ∙ **[ミツキヨ](https://www.last.fm/music/%E3%83%9F%E3%83%84%E3%82%AD%E3%83%A8)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[2 soon](https://www.last.fm/music/keshi/_/2+soon)** - keshi<br/>
-> ∙ **[rainy afternoon in wonderland](https://www.last.fm/music/TIHA+Studio/_/rainy+afternoon+in+wonderland)** - TIHA Studio<br/>
-> ∙ **[do i need to love....?](https://www.last.fm/music/Mingeon+Jang/_/do+i+need+to+love....%3F)** - Mingeon Jang<br/>
-> ∙ **[walk to class](https://www.last.fm/music/Malcolm+Todd/_/walk+to+class)** - Malcolm Todd<br/>
-> ∙ **[when she laughs](https://www.last.fm/music/Seycara+Orchestral/_/when+she+laughs)** - Seycara Orchestral<br/>
-> ∙ **[YU.ME.NO !](https://www.last.fm/music/%E3%83%9F%E3%83%84%E3%82%AD%E3%83%A8/_/YU.ME.NO+!)** - ミツキヨ<br/>
-> ∙ **[Spring Rain (Love Does Soul Like Water on Withered Soil)](https://www.last.fm/music/Hemio/_/Spring+Rain+(Love+Does+Soul+Like+Water+on+Withered+Soil))** - Hemio<br/>
-> ∙ **[FRIENDS](https://www.last.fm/music/Kairo/_/FRIENDS)** - Kairo<br/>
+> ∙ **[Forevermore](https://www.last.fm/music/Jomm/_/Forevermore)** - Jomm<br/>
+> ∙ **[二十四時の念願](https://www.last.fm/music/%E3%83%9F%E3%83%84%E3%82%AD%E3%83%A8/_/%E4%BA%8C%E5%8D%81%E5%9B%9B%E6%99%82%E3%81%AE%E5%BF%B5%E9%A1%98)** - ミツキヨ<br/>
+> ∙ **[Holiday](https://www.last.fm/music/Emi+Choi/_/Holiday)** - Emi Choi<br/>
+> ∙ **[I Wish You Would Come Closer and Hold Me](https://www.last.fm/music/Seycara+Orchestral/_/I+Wish+You+Would+Come+Closer+and+Hold+Me)** - Seycara Orchestral<br/>
+> ∙ **[food court](https://www.last.fm/music/potsu/_/food+court)** - potsu<br/>
+> ∙ **[SAY](https://www.last.fm/music/keshi/_/SAY)** - keshi<br/>
+> ∙ **[summer rain](https://www.last.fm/music/TIHA+Studio/_/summer+rain)** - TIHA Studio<br/>
+> ∙ **[八時のティータイム(Chocolate Lemon trio)](https://www.last.fm/music/%E3%83%9F%E3%83%84%E3%82%AD%E3%83%A8/_/%E5%85%AB%E6%99%82%E3%81%AE%E3%83%86%E3%82%A3%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%A0(Chocolate+Lemon+trio))** - ミツキヨ<br/>
 <!--END_LASTFM_RECENT-->
