@@ -35,24 +35,24 @@ Email: calvinthewu@gmail.com
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `83 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
-> `73 ▶️` ∙ **[DIALOGUE+](https://www.last.fm/music/DIALOGUE%252B)**<br/>
-> `45 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `32 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
+> `69 ▶️` ∙ **[DIALOGUE+](https://www.last.fm/music/DIALOGUE%252B)**<br/>
+> `46 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `31 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
 > `16 ▶️` ∙ **[Rex Orange County](https://www.last.fm/music/Rex+Orange+County)**<br/>
 > `15 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
 > `10 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
-> `9 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
+> `10 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[THE DAY](https://www.last.fm/music/pornograffitti/_/THE+DAY)** - pornograffitti<br/>
+> ∙ **[Letter to My 13 Year Old Self](https://www.last.fm/music/Laufey/_/Letter+to+My+13+Year+Old+Self)** - Laufey<br/>
+> ∙ **[Transform (feat. Charlotte Day Wilson)](https://www.last.fm/music/Daniel+Caesar/_/Transform+(feat.+Charlotte+Day+Wilson))** - Daniel Caesar<br/>
 > ∙ **[Kita Buat Menyenangkan](https://www.last.fm/music/Bernadya/_/Kita+Buat+Menyenangkan)** - Bernadya<br/>
 > ∙ **[Kind Of](https://www.last.fm/music/Faye+Webster/_/Kind+Of)** - Faye Webster<br/>
 > ∙ **[Beaches](https://www.last.fm/music/beabadoobee/_/Beaches)** - beabadoobee<br/>
 > ∙ **[Tank!](https://www.last.fm/music/The+Seatbelts/_/Tank!)** - The Seatbelts<br/>
 > ∙ **[Gun To My Head](https://www.last.fm/music/Malcolm+Todd/_/Gun+To+My+Head)** - Malcolm Todd<br/>
-> ∙ **[I Saw Your Face](https://www.last.fm/music/Malcolm+Todd/_/I+Saw+Your+Face)** - Malcolm Todd<br/>
-> ∙ **[Malcolm In The Middle](https://www.last.fm/music/Malcolm+Todd/_/Malcolm+In+The+Middle)** - Malcolm Todd<br/>
-> ∙ **[X's & O's](https://www.last.fm/music/Malcolm+Todd/_/X%27s+&+O%27s)** - Malcolm Todd<br/>
 <!--END_LASTFM_RECENT-->
