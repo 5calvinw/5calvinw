@@ -34,25 +34,25 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `83 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
 > `73 ▶️` ∙ **[DIALOGUE+](https://www.last.fm/music/DIALOGUE%252B)**<br/>
-> `37 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `28 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
-> `14 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
-> `14 ▶️` ∙ **[Rex Orange County](https://www.last.fm/music/Rex+Orange+County)**<br/>
-> `9 ▶️` ∙ **[fhána](https://www.last.fm/music/fh%C3%A1na)**<br/>
-> `9 ▶️` ∙ **[The Marías](https://www.last.fm/music/The+Mar%C3%ADas)**<br/>
-> `9 ▶️` ∙ **[ミツキヨ](https://www.last.fm/music/%E3%83%9F%E3%83%84%E3%82%AD%E3%83%A8)**<br/>
+> `45 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `32 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
+> `16 ▶️` ∙ **[Rex Orange County](https://www.last.fm/music/Rex+Orange+County)**<br/>
+> `15 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
+> `10 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
+> `9 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Texas](https://www.last.fm/music/keshi/_/Texas)** - keshi<br/>
-> ∙ **[Forevermore](https://www.last.fm/music/Jomm/_/Forevermore)** - Jomm<br/>
-> ∙ **[二十四時の念願](https://www.last.fm/music/%E3%83%9F%E3%83%84%E3%82%AD%E3%83%A8/_/%E4%BA%8C%E5%8D%81%E5%9B%9B%E6%99%82%E3%81%AE%E5%BF%B5%E9%A1%98)** - ミツキヨ<br/>
-> ∙ **[Holiday](https://www.last.fm/music/Emi+Choi/_/Holiday)** - Emi Choi<br/>
-> ∙ **[I Wish You Would Come Closer and Hold Me](https://www.last.fm/music/Seycara+Orchestral/_/I+Wish+You+Would+Come+Closer+and+Hold+Me)** - Seycara Orchestral<br/>
-> ∙ **[food court](https://www.last.fm/music/potsu/_/food+court)** - potsu<br/>
-> ∙ **[SAY](https://www.last.fm/music/keshi/_/SAY)** - keshi<br/>
-> ∙ **[summer rain](https://www.last.fm/music/TIHA+Studio/_/summer+rain)** - TIHA Studio<br/>
+> ∙ **[Kita Buat Menyenangkan](https://www.last.fm/music/Bernadya/_/Kita+Buat+Menyenangkan)** - Bernadya<br/>
+> ∙ **[Kind Of](https://www.last.fm/music/Faye+Webster/_/Kind+Of)** - Faye Webster<br/>
+> ∙ **[Beaches](https://www.last.fm/music/beabadoobee/_/Beaches)** - beabadoobee<br/>
+> ∙ **[Tank!](https://www.last.fm/music/The+Seatbelts/_/Tank!)** - The Seatbelts<br/>
+> ∙ **[Gun To My Head](https://www.last.fm/music/Malcolm+Todd/_/Gun+To+My+Head)** - Malcolm Todd<br/>
+> ∙ **[I Saw Your Face](https://www.last.fm/music/Malcolm+Todd/_/I+Saw+Your+Face)** - Malcolm Todd<br/>
+> ∙ **[Malcolm In The Middle](https://www.last.fm/music/Malcolm+Todd/_/Malcolm+In+The+Middle)** - Malcolm Todd<br/>
+> ∙ **[X's & O's](https://www.last.fm/music/Malcolm+Todd/_/X%27s+&+O%27s)** - Malcolm Todd<br/>
 <!--END_LASTFM_RECENT-->
