@@ -34,25 +34,25 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `87 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
+> `88 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
 > `83 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `19 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
-> `16 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `9 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
+> `18 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `15 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
 > `9 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
-> `9 ▶️` ∙ **[ミツキヨ](https://www.last.fm/music/%E3%83%9F%E3%83%84%E3%82%AD%E3%83%A8)**<br/>
-> `6 ▶️` ∙ **[Ado](https://www.last.fm/music/Ado)**<br/>
+> `7 ▶️` ∙ **[Ado](https://www.last.fm/music/Ado)**<br/>
+> `7 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
+> `6 ▶️` ∙ **[ミツキヨ](https://www.last.fm/music/%E3%83%9F%E3%83%84%E3%82%AD%E3%83%A8)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[worldenddominator](https://www.last.fm/music/zts/_/worldenddominator)** - zts<br/>
-> ∙ **[EVERBLUE](https://www.last.fm/music/Omoinotake/_/EVERBLUE)** - Omoinotake<br/>
-> ∙ **[Snow Colored Score](https://www.last.fm/music/Irodorimidori/_/Snow+Colored+Score)** - Irodorimidori<br/>
-> ∙ **[worldenddominator](https://www.last.fm/music/zts/_/worldenddominator)** - zts<br/>
-> ∙ **[Sis puella magica!](https://www.last.fm/music/%E6%A2%B6%E6%B5%A6%E7%94%B1%E8%A8%98/_/Sis+puella+magica!)** - 梶浦由記<br/>
-> ∙ **[Credens justitiam](https://www.last.fm/music/%E6%A2%B6%E6%B5%A6%E7%94%B1%E8%A8%98/_/Credens+justitiam)** - 梶浦由記<br/>
-> ∙ **[Hold Me Down](https://www.last.fm/music/Daniel+Caesar/_/Hold+Me+Down)** - Daniel Caesar<br/>
-> ∙ **[Miniskirt](https://www.last.fm/music/AOA/_/Miniskirt)** - AOA<br/>
+> ∙ **[You’re here that’s the thing](https://www.last.fm/music/beabadoobee/_/You%E2%80%99re+here+that%E2%80%99s+the+thing)** - beabadoobee<br/>
+> ∙ **[Magnolia](https://www.last.fm/music/Laufey/_/Magnolia)** - Laufey<br/>
+> ∙ **[Bags](https://www.last.fm/music/Clairo/_/Bags)** - Clairo<br/>
+> ∙ **[Staying](https://www.last.fm/music/Lizzy+McAlpine/_/Staying)** - Lizzy McAlpine<br/>
+> ∙ **[Right Side of My Neck](https://www.last.fm/music/Faye+Webster/_/Right+Side+of+My+Neck)** - Faye Webster<br/>
+> ∙ **[I CARE: FAYE WEBSTER VERSION](https://www.last.fm/music/Turnstile/_/I+CARE:+FAYE+WEBSTER+VERSION)** - Turnstile<br/>
+> ∙ **[Sweet Boy](https://www.last.fm/music/Malcolm+Todd/_/Sweet+Boy)** - Malcolm Todd<br/>
+> ∙ **[Heavy](https://www.last.fm/music/The+Mar%C3%ADas/_/Heavy)** - The Marías<br/>
 <!--END_LASTFM_RECENT-->
