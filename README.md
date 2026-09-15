@@ -36,7 +36,7 @@ Email: calvinthewu@gmail.com
 
 > `88 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
 > `83 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `19 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `18 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `13 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
 > `10 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `8 ▶️` ∙ **[Ado](https://www.last.fm/music/Ado)**<br/>
@@ -47,12 +47,12 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Kiss Me](https://www.last.fm/music/Sixpence+None+the+Richer/_/Kiss+Me)** - Sixpence None the Richer<br/>
-> ∙ **[Hey Jude](https://www.last.fm/music/The+Beatles/_/Hey+Jude)** - The Beatles<br/>
-> ∙ **[Here Comes the Sun - Remastered 2009](https://www.last.fm/music/The+Beatles/_/Here+Comes+the+Sun+-+Remastered+2009)** - The Beatles<br/>
-> ∙ **[Hey Jude - Remastered 2015](https://www.last.fm/music/The+Beatles/_/Hey+Jude+-+Remastered+2015)** - The Beatles<br/>
-> ∙ **[夏を生きる](https://www.last.fm/music/Ryokuoushoku+Shakai/_/%E5%A4%8F%E3%82%92%E7%94%9F%E3%81%8D%E3%82%8B)** - Ryokuoushoku Shakai<br/>
-> ∙ **[私へ](https://www.last.fm/music/Supercell/_/%E7%A7%81%E3%81%B8)** - Supercell<br/>
-> ∙ **[Roar of The Jungle Dragon](https://www.last.fm/music/DM+DOKURO/_/Roar+of+The+Jungle+Dragon)** - DM DOKURO<br/>
-> ∙ **[Ring of Fortune](https://www.last.fm/music/%E4%BD%90%E3%80%85%E6%9C%A8%E6%81%B5%E6%A2%A8/_/Ring+of+Fortune)** - 佐々木恵梨<br/>
+> ∙ **[Cupid - Twin Version](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Version)** - Fifty Fifty<br/>
+> ∙ **[Badai Telah Berlalu](https://www.last.fm/music/Diskoria/_/Badai+Telah+Berlalu)** - Diskoria<br/>
+> ∙ **[星座になれたら](https://www.last.fm/music/kessoku+band/_/%E6%98%9F%E5%BA%A7%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%9F%E3%82%89)** - kessoku band<br/>
+> ∙ **[Can't Take My Eyes Off You](https://www.last.fm/music/Frankie+Valli/_/Can%27t+Take+My+Eyes+Off+You)** - Frankie Valli<br/>
+> ∙ **[telepatía](https://www.last.fm/music/Kali+Uchis/_/telepat%C3%ADa)** - Kali Uchis<br/>
+> ∙ **[Pelangi](https://www.last.fm/music/Hivi!/_/Pelangi)** - Hivi!<br/>
+> ∙ **[Do Re Mi](https://www.last.fm/music/CITROBAL/_/Do+Re+Mi)** - CITROBAL<br/>
+> ∙ **[さよならワルツ](https://www.last.fm/music/la+la+larks/_/%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%83%AF%E3%83%AB%E3%83%84)** - la la larks<br/>
 <!--END_LASTFM_RECENT-->
