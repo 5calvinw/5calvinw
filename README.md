@@ -34,25 +34,25 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `88 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
 > `83 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `18 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `13 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
-> `10 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
-> `8 ▶️` ∙ **[Ado](https://www.last.fm/music/Ado)**<br/>
-> `6 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
-> `6 ▶️` ∙ **[Faye Webster](https://www.last.fm/music/Faye+Webster)**<br/>
+> `11 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `10 ▶️` ∙ **[Ado](https://www.last.fm/music/Ado)**<br/>
+> `9 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
+> `9 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
+> `7 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
+> `7 ▶️` ∙ **[Yorushika](https://www.last.fm/music/Yorushika)**<br/>
+> `6 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Cupid - Twin Version](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Version)** - Fifty Fifty<br/>
-> ∙ **[Badai Telah Berlalu](https://www.last.fm/music/Diskoria/_/Badai+Telah+Berlalu)** - Diskoria<br/>
-> ∙ **[星座になれたら](https://www.last.fm/music/kessoku+band/_/%E6%98%9F%E5%BA%A7%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%9F%E3%82%89)** - kessoku band<br/>
-> ∙ **[Can't Take My Eyes Off You](https://www.last.fm/music/Frankie+Valli/_/Can%27t+Take+My+Eyes+Off+You)** - Frankie Valli<br/>
-> ∙ **[telepatía](https://www.last.fm/music/Kali+Uchis/_/telepat%C3%ADa)** - Kali Uchis<br/>
-> ∙ **[Pelangi](https://www.last.fm/music/Hivi!/_/Pelangi)** - Hivi!<br/>
-> ∙ **[Do Re Mi](https://www.last.fm/music/CITROBAL/_/Do+Re+Mi)** - CITROBAL<br/>
-> ∙ **[さよならワルツ](https://www.last.fm/music/la+la+larks/_/%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%83%AF%E3%83%AB%E3%83%84)** - la la larks<br/>
+> ∙ **[Sing My Pleasure](https://www.last.fm/music/%E3%83%B4%E3%82%A3%E3%83%B4%E3%82%A3(Vo.%E5%85%AB%E6%9C%A8%E6%B5%B7%E8%8E%89)/_/Sing+My+Pleasure)** - ヴィヴィ(Vo.八木海莉)<br/>
+> ∙ **[115 Million Kilometer Film](https://www.last.fm/music/Official+HIGE+DANdism/_/115+Million+Kilometer+Film)** - Official HIGE DANdism<br/>
+> ∙ **[上にいきたくないデパート](https://www.last.fm/music/Calmera/_/%E4%B8%8A%E3%81%AB%E3%81%84%E3%81%8D%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%84%E3%83%87%E3%83%91%E3%83%BC%E3%83%88)** - Calmera<br/>
+> ∙ **[No One Noticed (Extended Spanish)](https://www.last.fm/music/The+Mar%C3%ADas/_/No+One+Noticed+(Extended+Spanish))** - The Marías<br/>
+> ∙ **[Suzume](https://www.last.fm/music/RADWIMPS/_/Suzume)** - RADWIMPS<br/>
+> ∙ **[lowkey](https://www.last.fm/music/Niki/_/lowkey)** - Niki<br/>
+> ∙ **[Hikaru Nara - Bossa Nova Version](https://www.last.fm/music/Yozorasu/_/Hikaru+Nara+-+Bossa+Nova+Version)** - Yozorasu<br/>
+> ∙ **[Loving Is Easy](https://www.last.fm/music/Rex+Orange+County/_/Loving+Is+Easy)** - Rex Orange County<br/>
 <!--END_LASTFM_RECENT-->
