@@ -35,24 +35,24 @@ Email: calvinthewu@gmail.com
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `83 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `10 ▶️` ∙ **[Ado](https://www.last.fm/music/Ado)**<br/>
 > `10 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `10 ▶️` ∙ **[RADWIMPS](https://www.last.fm/music/RADWIMPS)**<br/>
 > `9 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
-> `9 ▶️` ∙ **[Yorushika](https://www.last.fm/music/Yorushika)**<br/>
 > `8 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
+> `8 ▶️` ∙ **[RADWIMPS](https://www.last.fm/music/RADWIMPS)**<br/>
+> `7 ▶️` ∙ **[Ado](https://www.last.fm/music/Ado)**<br/>
 > `7 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
+> `7 ▶️` ∙ **[Yorushika](https://www.last.fm/music/Yorushika)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[七色シンフォニー](https://www.last.fm/music/Coalamode./_/%E4%B8%83%E8%89%B2%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%83%BC)** - Coalamode.<br/>
-> ∙ **[ユメセカイ](https://www.last.fm/music/%E6%88%B8%E6%9D%BE%E9%81%A5/_/%E3%83%A6%E3%83%A1%E3%82%BB%E3%82%AB%E3%82%A4)** - 戸松遥<br/>
-> ∙ **[Wishing](https://www.last.fm/music/%E3%83%AC%E3%83%A0(CV:%E6%B0%B4%E7%80%AC%E3%81%84%E3%81%AE%E3%82%8A)/_/Wishing)** - レム(CV:水瀬いのり)<br/>
-> ∙ **[Zenzenzense - movie ver.](https://www.last.fm/music/RADWIMPS/_/Zenzenzense+-+movie+ver.)** - RADWIMPS<br/>
-> ∙ **[Rhapsody of Blue Sky](https://www.last.fm/music/fh%C3%A1na/_/Rhapsody+of+Blue+Sky)** - fhána<br/>
-> ∙ **[Kyouran Hey Kids!!](https://www.last.fm/music/THE+ORAL+CIGARETTES/_/Kyouran+Hey+Kids!!)** - THE ORAL CIGARETTES<br/>
-> ∙ **[courage](https://www.last.fm/music/%E6%88%B8%E6%9D%BE%E9%81%A5/_/courage)** - 戸松遥<br/>
-> ∙ **[Dream Lantern](https://www.last.fm/music/RADWIMPS/_/Dream+Lantern)** - RADWIMPS<br/>
+> 🎶 **[Shojo Rei](https://www.last.fm/music/Mikito+P/_/Shojo+Rei)** - Mikito P<br/>
+> ∙ **[Dekat Di Hati](https://www.last.fm/music/RAN/_/Dekat+Di+Hati)** - RAN<br/>
+> ∙ **[Snow Colored Score](https://www.last.fm/music/Irodorimidori/_/Snow+Colored+Score)** - Irodorimidori<br/>
+> ∙ **[The Title Track](https://www.last.fm/music/Origami+Angel/_/The+Title+Track)** - Origami Angel<br/>
+> ∙ **[Air Dan Api](https://www.last.fm/music/Naif/_/Air+Dan+Api)** - Naif<br/>
+> ∙ **[心に穴が空いた](https://www.last.fm/music/Yorushika/_/%E5%BF%83%E3%81%AB%E7%A9%B4%E3%81%8C%E7%A9%BA%E3%81%84%E3%81%9F)** - Yorushika<br/>
+> ∙ **[OPEN THE WORLDS](https://www.last.fm/music/Oresama/_/OPEN+THE+WORLDS)** - Oresama<br/>
+> ∙ **[I’m invincible](https://www.last.fm/music/Ado/_/I%E2%80%99m+invincible)** - Ado<br/>
 <!--END_LASTFM_RECENT-->
