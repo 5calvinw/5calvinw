@@ -35,24 +35,24 @@ Email: calvinthewu@gmail.com
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `83 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `11 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `12 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `10 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
-> `8 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
+> `9 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
+> `8 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
+> `8 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
 > `8 ▶️` ∙ **[RADWIMPS](https://www.last.fm/music/RADWIMPS)**<br/>
 > `8 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
-> `7 ▶️` ∙ **[Ado](https://www.last.fm/music/Ado)**<br/>
-> `7 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Viva la Vida](https://www.last.fm/music/Coldplay/_/Viva+la+Vida)** - Coldplay<br/>
-> ∙ **[Locked Out of Heaven](https://www.last.fm/music/Bruno+Mars/_/Locked+Out+of+Heaven)** - Bruno Mars<br/>
-> ∙ **[boyfriend (with Social House)](https://www.last.fm/music/Ariana+Grande/_/boyfriend+(with+Social+House))** - Ariana Grande<br/>
-> ∙ **[24 Hr Drive-Thru](https://www.last.fm/music/Origami+Angel/_/24+Hr+Drive-Thru)** - Origami Angel<br/>
-> ∙ **[Mela!](https://www.last.fm/music/Ryokuoushoku+Shakai/_/Mela!)** - Ryokuoushoku Shakai<br/>
-> ∙ **[Worst Regret](https://www.last.fm/music/you%E3%81%BE%E3%82%93/_/Worst+Regret)** - youまん<br/>
-> ∙ **[Dekat Di Hati](https://www.last.fm/music/RAN/_/Dekat+Di+Hati)** - RAN<br/>
-> ∙ **[UNDERSTAND](https://www.last.fm/music/keshi/_/UNDERSTAND)** - keshi<br/>
+> ∙ **[恥ずかしいか青春は](https://www.last.fm/music/Ryokuoushoku+Shakai/_/%E6%81%A5%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84%E3%81%8B%E9%9D%92%E6%98%A5%E3%81%AF)** - Ryokuoushoku Shakai<br/>
+> ∙ **[決戦スピリット](https://www.last.fm/music/CHiCO+with+HoneyWorks/_/%E6%B1%BA%E6%88%A6%E3%82%B9%E3%83%94%E3%83%AA%E3%83%83%E3%83%88)** - CHiCO with HoneyWorks<br/>
+> ∙ **[Burn My Universe](https://www.last.fm/music/Jun+Maeda/_/Burn+My+Universe)** - Jun Maeda<br/>
+> ∙ **[Things Unsaid](https://www.last.fm/music/risY/_/Things+Unsaid)** - risY<br/>
+> ∙ **[Meet You Again - Reimagined](https://www.last.fm/music/Ebony+Loren/_/Meet+You+Again+-+Reimagined)** - Ebony Loren<br/>
+> ∙ **[Falling Behind](https://www.last.fm/music/Laufey/_/Falling+Behind)** - Laufey<br/>
+> ∙ **[pick your brain](https://www.last.fm/music/Lyn+Lapid/_/pick+your+brain)** - Lyn Lapid<br/>
+> ∙ **[Memories](https://www.last.fm/music/beabadoobee/_/Memories)** - beabadoobee<br/>
 <!--END_LASTFM_RECENT-->
