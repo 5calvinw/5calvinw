@@ -47,12 +47,12 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[All I Ask](https://www.last.fm/music/Adele/_/All+I+Ask)** - Adele<br/>
+> ∙ **[Stronger Than You (feat. Estelle)](https://www.last.fm/music/Steven+Universe/_/Stronger+Than+You+(feat.+Estelle))** - Steven Universe<br/>
+> ∙ **[My Love Mine All Mine](https://www.last.fm/music/Mitski/_/My+Love+Mine+All+Mine)** - Mitski<br/>
+> ∙ **[Clover Day's full ver.](https://www.last.fm/music/%E7%9C%9F%E7%90%86%E7%B5%B5/_/Clover+Day%27s+full+ver.)** - 真理絵<br/>
+> ∙ **[Buktikan](https://www.last.fm/music/Tiara+Andini/_/Buktikan)** - Tiara Andini<br/>
 > ∙ **[恥ずかしいか青春は](https://www.last.fm/music/Ryokuoushoku+Shakai/_/%E6%81%A5%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84%E3%81%8B%E9%9D%92%E6%98%A5%E3%81%AF)** - Ryokuoushoku Shakai<br/>
 > ∙ **[決戦スピリット](https://www.last.fm/music/CHiCO+with+HoneyWorks/_/%E6%B1%BA%E6%88%A6%E3%82%B9%E3%83%94%E3%83%AA%E3%83%83%E3%83%88)** - CHiCO with HoneyWorks<br/>
 > ∙ **[Burn My Universe](https://www.last.fm/music/Jun+Maeda/_/Burn+My+Universe)** - Jun Maeda<br/>
-> ∙ **[Things Unsaid](https://www.last.fm/music/risY/_/Things+Unsaid)** - risY<br/>
-> ∙ **[Meet You Again - Reimagined](https://www.last.fm/music/Ebony+Loren/_/Meet+You+Again+-+Reimagined)** - Ebony Loren<br/>
-> ∙ **[Falling Behind](https://www.last.fm/music/Laufey/_/Falling+Behind)** - Laufey<br/>
-> ∙ **[pick your brain](https://www.last.fm/music/Lyn+Lapid/_/pick+your+brain)** - Lyn Lapid<br/>
-> ∙ **[Memories](https://www.last.fm/music/beabadoobee/_/Memories)** - beabadoobee<br/>
 <!--END_LASTFM_RECENT-->
