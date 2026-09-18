@@ -34,14 +34,14 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `11 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `10 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
-> `8 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
-> `8 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
-> `8 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 > `8 ▶️` ∙ **[RADWIMPS](https://www.last.fm/music/RADWIMPS)**<br/>
 > `8 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
-> `7 ▶️` ∙ **[Ado](https://www.last.fm/music/Ado)**<br/>
+> `7 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
+> `7 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `7 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
+> `6 ▶️` ∙ **[Ado](https://www.last.fm/music/Ado)**<br/>
+> `6 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
+> `6 ▶️` ∙ **[fhána](https://www.last.fm/music/fh%C3%A1na)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
