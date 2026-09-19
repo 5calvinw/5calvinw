@@ -38,21 +38,21 @@ Email: calvinthewu@gmail.com
 > `8 ▶️` ∙ **[Supercell](https://www.last.fm/music/Supercell)**<br/>
 > `7 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
 > `7 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
+> `7 ▶️` ∙ **[fhána](https://www.last.fm/music/fh%C3%A1na)**<br/>
 > `7 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
-> `6 ▶️` ∙ **[Ado](https://www.last.fm/music/Ado)**<br/>
 > `6 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
-> `6 ▶️` ∙ **[fhána](https://www.last.fm/music/fh%C3%A1na)**<br/>
+> `6 ▶️` ∙ **[Laufey](https://www.last.fm/music/Laufey)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Guess Who Is Back](https://www.last.fm/music/Kumi+Koda/_/Guess+Who+Is+Back)** - Kumi Koda<br/>
-> ∙ **[Dash&Daaash!! - Tv Size](https://www.last.fm/music/Fudanjuku/_/Dash&Daaash!!+-+Tv+Size)** - Fudanjuku<br/>
-> ∙ **[炎](https://www.last.fm/music/Lisa/_/%E7%82%8E)** - Lisa<br/>
-> ∙ **[CORE PRIDE](https://www.last.fm/music/UVERworld/_/CORE+PRIDE)** - UVERworld<br/>
-> ∙ **[燦々デイズ](https://www.last.fm/music/%E3%82%B9%E3%83%94%E3%83%A9%E3%83%BB%E3%82%B9%E3%83%94%E3%82%AB/_/%E7%87%A6%E3%80%85%E3%83%87%E3%82%A4%E3%82%BA)** - スピラ・スピカ<br/>
-> ∙ **[LET IT OUT(album version)](https://www.last.fm/music/Miho+Fukuhara/_/LET+IT+OUT(album+version))** - Miho Fukuhara<br/>
-> ∙ **[絶体絶命](https://www.last.fm/music/C%C3%B6+shu+Nie/_/%E7%B5%B6%E4%BD%93%E7%B5%B6%E5%91%BD)** - Cö shu Nie<br/>
-> ∙ **[The Beginning](https://www.last.fm/music/ONE+OK+ROCK/_/The+Beginning)** - ONE OK ROCK<br/>
+> 🎶 **[ハグルマ](https://www.last.fm/music/KANA-BOON/_/%E3%83%8F%E3%82%B0%E3%83%AB%E3%83%9E)** - KANA-BOON<br/>
+> ∙ **[瞬く星の下で](https://www.last.fm/music/%E3%83%9D%E3%83%AB%E3%83%8E%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%86%E3%82%A3/_/%E7%9E%AC%E3%81%8F%E6%98%9F%E3%81%AE%E4%B8%8B%E3%81%A7)** - ポルノグラフィティ<br/>
+> ∙ **[まるつけ](https://www.last.fm/music/centimillimental/_/%E3%81%BE%E3%82%8B%E3%81%A4%E3%81%91)** - centimillimental<br/>
+> ∙ **[Crossing Field](https://www.last.fm/music/Lisa/_/Crossing+Field)** - Lisa<br/>
+> ∙ **[GO!!!](https://www.last.fm/music/Flow/_/GO!!!)** - Flow<br/>
+> ∙ **[RESISTER](https://www.last.fm/music/ASCA/_/RESISTER)** - ASCA<br/>
+> ∙ **[ブルーバード](https://www.last.fm/music/%E3%81%84%E3%81%8D%E3%82%82%E3%81%AE%E3%81%8C%E3%81%8B%E3%82%8A/_/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%90%E3%83%BC%E3%83%89)** - いきものがかり<br/>
+> ∙ **[chAngE](https://www.last.fm/music/miwa/_/chAngE)** - miwa<br/>
 <!--END_LASTFM_RECENT-->
