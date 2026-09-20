@@ -40,8 +40,8 @@ Email: calvinthewu@gmail.com
 > `7 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `7 ▶️` ∙ **[fhána](https://www.last.fm/music/fh%C3%A1na)**<br/>
 > `7 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
-> `6 ▶️` ∙ **[Origami Angel](https://www.last.fm/music/Origami+Angel)**<br/>
 > `6 ▶️` ∙ **[Yorushika](https://www.last.fm/music/Yorushika)**<br/>
+> `5 ▶️` ∙ **[Ado](https://www.last.fm/music/Ado)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
