@@ -34,25 +34,25 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `8 ▶️` ∙ **[Lisa](https://www.last.fm/music/Lisa)**<br/>
 > `8 ▶️` ∙ **[RADWIMPS](https://www.last.fm/music/RADWIMPS)**<br/>
-> `7 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
-> `7 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `6 ▶️` ∙ **[Ado](https://www.last.fm/music/Ado)**<br/>
+> `7 ▶️` ∙ **[Aimer](https://www.last.fm/music/Aimer)**<br/>
+> `6 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
 > `6 ▶️` ∙ **[fhána](https://www.last.fm/music/fh%C3%A1na)**<br/>
-> `6 ▶️` ∙ **[Lisa](https://www.last.fm/music/Lisa)**<br/>
-> `5 ▶️` ∙ **[Aimer](https://www.last.fm/music/Aimer)**<br/>
-> `5 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
+> `5 ▶️` ∙ **[Ado](https://www.last.fm/music/Ado)**<br/>
+> `5 ▶️` ∙ **[ASIAN KUNG-FU GENERATION](https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION)**<br/>
+> `5 ▶️` ∙ **[centimillimental](https://www.last.fm/music/centimillimental)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Attack on Titan](https://www.last.fm/music/%E6%BE%A4%E9%87%8E%E5%BC%98%E4%B9%8B/_/Attack+on+Titan)** - 澤野弘之<br/>
-> ∙ **[Rakugakipeiji](https://www.last.fm/music/Kankaku+Piero/_/Rakugakipeiji)** - Kankaku Piero<br/>
-> ∙ **[Still Doll](https://www.last.fm/music/lollia/_/Still+Doll)** - lollia<br/>
-> ∙ **[かさなる影](https://www.last.fm/music/Hearts+Grow/_/%E3%81%8B%E3%81%95%E3%81%AA%E3%82%8B%E5%BD%B1)** - Hearts Grow<br/>
-> ∙ **[Grand Escape (feat. Toko Miura)](https://www.last.fm/music/RADWIMPS/_/Grand+Escape+(feat.+Toko+Miura))** - RADWIMPS<br/>
-> ∙ **[Speed of flow](https://www.last.fm/music/The+Rodeo+Carburettor/_/Speed+of+flow)** - The Rodeo Carburettor<br/>
-> ∙ **[残響散歌](https://www.last.fm/music/Aimer/_/%E6%AE%8B%E9%9F%BF%E6%95%A3%E6%AD%8C)** - Aimer<br/>
-> ∙ **[One Step Closer](https://www.last.fm/music/Intersection/_/One+Step+Closer)** - Intersection<br/>
+> ∙ **[Oath sign](https://www.last.fm/music/Lisa/_/Oath+sign)** - Lisa<br/>
+> ∙ **[slow](https://www.last.fm/music/%E6%B8%85%E6%98%A5/_/slow)** - 清春<br/>
+> ∙ **[RISE](https://www.last.fm/music/Madkid/_/RISE)** - Madkid<br/>
+> ∙ **[Dororo (Album Mix)](https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION/_/Dororo+(Album+Mix))** - ASIAN KUNG-FU GENERATION<br/>
+> ∙ **[MORE THAN LiKE](https://www.last.fm/music/Bish/_/MORE+THAN+LiKE)** - Bish<br/>
+> ∙ **[アンサー](https://www.last.fm/music/%E8%8A%B1%E8%AD%9C/_/%E3%82%A2%E3%83%B3%E3%82%B5%E3%83%BC)** - 花譜<br/>
+> ∙ **[だってアタシのヒーロー。](https://www.last.fm/music/Lisa/_/%E3%81%A0%E3%81%A3%E3%81%A6%E3%82%A2%E3%82%BF%E3%82%B7%E3%81%AE%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%80%82)** - Lisa<br/>
+> ∙ **[バニラソルト](https://www.last.fm/music/Yui+Horie/_/%E3%83%90%E3%83%8B%E3%83%A9%E3%82%BD%E3%83%AB%E3%83%88)** - Yui Horie<br/>
 <!--END_LASTFM_RECENT-->
