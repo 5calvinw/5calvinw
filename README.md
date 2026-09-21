@@ -34,25 +34,25 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `8 ▶️` ∙ **[RADWIMPS](https://www.last.fm/music/RADWIMPS)**<br/>
 > `7 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
 > `7 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `7 ▶️` ∙ **[RADWIMPS](https://www.last.fm/music/RADWIMPS)**<br/>
+> `6 ▶️` ∙ **[Ado](https://www.last.fm/music/Ado)**<br/>
 > `6 ▶️` ∙ **[fhána](https://www.last.fm/music/fh%C3%A1na)**<br/>
-> `5 ▶️` ∙ **[Ado](https://www.last.fm/music/Ado)**<br/>
+> `6 ▶️` ∙ **[Lisa](https://www.last.fm/music/Lisa)**<br/>
+> `5 ▶️` ∙ **[Aimer](https://www.last.fm/music/Aimer)**<br/>
 > `5 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
-> `5 ▶️` ∙ **[centimillimental](https://www.last.fm/music/centimillimental)**<br/>
-> `5 ▶️` ∙ **[Clairo](https://www.last.fm/music/Clairo)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[瞬く星の下で](https://www.last.fm/music/%E3%83%9D%E3%83%AB%E3%83%8E%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%86%E3%82%A3/_/%E7%9E%AC%E3%81%8F%E6%98%9F%E3%81%AE%E4%B8%8B%E3%81%A7)** - ポルノグラフィティ<br/>
-> ∙ **[ココロのちず](https://www.last.fm/music/BOYSTYLE/_/%E3%82%B3%E3%82%B3%E3%83%AD%E3%81%AE%E3%81%A1%E3%81%9A)** - BOYSTYLE<br/>
-> ∙ **[courage](https://www.last.fm/music/%E6%88%B8%E6%9D%BE%E9%81%A5/_/courage)** - 戸松遥<br/>
-> ∙ **[INVOKE -インヴォーク-](https://www.last.fm/music/T.M.Revolution/_/INVOKE+-%E3%82%A4%E3%83%B3%E3%83%B4%E3%82%A9%E3%83%BC%E3%82%AF-)** - T.M.Revolution<br/>
-> ∙ **[Colors of the Heart](https://www.last.fm/music/UVERworld/_/Colors+of+the+Heart)** - UVERworld<br/>
-> ∙ **[Cagayake! Girls (From "K-On!")](https://www.last.fm/music/Sakurakou+K-ON+Bu/_/Cagayake!+Girls+(From+%22K-On!%22))** - Sakurakou K-ON Bu<br/>
-> ∙ **[グロリアスデイズ](https://www.last.fm/music/Three+Lights+Down+Kings/_/%E3%82%B0%E3%83%AD%E3%83%AA%E3%82%A2%E3%82%B9%E3%83%87%E3%82%A4%E3%82%BA)** - Three Lights Down Kings<br/>
+> ∙ **[Attack on Titan](https://www.last.fm/music/%E6%BE%A4%E9%87%8E%E5%BC%98%E4%B9%8B/_/Attack+on+Titan)** - 澤野弘之<br/>
+> ∙ **[Rakugakipeiji](https://www.last.fm/music/Kankaku+Piero/_/Rakugakipeiji)** - Kankaku Piero<br/>
+> ∙ **[Still Doll](https://www.last.fm/music/lollia/_/Still+Doll)** - lollia<br/>
+> ∙ **[かさなる影](https://www.last.fm/music/Hearts+Grow/_/%E3%81%8B%E3%81%95%E3%81%AA%E3%82%8B%E5%BD%B1)** - Hearts Grow<br/>
+> ∙ **[Grand Escape (feat. Toko Miura)](https://www.last.fm/music/RADWIMPS/_/Grand+Escape+(feat.+Toko+Miura))** - RADWIMPS<br/>
+> ∙ **[Speed of flow](https://www.last.fm/music/The+Rodeo+Carburettor/_/Speed+of+flow)** - The Rodeo Carburettor<br/>
 > ∙ **[残響散歌](https://www.last.fm/music/Aimer/_/%E6%AE%8B%E9%9F%BF%E6%95%A3%E6%AD%8C)** - Aimer<br/>
+> ∙ **[One Step Closer](https://www.last.fm/music/Intersection/_/One+Step+Closer)** - Intersection<br/>
 <!--END_LASTFM_RECENT-->
