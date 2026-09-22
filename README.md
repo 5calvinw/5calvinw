@@ -37,22 +37,22 @@ Email: calvinthewu@gmail.com
 > `8 ▶️` ∙ **[Lisa](https://www.last.fm/music/Lisa)**<br/>
 > `8 ▶️` ∙ **[RADWIMPS](https://www.last.fm/music/RADWIMPS)**<br/>
 > `7 ▶️` ∙ **[Aimer](https://www.last.fm/music/Aimer)**<br/>
-> `6 ▶️` ∙ **[centimillimental](https://www.last.fm/music/centimillimental)**<br/>
+> `7 ▶️` ∙ **[centimillimental](https://www.last.fm/music/centimillimental)**<br/>
+> `6 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
 > `6 ▶️` ∙ **[fhána](https://www.last.fm/music/fh%C3%A1na)**<br/>
+> `6 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
 > `5 ▶️` ∙ **[Ado](https://www.last.fm/music/Ado)**<br/>
-> `5 ▶️` ∙ **[ASIAN KUNG-FU GENERATION](https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION)**<br/>
-> `5 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Night Dancer](https://www.last.fm/music/imase/_/Night+Dancer)** - imase<br/>
-> ∙ **[Armed and Ready](https://www.last.fm/music/Jeff+Williams/_/Armed+and+Ready)** - Jeff Williams<br/>
-> ∙ **[COLORFUL DAYS!!](https://www.last.fm/music/Ceui/_/COLORFUL+DAYS!!)** - Ceui<br/>
-> ∙ **[青春の演舞](https://www.last.fm/music/centimillimental/_/%E9%9D%92%E6%98%A5%E3%81%AE%E6%BC%94%E8%88%9E)** - centimillimental<br/>
+> ∙ **[Hyouriittai](https://www.last.fm/music/%E3%82%86%E3%81%9A/_/Hyouriittai)** - ゆず<br/>
 > ∙ **[ウィーアー! (ONE PIECE)](https://www.last.fm/music/Hiroshi+Kitadani/_/%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%A2%E3%83%BC!+(ONE+PIECE))** - Hiroshi Kitadani<br/>
-> ∙ **[神様はじめました](https://www.last.fm/music/%E3%83%8F%E3%83%8A%E3%82%A8/_/%E7%A5%9E%E6%A7%98%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F)** - ハナエ<br/>
-> ∙ **[シュガーソングとビターステップ](https://www.last.fm/music/UNISON+SQUARE+GARDEN/_/%E3%82%B7%E3%83%A5%E3%82%AC%E3%83%BC%E3%82%BD%E3%83%B3%E3%82%B0%E3%81%A8%E3%83%93%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%86%E3%83%83%E3%83%97)** - UNISON SQUARE GARDEN<br/>
-> ∙ **[花が咲く道](https://www.last.fm/music/THE+CHARM+PARK/_/%E8%8A%B1%E3%81%8C%E5%92%B2%E3%81%8F%E9%81%93)** - THE CHARM PARK<br/>
+> ∙ **[心に穴が空いた](https://www.last.fm/music/Yorushika/_/%E5%BF%83%E3%81%AB%E7%A9%B4%E3%81%8C%E7%A9%BA%E3%81%84%E3%81%9F)** - Yorushika<br/>
+> ∙ **[Sawakaze](https://www.last.fm/music/%E3%82%BF%E3%83%8B%E3%82%B6%E3%83%AF%E3%83%88%E3%83%A2%E3%83%95%E3%83%9F/_/Sawakaze)** - タニザワトモフミ<br/>
+> ∙ **[You'll Find Lovers Like You and Me](https://www.last.fm/music/Reality+Club/_/You%27ll+Find+Lovers+Like+You+and+Me)** - Reality Club<br/>
+> ∙ **[アシンメトリー](https://www.last.fm/music/Reol/_/%E3%82%A2%E3%82%B7%E3%83%B3%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC)** - Reol<br/>
+> ∙ **[Honey](https://www.last.fm/music/Chihiro/_/Honey)** - Chihiro<br/>
+> ∙ **[M'aider](https://www.last.fm/music/FROZEN+QUALIA/_/M%27aider)** - FROZEN QUALIA<br/>
 <!--END_LASTFM_RECENT-->
