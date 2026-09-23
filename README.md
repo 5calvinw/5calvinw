@@ -35,24 +35,24 @@ Email: calvinthewu@gmail.com
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `10 ▶️` ∙ **[Lisa](https://www.last.fm/music/Lisa)**<br/>
+> `8 ▶️` ∙ **[centimillimental](https://www.last.fm/music/centimillimental)**<br/>
 > `8 ▶️` ∙ **[RADWIMPS](https://www.last.fm/music/RADWIMPS)**<br/>
-> `7 ▶️` ∙ **[Aimer](https://www.last.fm/music/Aimer)**<br/>
-> `7 ▶️` ∙ **[centimillimental](https://www.last.fm/music/centimillimental)**<br/>
-> `6 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
-> `6 ▶️` ∙ **[keshi](https://www.last.fm/music/keshi)**<br/>
-> `5 ▶️` ∙ **[Ado](https://www.last.fm/music/Ado)**<br/>
-> `5 ▶️` ∙ **[ASIAN KUNG-FU GENERATION](https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION)**<br/>
+> `6 ▶️` ∙ **[Aimer](https://www.last.fm/music/Aimer)**<br/>
+> `6 ▶️` ∙ **[ASIAN KUNG-FU GENERATION](https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION)**<br/>
+> `6 ▶️` ∙ **[ポルノグラフィティ](https://www.last.fm/music/%E3%83%9D%E3%83%AB%E3%83%8E%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%86%E3%82%A3)**<br/>
+> `5 ▶️` ∙ **[CHiCO with HoneyWorks](https://www.last.fm/music/CHiCO+with+HoneyWorks)**<br/>
+> `5 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[ラブ・ドラマティック (Funky Flag Version)](https://www.last.fm/music/Masayuki+Suzuki/_/%E3%83%A9%E3%83%96%E3%83%BB%E3%83%89%E3%83%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF+(Funky+Flag+Version))** - Masayuki Suzuki<br/>
-> ∙ **[SLUMP -Japanese Ver.-](https://www.last.fm/music/Stray+Kids/_/SLUMP+-Japanese+Ver.-)** - Stray Kids<br/>
-> ∙ **[イマジネーション](https://www.last.fm/music/SPYAIR/_/%E3%82%A4%E3%83%9E%E3%82%B8%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)** - SPYAIR<br/>
-> ∙ **[HEROES](https://www.last.fm/music/Brian+the+Sun/_/HEROES)** - Brian the Sun<br/>
-> ∙ **[Hero's Come Back!!](https://www.last.fm/music/nobodyknows%252B/_/Hero%27s+Come+Back!!)** - nobodyknows+<br/>
-> ∙ **[激動](https://www.last.fm/music/UVERworld/_/%E6%BF%80%E5%8B%95)** - UVERworld<br/>
-> ∙ **[遠い匂い](https://www.last.fm/music/YO-KING/_/%E9%81%A0%E3%81%84%E5%8C%82%E3%81%84)** - YO-KING<br/>
-> ∙ **[Guess Who Is Back](https://www.last.fm/music/Kumi+Koda/_/Guess+Who+Is+Back)** - Kumi Koda<br/>
+> 🎶 **[閃光少女](https://www.last.fm/music/%E6%9D%B1%E4%BA%AC%E4%BA%8B%E5%A4%89/_/%E9%96%83%E5%85%89%E5%B0%91%E5%A5%B3)** - 東京事変<br/>
+> ∙ **[青春の演舞](https://www.last.fm/music/centimillimental/_/%E9%9D%92%E6%98%A5%E3%81%AE%E6%BC%94%E8%88%9E)** - centimillimental<br/>
+> ∙ **[終わりへ向かう始まりの歌](https://www.last.fm/music/Supercell/_/%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%B8%E5%90%91%E3%81%8B%E3%81%86%E5%A7%8B%E3%81%BE%E3%82%8A%E3%81%AE%E6%AD%8C)** - Supercell<br/>
+> ∙ **[Die for You](https://www.last.fm/music/The+Weeknd/_/Die+for+You)** - The Weeknd<br/>
+> ∙ **[What is Love?](https://www.last.fm/music/TWICE/_/What+is+Love%3F)** - TWICE<br/>
+> ∙ **[Earrings](https://www.last.fm/music/Malcolm+Todd/_/Earrings)** - Malcolm Todd<br/>
+> ∙ **[Benci Untuk Mencinta](https://www.last.fm/music/Naif/_/Benci+Untuk+Mencinta)** - Naif<br/>
+> ∙ **[栞](https://www.last.fm/music/SEKAI+NO+OWARI/_/%E6%A0%9E)** - SEKAI NO OWARI<br/>
 <!--END_LASTFM_RECENT-->
