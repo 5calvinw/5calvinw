@@ -35,24 +35,24 @@ Email: calvinthewu@gmail.com
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `11 ▶️` ∙ **[Lisa](https://www.last.fm/music/Lisa)**<br/>
-> `9 ▶️` ∙ **[centimillimental](https://www.last.fm/music/centimillimental)**<br/>
+> `10 ▶️` ∙ **[centimillimental](https://www.last.fm/music/centimillimental)**<br/>
 > `6 ▶️` ∙ **[Aimer](https://www.last.fm/music/Aimer)**<br/>
 > `6 ▶️` ∙ **[ASIAN KUNG-FU GENERATION](https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION)**<br/>
 > `6 ▶️` ∙ **[ポルノグラフィティ](https://www.last.fm/music/%E3%83%9D%E3%83%AB%E3%83%8E%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%86%E3%82%A3)**<br/>
-> `5 ▶️` ∙ **[CHiCO with HoneyWorks](https://www.last.fm/music/CHiCO+with+HoneyWorks)**<br/>
 > `5 ▶️` ∙ **[The Beatles](https://www.last.fm/music/The+Beatles)**<br/>
 > `4 ▶️` ∙ **[ABBA](https://www.last.fm/music/ABBA)**<br/>
+> `4 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[39 (feat. Hatsune Miku)](https://www.last.fm/music/sasakure.UK/_/39+(feat.+Hatsune+Miku))** - sasakure.UK<br/>
-> ∙ **[The Winner Takes It All](https://www.last.fm/music/ABBA/_/The+Winner+Takes+It+All)** - ABBA<br/>
-> ∙ **[Let It Be - Remastered 2009](https://www.last.fm/music/The+Beatles/_/Let+It+Be+-+Remastered+2009)** - The Beatles<br/>
-> ∙ **[I Think They Call This Love](https://www.last.fm/music/Elliot+James+Reay/_/I+Think+They+Call+This+Love)** - Elliot James Reay<br/>
-> ∙ **[Be Like a Woman](https://www.last.fm/music/Chris+Rainbow/_/Be+Like+a+Woman)** - Chris Rainbow<br/>
-> ∙ **[Isn't She Lovely](https://www.last.fm/music/Stevie+Wonder/_/Isn%27t+She+Lovely)** - Stevie Wonder<br/>
-> ∙ **[Last Night on Earth](https://www.last.fm/music/Green+Day/_/Last+Night+on+Earth)** - Green Day<br/>
-> ∙ **[Slipping Through My Fingers](https://www.last.fm/music/ABBA/_/Slipping+Through+My+Fingers)** - ABBA<br/>
+> ∙ **[No One Noticed (Extended English)](https://www.last.fm/music/The+Mar%C3%ADas/_/No+One+Noticed+(Extended+English))** - The Marías<br/>
+> ∙ **[Sleep Well](https://www.last.fm/music/d4vd/_/Sleep+Well)** - d4vd<br/>
+> ∙ **[Always](https://www.last.fm/music/Daniel+Caesar/_/Always)** - Daniel Caesar<br/>
+> ∙ **[Beaches](https://www.last.fm/music/beabadoobee/_/Beaches)** - beabadoobee<br/>
+> ∙ **[Evergreen (You Didn’t Deserve Me At All)](https://www.last.fm/music/Omar+Apollo/_/Evergreen+(You+Didn%E2%80%99t+Deserve+Me+At+All))** - Omar Apollo<br/>
+> ∙ **[Heavy](https://www.last.fm/music/The+Mar%C3%ADas/_/Heavy)** - The Marías<br/>
+> ∙ **[SUPERPOSITION (feat. John Mayer)](https://www.last.fm/music/Daniel+Caesar/_/SUPERPOSITION+(feat.+John+Mayer))** - Daniel Caesar<br/>
+> ∙ **[青春の演舞](https://www.last.fm/music/centimillimental/_/%E9%9D%92%E6%98%A5%E3%81%AE%E6%BC%94%E8%88%9E)** - centimillimental<br/>
 <!--END_LASTFM_RECENT-->
