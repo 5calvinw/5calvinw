@@ -35,13 +35,13 @@ Email: calvinthewu@gmail.com
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `11 ▶️` ∙ **[Lisa](https://www.last.fm/music/Lisa)**<br/>
-> `10 ▶️` ∙ **[centimillimental](https://www.last.fm/music/centimillimental)**<br/>
+> `9 ▶️` ∙ **[centimillimental](https://www.last.fm/music/centimillimental)**<br/>
 > `6 ▶️` ∙ **[Aimer](https://www.last.fm/music/Aimer)**<br/>
 > `6 ▶️` ∙ **[ASIAN KUNG-FU GENERATION](https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION)**<br/>
 > `6 ▶️` ∙ **[ポルノグラフィティ](https://www.last.fm/music/%E3%83%9D%E3%83%AB%E3%83%8E%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%86%E3%82%A3)**<br/>
 > `5 ▶️` ∙ **[CHiCO with HoneyWorks](https://www.last.fm/music/CHiCO+with+HoneyWorks)**<br/>
-> `5 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
 > `5 ▶️` ∙ **[The Beatles](https://www.last.fm/music/The+Beatles)**<br/>
+> `4 ▶️` ∙ **[ABBA](https://www.last.fm/music/ABBA)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
