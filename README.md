@@ -40,19 +40,19 @@ Email: calvinthewu@gmail.com
 > `6 ▶️` ∙ **[ASIAN KUNG-FU GENERATION](https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION)**<br/>
 > `6 ▶️` ∙ **[ポルノグラフィティ](https://www.last.fm/music/%E3%83%9D%E3%83%AB%E3%83%8E%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%86%E3%82%A3)**<br/>
 > `5 ▶️` ∙ **[The Beatles](https://www.last.fm/music/The+Beatles)**<br/>
+> `5 ▶️` ∙ **[大原ゆい子](https://www.last.fm/music/%E5%A4%A7%E5%8E%9F%E3%82%86%E3%81%84%E5%AD%90)**<br/>
 > `4 ▶️` ∙ **[ABBA](https://www.last.fm/music/ABBA)**<br/>
-> `4 ▶️` ∙ **[beabadoobee](https://www.last.fm/music/beabadoobee)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[群青インフィニティ](https://www.last.fm/music/Nao+Toyama/_/%E7%BE%A4%E9%9D%92%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A3%E3%83%8B%E3%83%86%E3%82%A3)** - Nao Toyama<br/>
+> ∙ **[Roar of The Jungle Dragon](https://www.last.fm/music/DM+DOKURO/_/Roar+of+The+Jungle+Dragon)** - DM DOKURO<br/>
+> ∙ **[おつかれSUMMER](https://www.last.fm/music/HALCALI/_/%E3%81%8A%E3%81%A4%E3%81%8B%E3%82%8CSUMMER)** - HALCALI<br/>
+> ∙ **[言わないけどね。](https://www.last.fm/music/%E5%A4%A7%E5%8E%9F%E3%82%86%E3%81%84%E5%AD%90/_/%E8%A8%80%E3%82%8F%E3%81%AA%E3%81%84%E3%81%91%E3%81%A9%E3%81%AD%E3%80%82)** - 大原ゆい子<br/>
+> ∙ **[No. 1 Party Anthem](https://www.last.fm/music/Arctic+Monkeys/_/No.+1+Party+Anthem)** - Arctic Monkeys<br/>
 > ∙ **[No One Noticed (Extended English)](https://www.last.fm/music/The+Mar%C3%ADas/_/No+One+Noticed+(Extended+English))** - The Marías<br/>
 > ∙ **[Sleep Well](https://www.last.fm/music/d4vd/_/Sleep+Well)** - d4vd<br/>
 > ∙ **[Always](https://www.last.fm/music/Daniel+Caesar/_/Always)** - Daniel Caesar<br/>
-> ∙ **[Beaches](https://www.last.fm/music/beabadoobee/_/Beaches)** - beabadoobee<br/>
-> ∙ **[Evergreen (You Didn’t Deserve Me At All)](https://www.last.fm/music/Omar+Apollo/_/Evergreen+(You+Didn%E2%80%99t+Deserve+Me+At+All))** - Omar Apollo<br/>
-> ∙ **[Heavy](https://www.last.fm/music/The+Mar%C3%ADas/_/Heavy)** - The Marías<br/>
-> ∙ **[SUPERPOSITION (feat. John Mayer)](https://www.last.fm/music/Daniel+Caesar/_/SUPERPOSITION+(feat.+John+Mayer))** - Daniel Caesar<br/>
-> ∙ **[青春の演舞](https://www.last.fm/music/centimillimental/_/%E9%9D%92%E6%98%A5%E3%81%AE%E6%BC%94%E8%88%9E)** - centimillimental<br/>
 <!--END_LASTFM_RECENT-->
