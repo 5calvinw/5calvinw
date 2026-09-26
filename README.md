@@ -34,25 +34,25 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `26 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `10 ▶️` ∙ **[centimillimental](https://www.last.fm/music/centimillimental)**<br/>
-> `9 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `8 ▶️` ∙ **[Lisa](https://www.last.fm/music/Lisa)**<br/>
-> `6 ▶️` ∙ **[Aimer](https://www.last.fm/music/Aimer)**<br/>
+> `7 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `5 ▶️` ∙ **[Aimer](https://www.last.fm/music/Aimer)**<br/>
+> `5 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
 > `5 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
-> `5 ▶️` ∙ **[大原ゆい子](https://www.last.fm/music/%E5%A4%A7%E5%8E%9F%E3%82%86%E3%81%84%E5%AD%90)**<br/>
-> `4 ▶️` ∙ **[ABBA](https://www.last.fm/music/ABBA)**<br/>
-> `4 ▶️` ∙ **[ASIAN KUNG-FU GENERATION](https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION)**<br/>
+> `5 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[The Mercy of the Wind](https://www.last.fm/music/Million+Eyes/_/The+Mercy+of+the+Wind)** - Million Eyes<br/>
-> ∙ **[まくとぅそーけ、なんくるないさ](https://www.last.fm/music/Yoshiaki+Dewa/_/%E3%81%BE%E3%81%8F%E3%81%A8%E3%81%85%E3%81%9D%E3%83%BC%E3%81%91%E3%80%81%E3%81%AA%E3%82%93%E3%81%8F%E3%82%8B%E3%81%AA%E3%81%84%E3%81%95)** - Yoshiaki Dewa<br/>
-> ∙ **[WHITE SPACE](https://www.last.fm/music/Omori/_/WHITE+SPACE)** - Omori<br/>
-> ∙ **[Trees...](https://www.last.fm/music/Omori/_/Trees...)** - Omori<br/>
-> ∙ **[World's End Valentine](https://www.last.fm/music/PaintAMelody/_/World%27s+End+Valentine)** - PaintAMelody<br/>
-> ∙ **[Lost Library](https://www.last.fm/music/Omori/_/Lost+Library)** - Omori<br/>
-> ∙ **[Okay, Everyone!](https://www.last.fm/music/Dan+Salvato/_/Okay,+Everyone!)** - Dan Salvato<br/>
-> ∙ **[Oh! Piano](https://www.last.fm/music/Toby+Fox/_/Oh!+Piano)** - Toby Fox<br/>
+> ∙ **[Gentle Jena](https://www.last.fm/music/VISUAL+ARTS+%2F+Key/_/Gentle+Jena)** - VISUAL ARTS / Key<br/>
+> ∙ **[Spring Rain (Love Does Soul Like Water on Withered Soil)](https://www.last.fm/music/Hemio/_/Spring+Rain+(Love+Does+Soul+Like+Water+on+Withered+Soil))** - Hemio<br/>
+> ∙ **[The Name of Life - Piano Solo Version](https://www.last.fm/music/Hikaru+Shirosu/_/The+Name+of+Life+-+Piano+Solo+Version)** - Hikaru Shirosu<br/>
+> ∙ **[Glade](https://www.last.fm/music/Omori/_/Glade)** - Omori<br/>
+> ∙ **[My Confession](https://www.last.fm/music/Dan+Salvato/_/My+Confession)** - Dan Salvato<br/>
+> ∙ **[ヨスガノソラ メインテーマ-祈り-](https://www.last.fm/music/Bruno+Wen-li/_/%E3%83%A8%E3%82%B9%E3%82%AC%E3%83%8E%E3%82%BD%E3%83%A9+%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%86%E3%83%BC%E3%83%9E-%E7%A5%88%E3%82%8A-)** - Bruno Wen-li<br/>
+> ∙ **[Veil](https://www.last.fm/music/P3pper/_/Veil)** - P3pper<br/>
+> ∙ **[8の季節](https://www.last.fm/music/Haruka+Nakamura/_/8%E3%81%AE%E5%AD%A3%E7%AF%80)** - Haruka Nakamura<br/>
 <!--END_LASTFM_RECENT-->
