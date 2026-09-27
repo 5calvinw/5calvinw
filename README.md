@@ -35,13 +35,13 @@ Email: calvinthewu@gmail.com
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `26 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `10 ▶️` ∙ **[centimillimental](https://www.last.fm/music/centimillimental)**<br/>
-> `8 ▶️` ∙ **[Lisa](https://www.last.fm/music/Lisa)**<br/>
+> `9 ▶️` ∙ **[centimillimental](https://www.last.fm/music/centimillimental)**<br/>
 > `7 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
+> `7 ▶️` ∙ **[Lisa](https://www.last.fm/music/Lisa)**<br/>
 > `5 ▶️` ∙ **[Aimer](https://www.last.fm/music/Aimer)**<br/>
 > `5 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
-> `5 ▶️` ∙ **[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar)**<br/>
 > `5 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `5 ▶️` ∙ **[大原ゆい子](https://www.last.fm/music/%E5%A4%A7%E5%8E%9F%E3%82%86%E3%81%84%E5%AD%90)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
