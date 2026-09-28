@@ -37,9 +37,9 @@ Email: calvinthewu@gmail.com
 > `26 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `8 ▶️` ∙ **[centimillimental](https://www.last.fm/music/centimillimental)**<br/>
 > `7 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
-> `7 ▶️` ∙ **[Lisa](https://www.last.fm/music/Lisa)**<br/>
+> `6 ▶️` ∙ **[Lisa](https://www.last.fm/music/Lisa)**<br/>
+> `6 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `5 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
-> `5 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `5 ▶️` ∙ **[大原ゆい子](https://www.last.fm/music/%E5%A4%A7%E5%8E%9F%E3%82%86%E3%81%84%E5%AD%90)**<br/>
 > `4 ▶️` ∙ **[ABBA](https://www.last.fm/music/ABBA)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -47,12 +47,12 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Koi](https://www.last.fm/music/Gen+Hoshino/_/Koi)** - Gen Hoshino<br/>
-> ∙ **[Rain](https://www.last.fm/music/%E7%A7%A6%E5%9F%BA%E5%8D%9A/_/Rain)** - 秦基博<br/>
-> ∙ **[春夏秋冬](https://www.last.fm/music/Sumika/_/%E6%98%A5%E5%A4%8F%E7%A7%8B%E5%86%AC)** - Sumika<br/>
-> ∙ **[明日も](https://www.last.fm/music/SHISHAMO/_/%E6%98%8E%E6%97%A5%E3%82%82)** - SHISHAMO<br/>
-> ∙ **[フィクション](https://www.last.fm/music/Sumika/_/%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3)** - Sumika<br/>
-> ∙ **[終ワリノ歌](https://www.last.fm/music/Kenichiro+Suehiro/_/%E7%B5%82%E3%83%AF%E3%83%AA%E3%83%8E%E6%AD%8C)** - Kenichiro Suehiro<br/>
-> ∙ **[Gentle Jena](https://www.last.fm/music/VISUAL+ARTS+%2F+Key/_/Gentle+Jena)** - VISUAL ARTS / Key<br/>
-> ∙ **[Spring Rain (Love Does Soul Like Water on Withered Soil)](https://www.last.fm/music/Hemio/_/Spring+Rain+(Love+Does+Soul+Like+Water+on+Withered+Soil))** - Hemio<br/>
+> 🎶 **[Gospelion in a classic love](https://www.last.fm/music/The+13th+tailor/_/Gospelion+in+a+classic+love)** - The 13th tailor<br/>
+> ∙ **[Riko's Theme](https://www.last.fm/music/Kevin+Penkin/_/Riko%27s+Theme)** - Kevin Penkin<br/>
+> ∙ **[水平線は僕の古傷 SP Ver.](https://www.last.fm/music/Uzuki+Hirokawa(CV:Sora+Amamiya)/_/%E6%B0%B4%E5%B9%B3%E7%B7%9A%E3%81%AF%E5%83%95%E3%81%AE%E5%8F%A4%E5%82%B7+SP+Ver.)** - Uzuki Hirokawa(CV:Sora Amamiya)<br/>
+> ∙ **[Reunion](https://www.last.fm/music/Aaron+Cherof/_/Reunion)** - Aaron Cherof<br/>
+> ∙ **[Altale](https://www.last.fm/music/Sakuzyo/_/Altale)** - Sakuzyo<br/>
+> ∙ **[感情グラス](https://www.last.fm/music/%E5%BC%B5%E6%99%AF%E5%B5%90%EF%BC%88CV.%E6%B2%B3%E7%80%AC%E8%8C%89%E5%B8%8C%EF%BC%89/_/%E6%84%9F%E6%83%85%E3%82%B0%E3%83%A9%E3%82%B9)** - 張景嵐（CV.河瀬茉希）<br/>
+> ∙ **[Pickles](https://www.last.fm/music/%E7%94%B0%E4%B8%AD%E3%83%A6%E3%82%A6%E3%82%B9%E3%82%B1/_/Pickles)** - 田中ユウスケ<br/>
+> ∙ **[An Afternoon Date](https://www.last.fm/music/Evan+Call/_/An+Afternoon+Date)** - Evan Call<br/>
 <!--END_LASTFM_RECENT-->
