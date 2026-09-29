@@ -34,25 +34,25 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `26 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `7 ▶️` ∙ **[centimillimental](https://www.last.fm/music/centimillimental)**<br/>
+> `27 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
 > `7 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
-> `6 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `7 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
+> `6 ▶️` ∙ **[centimillimental](https://www.last.fm/music/centimillimental)**<br/>
 > `5 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
-> `5 ▶️` ∙ **[大原ゆい子](https://www.last.fm/music/%E5%A4%A7%E5%8E%9F%E3%82%86%E3%81%84%E5%AD%90)**<br/>
 > `4 ▶️` ∙ **[ABBA](https://www.last.fm/music/ABBA)**<br/>
 > `4 ▶️` ∙ **[ConcernedApe](https://www.last.fm/music/ConcernedApe)**<br/>
+> `4 ▶️` ∙ **[Haruka Nakamura](https://www.last.fm/music/Haruka+Nakamura)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[oyasumination](https://www.last.fm/music/vally.exe/_/oyasumination)** - vally.exe<br/>
-> ∙ **[Burn My Universe](https://www.last.fm/music/Jun+Maeda/_/Burn+My+Universe)** - Jun Maeda<br/>
-> ∙ **[Oracion](https://www.last.fm/music/%E7%99%BD(CV:%E8%8C%85%E9%87%8E%E6%84%9B%E8%A1%A3)/_/Oracion)** - 白(CV:茅野愛衣)<br/>
-> ∙ **[STAY ALIVE ～REGAIN～](https://www.last.fm/music/%E3%82%A8%E3%83%9F%E3%83%AA%E3%82%A2(CV:%E9%AB%98%E6%A9%8B%E6%9D%8E%E4%BE%9D)/_/STAY+ALIVE+%EF%BD%9EREGAIN%EF%BD%9E)** - エミリア(CV:高橋李依)<br/>
-> ∙ **[Unravelling](https://www.last.fm/music/aethoro/_/Unravelling)** - aethoro<br/>
-> ∙ **[A Tale from Folklore](https://www.last.fm/music/Yuka+Kitamura/_/A+Tale+from+Folklore)** - Yuka Kitamura<br/>
-> ∙ **[ETERNAL FLAME (VOID)](https://www.last.fm/music/%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%83%80%E3%82%B9%E3%83%88/_/ETERNAL+FLAME+(VOID))** - ダイヤモンドダスト<br/>
-> ∙ **[天球(そら)のMúsica](https://www.last.fm/music/Ave+Mujica/_/%E5%A4%A9%E7%90%83(%E3%81%9D%E3%82%89)%E3%81%AEM%C3%BAsica)** - Ave Mujica<br/>
+> ∙ **[though I fear, I still walk](https://www.last.fm/music/ippo.tsk/_/though+I+fear,+I+still+walk)** - ippo.tsk<br/>
+> ∙ **[輝いた季節](https://www.last.fm/music/Haruka+Nakamura/_/%E8%BC%9D%E3%81%84%E3%81%9F%E5%AD%A3%E7%AF%80)** - Haruka Nakamura<br/>
+> ∙ **[daishinkainoatena](https://www.last.fm/music/%E6%84%8F%E8%AD%98%E3%81%AE%E3%81%AA%E3%81%84%E3%82%AF%E3%83%A9%E3%83%B3%E3%82%B1/_/daishinkainoatena)** - 意識のないクランケ<br/>
+> ∙ **[oyasumination](https://www.last.fm/music/ippo.tsk/_/oyasumination)** - ippo.tsk<br/>
+> ∙ **[Melt With You](https://www.last.fm/music/Dunni/_/Melt+With+You)** - Dunni<br/>
+> ∙ **[Cycle Of Sorrow](https://www.last.fm/music/%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%83%80%E3%82%B9%E3%83%88/_/Cycle+Of+Sorrow)** - ダイヤモンドダスト<br/>
+> ∙ **[rains](https://www.last.fm/music/Pathcel+Tarts/_/rains)** - Pathcel Tarts<br/>
+> ∙ **[FINAL ONE](https://www.last.fm/music/Haruka+Nakamura/_/FINAL+ONE)** - Haruka Nakamura<br/>
 <!--END_LASTFM_RECENT-->
