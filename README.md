@@ -35,7 +35,7 @@ Email: calvinthewu@gmail.com
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `26 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `8 ▶️` ∙ **[centimillimental](https://www.last.fm/music/centimillimental)**<br/>
+> `7 ▶️` ∙ **[centimillimental](https://www.last.fm/music/centimillimental)**<br/>
 > `7 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `6 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `5 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
@@ -47,12 +47,12 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[oyasumination](https://www.last.fm/music/vally.exe/_/oyasumination)** - vally.exe<br/>
+> ∙ **[Burn My Universe](https://www.last.fm/music/Jun+Maeda/_/Burn+My+Universe)** - Jun Maeda<br/>
+> ∙ **[Oracion](https://www.last.fm/music/%E7%99%BD(CV:%E8%8C%85%E9%87%8E%E6%84%9B%E8%A1%A3)/_/Oracion)** - 白(CV:茅野愛衣)<br/>
+> ∙ **[STAY ALIVE ～REGAIN～](https://www.last.fm/music/%E3%82%A8%E3%83%9F%E3%83%AA%E3%82%A2(CV:%E9%AB%98%E6%A9%8B%E6%9D%8E%E4%BE%9D)/_/STAY+ALIVE+%EF%BD%9EREGAIN%EF%BD%9E)** - エミリア(CV:高橋李依)<br/>
+> ∙ **[Unravelling](https://www.last.fm/music/aethoro/_/Unravelling)** - aethoro<br/>
 > ∙ **[A Tale from Folklore](https://www.last.fm/music/Yuka+Kitamura/_/A+Tale+from+Folklore)** - Yuka Kitamura<br/>
 > ∙ **[ETERNAL FLAME (VOID)](https://www.last.fm/music/%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%83%80%E3%82%B9%E3%83%88/_/ETERNAL+FLAME+(VOID))** - ダイヤモンドダスト<br/>
 > ∙ **[天球(そら)のMúsica](https://www.last.fm/music/Ave+Mujica/_/%E5%A4%A9%E7%90%83(%E3%81%9D%E3%82%89)%E3%81%AEM%C3%BAsica)** - Ave Mujica<br/>
-> ∙ **[Longinus](https://www.last.fm/music/XI/_/Longinus)** - XI<br/>
-> ∙ **[Bourbon](https://www.last.fm/music/pomodorosa/_/Bourbon)** - pomodorosa<br/>
-> ∙ **[雨の日トロイメライ](https://www.last.fm/music/%E3%83%9F%E3%83%84%E3%82%AD%E3%83%A8/_/%E9%9B%A8%E3%81%AE%E6%97%A5%E3%83%88%E3%83%AD%E3%82%A4%E3%83%A1%E3%83%A9%E3%82%A4)** - ミツキヨ<br/>
-> ∙ **[Ao No Hako](https://www.last.fm/music/Takashi+Ohmama/_/Ao+No+Hako)** - Takashi Ohmama<br/>
-> ∙ **[Rêve de ballon](https://www.last.fm/music/Tokai+University+Takanawadai+Senior+High+School+Wind+Orchestra/_/R%C3%AAve+de+ballon)** - Tokai University Takanawadai Senior High School Wind Orchestra<br/>
 <!--END_LASTFM_RECENT-->
