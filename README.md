@@ -35,24 +35,24 @@ Email: calvinthewu@gmail.com
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `27 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
+> `8 ▶️` ∙ **[意識のないクランケ](https://www.last.fm/music/%E6%84%8F%E8%AD%98%E3%81%AE%E3%81%AA%E3%81%84%E3%82%AF%E3%83%A9%E3%83%B3%E3%82%B1)**<br/>
 > `7 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `7 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `6 ▶️` ∙ **[centimillimental](https://www.last.fm/music/centimillimental)**<br/>
-> `6 ▶️` ∙ **[意識のないクランケ](https://www.last.fm/music/%E6%84%8F%E8%AD%98%E3%81%AE%E3%81%AA%E3%81%84%E3%82%AF%E3%83%A9%E3%83%B3%E3%82%B1)**<br/>
 > `5 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
 > `5 ▶️` ∙ **[ippo.tsk](https://www.last.fm/music/ippo.tsk)**<br/>
-> `4 ▶️` ∙ **[ABBA](https://www.last.fm/music/ABBA)**<br/>
+> `5 ▶️` ∙ **[大原ゆい子](https://www.last.fm/music/%E5%A4%A7%E5%8E%9F%E3%82%86%E3%81%84%E5%AD%90)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Midnight Trip](https://www.last.fm/music/Nor/_/Midnight+Trip)** - Nor<br/>
-> ∙ **[Red rain is falling](https://www.last.fm/music/%E6%84%8F%E8%AD%98%E3%81%AE%E3%81%AA%E3%81%84%E3%82%AF%E3%83%A9%E3%83%B3%E3%82%B1/_/Red+rain+is+falling)** - 意識のないクランケ<br/>
-> ∙ **[fall semester song](https://www.last.fm/music/ippo.tsk/_/fall+semester+song)** - ippo.tsk<br/>
-> ∙ **[想像の雨](https://www.last.fm/music/Siraph/_/%E6%83%B3%E5%83%8F%E3%81%AE%E9%9B%A8)** - Siraph<br/>
-> ∙ **[I'm Nobody](https://www.last.fm/music/TOGENASHI+TOGEARI/_/I%27m+Nobody)** - TOGENASHI TOGEARI<br/>
-> ∙ **[Going Home with You](https://www.last.fm/music/Mina+Kubota/_/Going+Home+with+You)** - Mina Kubota<br/>
-> ∙ **[Door](https://www.last.fm/music/%E3%82%A8%E3%83%9F%E3%83%AA%E3%82%A2(CV:%E9%AB%98%E6%A9%8B%E6%9D%8E%E4%BE%9D)/_/Door)** - エミリア(CV:高橋李依)<br/>
-> ∙ **[inochinotomoshibi](https://www.last.fm/music/%E6%84%8F%E8%AD%98%E3%81%AE%E3%81%AA%E3%81%84%E3%82%AF%E3%83%A9%E3%83%B3%E3%82%B1/_/inochinotomoshibi)** - 意識のないクランケ<br/>
+> ∙ **[Voiceless Fish - Shin Kawasaki (Temporary)](https://www.last.fm/music/TOGENASHI+TOGEARI/_/Voiceless+Fish+-+Shin+Kawasaki+(Temporary))** - TOGENASHI TOGEARI<br/>
+> ∙ **[Melt With You](https://www.last.fm/music/Dunni/_/Melt+With+You)** - Dunni<br/>
+> ∙ **[芽吹くとき](https://www.last.fm/music/yonige/_/%E8%8A%BD%E5%90%B9%E3%81%8F%E3%81%A8%E3%81%8D)** - yonige<br/>
+> ∙ **[Twilight](https://www.last.fm/music/%E6%84%8F%E8%AD%98%E3%81%AE%E3%81%AA%E3%81%84%E3%82%AF%E3%83%A9%E3%83%B3%E3%82%B1/_/Twilight)** - 意識のないクランケ<br/>
+> ∙ **[answer thrice?](https://www.last.fm/music/Pathcel+Tarts/_/answer+thrice%3F)** - Pathcel Tarts<br/>
+> ∙ **[Mebuki no Uta](https://www.last.fm/music/%E5%A4%A7%E5%8E%9F%E3%82%86%E3%81%84%E5%AD%90/_/Mebuki+no+Uta)** - 大原ゆい子<br/>
+> ∙ **[Kimino Yokogao](https://www.last.fm/music/Jun+Maeda/_/Kimino+Yokogao)** - Jun Maeda<br/>
+> ∙ **[Lilac Slumber](https://www.last.fm/music/Annabel/_/Lilac+Slumber)** - Annabel<br/>
 <!--END_LASTFM_RECENT-->
