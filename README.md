@@ -35,24 +35,24 @@ Email: calvinthewu@gmail.com
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `28 ▶️` ∙ **[Omori](https://www.last.fm/music/Omori)**<br/>
-> `10 ▶️` ∙ **[意識のないクランケ](https://www.last.fm/music/%E6%84%8F%E8%AD%98%E3%81%AE%E3%81%AA%E3%81%84%E3%82%AF%E3%83%A9%E3%83%B3%E3%82%B1)**<br/>
+> `11 ▶️` ∙ **[意識のないクランケ](https://www.last.fm/music/%E6%84%8F%E8%AD%98%E3%81%AE%E3%81%AA%E3%81%84%E3%82%AF%E3%83%A9%E3%83%B3%E3%82%B1)**<br/>
 > `7 ▶️` ∙ **[Kensuke Ushio](https://www.last.fm/music/Kensuke+Ushio)**<br/>
 > `7 ▶️` ∙ **[Toby Fox](https://www.last.fm/music/Toby+Fox)**<br/>
 > `7 ▶️` ∙ **[TOGENASHI TOGEARI](https://www.last.fm/music/TOGENASHI+TOGEARI)**<br/>
 > `6 ▶️` ∙ **[ippo.tsk](https://www.last.fm/music/ippo.tsk)**<br/>
+> `6 ▶️` ∙ **[Jun Maeda](https://www.last.fm/music/Jun+Maeda)**<br/>
 > `5 ▶️` ∙ **[Dan Salvato](https://www.last.fm/music/Dan+Salvato)**<br/>
-> `5 ▶️` ∙ **[Jun Maeda](https://www.last.fm/music/Jun+Maeda)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[名前を呼ぶよ](https://www.last.fm/music/Lucklife/_/%E5%90%8D%E5%89%8D%E3%82%92%E5%91%BC%E3%81%B6%E3%82%88)** - Lucklife<br/>
-> ∙ **[怪物](https://www.last.fm/music/YOASOBI/_/%E6%80%AA%E7%89%A9)** - YOASOBI<br/>
-> ∙ **[シンデレラ](https://www.last.fm/music/Cidergirl/_/%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9)** - Cidergirl<br/>
-> ∙ **[This Game](https://www.last.fm/music/%E9%88%B4%E6%9C%A8%E3%81%93%E3%81%AE%E3%81%BF/_/This+Game)** - 鈴木このみ<br/>
-> ∙ **[summertime](https://www.last.fm/music/Cinnamons/_/summertime)** - Cinnamons<br/>
-> ∙ **[カワキヲアメク](https://www.last.fm/music/%E7%BE%8E%E6%B3%A2/_/%E3%82%AB%E3%83%AF%E3%82%AD%E3%83%B2%E3%82%A2%E3%83%A1%E3%82%AF)** - 美波<br/>
-> ∙ **[veil](https://www.last.fm/music/%E9%A0%88%E7%94%B0%E6%99%AF%E5%87%AA/_/veil)** - 須田景凪<br/>
-> ∙ **[Crossing Field](https://www.last.fm/music/Lisa/_/Crossing+Field)** - Lisa<br/>
+> ∙ **[Summer Breeze and Sunflowers](https://www.last.fm/music/Ujico*/_/Summer+Breeze+and+Sunflowers)** - Ujico*<br/>
+> ∙ **[感情グラス](https://www.last.fm/music/%E4%B8%8A%E4%BC%8A%E9%82%A3%E3%81%BC%E3%81%9F%E3%82%93%EF%BC%88CV.%E9%88%B4%E4%BB%A3%E7%B4%97%E5%BC%93%EF%BC%89/_/%E6%84%9F%E6%83%85%E3%82%B0%E3%83%A9%E3%82%B9)** - 上伊那ぼたん（CV.鈴代紗弓）<br/>
+> ∙ **[yllaby](https://www.last.fm/music/aethoro/_/yllaby)** - aethoro<br/>
+> ∙ **[Lullaby For an Android (feat. AKA)](https://www.last.fm/music/Sad+Keyboard+Guy/_/Lullaby+For+an+Android+(feat.+AKA))** - Sad Keyboard Guy<br/>
+> ∙ **[Heart Of Mine](https://www.last.fm/music/F+A+K+E+S/_/Heart+Of+Mine)** - F A K E S<br/>
+> ∙ **[Why Don't You Get It?](https://www.last.fm/music/Mina+Kubota/_/Why+Don%27t+You+Get+It%3F)** - Mina Kubota<br/>
+> ∙ **[ウィークエンドロール](https://www.last.fm/music/Halca/_/%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%AB)** - Halca<br/>
+> ∙ **[気づき](https://www.last.fm/music/Takuro+Iga/_/%E6%B0%97%E3%81%A5%E3%81%8D)** - Takuro Iga<br/>
 <!--END_LASTFM_RECENT-->
