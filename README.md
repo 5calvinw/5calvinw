@@ -47,12 +47,12 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Farewell on a Rainy Night of Spring](https://www.last.fm/music/Minuano/_/Farewell+on+a+Rainy+Night+of+Spring)** - Minuano<br/>
-> ∙ **[Summer Breeze and Sunflowers](https://www.last.fm/music/Ujico*/_/Summer+Breeze+and+Sunflowers)** - Ujico*<br/>
-> ∙ **[感情グラス](https://www.last.fm/music/%E4%B8%8A%E4%BC%8A%E9%82%A3%E3%81%BC%E3%81%9F%E3%82%93%EF%BC%88CV.%E9%88%B4%E4%BB%A3%E7%B4%97%E5%BC%93%EF%BC%89/_/%E6%84%9F%E6%83%85%E3%82%B0%E3%83%A9%E3%82%B9)** - 上伊那ぼたん（CV.鈴代紗弓）<br/>
-> ∙ **[yllaby](https://www.last.fm/music/aethoro/_/yllaby)** - aethoro<br/>
-> ∙ **[Lullaby For an Android (feat. AKA)](https://www.last.fm/music/Sad+Keyboard+Guy/_/Lullaby+For+an+Android+(feat.+AKA))** - Sad Keyboard Guy<br/>
-> ∙ **[Heart Of Mine](https://www.last.fm/music/F+A+K+E+S/_/Heart+Of+Mine)** - F A K E S<br/>
-> ∙ **[Why Don't You Get It?](https://www.last.fm/music/Mina+Kubota/_/Why+Don%27t+You+Get+It%3F)** - Mina Kubota<br/>
-> ∙ **[ウィークエンドロール](https://www.last.fm/music/Halca/_/%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%AB)** - Halca<br/>
+> ∙ **[Koi](https://www.last.fm/music/Gen+Hoshino/_/Koi)** - Gen Hoshino<br/>
+> ∙ **[Hold Me Down](https://www.last.fm/music/Daniel+Caesar/_/Hold+Me+Down)** - Daniel Caesar<br/>
+> ∙ **[Snow Colored Score](https://www.last.fm/music/Irodorimidori/_/Snow+Colored+Score)** - Irodorimidori<br/>
+> ∙ **[I’m invincible](https://www.last.fm/music/Ado/_/I%E2%80%99m+invincible)** - Ado<br/>
+> ∙ **[青春の演舞](https://www.last.fm/music/centimillimental/_/%E9%9D%92%E6%98%A5%E3%81%AE%E6%BC%94%E8%88%9E)** - centimillimental<br/>
+> ∙ **[言わないけどね。](https://www.last.fm/music/%E5%A4%A7%E5%8E%9F%E3%82%86%E3%81%84%E5%AD%90/_/%E8%A8%80%E3%82%8F%E3%81%AA%E3%81%84%E3%81%91%E3%81%A9%E3%81%AD%E3%80%82)** - 大原ゆい子<br/>
+> ∙ **[STAY ALIVE ～REGAIN～](https://www.last.fm/music/%E3%82%A8%E3%83%9F%E3%83%AA%E3%82%A2(CV:%E9%AB%98%E6%A9%8B%E6%9D%8E%E4%BE%9D)/_/STAY+ALIVE+%EF%BD%9EREGAIN%EF%BD%9E)** - エミリア(CV:高橋李依)<br/>
+> ∙ **[カミイロアワセ](https://www.last.fm/music/binaria/_/%E3%82%AB%E3%83%9F%E3%82%A4%E3%83%AD%E3%82%A2%E3%83%AF%E3%82%BB)** - binaria<br/>
 <!--END_LASTFM_RECENT-->
