@@ -47,6 +47,7 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Farewell on a Rainy Night of Spring](https://www.last.fm/music/Minuano/_/Farewell+on+a+Rainy+Night+of+Spring)** - Minuano<br/>
 > ∙ **[Summer Breeze and Sunflowers](https://www.last.fm/music/Ujico*/_/Summer+Breeze+and+Sunflowers)** - Ujico*<br/>
 > ∙ **[感情グラス](https://www.last.fm/music/%E4%B8%8A%E4%BC%8A%E9%82%A3%E3%81%BC%E3%81%9F%E3%82%93%EF%BC%88CV.%E9%88%B4%E4%BB%A3%E7%B4%97%E5%BC%93%EF%BC%89/_/%E6%84%9F%E6%83%85%E3%82%B0%E3%83%A9%E3%82%B9)** - 上伊那ぼたん（CV.鈴代紗弓）<br/>
 > ∙ **[yllaby](https://www.last.fm/music/aethoro/_/yllaby)** - aethoro<br/>
@@ -54,5 +55,4 @@ Email: calvinthewu@gmail.com
 > ∙ **[Heart Of Mine](https://www.last.fm/music/F+A+K+E+S/_/Heart+Of+Mine)** - F A K E S<br/>
 > ∙ **[Why Don't You Get It?](https://www.last.fm/music/Mina+Kubota/_/Why+Don%27t+You+Get+It%3F)** - Mina Kubota<br/>
 > ∙ **[ウィークエンドロール](https://www.last.fm/music/Halca/_/%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%AB)** - Halca<br/>
-> ∙ **[気づき](https://www.last.fm/music/Takuro+Iga/_/%E6%B0%97%E3%81%A5%E3%81%8D)** - Takuro Iga<br/>
 <!--END_LASTFM_RECENT-->
