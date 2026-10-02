@@ -16,37 +16,50 @@ I build practical software across **full-stack development, applied AI, computer
 
 ## 🚀 Featured Projects
 
-### 🌱 Tunas AI
-
-**Agentic AI harvest-planning assistant for shallot farmers**
-
-Combines weather data, operational constraints, and buyer deadlines to generate adaptive harvest plans with validation, replanning, and human approval.
-
-`React` `Express` `TypeScript` `LangChain` `PostgreSQL`
+## 🚀 Featured Projects
 
 ### 🛡️ Jejak
 
 **Gamified digital safety education platform**
 
-Teaches children about privacy, phishing, and safe file handling through interactive games and real-time gameplay sessions.
+Built a gamified digital safety education platform featuring three interactive modules on privacy, phishing, and safe file handling.
 
-`React` `Express.js` `TypeScript` `WebSocket` `PostgreSQL`
+Developed authenticated real-time game sessions with **server-side progress validation, persistent user progress, and WebSocket-based gameplay**.
 
-### ✋ Math Gesture
+`React` `Express.js` `TypeScript` `PostgreSQL` `WebSocket`
 
-**Computer vision arithmetic game for children**
+🏆 **1st Place — FTI Festival 2026 Web Development**
 
-Allows players to answer arithmetic questions by showing numbers with their fingers using real-time hand tracking.
+---
 
-`React` `FastAPI` `WebSocket` `MediaPipe` `Python`
+### 🌱 Tunas AI
 
-### 💪 PermaFit
+**Agentic AI harvest-planning assistant for shallot farmers**
 
-**Computer vision solution addressing sarcopenia in older adults**
+Built an agentic AI harvest-planning assistant that combines weather data, operational constraints, and buyer deadlines to generate adaptive harvest plans.
 
-Developed for **Study2Challenge 2025**, where the project received **2nd Place** in the “Bridging Global Problems: Tech for a Better Tomorrow” challenge.
+Developed a **LangChain workflow integrating LLM reasoning**, deterministic validation, replanning, and human approval before operational changes are executed.
 
-`Python` `Computer Vision` `Machine Learning`
+Integrated a **WhatsApp chatbot and PostgreSQL-backed operational data** for field reporting, planning, and schedule adjustments.
+
+`React` `Express.js` `TypeScript` `LangChain` `PostgreSQL`
+
+🏆 **1st Place — BISA.AI Agentic AI Competition 2026**
+
+---
+
+### 📍 LaporPak
+
+**Full-stack public issue reporting platform**
+
+Built LaporPak, a full-stack public issue reporting platform enabling citizens to report infrastructure, public facility, and environmental issues with photos and location data.
+
+Integrated **Mapbox-based location services and AI-assisted report review** to provide geographic context and support report processing.
+
+`React` `TypeScript` `Express.js` `Prisma` `PostgreSQL` `Mapbox`
+
+🥈 **2nd Place — I/O Fest 2026 Web Development**
+
 
 ## 💻 Tech Stack
 
