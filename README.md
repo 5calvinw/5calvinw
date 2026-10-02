@@ -11,6 +11,7 @@ I build practical software across **full-stack development, applied AI, computer
 - 🥇 **Best of Best & Best Software Engineering Project** — BINUS Computer Science Festival 2026
 - 🥈 **2nd Place** — I/O Fest 2026, Web Development
 - 🥈 **2nd Place** — Study2Challenge Hackathon 2025
+- 🥉 **3rd Place** — itechnocup.id Web Developement 2026
 - 🎓 **Dean's List 2025** — BINUS School of Computer Science
 
 ## 🚀 Featured Projects
@@ -50,26 +51,25 @@ Developed for **Study2Challenge 2025**, where the project received **2nd Place**
 ## 💻 Tech Stack
 
 **Languages**  
-TypeScript · JavaScript · Python · Dart · Java · C · PHP
+TypeScript · JavaScript · Python · Dart · Go · C++ · Java · PHP
 
 **Frontend**  
-React · Next.js · Vite · Tailwind CSS · Flutter
+React · Svelte · SvelteKit · Flutter · Tailwind CSS · HTML · CSS
 
 **Backend**  
 Express.js · FastAPI · Node.js
 
-**AI / ML**  
-LangChain · MediaPipe · scikit-learn · Computer Vision
+**Databases & Data**  
+PostgreSQL · MySQL · Supabase · Prisma
 
-**Data & Tools**  
-PostgreSQL · Supabase · SQLAlchemy · Git · Postman · Figma
+**Tools & Platforms**  
+Git · Postman · GCP · VPS · Visual Studio Code · Codex · Claude Code · Figma · Canva
 
 ## 🔭 Current Focus
 
+- Full-stack product development
 - Applied AI and agentic systems
 - Computer vision
-- Backend and API development
-- Full-stack product development
 - Maintainable software architecture
 
 ## 📫 Contact
