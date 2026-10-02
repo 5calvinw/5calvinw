@@ -47,6 +47,7 @@ Email: calvinthewu@gmail.com
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Nevereverland](https://www.last.fm/music/Nano/_/Nevereverland)** - Nano<br/>
 > ∙ **[Koi](https://www.last.fm/music/Gen+Hoshino/_/Koi)** - Gen Hoshino<br/>
 > ∙ **[Hold Me Down](https://www.last.fm/music/Daniel+Caesar/_/Hold+Me+Down)** - Daniel Caesar<br/>
 > ∙ **[Snow Colored Score](https://www.last.fm/music/Irodorimidori/_/Snow+Colored+Score)** - Irodorimidori<br/>
@@ -54,5 +55,4 @@ Email: calvinthewu@gmail.com
 > ∙ **[青春の演舞](https://www.last.fm/music/centimillimental/_/%E9%9D%92%E6%98%A5%E3%81%AE%E6%BC%94%E8%88%9E)** - centimillimental<br/>
 > ∙ **[言わないけどね。](https://www.last.fm/music/%E5%A4%A7%E5%8E%9F%E3%82%86%E3%81%84%E5%AD%90/_/%E8%A8%80%E3%82%8F%E3%81%AA%E3%81%84%E3%81%91%E3%81%A9%E3%81%AD%E3%80%82)** - 大原ゆい子<br/>
 > ∙ **[STAY ALIVE ～REGAIN～](https://www.last.fm/music/%E3%82%A8%E3%83%9F%E3%83%AA%E3%82%A2(CV:%E9%AB%98%E6%A9%8B%E6%9D%8E%E4%BE%9D)/_/STAY+ALIVE+%EF%BD%9EREGAIN%EF%BD%9E)** - エミリア(CV:高橋李依)<br/>
-> ∙ **[カミイロアワセ](https://www.last.fm/music/binaria/_/%E3%82%AB%E3%83%9F%E3%82%A4%E3%83%AD%E3%82%A2%E3%83%AF%E3%82%BB)** - binaria<br/>
 <!--END_LASTFM_RECENT-->
