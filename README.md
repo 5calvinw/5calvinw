@@ -16,8 +16,6 @@ I build practical software across **full-stack development, applied AI, computer
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 ### 🛡️ Jejak
 
 **Gamified digital safety education platform**
