@@ -8,6 +8,7 @@ I build practical software across **full-stack development, applied AI, computer
 
 - 🥇 **1st Place** — FTI Festival 2026, Web Development
 - 🥇 **1st Place** — BISA.AI Agentic AI Competition 2026
+- 🥇 **1st Place** — IT Fest UNW 2026
 - 🥇 **Best of Best & Best Software Engineering Project** — BINUS Computer Science Festival 2026
 - 🥈 **2nd Place** — I/O Fest 2026, Web Development
 - 🥈 **2nd Place** — Study2Challenge Hackathon 2025
